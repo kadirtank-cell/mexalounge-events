@@ -1,0 +1,124 @@
+<div class="radio-container player-widget">
+    <style>
+        .radio-container.player-widget { width: 550px; background: #1a1a1a; padding: 20px; border-radius: 25px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); box-sizing: border-box; margin-bottom: 20px; font-family: sans-serif; color: #fff; }
+        .radio-container .info-box { overflow: hidden; display: flex; align-items: center; gap: 15px; }
+        .radio-container .album-art { width: 120px !important; height: 120px !important; min-width: 120px !important; min-height: 120px !important; max-width: 120px !important; max-height: 120px !important; border-radius: 10px; object-fit: cover; background: #333; display: block; flex-shrink: 0; }
+        .radio-container .track-details { flex-grow: 1; overflow: hidden; }
+        .radio-container .now-playing { color: #00ffff; font-weight: bold; font-size: 16px; margin-top: 5px; word-break: break-word; }
+        .radio-container .listeners { font-size: 14px; color: #aaa; margin-top: 8px; }
+        .radio-container .playlist-box { margin-top: 15px; clear: both; font-size: 12px; border-top: 1px solid #333; padding-top: 10px; }
+        .radio-container .playlist-box ul { max-height: 100px; overflow-y: auto; padding-left: 15px; color: #ccc; margin: 5px 0; scrollbar-width: none; }
+        .radio-container .playlist-box ul::-webkit-scrollbar { display: none; }
+        .radio-container audio { width: 100%; margin-top: 15px; }
+        .radio-container .social-share { margin-top: 15px; padding-top: 12px; border-top: 1px solid #333; display: flex; align-items: center; justify-content: space-between; font-size: 13px; flex-wrap: wrap; gap: 8px; }
+        .radio-container .social-btns { display: flex; gap: 6px; flex-wrap: wrap; }
+        .radio-container .social-btn { padding: 5px 9px; border-radius: 5px; text-decoration: none; font-size: 11px; font-weight: bold; display: flex; align-items: center; gap: 4px; color: #fff; border: none; cursor: pointer; }
+        .radio-container .btn-wa { background: #25d366; }
+        .radio-container .btn-fb { background: #1877f2; }
+        .radio-container .btn-x { background: #000; border: 1px solid #444; }
+        .radio-container .btn-copy { background: #333; color: #00ffff; border: 1px solid #444; }
+        /* Ana Başlık (Mexalounge Radio) */
+        .header h1, .header-title, .title-class-or-tag {
+            color: #ffffff !important;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+        }
+
+        /* Slogan Metni ("Put on your headphones...") */
+        .header p, .header-subtitle {
+            color: #aaaaaa !important;
+            font-size: 13px;
+        }
+
+        /* Üst Menü Çubuğu ve Linkler (Top 20, One Page Players, Use Player) */
+        .nav-menu, .widget.PageList, nav {
+            background-color: #1a1a1a !important; /* Widget ile aynı koyu arka plan */
+            border-radius: 8px;
+            padding: 10px;
+        }
+
+        .nav-menu a, .widget.PageList li a, nav a {
+            color: #ffffff !important;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        /* Menü Linklerinin Üzerine Gelince (Hover) veya Aktifken Neon Mavi Vurgu */
+        .nav-menu a:hover, .widget.PageList li a:hover, nav a:hover, 
+        .nav-menu .selected a, .widget.PageList li.selected a {
+            color: #00ffff !important;
+            text-shadow: 0 0 8px rgba(0, 255, 255, 0.6);
+        }
+            </style>
+
+            <div class="info-box">
+                <img class="art album-art" src="" alt="Album Art" style="display:none;" />
+                <div class="track-details">
+                    <div class="now-playing">Connecting...</div>
+                    <div class="listeners">Active Listeners: 0</div>
+                </div>
+            </div>
+
+            <audio controls>
+                <source src="https://radyohost.ugnhosting.com:8018/stream" type='audio/mpeg'>
+            </source></audio>
+
+            <div class="playlist-box">
+                <strong>Recent Tracks (History):</strong>
+                <ul class="history-list">
+                    <li>Loading...</li>
+                </ul>
+            </div>
+        </div>
+
+        <script>
+            function updatePlayer() {
+                let cacheBuster = '_t=' + new Date().getTime();
+                let apiUrl = 'https://radyohost.ugnhosting.com/cp/get_info.php?p=8018&' + cacheBuster;
+
+                fetch(apiUrl)
+                    .then(response => response.json())
+                    .then(data => {
+                        let trackTitle = data.title ? data.title : "Mexalounge Radio (Live)";
+                        let artUrl = data.art ? data.art : "";
+
+                        let randomBonus = Math.floor(Math.random() * (150 - 30 + 1)) + 30;
+                        let rawListeners = (data.listeners !== undefined && !isNaN(data.listeners)) ? parseInt(data.listeners) : 0;
+                        let fakeListeners = rawListeners + randomBonus;
+
+                        let historyHtml = '';
+                        if(data.history && Array.isArray(data.history) && data.history.length > 0) {
+                            data.history.forEach((track) => {
+                                historyHtml += `<li>${track}</li>`;
+                            });
+                        } else {
+                            historyHtml = "<li>No recent tracks found.</li>";
+                        }
+
+                        let widgets = document.querySelectorAll('.player-widget');
+                        widgets.forEach(widget => {
+                            let nowPlayingEl = widget.querySelector('.now-playing');
+                            let artEl = widget.querySelector('.art');
+                            let listenersEl = widget.querySelector('.listeners');
+                            let historyEl = widget.querySelector('.history-list');
+
+                            if (nowPlayingEl) nowPlayingEl.innerText = "Now Playing: " + trackTitle;
+                            if (artEl) {
+                                if (artUrl) {
+                                    artEl.src = artUrl;
+                                    artEl.style.display = "block";
+                                } else {
+                                    artEl.style.display = "none";
+                                }
+                            }
+                            if (listenersEl) listenersEl.innerText = "Active Listeners: " + fakeListeners;
+                            if (historyEl) historyEl.innerHTML = historyHtml;
+                        });
+                    })
+                    .catch(error => {
+                        console.log('API fetch error:', error);
+                    });
+            }
+
+            setInterval(updatePlayer, 8000);
+            updatePlayer();
+</script>
