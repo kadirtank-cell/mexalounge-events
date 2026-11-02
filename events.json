@@ -477,17 +477,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/thylacine/233342"
-    },
-    {
-        "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-6-novembre-ore-2130-nuova-stagione-roma-xceed-square-9b1d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-6-novembre-ore-2130-nuova-stagione/248533"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
     {
         "title": "AGM- Any Given MondayTEATRO CENTRALE",
@@ -574,18 +574,18 @@
         "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
     },
     {
-        "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
-    },
-    {
         "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
+    },
+    {
+        "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
     },
     {
         "title": "CLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
@@ -1022,6 +1022,13 @@
         "link": "https://xceed.me/en/hamburg/event/bombossa-brothers/250566"
     },
     {
+        "title": "Nikki Tiger Thursday presents HOMEBASE × UNISCENENikki TigerHouse",
+        "date": "Nikki Tiger Thursday presents HOMEB",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-thursday-presents-homebase-uniscene-4-hamburg-xceed-a003.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-thursday-presents-homebase-uniscene-4/250803"
+    },
+    {
         "title": "LATIN RAVE X UEBEL & GEFÄHRLICHUebel & GefährlichLatinLatin Tech ",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -1036,18 +1043,18 @@
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-raw-w-beau-didier-bours/249887"
     },
     {
-        "title": "HARDWICK",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/hardwick-hamburg-xceed-square-47d0.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/hardwick/249625"
-    },
-    {
         "title": "Reto · tom sass · KÄZ +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe-hamburg-xceed-edc0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe/250796"
+    },
+    {
+        "title": "HARDWICK",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/hardwick-hamburg-xceed-square-47d0.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/hardwick/249625"
     },
     {
         "title": "SUPERGLOSS · Gianni · Klaryoko +2",
@@ -1132,13 +1139,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ivory-back-to-the-roots-hamburg-xceed-c73a.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ivory-back-to-the-roots/250037"
-    },
-    {
-        "title": "katlix · PARA · Bella Reed +3",
-        "date": "katlix · PARA · Bella Reed +3",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/keine-halben-goes-nacs-level-1-hamburg-xceed-square-f7ef.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/keine-halben-goes-nacs-level-1/239304"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",

@@ -1,5 +1,25 @@
 [
     {
+        "artist": "NTO, Anthony Favier",
+        "title": "Invisible",
+        "time": "2026-11-02 20:03:03"
+    },
+    {
+        "artist": "ARTBAT",
+        "title": "Afterparty",
+        "time": "2026-11-02 19:57:57"
+    },
+    {
+        "artist": "Kyparis, Paul Anthonee, Contave",
+        "title": "Hit The Core",
+        "time": "2026-11-02 19:53:23"
+    },
+    {
+        "artist": "Mario Ochoa",
+        "title": "Crushed",
+        "time": "2026-11-02 19:49:50"
+    },
+    {
         "artist": "Global Deejays",
         "title": "Shock Me",
         "time": "2026-11-02 19:46:22"
@@ -28,25 +48,5 @@
         "artist": "Pablo Say, Viv Castle, David Lesal",
         "title": "Weekend",
         "time": "2026-11-02 19:27:25"
-    },
-    {
-        "artist": "ARTBAT, Armin Van Buuren",
-        "title": "Take Off (Extended Mix)",
-        "time": "2026-11-02 19:21:34"
-    },
-    {
-        "artist": "Power Station / Dangerous Dark",
-        "title": "19:26 & Mariz – Ascension (Extended Mix)",
-        "time": "2026-11-02 19:15:59"
-    },
-    {
-        "artist": "Rise And Fall",
-        "title": "Traffic Lights (Artfaq Remix)",
-        "time": "2026-11-02 19:07:33"
-    },
-    {
-        "artist": "Charlotte De Witte, Amelie Lens",
-        "title": "One Mind",
-        "time": "2026-11-02 19:01:50"
     }
 ]
