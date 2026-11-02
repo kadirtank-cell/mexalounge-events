@@ -49,6 +49,13 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
     },
     {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/wave-event-x-bad-decisions-barcelona-xceed-square-e7f9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
+    },
+    {
         "title": "Slow Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -61,13 +68,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka-barcelona-xceed-square-f4a6.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka/250067"
-    },
-    {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/wave-event-x-bad-decisions-barcelona-xceed-square-e7f9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
     },
     {
-        "title": "Le Baixu!",
-        "date": "Resonating Roots: Loop & Tradition ",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
+    },
+    {
+        "title": "Le Baixu!",
+        "date": "Resonating Roots: Loop & Tradition ",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
     },
     {
         "title": "BLOODY LOUIS",
