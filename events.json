@@ -7,13 +7,6 @@
         "link": "https://xceed.me/en/barcelona/event/the-society-of-art-x-anniversary-2nd-round/237541"
     },
     {
-        "title": "Secret Location",
-        "date": "Secret Location",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-day-after-barcelona-xceed-square-7e86.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/voral-after-show-at-secret-vila/248496"
-    },
-    {
         "title": "SEASEACLUB",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,10 +161,10 @@
         "link": "https://xceed.me/en/barcelona/event/jueves-thursday-at-city-hall-club-download-your-free-pass-12/242802"
     },
     {
-        "title": "City Hall pres. MONDAY PERREO || REGGAETON & URBAN || DOWNLOAD YO",
+        "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/city-hall-pres-monday-perreo-download-your-free-pass-3-barcelona-xceed-square-2fe5.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/city-hall-pres-monday-perreo-download-your-free-pass-3-barcelona-xceed-square-2fe5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/city-hall-pres-monday-perreo-reggaeton-urban-download-your-free-pass-8/242745"
     },
     {
@@ -320,6 +313,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/thursday-night-dj-eley-barcelona-xceed-34e6.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/thursday-night-dj-eley/250183"
+    },
+    {
+        "title": "MIRABLAU CLUBMIRABLAUHitsPopReggaeton",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-116/247911"
     },
     {
         "title": "Largo Venue",
