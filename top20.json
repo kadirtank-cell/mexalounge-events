@@ -7,68 +7,68 @@
     },
     {
         "rank": 2,
-        "artist": "Tinlicker; Helsloot",
-        "title": "Because You Move Me",
-        "play_count": 7
-    },
-    {
-        "rank": 3,
-        "artist": "Yakar Allevici, Fulya Demir",
-        "title": "Hoşgeldin (Feat. Fulya Demir)",
-        "play_count": 7
-    },
-    {
-        "rank": 4,
-        "artist": "Oman Chali, Alejandro Gabriel Seoane",
-        "title": "Reflection",
-        "play_count": 7
-    },
-    {
-        "rank": 5,
-        "artist": "Aykut Bilir",
-        "title": "Aykut Bilir - Humans (Original Mix)",
-        "play_count": 7
-    },
-    {
-        "rank": 6,
-        "artist": "Deeperise; Madrigal",
-        "title": "Seni Dert Etmeler",
-        "play_count": 7
-    },
-    {
-        "rank": 7,
         "artist": "Zigala, Alejandro Gabriel Seoane",
         "title": "Red Night",
         "play_count": 7
     },
     {
+        "rank": 3,
+        "artist": "Tinlicker; Helsloot",
+        "title": "Because You Move Me",
+        "play_count": 7
+    },
+    {
+        "rank": 4,
+        "artist": "Yakar Allevici, Fulya Demir",
+        "title": "Hoşgeldin (Feat. Fulya Demir)",
+        "play_count": 7
+    },
+    {
+        "rank": 5,
+        "artist": "Lola Young",
+        "title": "Messy",
+        "play_count": 7
+    },
+    {
+        "rank": 6,
+        "artist": "Aykut Bilir",
+        "title": "Aykut Bilir - Humans (Original Mix)",
+        "play_count": 7
+    },
+    {
+        "rank": 7,
+        "artist": "Deeperise; Madrigal",
+        "title": "Seni Dert Etmeler",
+        "play_count": 7
+    },
+    {
         "rank": 8,
+        "artist": "Oman Chali, Alejandro Gabriel Seoane",
+        "title": "Reflection",
+        "play_count": 7
+    },
+    {
+        "rank": 9,
         "artist": "Maroon 5",
         "title": "Misery",
         "play_count": 7
     },
     {
-        "rank": 9,
+        "rank": 10,
         "artist": "Kenno",
         "title": "Waiting 4 Your Call (Housenick Remix)",
         "play_count": 7
     },
     {
-        "rank": 10,
+        "rank": 11,
         "artist": "Turu Anasi, Sydney Seymour",
         "title": "Dukite (Sydney Seymour Remix)",
         "play_count": 7
     },
     {
-        "rank": 11,
+        "rank": 12,
         "artist": "Nils Hoffmann",
         "title": "Afterglow (Extended Mix)",
-        "play_count": 6
-    },
-    {
-        "rank": 12,
-        "artist": "Elegant Hands",
-        "title": "Fuego (Original Mix)",
         "play_count": 6
     },
     {
@@ -79,14 +79,14 @@
     },
     {
         "rank": 14,
-        "artist": "Casiio",
-        "title": "Affection",
+        "artist": "Tripssono",
+        "title": "Surrounding",
         "play_count": 6
     },
     {
         "rank": 15,
-        "artist": "Kenan Doğulu",
-        "title": "Ara Beni Lütfen (Remix)",
+        "artist": "Elegant Hands",
+        "title": "Fuego (Original Mix)",
         "play_count": 6
     },
     {
@@ -97,8 +97,8 @@
     },
     {
         "rank": 17,
-        "artist": "Sevenlies, A Vow",
-        "title": "Elsewhere",
+        "artist": "Kenan Doğulu",
+        "title": "Ara Beni Lütfen (Remix)",
         "play_count": 6
     },
     {
@@ -115,8 +115,8 @@
     },
     {
         "rank": 20,
-        "artist": "Lola Young",
-        "title": "Messy",
+        "artist": "Sevenlies, A Vow",
+        "title": "Elsewhere",
         "play_count": 6
     }
 ]
