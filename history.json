@@ -1,5 +1,30 @@
 [
     {
+        "artist": "Alex Baker, Hanging Valleys",
+        "title": "Parallel",
+        "time": "2026-11-02 03:51:06"
+    },
+    {
+        "artist": "(+) Comfort, Amparo Soler, Alejandro Gabriel Seoane",
+        "title": "Islands",
+        "time": "2026-11-02 03:48:23"
+    },
+    {
+        "artist": "Ariana Grande",
+        "title": "Breathin",
+        "time": "2026-11-02 03:45:11"
+    },
+    {
+        "artist": "Bonobo",
+        "title": "Rippling",
+        "time": "2026-11-02 03:43:11"
+    },
+    {
+        "artist": "Nada, Laaar",
+        "title": "Exp (Laaar Remix)",
+        "time": "2026-11-02 03:36:14"
+    },
+    {
         "artist": "Buray",
         "title": "Mecnun (Mahmut Orhan Remix)",
         "time": "2026-11-02 03:31:56"
@@ -23,30 +48,5 @@
         "artist": "Dreem",
         "title": "Preference",
         "time": "2026-11-02 03:15:57"
-    },
-    {
-        "artist": "Kiasmos",
-        "title": "Thrown",
-        "time": "2026-11-02 03:06:22"
-    },
-    {
-        "artist": "YABANCI",
-        "title": "Here On Earth (Feat. Cary Brothers)",
-        "time": "2026-11-02 03:01:27"
-    },
-    {
-        "artist": "Mabel",
-        "title": "Mad Love",
-        "time": "2026-11-02 02:58:32"
-    },
-    {
-        "artist": "Maydance",
-        "title": "Refresh",
-        "time": "2026-11-02 02:56:21"
-    },
-    {
-        "artist": "Melis Guven",
-        "title": "Hiç Olmuşsun",
-        "time": "2026-11-02 02:51:08"
     }
 ]
