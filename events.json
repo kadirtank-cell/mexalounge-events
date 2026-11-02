@@ -84,6 +84,13 @@
         "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-rooftop/247255"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
+    },
+    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -133,13 +140,6 @@
         "link": "https://xceed.me/en/barcelona/event/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions/250287"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -166,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
-    },
-    {
-        "title": "LIVEJamboree Jam SessionJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/jamboree-jam-session-27-barcelona-xceed-b390.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-27/250155"
     },
     {
         "title": "KhaLI",
@@ -327,6 +320,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
+    },
+    {
+        "title": "bruno castillo · XEXO",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-xexo-disco-bar-los-dos-mil-bruno-not-bruno/250850"
     },
     {
         "title": "Largo Venue",
@@ -770,6 +770,13 @@
         "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
     },
     {
+        "title": "Scene Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
+    },
+    {
         "title": "Le Baixu!",
         "date": "Resonating Roots: Loop & Tradition ",
         "location": "BRUSSELS",
@@ -782,13 +789,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/aura-33/249960"
-    },
-    {
-        "title": "Scene Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
     },
     {
         "title": "BLOODY LOUIS",
@@ -938,18 +938,18 @@
         "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
-    },
-    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
         "title": "Uebel & Gefährlich",
