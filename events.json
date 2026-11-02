@@ -49,13 +49,6 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
     },
     {
-        "title": "SEASEACLUB",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/closing-open-air-season-afrobrunch-barcelona-barcelona-xceed-square-21a8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/closing-open-air-season-afrobrunch-barcelona/249460"
-    },
-    {
         "title": "Wolf Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -166,6 +159,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cicle-john-coltrane-bruce-barth-trio-piero-odorici-barcelona-xceed-5f21.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cicle-john-coltrane-bruce-barth-trio-piero-odorici/250163"
+    },
+    {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/martes-tuesday-at-city-hall-club-download-your-free-pass-barcelona-xceed-square-3b77.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jueves-thursday-at-city-hall-club-download-your-free-pass-12/242802"
     },
     {
         "title": "Carol Nyx · Mr. Majestyk",
@@ -315,6 +315,13 @@
         "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-67/249777"
     },
     {
+        "title": "Bambi · DJ JUUS",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bambi-11-barcelona-xceed-5536.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bambi-11/249978"
+    },
+    {
         "title": "Largo Venue",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -420,13 +427,6 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-halloween-fest-1-roma-xceed-square-e9e4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-halloween-fest-pass-abbonamento-a-tutte-e-3-le-serate-halloween/246027"
-    },
-    {
         "title": "Hacienda",
         "date": "The Molotovs Live @ Hacienda - Roma",
         "location": "ROMA",
@@ -483,11 +483,11 @@
         "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
     {
-        "title": "LIVEMUCCASSASSINA - DIA DE LOS MUERTOS - SUNDAY TEA DANCEQube Dis",
+        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-dia-de-los-muertos-sunday-tea-dance-roma-xceed-square-8338.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-dia-de-los-muertos-sunday-tea-dance/246011"
+        "image": "https://images.xceed.me/events/banners/roberto-colella-live-1-roma-xceed-square-6896.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
         "title": "AGM- Any Given MondayTEATRO CENTRALE",
@@ -651,18 +651,18 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-two-stages-reggaeton-salsa-bachata/248564"
     },
     {
-        "title": "Jeux d'Hiver",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sunday-x-kulturr-showcase-brussels-xceed-square-141c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sunday-x-kulturr-showcase/249915"
+    },
+    {
+        "title": "Jeux d'Hiver",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
         "title": "BLOODY LOUIS",
@@ -728,18 +728,18 @@
         "link": "https://xceed.me/en/brussels/event/07-novembre-lift-x-babinski-showcase-de-french-montana/248528"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "BLOODY LOUIS",
@@ -889,18 +889,18 @@
         "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-with-felix-krocher-hamburg-xceed-square-4d96.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-with-felix-krocher-1/240707"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "Seehaus",

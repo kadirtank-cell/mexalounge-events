@@ -1,5 +1,25 @@
 [
     {
+        "artist": "YABANCI",
+        "title": "Here On Earth (Feat. Cary Brothers)",
+        "time": "2026-11-02 03:01:27"
+    },
+    {
+        "artist": "Mabel",
+        "title": "Mad Love",
+        "time": "2026-11-02 02:58:32"
+    },
+    {
+        "artist": "Maydance",
+        "title": "Refresh",
+        "time": "2026-11-02 02:56:21"
+    },
+    {
+        "artist": "Melis Guven",
+        "title": "Hiç Olmuşsun",
+        "time": "2026-11-02 02:51:08"
+    },
+    {
         "artist": "Tinlicker; Helsloot",
         "title": "Because You Move Me",
         "time": "2026-11-02 02:47:51"
@@ -28,25 +48,5 @@
         "artist": "David Guetta",
         "title": "Titanium (Feat. Sia)",
         "time": "2026-11-02 02:27:34"
-    },
-    {
-        "artist": "Limelight Sound, LAURA CORAZZINA, PABLO GUARNIERI",
-        "title": "Hybrid",
-        "time": "2026-11-02 02:24:20"
-    },
-    {
-        "artist": "Qrion",
-        "title": "Miyanosawa (Extended Mix)",
-        "time": "2026-11-02 02:18:35"
-    },
-    {
-        "artist": "Hiss, Arif Zeynalov",
-        "title": "Sevdim (Arif Zeynalov Remix)",
-        "time": "2026-11-02 02:13:23"
-    },
-    {
-        "artist": "YABANCI",
-        "title": "GRAMOPHONEDZIE – WHY DON’T YOU",
-        "time": "2026-11-02 02:06:44"
     }
 ]
