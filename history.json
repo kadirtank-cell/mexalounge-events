@@ -1,5 +1,15 @@
 [
     {
+        "artist": "D-Devils",
+        "title": "The Devil Is A DJ",
+        "time": "2026-11-02 22:30:37"
+    },
+    {
+        "artist": "Paul Oakenfold",
+        "title": "This Is Trance",
+        "time": "2026-11-02 22:23:39"
+    },
+    {
         "artist": "Edson Gomes",
         "title": "EBENEZER - Heaven | As Played On A State Of Trance Episode 1260",
         "time": "2026-11-02 22:19:42"
@@ -38,15 +48,5 @@
         "artist": "Purehousemusic 2024",
         "title": "Jay Lumen - My Bassline (Extended) [ARCANE MUSIC]",
         "time": "2026-11-02 21:43:13"
-    },
-    {
-        "artist": "Karry G",
-        "title": "Gonna Get That",
-        "time": "2026-11-02 21:39:57"
-    },
-    {
-        "artist": "Bedrock Records",
-        "title": "Derderwandert - Unrestrained",
-        "time": "2026-11-02 21:32:19"
     }
 ]
