@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Luçïd (Paris)",
+        "title": "Fait Vriller",
+        "time": "2026-11-02 15:44:09"
+    },
+    {
+        "artist": "Toro Y Moi",
+        "title": "Rose Quartz",
+        "time": "2026-11-02 15:39:38"
+    },
+    {
+        "artist": "Seoan, Alejandro Gabriel Seoane",
+        "title": "Snake In The Grass",
+        "time": "2026-11-02 15:37:20"
+    },
+    {
+        "artist": "Hayit Murat, Aziza Qobilova",
+        "title": "Ateşe Düştüm",
+        "time": "2026-11-02 15:33:25"
+    },
+    {
         "artist": "Ferdi Özbeğen, Ferdi Özbeğen, Ülkü Aker, Atahualpa Yupanqui, Emre Gören",
         "title": "Gülmek Için Yaratılmış (Emre Gören Remix)",
         "time": "2026-11-02 15:29:17"
@@ -28,25 +48,5 @@
         "artist": "Ariana Grande",
         "title": "Ariana Grande - Problem (Cosmic Dawn Club Mix) [Feat. Iggy Azalea]",
         "time": "2026-11-02 14:59:46"
-    },
-    {
-        "artist": "All My Life (Extended)",
-        "title": "All My Life (Extended)",
-        "time": "2026-11-02 14:52:36"
-    },
-    {
-        "artist": "Mike Griego / A Line In The Sand",
-        "title": "Mike Griego - Desintegrate  (Original Mix) DUNE 002",
-        "time": "2026-11-02 14:44:55"
-    },
-    {
-        "artist": "Avicii",
-        "title": "Tough Love Ft. Agnes, Vargas & Lagola",
-        "time": "2026-11-02 14:41:41"
-    },
-    {
-        "artist": "Elderbrook; Emmit Fenn",
-        "title": "I’Ll Find My Way To You",
-        "time": "2026-11-02 14:37:06"
     }
 ]
