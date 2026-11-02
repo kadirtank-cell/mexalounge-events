@@ -77,6 +77,20 @@
         "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-rooftop/247255"
     },
     {
+        "title": "NIX bcn",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
+    },
+    {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/city-hall-pres-monday-perreo-download-your-free-pass-3-barcelona-xceed-square-2fe5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/city-hall-pres-monday-perreo-reggaeton-urban-download-your-free-pass-8/242745"
+    },
+    {
         "title": "SEASEACLUB",
         "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
@@ -119,13 +133,6 @@
         "link": "https://xceed.me/en/barcelona/event/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions/250287"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/city-hall-pres-monday-perreo-download-your-free-pass-3-barcelona-xceed-square-2fe5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/city-hall-pres-monday-perreo-reggaeton-urban-download-your-free-pass-8/242745"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -161,11 +168,11 @@
         "link": "https://xceed.me/en/barcelona/event/hard-trance-party-l-pres-pastis-frank-trax/249564"
     },
     {
-        "title": "Jamboree Jazz Club",
+        "title": "LIVEJamboree Jam SessionJamboree Jazz Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cicle-john-coltrane-bruce-barth-trio-piero-odorici-barcelona-xceed-5f21.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cicle-john-coltrane-bruce-barth-trio-piero-odorici/250163"
+        "image": "https://images.xceed.me/events/banners/jamboree-jam-session-27-barcelona-xceed-b390.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-27/250155"
     },
     {
         "title": "KhaLI",
@@ -180,13 +187,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/uroz-70-barcelona-xceed-4e8e.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/uroz-70/249972"
-    },
-    {
-        "title": "Jamboree Jam SessionJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/jamboree-jam-session-27-barcelona-xceed-b390.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-27/250155"
     },
     {
         "title": "Dj Mastie",
@@ -371,18 +371,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
-    },
-    {
         "title": "MONK Roma",
         "date": "IMARHAN x MOJO FEST",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/imarhan-roma-xceed-square-000b.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/imarhan-x-mojo-fest/230449"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
         "title": "Fusolab",
@@ -791,6 +791,13 @@
         "link": "https://xceed.me/en/brussels/event/sip-paint-brussels-7/244522"
     },
     {
+        "title": "Scene Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
+    },
+    {
         "title": "Hotel Trendy",
         "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
         "location": "BRUSSELS",
@@ -803,20 +810,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
-    },
-    {
-        "title": "Hotel Trendy",
-        "date": "WELCOME • HOTEL TRENDY • 17 DECEMBE",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/welcome-hotel-trendy-17-december-2026-brussels-xceed-square-abe7.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/welcome-hotel-trendy-17-december-2026/249746"
-    },
-    {
-        "title": "RUMA",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
     },
     {
         "title": "THE MUSE • HOTEL TRENDY • 19 NOVEMBERHotel Trendy",
@@ -889,18 +882,18 @@
         "link": "https://xceed.me/en/hamburg/event/bronka-hates-hamburg/246109"
     },
     {
-        "title": "Hot Chocolate Bar",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/day-drinking-at-muhlenkamp-hamburg-xceed-square-9235.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
-    },
-    {
         "title": "MOJO",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/les-amis-7-hamburg-xceed-square-b434.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/les-amis-7/248207"
+    },
+    {
+        "title": "Hot Chocolate Bar",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/day-drinking-at-muhlenkamp-hamburg-xceed-square-9235.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -980,18 +973,18 @@
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-festival/248797"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
         "title": "Edelfettwerk",
@@ -1008,7 +1001,7 @@
         "link": "https://xceed.me/en/hamburg/event/nest-w-pan-pot-tommahawk-justice-randali-1/246856"
     },
     {
-        "title": "Listening Session: Stephanie LottermoserSecret Location",
+        "title": "LIVEListening Session: Stephanie LottermoserSecret Location",
         "date": "Secret Location",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/listening-session-stephanie-lottermoser-hamburg-xceed-square-7272.jpg?w=149&h=149&q=90&fm=auto",
