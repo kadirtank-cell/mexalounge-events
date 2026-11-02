@@ -941,6 +941,13 @@
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/stil-vor-talent-hamburg-xceed-e4e2.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
@@ -950,13 +957,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
-    },
-    {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
         "title": "Secret Location",
@@ -1078,18 +1078,18 @@
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
     },
     {
-        "title": "Listening Session: Theo CrokerSecret Location",
-        "date": "Secret Location",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/listening-session-theo-croker-hamburg-xceed-square-a025.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/listening-session-theo-croker/250326"
-    },
-    {
         "title": "NOSTALGIA X REPLAYUWE Club Reeperbahn90s - 00sHip-hopHouse",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nostalgia-x-replay-2-hamburg-xceed-square-e47f.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nostalgia-x-replay-2/250608"
+    },
+    {
+        "title": "Listening Session: Theo CrokerSecret Location",
+        "date": "Secret Location",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/listening-session-theo-croker-hamburg-xceed-square-a025.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/listening-session-theo-croker/250326"
     },
     {
         "title": "Oliver Schories",
