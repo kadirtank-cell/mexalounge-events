@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Daft Punk",
+        "title": "Around The World (Radio Edit)",
+        "time": "2026-11-02 11:24:02"
+    },
+    {
+        "artist": "James Mac, Vall, Rosalie",
+        "title": "The Boy Is Mine (Feat. Rosalie) (Club Mix)",
+        "time": "2026-11-02 11:17:44"
+    },
+    {
+        "artist": "YABANCI",
+        "title": "Love",
+        "time": "2026-11-02 11:13:54"
+    },
+    {
         "artist": "John Summit",
         "title": "John Summit & Hayla - Where You Are (Lyric Visualizer)",
         "time": "2026-11-02 11:10:03"
@@ -33,20 +48,5 @@
         "artist": "Pornostar Records",
         "title": "Matt Ross - Disco Bounce (Original Mix)",
         "time": "2026-11-02 10:41:07"
-    },
-    {
-        "artist": "FUNKY DISCO",
-        "title": "Adri Block  - Burnin' Hot (Funky Mix)(Save The Nightlife)",
-        "time": "2026-11-02 10:36:26"
-    },
-    {
-        "artist": "Acraze; Cherish",
-        "title": "Do It To It",
-        "time": "2026-11-02 10:33:22"
-    },
-    {
-        "artist": "Nari",
-        "title": "House Music",
-        "time": "2026-11-02 10:28:53"
     }
 ]
