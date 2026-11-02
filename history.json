@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Dole & Kom",
+        "title": "Away",
+        "time": "2026-11-02 04:33:11"
+    },
+    {
+        "artist": "LAUDE MONNET",
+        "title": "Voodoo Bounce (Main Mix)",
+        "time": "2026-11-02 04:28:14"
+    },
+    {
         "artist": "Elegant Hands",
         "title": "Fuego (Original Mix)",
         "time": "2026-11-02 04:21:31"
@@ -38,15 +48,5 @@
         "artist": "Elton John, Dua Lipa",
         "title": "Cold Heart (PNAU Remix)",
         "time": "2026-11-02 03:59:35"
-    },
-    {
-        "artist": "Geom",
-        "title": "Back To You (Housenick Remix)",
-        "time": "2026-11-02 03:54:58"
-    },
-    {
-        "artist": "Alex Baker, Hanging Valleys",
-        "title": "Parallel",
-        "time": "2026-11-02 03:51:06"
     }
 ]
