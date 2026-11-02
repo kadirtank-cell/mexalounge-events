@@ -7,38 +7,38 @@
     },
     {
         "rank": 2,
-        "artist": "Maroon 5",
-        "title": "Misery",
-        "play_count": 7
-    },
-    {
-        "rank": 3,
-        "artist": "Aykut Bilir",
-        "title": "Aykut Bilir - Humans (Original Mix)",
-        "play_count": 7
-    },
-    {
-        "rank": 4,
-        "artist": "Zigala, Alejandro Gabriel Seoane",
-        "title": "Red Night",
-        "play_count": 7
-    },
-    {
-        "rank": 5,
-        "artist": "Tinlicker; Helsloot",
-        "title": "Because You Move Me",
-        "play_count": 7
-    },
-    {
-        "rank": 6,
         "artist": "Oman Chali, Alejandro Gabriel Seoane",
         "title": "Reflection",
         "play_count": 7
     },
     {
+        "rank": 3,
+        "artist": "Tinlicker; Helsloot",
+        "title": "Because You Move Me",
+        "play_count": 7
+    },
+    {
+        "rank": 4,
+        "artist": "Maroon 5",
+        "title": "Misery",
+        "play_count": 7
+    },
+    {
+        "rank": 5,
+        "artist": "Aykut Bilir",
+        "title": "Aykut Bilir - Humans (Original Mix)",
+        "play_count": 7
+    },
+    {
+        "rank": 6,
+        "artist": "Zigala, Alejandro Gabriel Seoane",
+        "title": "Red Night",
+        "play_count": 7
+    },
+    {
         "rank": 7,
-        "artist": "Luçïd (Paris)",
-        "title": "Fait Vriller",
+        "artist": "Maison Ware;  Lizzy Land",
+        "title": "Chemical",
         "play_count": 6
     },
     {
@@ -49,74 +49,74 @@
     },
     {
         "rank": 9,
-        "artist": "Yalın, Doğuş Çabakçor",
-        "title": "Halbuki (Doğuş Çabakçor Remix)",
-        "play_count": 6
-    },
-    {
-        "rank": 10,
-        "artist": "Liquid Bloom, Janax Pacha",
-        "title": "Heartbeat Of The Sacred Valley (Original Mix)",
-        "play_count": 6
-    },
-    {
-        "rank": 11,
-        "artist": "Tripssono",
-        "title": "Surrounding",
-        "play_count": 6
-    },
-    {
-        "rank": 12,
-        "artist": "Nils Hoffmann",
-        "title": "Afterglow (Extended Mix)",
-        "play_count": 6
-    },
-    {
-        "rank": 13,
-        "artist": "Maison Ware;  Lizzy Land",
-        "title": "Chemical",
-        "play_count": 6
-    },
-    {
-        "rank": 14,
-        "artist": "Shamanic Dub, Alejandro Gabriel Seoane",
-        "title": "Dawning",
-        "play_count": 6
-    },
-    {
-        "rank": 15,
-        "artist": "Kiasmos, Janus Rasmussen, Òlafur Arnalds",
-        "title": "Sisteron",
-        "play_count": 6
-    },
-    {
-        "rank": 16,
-        "artist": "Ten Walls",
-        "title": "Cadencia",
-        "play_count": 6
-    },
-    {
-        "rank": 17,
-        "artist": "jerry_ropero_feat_cozi-the_storm",
-        "title": "Jerry Ropero Feat Cozi-The Storm",
-        "play_count": 6
-    },
-    {
-        "rank": 18,
         "artist": "KÖFN, Salman Tin, BKE",
         "title": "Güneşe Dokundum (Deep Mix)",
         "play_count": 6
     },
     {
-        "rank": 19,
+        "rank": 10,
+        "artist": "Tripssono",
+        "title": "Surrounding",
+        "play_count": 6
+    },
+    {
+        "rank": 11,
+        "artist": "Shamanic Dub, Alejandro Gabriel Seoane",
+        "title": "Dawning",
+        "play_count": 6
+    },
+    {
+        "rank": 12,
+        "artist": "Yalın, Doğuş Çabakçor",
+        "title": "Halbuki (Doğuş Çabakçor Remix)",
+        "play_count": 6
+    },
+    {
+        "rank": 13,
+        "artist": "Luçïd (Paris)",
+        "title": "Fait Vriller",
+        "play_count": 6
+    },
+    {
+        "rank": 14,
+        "artist": "Kiasmos, Janus Rasmussen, Òlafur Arnalds",
+        "title": "Sisteron",
+        "play_count": 6
+    },
+    {
+        "rank": 15,
+        "artist": "Ten Walls",
+        "title": "Cadencia",
+        "play_count": 6
+    },
+    {
+        "rank": 16,
+        "artist": "Yakar Allevici, Fulya Demir",
+        "title": "Hoşgeldin (Feat. Fulya Demir)",
+        "play_count": 6
+    },
+    {
+        "rank": 17,
         "artist": "Kenno",
         "title": "Waiting 4 Your Call (Housenick Remix)",
         "play_count": 6
     },
     {
-        "rank": 20,
+        "rank": 18,
+        "artist": "jerry_ropero_feat_cozi-the_storm",
+        "title": "Jerry Ropero Feat Cozi-The Storm",
+        "play_count": 6
+    },
+    {
+        "rank": 19,
         "artist": "Kenan Doğulu",
         "title": "Ara Beni Lütfen (Remix)",
+        "play_count": 6
+    },
+    {
+        "rank": 20,
+        "artist": "Liquid Bloom, Janax Pacha",
+        "title": "Heartbeat Of The Sacred Valley (Original Mix)",
         "play_count": 6
     }
 ]
