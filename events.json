@@ -371,13 +371,6 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "Fusolab",
-        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -385,11 +378,11 @@
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
+        "title": "Fusolab",
+        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
+        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
         "title": "MONK Roma",
@@ -397,6 +390,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
         "title": "MONK Roma",
