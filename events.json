@@ -63,6 +63,13 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
+    },
+    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -77,18 +84,18 @@
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
     },
     {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
-    },
-    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-rooftop/247255"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
     },
     {
         "title": "BUS HEXPERIENCE",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-ku/248848"
-    },
-    {
-        "title": "Moog",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
     },
     {
         "title": "KhaLI",
@@ -308,13 +308,6 @@
         "link": "https://xceed.me/en/barcelona/event/aqv-main-room-techno-night/250772"
     },
     {
-        "title": "Pablo Carol · Victor Hugo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
-    },
-    {
         "title": "MIRABLAU CLUBMIRABLAUHitsPopReggaeton",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -385,18 +378,18 @@
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-6-novembre-ore-2130-nuova-stagione/248533"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
-    },
-    {
         "title": "Fusolab",
         "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
         "title": "MONK Roma",
@@ -588,18 +581,18 @@
         "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
     },
     {
-        "title": "CLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/club-scena-presents-no-more-drama-2-roma-xceed-square-cc62.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
-    },
-    {
         "title": "Phil Romano · Mattia Matthew · Dj Consuelo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
+    },
+    {
+        "title": "CLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/club-scena-presents-no-more-drama-2-roma-xceed-square-cc62.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
     },
     {
         "title": "CIRCUITOTag Culture",
@@ -941,6 +934,13 @@
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
@@ -950,13 +950,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
-    },
-    {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
         "title": "Uebel & Gefährlich",
