@@ -448,18 +448,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
         "title": "Hacienda",
         "date": "Nto - Live @ Hacienda | 18 Dicembre",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "Cieloterra",
@@ -637,11 +637,11 @@
         "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
     },
     {
-        "title": "MUSIC ATELIER - Alcazar LiveAlcazar",
+        "title": "Don't Tell Mama - Saturday 7 th Nov.TEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-7-th-nov-roma-xceed-df96.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-7-th-nov/250596"
     },
     {
         "title": "BLOODY LOUIS",
@@ -980,18 +980,18 @@
         "link": "https://xceed.me/en/hamburg/event/one-night-festival/248797"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "VER pres. PARAÇEK INVITES (EARLY RA",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
         "title": "Uebel & Gefährlich",
