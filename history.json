@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Juan Buitrago",
+        "title": "Forever Mover",
+        "time": "2026-11-03 15:54:40"
+    },
+    {
+        "artist": "Anjunadeep, Durante, Ezequiel Arias",
+        "title": "Ezequiel Arias & Durante - Logical",
+        "time": "2026-11-03 15:52:02"
+    },
+    {
+        "artist": "Black Hole Recordings",
+        "title": "BT Ft. Jan Johnston - Mercury & Solace (Sasha Remix)",
+        "time": "2026-11-03 15:47:28"
+    },
+    {
         "artist": "Tomy Wahl, Cloz, That Kid Is You, RIKO & GUGGA",
         "title": "I Call It Energy Feat. That Kid Is You (RIKO & GUGGA Remix)",
         "time": "2026-11-03 15:40:51"
@@ -33,20 +48,5 @@
         "artist": "Peter Luts",
         "title": "Mobius (Extended Mix)",
         "time": "2026-11-03 17:55:14"
-    },
-    {
-        "artist": "Shakedown, Anyma, Layton Giordani",
-        "title": "At Night (Anyma X Layton Giordani Remix)",
-        "time": "2026-11-03 17:51:24"
-    },
-    {
-        "artist": "Huminal",
-        "title": "Guardian",
-        "time": "2026-11-03 17:47:58"
-    },
-    {
-        "artist": "SILK",
-        "title": "Quiver",
-        "time": "2026-11-03 17:44:42"
     }
 ]
