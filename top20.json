@@ -16,5 +16,23 @@
         "artist": "Huminal",
         "title": "Guardian",
         "play_count": 1
+    },
+    {
+        "rank": 4,
+        "artist": "The Myth Of NYX",
+        "title": "Benny Benassi & Tobias Gerard - DISCOTEKA (Extended Mix)",
+        "play_count": 1
+    },
+    {
+        "rank": 5,
+        "artist": "Margarita Lahdou",
+        "title": "Je Le Savais (Original Mix) - Neumann",
+        "play_count": 1
+    },
+    {
+        "rank": 6,
+        "artist": "Orbion",
+        "title": "Snow (Diversion Remix)",
+        "play_count": 1
     }
 ]
