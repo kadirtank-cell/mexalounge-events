@@ -1,5 +1,25 @@
 [
     {
+        "artist": "YABANCI",
+        "title": "Here On Earth (Feat. Cary Brothers)",
+        "time": "2026-11-03 03:52:16"
+    },
+    {
+        "artist": "Tuğba Yurt, Tuğba Yurt, Ersay Üner, Ersay Üner",
+        "title": "Benim O (Remix)",
+        "time": "2026-11-03 03:49:15"
+    },
+    {
+        "artist": "Amtrac",
+        "title": "Generator",
+        "time": "2026-11-03 03:44:19"
+    },
+    {
+        "artist": "Quadra & Benjamin, Alejandro Gabriel Seoane",
+        "title": "Celebration Day",
+        "time": "2026-11-03 03:41:56"
+    },
+    {
         "artist": "Bonobo",
         "title": "Rippling",
         "time": "2026-11-03 03:39:34"
@@ -28,25 +48,5 @@
         "artist": "Ace Of Base",
         "title": "All That She Wants",
         "time": "2026-11-03 03:23:15"
-    },
-    {
-        "artist": "Zigala, Alejandro Seoane",
-        "title": "Rainy (Lo-Fi Remix)",
-        "time": "2026-11-03 03:20:29"
-    },
-    {
-        "artist": "Oman Chali, Alejandro Gabriel Seoane",
-        "title": "Reflection",
-        "time": "2026-11-03 03:17:48"
-    },
-    {
-        "artist": "Kainbeats, Casiio",
-        "title": "Sparkle",
-        "time": "2026-11-03 03:15:02"
-    },
-    {
-        "artist": "Yotto; Julia Church; Nils Hoffmann",
-        "title": "No Ending (Nils Hoffmann Extended Remix)",
-        "time": "2026-11-03 03:09:03"
     }
 ]
