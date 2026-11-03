@@ -1,5 +1,20 @@
 [
     {
+        "artist": "AURA",
+        "title": "Goodboys, DEPARTAMENTO - Discoteca (Extended)",
+        "time": "2026-11-03 16:18:59"
+    },
+    {
+        "artist": "Solomun",
+        "title": "Home",
+        "time": "2026-11-03 16:14:36"
+    },
+    {
+        "artist": "Che Jose, Hiwater",
+        "title": "Domino Effect (Hiwater Remix)",
+        "time": "2026-11-03 16:09:14"
+    },
+    {
         "artist": "KETTAMA",
         "title": "KETTAMA & Interplanetary Criminal - Yosemite",
         "time": "2026-11-03 16:04:53"
@@ -33,20 +48,5 @@
         "artist": "Hi-Tack",
         "title": "Say Say Say",
         "time": "2026-11-03 15:40:41"
-    },
-    {
-        "artist": "Paul Thomas, Weird Sounding Dude",
-        "title": "Summersault (Weird Sounding Dude Extended Remix)",
-        "time": "2026-11-03 15:34:01"
-    },
-    {
-        "artist": "Thω_Tσε75",
-        "title": "Gai Barone - Macula (Hernan Cattaneo & Simply City Extended Remix)",
-        "time": "2026-11-03 15:24:35"
-    },
-    {
-        "artist": "Boral Kibil, Gökhan Türkmen",
-        "title": "Vay Halimize (Boral Kibil Remix)",
-        "time": "2026-11-03 15:18:50"
     }
 ]
