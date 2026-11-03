@@ -56,6 +56,13 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
+    },
+    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -75,13 +82,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -173,13 +173,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long-barcelona-xceed-square-a218.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long/249412"
-    },
-    {
-        "title": "LIVEBenjamin Herman trio ft Tomoaki BabaJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/benjamin-herman-trio-ft-tomoaki-baba-barcelona-xceed-dc90.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/benjamin-herman-trio-ft-tomoaki-baba/250156"
     },
     {
         "title": "TBA",
@@ -313,6 +306,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-116/247911"
+    },
+    {
+        "title": "Navider",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/tribalesque-navider-3-barcelona-xceed-square-9d45.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tribalesque-navider-3/248776"
     },
     {
         "title": "Largo Venue",
@@ -546,18 +546,18 @@
         "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-35/242513"
     },
     {
-        "title": "NEL CASINO - Laura De Greef - Laurentt, Michele Cesaretti.Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
-    },
-    {
         "title": "Michael Mayo",
         "date": "Michael Mayo SOLO - Alcazar Live",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/michael-mayo-solo-alcazar-live-1-roma-xceed-square-89e1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/michael-mayo-solo-alcazar-live-1/246427"
+    },
+    {
+        "title": "NEL CASINO - Laura De Greef - Laurentt, Michele Cesaretti.Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
     },
     {
         "title": "Luciano Lamanna · Robbss",
@@ -948,15 +948,15 @@
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
+        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
         "title": "glimmer",
