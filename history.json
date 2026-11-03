@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Aykut Bilir",
+        "title": "Aykut Bilir - Humans (Original Mix)",
+        "time": "2026-11-03 15:00:07"
+    },
+    {
+        "artist": "Durante, Anjunadeep",
+        "title": "Durante & ALLKNIGHT - How Does It Feel",
+        "time": "2026-11-03 14:55:30"
+    },
+    {
+        "artist": "Dynoro; Gigi D'agostino",
+        "title": "In My Mind",
+        "time": "2026-11-03 14:52:40"
+    },
+    {
         "artist": "Geom",
         "title": "Desert Rose (Nikko Culture Remix)",
         "time": "2026-11-03 14:45:42"
@@ -33,20 +48,5 @@
         "artist": "Flakkë",
         "title": "Neurose 2.0",
         "time": "2026-11-03 14:19:49"
-    },
-    {
-        "artist": "Anjunadeep",
-        "title": "Ezequiel Arias & Durante - Prisma (From Anjunadeep Malta 2025)",
-        "time": "2026-11-03 14:13:43"
-    },
-    {
-        "artist": "Mike Rish",
-        "title": "Primah",
-        "time": "2026-11-03 14:05:59"
-    },
-    {
-        "artist": "Progressive Waves",
-        "title": "Gai Barone - Taking Credits (Extended Mix)",
-        "time": "2026-11-03 13:57:29"
     }
 ]
