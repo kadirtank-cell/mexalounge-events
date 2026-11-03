@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Tonic Walter",
+        "title": "Into The Night",
+        "time": "2026-11-03 06:38:25"
+    },
+    {
+        "artist": "Tuğba Yurt, Tuğba Yurt, Ersay Üner, Ersay Üner",
+        "title": "Benim O (Remix)",
+        "time": "2026-11-03 06:35:24"
+    },
+    {
         "artist": "Aykut Bilir",
         "title": "Aykut Bilir - Humans (Original Mix)",
         "time": "2026-11-03 06:27:44"
@@ -38,15 +48,5 @@
         "artist": "Spanish Flow, Nikko Mad, Ronan, Ronan Esteban Portela, Adrian Ayerbe Chueca",
         "title": "Moonlight (Instrumental Mix)",
         "time": "2026-11-03 06:02:57"
-    },
-    {
-        "artist": "Luçïd (Paris)",
-        "title": "Fait Vriller",
-        "time": "2026-11-03 05:56:22"
-    },
-    {
-        "artist": "Zigala, Alejandro Gabriel Seoane",
-        "title": "Red Night",
-        "time": "2026-11-03 05:54:20"
     }
 ]
