@@ -175,6 +175,13 @@
         "link": "https://xceed.me/en/barcelona/event/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long/249412"
     },
     {
+        "title": "MABEMUSIK",
+        "date": "MARTES l DJ MABEMUSIK l SECRET ROOM",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/martes-l-dj-mabemusik-l-secret-room-l-house-tech-house-all-night-long-barcelona-xceed-square-6192.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/martes-l-dj-mabemusik-l-secret-room-l-house-tech-house-all-night-long/249411"
+    },
+    {
         "title": "J BOOMHART  · TWOSET +3",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -187,13 +194,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-e830.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-64/249764"
-    },
-    {
-        "title": "MABEMUSIK",
-        "date": "MARTES l DJ MABEMUSIK l SECRET ROOM",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/martes-l-dj-mabemusik-l-secret-room-l-house-tech-house-all-night-long-barcelona-xceed-square-6192.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/martes-l-dj-mabemusik-l-secret-room-l-house-tech-house-all-night-long/249411"
     },
     {
         "title": "Rubén Seoane · Purpur",
@@ -406,18 +406,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
-    },
-    {
         "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-6-novembre-ore-2130-nuova-stagione-roma-xceed-square-9b1d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-6-novembre-ore-2130-nuova-stagione/248533"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
         "title": "MONK Roma",
@@ -472,13 +472,6 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
@@ -488,6 +481,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19-roma-xceed-square-7334.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
         "title": "QUINDIE FESTIVALAlcazar",
@@ -525,18 +525,18 @@
         "link": "https://xceed.me/en/roma/event/rcc-special-saverio-raimondo-one-man-show/248729"
     },
     {
-        "title": "Codefendants",
-        "date": "Codefendants Live @ Traffic (RM) | ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/codefendants-live-hacienda-rm-5-novembre-2026-roma-xceed-square-9fc4.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/codefendants-live-traffic-rm-5-novembre-2026/227522"
-    },
-    {
         "title": "TJ (Tanael Joachim) - The Alien Everywhere Tour -  STAND UP COMED",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/tj-tanael-joachim-the-alien-everywhere-tour-alcazar-live-trastevere-roma-xceed-square-874d.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/tj-tanael-joachim-the-alien-everywhere-tour-stand-up-comedy-show-eng/233425"
+    },
+    {
+        "title": "Codefendants",
+        "date": "Codefendants Live @ Traffic (RM) | ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/codefendants-live-hacienda-rm-5-novembre-2026-roma-xceed-square-9fc4.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/codefendants-live-traffic-rm-5-novembre-2026/227522"
     },
     {
         "title": "Yokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
@@ -689,15 +689,15 @@
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
+        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
     },
     {
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
+        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
     },
     {
         "title": "BLOODY LOUIS",
