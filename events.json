@@ -175,6 +175,13 @@
         "link": "https://xceed.me/en/barcelona/event/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long/249412"
     },
     {
+        "title": "LIVEBenjamin Herman trio ft Tomoaki BabaJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/benjamin-herman-trio-ft-tomoaki-baba-barcelona-xceed-dc90.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/benjamin-herman-trio-ft-tomoaki-baba/250156"
+    },
+    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -201,13 +208,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/ruben-seoane-58-barcelona-xceed-cf58.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/ruben-seoane-58/249974"
-    },
-    {
-        "title": "Benjamin Herman trio ft Tomoaki BabaJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/benjamin-herman-trio-ft-tomoaki-baba-barcelona-xceed-dc90.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/benjamin-herman-trio-ft-tomoaki-baba/250156"
     },
     {
         "title": "DJ Muuz",
@@ -357,18 +357,18 @@
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
-        "title": "Hacienda",
-        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
         "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-6-novembre-ore-2130-nuova-stagione-roma-xceed-square-9b1d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-6-novembre-ore-2130-nuova-stagione/248533"
+    },
+    {
+        "title": "Hacienda",
+        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
         "title": "MONK Roma",
@@ -574,18 +574,18 @@
         "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
     },
     {
-        "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
-    },
-    {
         "title": "Phil Romano · Mattia Matthew +1",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
+    },
+    {
+        "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
     },
     {
         "title": "CLUB SCENA presents NO MORE DRAMALanificio",
@@ -663,13 +663,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gazo-x-le-bloody-est-gangx-brussels-xceed-square-a138.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gazo-x-le-bloody-est-gangx-21-novembre/242246"
     },
     {
         "title": "BLOODY LOUIS",
@@ -775,6 +768,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gazo-x-le-bloody-est-gangx-brussels-xceed-square-a138.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gazo-x-le-bloody-est-gangx-21-novembre/242246"
     },
     {
         "title": "BLOODY LOUIS",
@@ -948,15 +948,15 @@
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
+        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
         "title": "glimmer",
@@ -1001,11 +1001,11 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
-        "title": "Uebel & Gefährlich",
+        "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nest-w-pan-pot-tommahawk-justice-randali-hamburg-xceed-square-fa11.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nest-w-pan-pot-tommahawk-justice-randali-1/246856"
+        "image": "https://images.xceed.me/events/banners/festa-dell-amore-disco-inferno-hamburg-xceed-square-a5b9.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/festa-dell-amore-disco-inferno/249572"
     },
     {
         "title": "Bombossa Brothers · Iman Hanzo",
