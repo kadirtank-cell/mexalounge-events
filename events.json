@@ -588,18 +588,18 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
     },
     {
-        "title": "CIRCUITOTag Culture",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/circuito-roma-xceed-square-4c52.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/circuito/250644"
-    },
-    {
         "title": "CLUB SCENA presents NO MORE DRAMALanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/club-scena-presents-no-more-drama-2-roma-xceed-square-cc62.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
+    },
+    {
+        "title": "CIRCUITOTag Culture",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/circuito-roma-xceed-square-4c52.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/circuito/250644"
     },
     {
         "title": "06.11.26 HOTLINE @ 692 Secret Garden692 Secret Garden",
@@ -931,6 +931,13 @@
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
+        "title": "Edelfettwerk",
+        "date": "VER pres. PARAÇEK INVITES (EARLY RA",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
+    },
+    {
         "title": "Uebel & Gefährlich",
         "date": "Sat 13 Mar, 11:59pm",
         "location": "HAMBURG",
@@ -952,13 +959,6 @@
         "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
-        "title": "Edelfettwerk",
-        "date": "VER pres. PARAÇEK INVITES (EARLY RA",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
-    },
-    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -973,18 +973,18 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "45 Hertz Festival",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-festival/248797"
+    },
+    {
+        "title": "45 Hertz Festival",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
         "title": "Secret Location",
