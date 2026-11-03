@@ -133,6 +133,13 @@
         "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-0c59.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
+    },
+    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-121/247917"
-    },
-    {
-        "title": "VRABA TERRAZA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-ku/248848"
     },
     {
         "title": "KhaLI",
@@ -266,18 +266,18 @@
         "link": "https://xceed.me/en/barcelona/event/thursday-angels-gaviria-l-secret-room-l-techno-hard-techno-all-night-long-1/242799"
     },
     {
-        "title": "Navider",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/deep-tech-house-by-navider-33-barcelona-xceed-square-db96.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/deep-tech-house-by-navider-33/248769"
-    },
-    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-67/249777"
+    },
+    {
+        "title": "Navider",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/deep-tech-house-by-navider-33-barcelona-xceed-square-db96.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/deep-tech-house-by-navider-33/248769"
     },
     {
         "title": "Bambi · DJ JUUS",
@@ -651,6 +651,13 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-two-stages-reggaeton-salsa-bachata/248564"
     },
     {
+        "title": "BIRDY",
+        "date": "EL GRANDE TOTO X SAHARA",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/el-grande-toto-x-sahara-brussels-xceed-square-d698.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/el-grande-toto-x-sahara/248572"
+    },
+    {
         "title": "Jeux d'Hiver",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -663,13 +670,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gazo-x-le-bloody-est-gangx-brussels-xceed-square-a138.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gazo-x-le-bloody-est-gangx-21-novembre/242246"
-    },
-    {
-        "title": "BIRDY",
-        "date": "EL GRANDE TOTO X SAHARA",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/el-grande-toto-x-sahara-brussels-xceed-square-d698.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/el-grande-toto-x-sahara/248572"
     },
     {
         "title": "BLOODY LOUIS",
