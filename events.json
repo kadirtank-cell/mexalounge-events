@@ -28,18 +28,18 @@
         "link": "https://xceed.me/en/barcelona/event/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live/243260"
     },
     {
-        "title": "La Terrrazza",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
-    },
-    {
         "title": "NIX bcn",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
+    },
+    {
+        "title": "La Terrrazza",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
         "title": "Bikini Club",
@@ -70,18 +70,18 @@
         "link": "https://xceed.me/en/barcelona/event/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka/250067"
     },
     {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
+    },
+    {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
     },
     {
-        "title": "CIRCUITOTag Culture",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/circuito-roma-xceed-square-4c52.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/circuito/250644"
-    },
-    {
         "title": "Phil Romano · Mattia Matthew +1",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
+    },
+    {
+        "title": "CIRCUITOTag Culture",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/circuito-roma-xceed-square-4c52.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/circuito/250644"
     },
     {
         "title": "06.11.26 HOTLINE @ 692 Secret Garden692 Secret Garden",
@@ -973,6 +973,13 @@
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
+        "title": "Edelfettwerk",
+        "date": "VER pres. PARAÇEK INVITES (EARLY RA",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
+    },
+    {
         "title": "Secret Location",
         "date": "Secret Location",
         "location": "HAMBURG",
@@ -985,13 +992,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-festival/248797"
-    },
-    {
-        "title": "Edelfettwerk",
-        "date": "VER pres. PARAÇEK INVITES (EARLY RA",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
     },
     {
         "title": "Uebel & Gefährlich",
