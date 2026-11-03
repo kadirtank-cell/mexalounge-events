@@ -91,13 +91,6 @@
         "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-rooftop/247255"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/city-hall-pres-monday-perreo-download-your-free-pass-3-barcelona-xceed-square-2fe5.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/city-hall-pres-monday-perreo-reggaeton-urban-download-your-free-pass-8/242745"
-    },
-    {
         "title": "SEASEACLUB",
         "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
@@ -168,25 +161,18 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-0c59.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
+    },
+    {
         "title": "KhaLI",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long-barcelona-xceed-square-a218.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long/249412"
-    },
-    {
-        "title": "Uroz · Purpur",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/uroz-70-barcelona-xceed-4e8e.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/uroz-70/249972"
-    },
-    {
-        "title": "Dj Mastie",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/monday-night-dj-mastie-36-barcelona-xceed-4493.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/monday-night-dj-mastie-36/250180"
     },
     {
         "title": "J BOOMHART  · TWOSET +3",
@@ -327,6 +313,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-xexo-disco-bar-los-dos-mil-bruno-not-bruno/250850"
+    },
+    {
+        "title": "MIRABLAU CLUBMIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-116/247911"
     },
     {
         "title": "Largo Venue",
