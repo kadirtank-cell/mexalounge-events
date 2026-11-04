@@ -49,18 +49,18 @@
         "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
     },
     {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
+    },
+    {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
         "title": "Bikini Club",
@@ -553,18 +553,18 @@
         "link": "https://xceed.me/en/roma/event/michael-mayo-solo-alcazar-live-1/246427"
     },
     {
-        "title": "Luciano Lamanna · Robbss",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
-    },
-    {
         "title": "Phil Romano · Mattia Matthew · Dj Consuelo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
+    },
+    {
+        "title": "Luciano Lamanna · Robbss",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
     },
     {
         "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
@@ -675,15 +675,15 @@
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
+        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
     },
     {
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
+        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
     },
     {
-        "title": "Scene Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
-    },
-    {
         "title": "Gare de Bruxelles-Congres",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
+    },
+    {
+        "title": "Scene Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
     },
     {
         "title": "Le Baixu!",
@@ -791,11 +791,11 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
-        "title": "Coco Brussels",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
+        "image": "https://images.xceed.me/events/banners/fresh-sunday-3-brussels-xceed-square-2f60.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fresh-sunday-3/251001"
     },
     {
         "title": "Roonx",
@@ -812,11 +812,11 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-39/251053"
     },
     {
-        "title": "FRESH SUNDAYBIRDYHip-hopAfrobeatsRap",
+        "title": "Cleean · Celia · M3RTIAL +1",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sunday-3-brussels-xceed-square-2f60.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sunday-3/251001"
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
     },
     {
         "title": "Roonx",
@@ -939,17 +939,17 @@
     },
     {
         "title": "Uebel & Gefährlich",
-        "date": "Sat 13 Mar, 11:59pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
-    },
-    {
-        "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -1202,6 +1202,13 @@
         "location": "LONDON",
         "image": "https://images.xceed.me/events/banners/polyamor-1-london-xceed-square-8d65.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/london/event/polyamor-1/251100"
+    },
+    {
+        "title": "Paloma Chelsea",
+        "date": "TBA (SOON)",
+        "location": "LONDON",
+        "image": "https://images.xceed.me/events/banners/nueva-soul-boxing-day-affair-london-xceed-square-4757.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/london/event/nueva-soul-boxing-day-affair/251139"
     },
     {
         "title": "Fri 26 Jun, 5:00pm",
