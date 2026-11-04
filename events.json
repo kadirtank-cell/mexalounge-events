@@ -329,18 +329,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
         "title": "Palazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
         "title": "MONK Roma",
@@ -392,18 +392,18 @@
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
         "title": "MONK Roma",
@@ -434,13 +434,6 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Hacienda",
-        "date": "Nto - Live @ Hacienda | 18 Dicembre",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -448,11 +441,11 @@
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
+        "title": "Hacienda",
+        "date": "Nto - Live @ Hacienda | 18 Dicembre",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
+        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
         "title": "MONK Roma",
@@ -460,6 +453,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19-roma-xceed-square-7334.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
         "title": "Alcazar",
@@ -483,18 +483,18 @@
         "link": "https://xceed.me/en/roma/event/quindie-festival-8/249328"
     },
     {
+        "title": "LIVEIL MAESTROPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/il-maestro-roma-xceed-square-bbd5.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/il-maestro/250878"
+    },
+    {
         "title": "Bonita ''no dejes que te lo cuenten''-  4 NovembreTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-4-novembre-roma-xceed-c0e2.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-4-novembre/250593"
-    },
-    {
-        "title": "IL MAESTROPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/il-maestro-roma-xceed-square-bbd5.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/il-maestro/250878"
     },
     {
         "title": "A.CHAL",
@@ -553,18 +553,18 @@
         "link": "https://xceed.me/en/roma/event/michael-mayo-solo-alcazar-live-1/246427"
     },
     {
-        "title": "Luciano Lamanna · Robbss",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
-    },
-    {
         "title": "Phil Romano · Mattia Matthew · Dj Consuelo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
+    },
+    {
+        "title": "Luciano Lamanna · Robbss",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
     },
     {
         "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
@@ -728,18 +728,18 @@
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-33/249960"
-    },
-    {
         "title": "Gare de Bruxelles-Congres",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-33/249960"
     },
     {
         "title": "BLOODY LOUIS",
@@ -938,18 +938,18 @@
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-rap-festival/248797"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
         "title": "Uebel & Gefährlich",
