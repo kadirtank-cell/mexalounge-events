@@ -70,6 +70,13 @@
         "link": "https://xceed.me/en/barcelona/event/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka/250067"
     },
     {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -98,18 +105,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
-    },
-    {
         "title": "CDLC - Carpe Diem",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/french-night-x-cdlc/247262"
+    },
+    {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
     },
     {
         "title": "BUS HEXPERIENCE",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-0c59.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-space-moreno-many-more-cohete-gspot-blackbox/250061"
     },
     {
         "title": "KhaLI",
@@ -539,18 +539,18 @@
         "link": "https://xceed.me/en/roma/event/michael-mayo-solo-alcazar-live-1/246427"
     },
     {
-        "title": "Phil Romano · Mattia Matthew · Dj Consuelo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
-    },
-    {
         "title": "Luciano Lamanna · Robbss",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
+    },
+    {
+        "title": "Phil Romano · Mattia Matthew · Dj Consuelo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
     },
     {
         "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
@@ -686,18 +686,18 @@
         "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
     },
     {
         "title": "Hotel Trendy",
@@ -714,18 +714,18 @@
         "link": "https://xceed.me/en/brussels/event/07-novembre-lift-x-babinski-showcase-de-french-montana/248528"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "Gare de Bruxelles-Congres",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "BLOODY LOUIS",
