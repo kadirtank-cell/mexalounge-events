@@ -472,8 +472,8 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/achal-live-roma-xceed-square-67c3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/achal-live/242838"
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
         "title": "QUINDIE FESTIVALAlcazar",
@@ -495,6 +495,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/il-maestro-roma-xceed-square-bbd5.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/il-maestro/250878"
+    },
+    {
+        "title": "A.CHAL",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/achal-live-roma-xceed-square-67c3.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/achal-live/242838"
     },
     {
         "title": "Saverio Raimondo",
@@ -693,6 +700,13 @@
         "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
     },
     {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
+    },
+    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -705,13 +719,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
-    },
-    {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
     },
     {
         "title": "Ratz Food Market",
@@ -903,18 +910,18 @@
         "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/one-night-with-felix-krocher-hamburg-xceed-square-4d96.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/one-night-with-felix-krocher-1/240707"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "VER pres. PARAÇEK INVITES (EARLY RA",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/one-night-with-felix-krocher-hamburg-xceed-square-4d96.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/one-night-with-felix-krocher-1/240707"
     },
     {
         "title": "PHOXXI Green Area",
@@ -952,18 +959,18 @@
         "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
-        "title": "glimmer",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-festival/248797"
+    },
+    {
+        "title": "glimmer",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
     },
     {
         "title": "Uebel & Gefährlich",
