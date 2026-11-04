@@ -1,5 +1,25 @@
 [
     {
+        "artist": "R3HAB, A Touch Of Class",
+        "title": "All Around The World (La La La)",
+        "time": "2026-11-04 07:05:21"
+    },
+    {
+        "artist": "Eran Hersh, Anorre, Ben Bracha, MELØ",
+        "title": "Back Slap (Extended Mix)",
+        "time": "2026-11-04 06:59:38"
+    },
+    {
+        "artist": "Lavern",
+        "title": "Hold Me",
+        "time": "2026-11-04 06:57:17"
+    },
+    {
+        "artist": "Ben Böhmer",
+        "title": "Beyond Beliefs",
+        "time": "2026-11-04 06:52:07"
+    },
+    {
         "artist": "Illusionize, Ashibah, Sarah Finne Christensen, Sarah Finne Christensen, Nikoline Finne Christensen",
         "title": "Intentions",
         "time": "2026-11-04 06:48:09"
@@ -28,25 +48,5 @@
         "artist": "Mika El",
         "title": "Aerials",
         "time": "2026-11-04 06:24:43"
-    },
-    {
-        "artist": "Reklam-Teaser",
-        "title": "Reklam-Teaser",
-        "time": "2026-11-04 06:24:25"
-    },
-    {
-        "artist": "Reklam-Teaser",
-        "title": "Reklam-Teaser",
-        "time": "2026-11-04 06:24:08"
-    },
-    {
-        "artist": "Dole & Kom",
-        "title": "Away",
-        "time": "2026-11-04 06:17:07"
-    },
-    {
-        "artist": "Mert Demir, Mabel Matiz",
-        "title": "Antidepresan",
-        "time": "2026-11-04 06:13:11"
     }
 ]
