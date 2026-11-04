@@ -112,11 +112,25 @@
         "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
     },
     {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
+    },
+    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
+    },
+    {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
     },
     {
         "title": "CDLC - Carpe Diem",
@@ -152,20 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-space-moreno-many-more-cohete-gspot-blackbox/250061"
-    },
-    {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions-barcelona-xceed-square-79c2.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions/250287"
-    },
-    {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
     },
     {
         "title": "KhaLI",
@@ -392,18 +392,18 @@
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
-    },
-    {
         "title": "Palazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
         "title": "MONK Roma",
@@ -560,18 +560,18 @@
         "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
     },
     {
-        "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
-    },
-    {
         "title": "18eSto! University NightTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
+    },
+    {
+        "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
     },
     {
         "title": "CLUB SCENA presents NO MORE DRAMALanificio",
