@@ -385,18 +385,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
-    },
-    {
         "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -693,6 +693,13 @@
         "link": "https://xceed.me/en/brussels/event/07-novembre-lift-x-babinski-showcase-de-french-montana/248528"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
+    },
+    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -705,13 +712,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/djuno-x-hotel-trendy-12-november-2026-brussels-xceed-square-009f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
     },
     {
         "title": "Ratz Food Market",
