@@ -112,6 +112,13 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
     },
     {
+        "title": "CDLC - Carpe Diem",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/french-night-x-cdlc/247262"
+    },
+    {
         "title": "Moog",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -131,13 +138,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
-    },
-    {
-        "title": "CDLC - Carpe Diem",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/french-night-x-cdlc/247262"
     },
     {
         "title": "SEASEACLUB",
@@ -371,6 +371,13 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
         "title": "Fusolab",
         "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
         "location": "ROMA",
@@ -383,13 +390,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "Cieloterra",
@@ -672,18 +672,18 @@
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
     },
     {
-        "title": "Mirano",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
+    },
+    {
+        "title": "Mirano",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
     },
     {
         "title": "BIRDY",
