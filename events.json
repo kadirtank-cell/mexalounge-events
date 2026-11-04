@@ -379,17 +379,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
-    },
-    {
-        "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
         "title": "Cieloterra",
@@ -602,18 +602,18 @@
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
     },
     {
-        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
-    },
-    {
         "title": "Jacidorex · Rbx",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
+        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
     },
     {
         "title": "MUSIC ATELIER - Alcazar LiveAlcazarDeep HouseHouse",
@@ -644,18 +644,18 @@
         "link": "https://xceed.me/en/brussels/event/el-grande-toto-x-sahara/248572"
     },
     {
-        "title": "Jeux d'Hiver",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/3robi-showcase-velar-brussels-xceed-square-afa7.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/3robi-showcase-velar/246376"
+    },
+    {
+        "title": "Jeux d'Hiver",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
         "title": "BLOODY LOUIS",
