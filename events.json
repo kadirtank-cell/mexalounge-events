@@ -42,18 +42,18 @@
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/wave-event-x-bad-decisions-barcelona-xceed-square-e7f9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
+    },
+    {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/wave-event-x-bad-decisions-barcelona-xceed-square-e7f9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
     },
     {
         "title": "Slow Club",
@@ -602,18 +602,18 @@
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
     },
     {
-        "title": "Jacidorex · Rbx",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
-    },
-    {
         "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
+    },
+    {
+        "title": "Jacidorex · Rbx",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
     },
     {
         "title": "MUSIC ATELIER - Alcazar LiveAlcazarDeep HouseHouse",
@@ -1209,6 +1209,13 @@
         "location": "LONDON",
         "image": "https://images.xceed.me/events/banners/nueva-soul-boxing-day-affair-london-xceed-square-4757.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/london/event/nueva-soul-boxing-day-affair/251139"
+    },
+    {
+        "title": "Secret Location",
+        "date": "Secret Location",
+        "location": "LONDON",
+        "image": "https://images.xceed.me/events/banners/open-form-function-30-london-xceed-square-243a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/london/event/open-form-function-30/251159"
     },
     {
         "title": "Fri 26 Jun, 5:00pm",
