@@ -434,6 +434,13 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
+    },
+    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -446,13 +453,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
-    },
-    {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
         "title": "MONK Roma",
@@ -924,18 +924,18 @@
         "link": "https://xceed.me/en/hamburg/event/one-night-with-felix-krocher-1/240707"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "VER pres. PARAÇEK INVITES (EARLY RA",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "Seehaus",
@@ -1036,18 +1036,18 @@
         "link": "https://xceed.me/en/hamburg/event/latin-rave-x-uebel-gefahrlich/248058"
     },
     {
-        "title": "Beau Didier · Bours? · ENNIO +4",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-raw-w-beau-didier-bours-hamburg-xceed-square-408c.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-raw-w-beau-didier-bours/249887"
-    },
-    {
         "title": "Reto · tom sass · KÄZ +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe-hamburg-xceed-edc0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe/250796"
+    },
+    {
+        "title": "Beau Didier · Bours? · ENNIO +4",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-raw-w-beau-didier-bours-hamburg-xceed-square-408c.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-raw-w-beau-didier-bours/249887"
     },
     {
         "title": "HARDWICK",
