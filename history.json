@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Dole & Kom",
+        "title": "Away",
+        "time": "2026-11-04 06:17:07"
+    },
+    {
+        "artist": "Mert Demir, Mabel Matiz",
+        "title": "Antidepresan",
+        "time": "2026-11-04 06:13:11"
+    },
+    {
+        "artist": "Deeperise, Jabbar, Deeperise, Jabbar, Ali Tekintüre, Ali Tekintüre",
+        "title": "Benim İçin Üzülme",
+        "time": "2026-11-04 06:09:45"
+    },
+    {
+        "artist": "Amira Alaf, Alejandro Gabriel Seoane",
+        "title": "Odyssey",
+        "time": "2026-11-04 06:07:40"
+    },
+    {
         "artist": "Nils Hoffmann",
         "title": "Afterglow (Extended Mix)",
         "time": "2026-11-04 06:02:29"
@@ -28,25 +48,5 @@
         "artist": "Seoan, Manuel Moreno, Alejandro Gabriel Seoane",
         "title": "Milagrosa",
         "time": "2026-11-04 05:45:50"
-    },
-    {
-        "artist": "Rone",
-        "title": "Nakt",
-        "time": "2026-11-04 05:41:21"
-    },
-    {
-        "artist": "Reklam-Teaser",
-        "title": "Reklam-Teaser",
-        "time": "2026-11-04 05:41:02"
-    },
-    {
-        "artist": "German Brigante",
-        "title": "One Love You Play (Bonus Track)",
-        "time": "2026-11-04 05:36:46"
-    },
-    {
-        "artist": "Jon Gurd, Reset Robot",
-        "title": "Century Stab (Extended Mix)",
-        "time": "2026-11-04 05:31:31"
     }
 ]
