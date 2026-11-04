@@ -84,11 +84,11 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
+        "title": "Sala Taro",
+        "date": "Rampell Club: Diara DGY · Carla Gal",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
+        "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -96,6 +96,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-rooftop/247255"
+    },
+    {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
     },
     {
         "title": "Moog",
@@ -112,11 +119,11 @@
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
     },
     {
-        "title": "Sala Taro",
-        "date": "Rampell Club: Diara DGY · Carla Gal",
+        "title": "CDLC - Carpe Diem",
+        "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
+        "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/french-night-x-cdlc/247262"
     },
     {
         "title": "SEASEACLUB",
@@ -131,13 +138,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nye-rooftop-party/247257"
-    },
-    {
-        "title": "CDLC - Carpe Diem",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/french-night-x-cdlc/247262"
     },
     {
         "title": "La Paloma",
@@ -343,6 +343,13 @@
         "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
+        "title": "MONK Roma",
+        "date": "IMARHAN x MOJO FEST",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/imarhan-roma-xceed-square-000b.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/imarhan-x-mojo-fest/230449"
+    },
+    {
         "title": "Hacienda",
         "date": "Maribou State @ Hacienda - Roma | 1",
         "location": "ROMA",
@@ -355,13 +362,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "IMARHAN x MOJO FEST",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/imarhan-roma-xceed-square-000b.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/imarhan-x-mojo-fest/230449"
     },
     {
         "title": "Hacienda",
