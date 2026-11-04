@@ -84,6 +84,13 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -110,13 +117,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
-    },
-    {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
     },
     {
         "title": "SEASEACLUB",
@@ -322,18 +322,18 @@
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
         "title": "MONK Roma",
@@ -567,18 +567,18 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
     },
     {
-        "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
-    },
-    {
         "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
+    },
+    {
+        "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
     },
     {
         "title": "CLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
@@ -756,18 +756,18 @@
         "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
     },
     {
-        "title": "Le Baixu!",
-        "date": "Resonating Roots: Loop & Tradition ",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
-    },
-    {
         "title": "Gare de Bruxelles-Congres",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
+    },
+    {
+        "title": "Le Baixu!",
+        "date": "Resonating Roots: Loop & Tradition ",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
     },
     {
         "title": "BLOODY LOUIS",
@@ -903,18 +903,18 @@
         "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
     },
     {
-        "title": "Hot Chocolate Bar",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/day-drinking-at-muhlenkamp-hamburg-xceed-square-9235.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "VER pres. PARAÇEK INVITES (EARLY RA",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
+    },
+    {
+        "title": "Hot Chocolate Bar",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/day-drinking-at-muhlenkamp-hamburg-xceed-square-9235.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
     },
     {
         "title": "Uebel & Gefährlich",
