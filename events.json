@@ -80,7 +80,7 @@
         "title": "Boris Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-5c73.jpg?w=349&h=349&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
@@ -469,11 +469,11 @@
         "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
     {
-        "title": "MONK Roma",
+        "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/achal-live-roma-xceed-square-67c3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/achal-live/242838"
+        "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
     },
     {
         "title": "QUINDIE FESTIVALAlcazar",
@@ -495,6 +495,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/il-maestro-roma-xceed-square-bbd5.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/il-maestro/250878"
+    },
+    {
+        "title": "A.CHAL",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/achal-live-roma-xceed-square-67c3.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/achal-live/242838"
     },
     {
         "title": "Saverio Raimondo",
@@ -593,13 +600,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/061126-hotline-692-secret-garden/250666"
-    },
-    {
-        "title": "Ces Garcons · Leoparziale · Edoaliberti +1",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
     },
     {
         "title": "Jacidorex · Rbx",
@@ -896,18 +896,18 @@
         "link": "https://xceed.me/en/hamburg/event/bronka-hates-hamburg/246109"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "VER pres. PARAÇEK INVITES (EARLY RA",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ver-pres-paracek-invites-early-rave-hamburg-xceed-square-7b0c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
     },
     {
         "title": "Hot Chocolate Bar",

@@ -1,5 +1,30 @@
 [
     {
+        "artist": "Oliver Smith",
+        "title": "Signals (Maty Owl Remix)",
+        "time": "2026-11-04 16:11:51"
+    },
+    {
+        "artist": "Estiva",
+        "title": "Cometa",
+        "time": "2026-11-04 16:07:35"
+    },
+    {
+        "artist": "Reklam-Teaser",
+        "title": "Reklam-Teaser",
+        "time": "2026-11-04 16:07:17"
+    },
+    {
+        "artist": "mexalounge_news",
+        "title": "Mexalounge News",
+        "time": "2026-11-04 16:05:31"
+    },
+    {
+        "artist": "News Teaser",
+        "title": "News Teaser",
+        "time": "2026-11-04 16:05:22"
+    },
+    {
         "artist": "Frankie Vertigo, Aman Anand, Gai Barone",
         "title": "Can't Stop (Gai Barone Extended Remix)",
         "time": "2026-11-04 15:57:56"
@@ -23,30 +48,5 @@
         "artist": "Reklam-Teaser",
         "title": "Reklam-Teaser",
         "time": "2026-11-04 15:39:23"
-    },
-    {
-        "artist": "Jaydee (DE)",
-        "title": "Haunted (Extended Mix)",
-        "time": "2026-11-04 15:33:00"
-    },
-    {
-        "artist": "Durante, Anjunadeep",
-        "title": "Durante & ALLKNIGHT - How Does It Feel",
-        "time": "2026-11-04 15:28:26"
-    },
-    {
-        "artist": "Vinyl On Demand",
-        "title": "Bipolar Sunshine, Hardt Antoine, Nariman - Stay",
-        "time": "2026-11-04 15:25:14"
-    },
-    {
-        "artist": "LOUT",
-        "title": "Muthenya",
-        "time": "2026-11-04 15:21:19"
-    },
-    {
-        "artist": "Reklam-Teaser",
-        "title": "Reklam-Teaser",
-        "time": "2026-11-04 15:21:00"
     }
 ]
