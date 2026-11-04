@@ -1106,18 +1106,18 @@
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
     },
     {
-        "title": "Listening Session: Theo CrokerSecret Location",
-        "date": "Secret Location",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/listening-session-theo-croker-hamburg-xceed-square-a025.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/listening-session-theo-croker/250326"
-    },
-    {
         "title": "Jarmo · MOLU",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-jarmo-molu-ber-hamburg-xceed-efc0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-jarmo-molu-ber/251064"
+    },
+    {
+        "title": "Listening Session: Theo CrokerSecret Location",
+        "date": "Secret Location",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/listening-session-theo-croker-hamburg-xceed-square-a025.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/listening-session-theo-croker/250326"
     },
     {
         "title": "Vali Thun · Efe Jackson · Lilli Gurung +2",
@@ -1195,6 +1195,13 @@
         "location": "LONDON",
         "image": "https://images.xceed.me/events/banners/kinyxx-london-fetsh-edition-london-xceed-square-0122.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/london/event/kinyxx-london-fetsh-edition/244329"
+    },
+    {
+        "title": "Secret Location",
+        "date": "Alive Paolo Ferrara",
+        "location": "LONDON",
+        "image": "https://images.xceed.me/events/banners/alive-paolo-ferrara-london-xceed-square-3884.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/london/event/alive-paolo-ferrara/251099"
     },
     {
         "title": "Fri 26 Jun, 5:00pm",
