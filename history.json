@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Monolink",
+        "title": "Return To Oz (ARTBAT Remix)",
+        "time": "2026-11-05 18:00:27"
+    },
+    {
+        "artist": "Aio",
+        "title": "The Summit",
+        "time": "2026-11-05 17:53:40"
+    },
+    {
         "artist": "Endica",
         "title": "Time",
         "time": "2026-11-05 17:48:32"
@@ -38,15 +48,5 @@
         "artist": "Get Physical Music, Momoda Music",
         "title": "Momoda - Crash Goes Love (Extended Mix)",
         "time": "2026-11-05 17:15:54"
-    },
-    {
-        "artist": "ARTBAT",
-        "title": "Afterparty",
-        "time": "2026-11-05 17:10:59"
-    },
-    {
-        "artist": "Ten Walls",
-        "title": "Cadencia",
-        "time": "2026-11-05 17:10:28"
     }
 ]
