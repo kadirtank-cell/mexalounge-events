@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Deborah De Luca",
+        "title": "Kick It (Solamente) 132",
+        "time": "2026-11-05 23:50:15"
+    },
+    {
+        "artist": "Mrak",
+        "title": "Speranza",
+        "time": "2026-11-05 23:45:06"
+    },
+    {
         "artist": "Emro",
         "title": "Vastness",
         "time": "2026-11-05 23:38:29"
@@ -38,15 +48,5 @@
         "artist": "Coyu",
         "title": "Technostalgia (Original Mix) (Suara) 132",
         "time": "2026-11-05 23:01:34"
-    },
-    {
-        "artist": "Terminal M Records",
-        "title": "Monika Kruse - Latex (Mark Reeve Remix)",
-        "time": "2026-11-05 22:57:49"
-    },
-    {
-        "artist": "Ampish Junoon (Original Mix)",
-        "title": "Ampish Junoon (Original Mix)",
-        "time": "2026-11-05 22:51:41"
     }
 ]
