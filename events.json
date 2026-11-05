@@ -56,13 +56,6 @@
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -70,11 +63,11 @@
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
     },
     {
-        "title": "NegroRojo",
+        "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
+        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
     },
     {
         "title": "City Hall",
@@ -82,6 +75,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka-barcelona-xceed-square-f4a6.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka/250067"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
     },
     {
         "title": "Slow Club",
@@ -322,18 +322,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
         "title": "Palazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "Fusolab",
@@ -616,18 +616,18 @@
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
-    },
-    {
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
     },
     {
         "title": "LIFT BRUSSELS",
