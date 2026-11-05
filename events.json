@@ -42,6 +42,13 @@
         "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -54,13 +61,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
     },
     {
         "title": "City Hall",
@@ -105,18 +105,18 @@
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-dadame/250852"
+    },
+    {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -357,18 +357,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
         "title": "MONK Roma",
@@ -441,11 +441,11 @@
         "link": "https://xceed.me/en/roma/event/rcc-special-saverio-raimondo-one-man-show/248729"
     },
     {
-        "title": "LIVETJ (Tanael Joachim) - The Alien Everywhere Tour -  STAND UP C",
-        "date": "TBA (SOON)",
+        "title": "Codefendants",
+        "date": "Codefendants Live @ Traffic (RM) | ",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tj-tanael-joachim-the-alien-everywhere-tour-alcazar-live-trastevere-roma-xceed-square-874d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tj-tanael-joachim-the-alien-everywhere-tour-stand-up-comedy-show-eng/233425"
+        "image": "https://images.xceed.me/events/banners/codefendants-live-hacienda-rm-5-novembre-2026-roma-xceed-square-9fc4.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/codefendants-live-traffic-rm-5-novembre-2026/227522"
     },
     {
         "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouseFunk",
@@ -460,13 +460,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-roma-xceed-square-4d6f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo/249042"
-    },
-    {
-        "title": "Codefendants",
-        "date": "Codefendants Live @ Traffic (RM) | ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/codefendants-live-hacienda-rm-5-novembre-2026-roma-xceed-square-9fc4.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/codefendants-live-traffic-rm-5-novembre-2026/227522"
     },
     {
         "title": "NEL CASINO - Laura De Greef - Laurentt, Michele Cesaretti.Alcazar",
@@ -644,18 +637,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "NISKA (SHOWCASE)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
     },
     {
         "title": "Gare de Bruxelles-Congres",
