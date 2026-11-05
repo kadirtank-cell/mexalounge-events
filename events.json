@@ -35,6 +35,13 @@
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
+        "title": "Sala Taro",
+        "date": "Rampell Club: Diara DGY · Carla Gal",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -47,13 +54,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
-    },
-    {
-        "title": "Sala Taro",
-        "date": "Rampell Club: Diara DGY · Carla Gal",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
         "title": "NegroRojo",
@@ -371,18 +371,18 @@
         "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "Hacienda",
@@ -462,18 +462,18 @@
         "link": "https://xceed.me/en/roma/event/tj-tanael-joachim-the-alien-everywhere-tour-stand-up-comedy-show-eng/233425"
     },
     {
-        "title": "Yokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-roma-xceed-square-4d6f.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo/249042"
-    },
-    {
         "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-roma-xceed-f010.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-35/242513"
+    },
+    {
+        "title": "Yokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-roma-xceed-square-4d6f.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo/249042"
     },
     {
         "title": "NEL CASINO - Laura De Greef - Laurentt, Michele Cesaretti.Alcazar",
@@ -504,18 +504,18 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
     },
     {
-        "title": "18eSto! University NightTEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
-    },
-    {
         "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
+    },
+    {
+        "title": "18eSto! University NightTEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
     },
     {
         "title": "CLUB SCENA presents NO MORE DRAMALanificio",
@@ -630,18 +630,18 @@
         "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
-    },
-    {
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
     },
     {
         "title": "Mirano",
@@ -700,18 +700,18 @@
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-33/249960"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-33/249960"
     },
     {
         "title": "Scene Brussels",
