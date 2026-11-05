@@ -133,6 +133,13 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
     },
     {
+        "title": "Moog",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
+    },
+    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -145,13 +152,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
-    },
-    {
-        "title": "Moog",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
     },
     {
         "title": "SEASEACLUB",
@@ -343,18 +343,18 @@
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
         "title": "Cieloterra",
@@ -399,18 +399,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/achal-live-roma-xceed-square-67c3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/achal-live/242838"
-    },
-    {
         "title": "Hacienda",
         "date": "Nto - Live @ Hacienda | 18 Dicembre",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/achal-live-roma-xceed-square-67c3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/achal-live/242838"
     },
     {
         "title": "MONK Roma",
