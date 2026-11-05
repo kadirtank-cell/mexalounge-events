@@ -448,18 +448,18 @@
         "link": "https://xceed.me/en/roma/event/rcc-special-saverio-raimondo-one-man-show/248729"
     },
     {
-        "title": "Codefendants",
-        "date": "Codefendants Live @ Traffic (RM) | ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/codefendants-live-hacienda-rm-5-novembre-2026-roma-xceed-square-9fc4.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/codefendants-live-traffic-rm-5-novembre-2026/227522"
-    },
-    {
         "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-roma-xceed-f010.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-35/242513"
+    },
+    {
+        "title": "Codefendants",
+        "date": "Codefendants Live @ Traffic (RM) | ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/codefendants-live-hacienda-rm-5-novembre-2026-roma-xceed-square-9fc4.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/codefendants-live-traffic-rm-5-novembre-2026/227522"
     },
     {
         "title": "TJ (Tanael Joachim) - The Alien Everywhere Tour -  STAND UP COMED",
@@ -539,18 +539,18 @@
         "link": "https://xceed.me/en/roma/event/061126-hotline-692-secret-garden/250666"
     },
     {
-        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
-    },
-    {
         "title": "Jacidorex · Rbx",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
+        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
     },
     {
         "title": "MUSIC ATELIER - Alcazar LiveAlcazar",
@@ -623,18 +623,18 @@
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
-        "title": "Mirano",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
+    },
+    {
+        "title": "Mirano",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -700,6 +700,13 @@
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
+        "title": "Scene Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
+    },
+    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -712,13 +719,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/aura-33/249960"
-    },
-    {
-        "title": "Scene Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
     },
     {
         "title": "Le Baixu!",
