@@ -21,13 +21,6 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
-        "title": "NIX bcn",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -35,11 +28,25 @@
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
     },
     {
+        "title": "NIX bcn",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
+    },
+    {
         "title": "SEASEACLUB",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live-barcelona-xceed-square-8c90.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live/243260"
+    },
+    {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
     },
     {
         "title": "Bikini Club",
@@ -70,11 +77,11 @@
         "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
     },
     {
-        "title": "BUS HEXPERIENCE",
+        "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
+        "image": "https://images.xceed.me/events/banners/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka-barcelona-xceed-square-f4a6.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka/250067"
     },
     {
         "title": "NegroRojo",
@@ -82,13 +89,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
-    },
-    {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka-barcelona-xceed-square-f4a6.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka/250067"
     },
     {
         "title": "NegroRojo",
@@ -402,15 +402,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
+        "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/thylacine/233342"
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "Hacienda",
@@ -434,11 +434,18 @@
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
     },
     {
-        "title": "Saverio Raimondo",
+        "title": "LIVEComemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouse",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-special-saverio-raimondo-one-man-show-roma-xceed-square-4e46.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-special-saverio-raimondo-one-man-show/248729"
+        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-roma-xceed-f010.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-35/242513"
+    },
+    {
+        "title": "LIVEYokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-roma-xceed-square-4d6f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo/249042"
     },
     {
         "title": "Codefendants",
@@ -448,21 +455,7 @@
         "link": "https://xceed.me/en/roma/event/codefendants-live-traffic-rm-5-novembre-2026/227522"
     },
     {
-        "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouseFunk",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-roma-xceed-f010.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-35/242513"
-    },
-    {
-        "title": "Yokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-roma-xceed-square-4d6f.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo/249042"
-    },
-    {
-        "title": "Yokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
+        "title": "LIVEYokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-1-roma-xceed-square-cdf7.png?w=149&h=149&q=90&fm=auto",
@@ -637,18 +630,18 @@
         "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
     },
     {
-        "title": "Mirano",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
+    },
+    {
+        "title": "Mirano",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
     },
     {
         "title": "BIRDY",
@@ -952,7 +945,7 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
-        "title": "Nikki Tiger Thursday presents HOMEBASE × UNISCENENikki TigerHouse",
+        "title": "LIVENikki Tiger Thursday presents HOMEBASE × UNISCENENikki TigerH",
         "date": "Nikki Tiger Thursday presents HOMEB",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-thursday-presents-homebase-uniscene-4-hamburg-xceed-a003.png?w=149&h=149&q=90&fm=auto",
