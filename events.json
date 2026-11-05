@@ -294,18 +294,18 @@
         "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
         "title": "Hacienda",
@@ -395,13 +395,6 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/achal-live-roma-xceed-square-67c3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/achal-live/242838"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
@@ -434,6 +427,13 @@
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
     },
     {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
+    },
+    {
         "title": "LIVEComemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouse",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -453,13 +453,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-1-roma-xceed-square-cdf7.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo-1/249475"
-    },
-    {
-        "title": "NEL CASINO - Laura De Greef - Laurentt, Michele Cesaretti.Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
     },
     {
         "title": "Michael Mayo",
@@ -560,6 +553,13 @@
         "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set/251252"
     },
     {
+        "title": "Francesco di Lernia · Riccardo Crivez · Filippo Simoniello +4",
+        "date": "RCC | Bananas | CRIVEZ - SIMONIELLO",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/rcc-bananas-crivez-simoniello-mattiozzi-di-lernia-flamment-marongiu-dargenio-roma-xceed-square-c4d4.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/rcc-bananas-crivez-simoniello-mattiozzi-di-lernia-flamment-marongiu-dargenio/248309"
+    },
+    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -603,17 +603,17 @@
     },
     {
         "title": "BLOODY LOUIS",
-        "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
-    },
-    {
-        "title": "BLOODY LOUIS",
         "date": "NISKA (SHOWCASE)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -955,7 +955,7 @@
         "title": "Beau Didier · Bours? · ENNIO +4",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-raw-w-beau-didier-bours-hamburg-xceed-square-408c.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-raw-w-beau-didier-bours-hamburg-xceed-square-ed4c.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-raw-w-beau-didier-bours/249887"
     },
     {
@@ -976,7 +976,7 @@
         "title": "SUPERGLOSS · Gianni · Klaryoko +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-akt-w-supergloss-hamburg-xceed-square-0fa2.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-akt-w-supergloss-hamburg-xceed-square-93b4.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-akt-w-supergloss/249889"
     },
     {
