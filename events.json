@@ -56,18 +56,18 @@
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
-    },
-    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
     },
     {
         "title": "City Hall",
@@ -119,6 +119,20 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
+    },
+    {
+        "title": "Moog",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
+    },
+    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -138,20 +152,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
-    },
-    {
-        "title": "Moog",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -504,18 +504,18 @@
         "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
     },
     {
-        "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
-    },
-    {
         "title": "CLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/club-scena-presents-no-more-drama-2-roma-xceed-square-cc62.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
+    },
+    {
+        "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
     },
     {
         "title": "CIRCUITOTag Culture",
@@ -658,18 +658,18 @@
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
     },
     {
-        "title": "Gare de Bruxelles-Congres",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "DJUNO x HOTEL TRENDY 2 YEARS ANNIVE",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/djuno-x-hotel-trendy-12-november-2026-brussels-xceed-square-009f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
+    },
+    {
+        "title": "Gare de Bruxelles-Congres",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
     },
     {
         "title": "LIFT BRUSSELS",
