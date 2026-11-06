@@ -301,18 +301,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
         "title": "Hacienda",
@@ -434,11 +434,25 @@
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
     },
     {
-        "title": "Michael Mayo",
-        "date": "Michael Mayo SOLO - Alcazar Live",
+        "title": "Luciano Lamanna · Robbss",
+        "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/michael-mayo-solo-alcazar-live-1-roma-xceed-square-89e1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/michael-mayo-solo-alcazar-live-1/246427"
+        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
+    },
+    {
+        "title": "LIVECLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/club-scena-presents-no-more-drama-2-roma-xceed-square-cc62.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
+    },
+    {
+        "title": "LIVESERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
     },
     {
         "title": "LIVECIRCUITOTag Culture",
@@ -453,27 +467,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/061126-hotline-692-secret-garden/250666"
-    },
-    {
-        "title": "Luciano Lamanna · Robbss",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
-    },
-    {
-        "title": "CLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/club-scena-presents-no-more-drama-2-roma-xceed-square-cc62.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
-    },
-    {
-        "title": "SERATA SPOTTED - Palazzo San LorenzoPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spotted-1-roma-xceed-square-7ce1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serata-spotted-palazzo-san-lorenzo/250672"
     },
     {
         "title": "Jacidorex · Rbx",
@@ -504,18 +497,18 @@
         "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-7-th-nov/250596"
     },
     {
-        "title": "07.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPop",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/071126-megabello-692-secret-garden/250667"
-    },
-    {
         "title": "INDIE ROCK A SAN LOLLO - DJ SETPalazzo - San LorenzoIndie - Rock",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/indie-rock-a-san-lollo-dj-set-roma-xceed-square-edb4.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set/251252"
+    },
+    {
+        "title": "07.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPop",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/071126-megabello-692-secret-garden/250667"
     },
     {
         "title": "BLACK HOPERATHE RANDOMAfrobeatsAmapianoDancehall",
@@ -544,6 +537,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/pronto-indie-dj-set-roma-xceed-square-7575.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/pronto-indie-dj-set/250592"
+    },
+    {
+        "title": "TUTTI SATELLITI - UGO BORGHETTI | PODCAST LIVEAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/tutti-satelliti-ugo-borghetti-podcast-live-dj-set-roma-xceed-square-cd3e.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/tutti-satelliti-ugo-borghetti-podcast-live/249950"
     },
     {
         "title": "BLOODY LOUIS",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
+    },
+    {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -854,18 +854,18 @@
         "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
-        "title": "Seehaus",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+    },
+    {
+        "title": "Seehaus",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -924,18 +924,18 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
-        "title": "LATIN RAVE X UEBEL & GEFÄHRLICHUebel & GefährlichLatinLatin Tech ",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/the-queer-latin-party-1-hamburg-xceed-square-d5fd.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/latin-rave-x-uebel-gefahrlich/248058"
-    },
-    {
         "title": "Reto · tom sass · KÄZ +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe-hamburg-xceed-edc0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe/250796"
+    },
+    {
+        "title": "LIVELATIN RAVE X UEBEL & GEFÄHRLICHUebel & GefährlichLatinLatin T",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/the-queer-latin-party-1-hamburg-xceed-square-d5fd.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/latin-rave-x-uebel-gefahrlich/248058"
     },
     {
         "title": "Beau Didier · Bours? · ENNIO +4",
