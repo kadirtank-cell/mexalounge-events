@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Alice Dimar",
+        "title": "Sweet Moment",
+        "time": "2026-11-06 15:50:13"
+    },
+    {
+        "artist": "Shouse",
+        "title": "Love Tonight (David Guetta Remix)",
+        "time": "2026-11-06 15:47:17"
+    },
+    {
+        "artist": "İmdat Beşikçi-Acid Vortex",
+        "title": "İmdat Beşikçi-Acid Vortex",
+        "time": "2026-11-06 15:43:05"
+    },
+    {
+        "artist": "Huminal",
+        "title": "Guardian",
+        "time": "2026-11-06 15:39:39"
+    },
+    {
         "artist": "DJ Ton T.B. Electronic Malfunction (Original)",
         "title": "DJ Ton T.B. Electronic Malfunction (Original)",
         "time": "2026-11-06 15:29:55"
@@ -28,25 +48,5 @@
         "artist": "Monolink",
         "title": "Swallow",
         "time": "2026-11-06 15:03:43"
-    },
-    {
-        "artist": "Tonic Walter",
-        "title": "The Ghost",
-        "time": "2026-11-06 14:58:02"
-    },
-    {
-        "artist": "DAVID VENDETTA Feat. RACHAEL STAR",
-        "title": "Bleeding Heart (String Remix With Micah)",
-        "time": "2026-11-06 13:25:29"
-    },
-    {
-        "artist": "Estiva",
-        "title": "Cometa",
-        "time": "2026-11-06 13:21:13"
-    },
-    {
-        "artist": "Duke Dumont",
-        "title": "Ocean Drive",
-        "time": "2026-11-06 13:17:31"
     }
 ]
