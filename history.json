@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Beat Of The Drum (Extended Mix)   HARDWELL",
+        "title": "Beat Of The Drum (Extended Mix)  HARDWELL",
+        "time": "2026-11-06 00:36:22"
+    },
+    {
+        "artist": "Lose Yourself (Extended Mix)   Mia Mendi",
+        "title": "Lose Yourself (Extended Mix)  Mia Mendi",
+        "time": "2026-11-06 00:30:52"
+    },
+    {
         "artist": "Sam Shure",
         "title": "Regency",
         "time": "2026-11-06 00:25:05"
@@ -38,15 +48,5 @@
         "artist": "Mrak",
         "title": "Speranza",
         "time": "2026-11-05 23:45:06"
-    },
-    {
-        "artist": "Emro",
-        "title": "Vastness",
-        "time": "2026-11-05 23:38:29"
-    },
-    {
-        "artist": "Dream",
-        "title": "Afem Syko, Linds (Extended Mix) 150",
-        "time": "2026-11-05 23:34:00"
     }
 ]
