@@ -161,11 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/nye-rooftop-party/247257"
     },
     {
-        "title": "La Paloma",
+        "title": "Opposite",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-80dc.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
+        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "KhaLI",
@@ -215,13 +215,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-bichigyalli-barcelona-xceed-9e0f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-bichigyalli/250184"
-    },
-    {
-        "title": "LoadOpposite",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "Sasha · Sack",
@@ -351,17 +344,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
-        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "Fusolab",
@@ -539,6 +532,13 @@
         "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set/251252"
     },
     {
+        "title": "BLACK HOPERATHE RANDOMAfrobeatsAmapianoDancehall",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/black-hopera-roma-xceed-square-37d6.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/black-hopera/251422"
+    },
+    {
         "title": "Francesco di Lernia · Riccardo Crivez · Filippo Simoniello +4",
         "date": "RCC | Bananas | CRIVEZ - SIMONIELLO",
         "location": "ROMA",
@@ -558,13 +558,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/pronto-indie-dj-set-roma-xceed-square-7575.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/pronto-indie-dj-set/250592"
-    },
-    {
-        "title": "TUTTI SATELLITI - UGO BORGHETTI | PODCAST LIVEAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tutti-satelliti-ugo-borghetti-podcast-live-dj-set-roma-xceed-square-cd3e.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tutti-satelliti-ugo-borghetti-podcast-live/249950"
     },
     {
         "title": "BLOODY LOUIS",
