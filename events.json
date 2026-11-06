@@ -105,18 +105,18 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-dadame/250852"
     },
     {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
+    },
+    {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -235,7 +235,7 @@
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/hypnotic-cris-h-frankie-g-barcelona-xceed-square-5a63.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/hypnotic-cris-h-frankie-g/248779"
+        "link": "https://xceed.me/en/barcelona/event/hypnotic-cris-h-frankie-g-1/248779"
     },
     {
         "title": "360° BATTLE | FACE TO FACECity HallHardcoreTechno",
@@ -343,6 +343,13 @@
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
+        "title": "Lanificio",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
+    },
+    {
         "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
@@ -355,13 +362,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
-    },
-    {
-        "title": "Lanificio",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
     },
     {
         "title": "Fusolab",
@@ -399,6 +399,13 @@
         "link": "https://xceed.me/en/roma/event/the-molotovs-live-hacienda-roma-11-novembre-2026/243636"
     },
     {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -418,13 +425,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
-    },
-    {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
     },
     {
         "title": "Cieloterra",
@@ -595,6 +595,13 @@
         "link": "https://xceed.me/en/brussels/event/3robi-showcase-velar/246376"
     },
     {
+        "title": "Mirano",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
+    },
+    {
         "title": "Jeux d'Hiver",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -607,13 +614,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
-    },
-    {
-        "title": "Mirano",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
     },
     {
         "title": "BLOODY LOUIS",
@@ -952,18 +952,18 @@
         "link": "https://xceed.me/en/hamburg/event/latin-rave-x-uebel-gefahrlich/248058"
     },
     {
-        "title": "Beau Didier · Bours? · ENNIO +4",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-raw-w-beau-didier-bours-hamburg-xceed-square-ed4c.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-raw-w-beau-didier-bours/249887"
-    },
-    {
         "title": "Reto · tom sass · KÄZ +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe-hamburg-xceed-edc0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-liquid-beats-special-guest-kaz-swe/250796"
+    },
+    {
+        "title": "Beau Didier · Bours? · ENNIO +4",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-raw-w-beau-didier-bours-hamburg-xceed-square-ed4c.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-raw-w-beau-didier-bours/249887"
     },
     {
         "title": "HARDWICK",
