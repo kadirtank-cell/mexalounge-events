@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Giorgia Angiuli",
+        "title": "Golden Door",
+        "time": "2026-11-06 19:48:49"
+    },
+    {
+        "artist": "Seismal D, Amiley, Daniele Vantaggio, Emilia Del Monte",
+        "title": "Ricordia",
+        "time": "2026-11-06 19:42:33"
+    },
+    {
         "artist": "Yellowheads",
         "title": "Monochrome Dreams (Peak Mode Mix)",
         "time": "2026-11-06 19:36:50"
@@ -38,15 +48,5 @@
         "artist": "HNTR",
         "title": "Victory",
         "time": "2026-11-06 19:02:53"
-    },
-    {
-        "artist": "MRAK, Braev",
-        "title": "All Of The Lights",
-        "time": "2026-11-06 18:57:10"
-    },
-    {
-        "artist": "Recondite",
-        "title": "Levo",
-        "time": "2026-11-06 18:52:39"
     }
 ]
