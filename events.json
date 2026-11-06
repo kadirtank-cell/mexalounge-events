@@ -14,13 +14,6 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-victor-hugo/250840"
-    },
-    {
         "title": "DOT",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,18 +161,18 @@
         "link": "https://xceed.me/en/barcelona/event/nye-rooftop-party/247257"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-80dc.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
+    },
+    {
         "title": "KhaLI",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long-barcelona-xceed-square-a218.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long/249412"
-    },
-    {
-        "title": "bruno castillo · XEXO",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-xexo-disco-bar-los-dos-mil-bruno-not-bruno/250850"
     },
     {
         "title": "LIVEFunk StationJamboree Jazz ClubFunk",
@@ -264,6 +257,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/javi-gon-30-barcelona-xceed-ef83.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/javi-gon-30/249981"
+    },
+    {
+        "title": "DJ Muuz · Dj Kunta · Big Mil +1",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/saturday-night-dj-muuz-dj-kunta-barcelona-xceed-36eb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/saturday-night-dj-muuz-dj-kunta/250185"
+    },
+    {
+        "title": "Cívaro · Miguel Silva · Elwei",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long-barcelona-xceed-square-8c05.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long/251254"
     },
     {
         "title": "Largo Venue",
