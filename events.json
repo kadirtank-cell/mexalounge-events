@@ -665,13 +665,6 @@
         "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/07-novembre-lift-x-babinski-showcase-de-french-montana-brussels-xceed-square-efe6.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/07-novembre-lift-x-babinski-showcase-de-french-montana/248528"
-    },
-    {
         "title": "Scene Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -735,6 +728,13 @@
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
+    },
+    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -747,6 +747,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-39-brussels-xceed-square-f242.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-39/251053"
+    },
+    {
+        "title": "French Montana",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/07-novembre-lift-x-babinski-showcase-de-french-montana-brussels-xceed-square-efe6.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/showcase-french-montana-lift-x-babinski/251474"
     },
     {
         "title": "Sip & Paint - BrusselsFox Food Market",
