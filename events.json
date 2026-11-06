@@ -189,13 +189,6 @@
         "link": "https://xceed.me/en/barcelona/event/thursday-night-dj-eley/250183"
     },
     {
-        "title": "TBA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-67/249777"
-    },
-    {
         "title": "LIVETHURSDAY ANGELS GAVIRIA l SECRET ROOM l TECHNO / HARD TECHNO ",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -264,6 +257,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-bichigyalli-barcelona-xceed-9e0f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-bichigyalli/250184"
+    },
+    {
+        "title": "LoadOpposite",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "Largo Venue",
@@ -448,13 +448,6 @@
         "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo/249042"
     },
     {
-        "title": "LIVEYokho Tribe at Nuovo Palazzo San LorenzoPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/yokho-tribe-at-nuovo-palazzo-san-lorenzo-1-roma-xceed-square-cdf7.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/yokho-tribe-at-nuovo-palazzo-san-lorenzo-1/249475"
-    },
-    {
         "title": "Michael Mayo",
         "date": "Michael Mayo SOLO - Alcazar Live",
         "location": "ROMA",
@@ -558,6 +551,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/rcc-bananas-crivez-simoniello-mattiozzi-di-lernia-flamment-marongiu-dargenio-roma-xceed-square-c4d4.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/rcc-bananas-crivez-simoniello-mattiozzi-di-lernia-flamment-marongiu-dargenio/248309"
+    },
+    {
+        "title": "Dj DEZ  · AMED KEY · Kokob +2",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-with-black-on-roma-xceed-square-aca2.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-with-black-on/250335"
     },
     {
         "title": "BLOODY LOUIS",
