@@ -42,6 +42,13 @@
         "link": "https://xceed.me/en/barcelona/event/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live/243260"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -54,13 +61,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
     },
     {
         "title": "City Hall",
@@ -329,18 +329,18 @@
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
-        "title": "Hacienda",
-        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
+    },
+    {
+        "title": "Hacienda",
+        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -413,6 +413,13 @@
         "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
     {
+        "title": "Hacienda",
+        "date": "Nto - Live @ Hacienda | 18 Dicembre",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -432,13 +439,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19-roma-xceed-square-7334.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
-    },
-    {
-        "title": "Hacienda",
-        "date": "Nto - Live @ Hacienda | 18 Dicembre",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
         "title": "Michael Mayo",
