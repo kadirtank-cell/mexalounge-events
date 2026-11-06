@@ -84,18 +84,18 @@
         "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
     },
     {
-        "title": "La Terrrazza",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
-    },
-    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
+    },
+    {
+        "title": "La Terrrazza",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -133,6 +133,13 @@
         "link": "https://xceed.me/en/barcelona/event/nye-rooftop-party/247257"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-80dc.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
+    },
+    {
         "title": "Boris Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/french-night-x-cdlc/247262"
-    },
-    {
-        "title": "Opposite",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "KhaLI",
@@ -215,6 +215,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-bichigyalli-barcelona-xceed-9e0f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-bichigyalli/250184"
+    },
+    {
+        "title": "LoadOpposite",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "Sasha · Sack",
@@ -421,17 +428,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
-    },
-    {
-        "title": "MONK Roma",
         "date": "Mark Guiliana x JE - BEAT MUSIC 2.0",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19-roma-xceed-square-7334.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "Michael Mayo",
@@ -637,18 +644,18 @@
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
     },
     {
-        "title": "Gare de Bruxelles-Congres",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "DJUNO x HOTEL TRENDY 2 YEARS ANNIVE",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/djuno-x-hotel-trendy-12-november-2026-brussels-xceed-square-009f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
+    },
+    {
+        "title": "Gare de Bruxelles-Congres",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
     },
     {
         "title": "Scene Brussels",
