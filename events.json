@@ -63,13 +63,6 @@
         "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
-    },
-    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -77,11 +70,11 @@
         "link": "https://xceed.me/en/barcelona/event/cortex-x-61-portal-w-arcex-paulix-b2b-atram-leiti-quka/250067"
     },
     {
-        "title": "La Terrrazza",
+        "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -89,6 +82,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-dadame/250852"
+    },
+    {
+        "title": "La Terrrazza",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
         "title": "City Hall",
@@ -161,11 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/french-night-x-cdlc/247262"
     },
     {
-        "title": "Cohete: G Spot / Disco Bar",
+        "title": "Opposite",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-space-moreno-many-more-cohete-gspot-blackbox/250061"
+        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "KhaLI",
@@ -215,13 +215,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-bichigyalli-barcelona-xceed-9e0f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-bichigyalli/250184"
-    },
-    {
-        "title": "LoadOpposite",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "Sasha · Sack",
@@ -322,18 +315,18 @@
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
         "title": "Hacienda",
@@ -371,6 +364,13 @@
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
+    },
+    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -383,13 +383,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
-    },
-    {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
     },
     {
         "title": "MONK Roma",
@@ -406,18 +399,18 @@
         "link": "https://xceed.me/en/roma/event/the-molotovs-live-hacienda-roma-11-novembre-2026/243636"
     },
     {
-        "title": "Hacienda",
-        "date": "Nto - Live @ Hacienda | 18 Dicembre",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/thylacine/233342"
+    },
+    {
+        "title": "Hacienda",
+        "date": "Nto - Live @ Hacienda | 18 Dicembre",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
         "title": "MONK Roma",
@@ -441,13 +434,6 @@
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
-        "title": "Michael Mayo",
-        "date": "Michael Mayo SOLO - Alcazar Live",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/michael-mayo-solo-alcazar-live-1-roma-xceed-square-89e1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/michael-mayo-solo-alcazar-live-1/246427"
-    },
-    {
         "title": "Phil Romano · Mattia Matthew · Dj Consuelo",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -455,11 +441,11 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
     },
     {
-        "title": "Luciano Lamanna · Robbss",
-        "date": "TBA (SOON)",
+        "title": "Michael Mayo",
+        "date": "Michael Mayo SOLO - Alcazar Live",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
+        "image": "https://images.xceed.me/events/banners/michael-mayo-solo-alcazar-live-1-roma-xceed-square-89e1.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/michael-mayo-solo-alcazar-live-1/246427"
     },
     {
         "title": "18eSto! University NightTEATRO CENTRALEReggaeton",
@@ -467,6 +453,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
+    },
+    {
+        "title": "Luciano Lamanna · Robbss",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
     },
     {
         "title": "CLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
@@ -675,6 +668,13 @@
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
@@ -684,13 +684,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
     },
     {
         "title": "BIRDY",
@@ -742,18 +735,18 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-38/251052"
     },
     {
-        "title": "Roonx",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-39-brussels-xceed-square-f242.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-39/251053"
-    },
-    {
         "title": "French Montana",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/07-novembre-lift-x-babinski-showcase-de-french-montana-brussels-xceed-square-efe6.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/showcase-french-montana-lift-x-babinski/251474"
+    },
+    {
+        "title": "Roonx",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-39-brussels-xceed-square-f242.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-39/251053"
     },
     {
         "title": "Sip & Paint - BrusselsFox Food Market",
@@ -892,15 +885,15 @@
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
+        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
         "title": "Uebel & Gefährlich",
