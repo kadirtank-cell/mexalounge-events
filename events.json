@@ -280,18 +280,18 @@
         "link": "https://xceed.me/en/roma/event/poppe-11/250681"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/juicy-at-lanificio-roma-xceed-square-6104.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
         "title": "MONK Roma",
@@ -392,6 +392,13 @@
         "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
     },
     {
+        "title": "Hacienda",
+        "date": "Nto - Live @ Hacienda | 18 Dicembre",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -404,13 +411,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19-roma-xceed-square-7334.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
-    },
-    {
-        "title": "Hacienda",
-        "date": "Nto - Live @ Hacienda | 18 Dicembre",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
         "title": "MONK Roma",
@@ -836,15 +836,15 @@
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
+        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
     },
     {
         "title": "Seehaus",
