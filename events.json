@@ -371,13 +371,6 @@
         "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
     },
     {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/18esto-university-night-20-roma-xceed-0d42.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/18esto-university-night-20/250594"
-    },
-    {
         "title": "Hacienda",
         "date": "The Molotovs Live @ Hacienda - Roma",
         "location": "ROMA",
@@ -427,11 +420,11 @@
         "link": "https://xceed.me/en/roma/event/mark-guiliana-x-je-beat-music-20-concerto-presto-inizio-ore-19/244482"
     },
     {
-        "title": "LIVECLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
+        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/club-scena-presents-no-more-drama-2-roma-xceed-square-cc62.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/club-scena-presents-no-more-drama-2/250029"
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "LIVECIRCUITOTag Culture",
@@ -516,6 +509,20 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/agm-any-given-monday-10-roma-xceed-eebf.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/agm-any-given-monday-15/251457"
+    },
+    {
+        "title": "QUINDIE FESTIVALAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/quindie-festival-9-roma-xceed-square-5a95.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/quindie-festival-9/249956"
+    },
+    {
+        "title": "Bonita ''no dejes que te lo cuenten''-  11 NovembreTEATRO CENTRAL",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-11-novembre-roma-xceed-f19f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-11-novembre/251458"
     },
     {
         "title": "BLOODY LOUIS",
@@ -637,18 +644,18 @@
         "link": "https://xceed.me/en/brussels/event/aura-33/249960"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/07-novembre-lift-x-babinski-showcase-de-french-montana-brussels-xceed-square-efe6.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/showcase-french-montana-lift-x-babinski/251474"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
         "title": "Ratz Food Market",
@@ -1069,13 +1076,6 @@
         "location": "LONDON",
         "image": "https://images.xceed.me/events/banners/kinyxx-london-fetsh-edition-london-xceed-square-0122.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/london/event/kinyxx-london-fetsh-edition/244329"
-    },
-    {
-        "title": "Secret Location",
-        "date": "Alive Paolo Ferrara",
-        "location": "LONDON",
-        "image": "https://images.xceed.me/events/banners/alive-paolo-ferrara-london-xceed-square-3884.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/london/event/alive-paolo-ferrara/251099"
     },
     {
         "title": "Secret Location",
