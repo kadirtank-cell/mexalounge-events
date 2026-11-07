@@ -14,25 +14,11 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-72-barcelona-xceed-square-cf0e.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-dadame/250852"
     },
     {
         "title": "DOT",
@@ -168,6 +154,20 @@
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
     },
     {
+        "title": "Opposite",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/load/249294"
+    },
+    {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-srxmas-disco-bar-los-dos-mil-bruno-not-bruno/251319"
+    },
+    {
         "title": "KhaLI",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -194,13 +194,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-bichigyalli-barcelona-xceed-9e0f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-bichigyalli/250184"
-    },
-    {
-        "title": "LoadOpposite",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "Sasha · Sack",
@@ -257,6 +250,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/seasea-stay-barre-by-the-sea-barcelona-xceed-square-9b95.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/seasea-stay-barre-by-the-sea/250362"
+    },
+    {
+        "title": "Carol Nyx · Mr. Majestyk",
+        "date": "Marc Silva + Carol Nyx",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/marc-silva-carol-nyx-1-barcelona-xceed-dcf0.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/marc-silva-carol-nyx-1/249984"
+    },
+    {
+        "title": "Jonathan Stout QuintetJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/jonathan-stout-quintet-barcelona-xceed-7846.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jonathan-stout-quintet/250159"
     },
     {
         "title": "Largo Venue",
