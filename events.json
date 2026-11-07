@@ -168,20 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/cicle-john-coltrane-bruce-barth-trio-piero-odorici/250163"
     },
     {
-        "title": "KhaLI",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long-barcelona-xceed-square-a218.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/lunes-l-dj-khali-l-secret-room-l-techno-hard-techno-all-night-long/249412"
-    },
-    {
-        "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-117/247913"
-    },
-    {
         "title": "Cris-H · Frankie G",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -189,7 +175,7 @@
         "link": "https://xceed.me/en/barcelona/event/hypnotic-cris-h-frankie-g-1/248779"
     },
     {
-        "title": "360° BATTLE | FACE TO FACECity HallHardcoreTechno",
+        "title": "LIVE360° BATTLE | FACE TO FACECity HallHardcoreTechno",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/360-battle-face-to-face-barcelona-xceed-square-ff87.png?w=149&h=149&q=90&fm=auto",
@@ -208,6 +194,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long-barcelona-xceed-square-8c05.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long/251254"
+    },
+    {
+        "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-117/247913"
     },
     {
         "title": "Javi Gon · Rorschach",
@@ -271,6 +264,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/jamboree-jam-session-28-barcelona-xceed-8061.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-28/250160"
+    },
+    {
+        "title": "Dj Mastie",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/monday-night-dj-mastie-37-barcelona-xceed-bb30.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/monday-night-dj-mastie-37/250187"
     },
     {
         "title": "Lanificio",
@@ -455,7 +455,7 @@
         "link": "https://xceed.me/en/roma/event/071126-megabello-692-secret-garden/250667"
     },
     {
-        "title": "BLACK HOPERATHE RANDOMAfrobeatsAmapianoDancehall",
+        "title": "LIVEBLACK HOPERATHE RANDOMAfrobeatsAmapianoDancehall",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/black-hopera-roma-xceed-square-37d6.jpg?w=149&h=149&q=90&fm=auto",
@@ -910,18 +910,18 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
-        "title": "Vali Thun · Sansetto",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-vali-thun-sansetto-hamburg-xceed-a33a.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-vali-thun-sansetto/250808"
-    },
-    {
         "title": "SUPERGLOSS · Gianni · Klaryoko +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-akt-w-supergloss-hamburg-xceed-square-93b4.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-akt-w-supergloss/249889"
+    },
+    {
+        "title": "Vali Thun · Sansetto",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-vali-thun-sansetto-hamburg-xceed-a33a.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-vali-thun-sansetto/250808"
     },
     {
         "title": "Vinbuu · AIIA",
