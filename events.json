@@ -7,18 +7,18 @@
         "link": "https://xceed.me/en/barcelona/event/the-society-of-art-x-anniversary-2nd-round/237541"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
-    },
-    {
         "title": "BUS HEXPERIENCE",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
     },
     {
         "title": "La Paloma",
@@ -112,6 +112,13 @@
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -131,13 +138,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nye-rooftop-party/247257"
-    },
-    {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
     },
     {
         "title": "La Paloma",
@@ -413,18 +413,18 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
     },
     {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/thylacine/233342"
-    },
-    {
-        "title": "Hacienda",
-        "date": "Nto - Live @ Hacienda | 18 Dicembre",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
         "title": "LIVECLUB SCENA presents NO MORE DRAMALanificioHitsR&BHip-hop",
@@ -446,20 +446,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/circuito-roma-xceed-square-4c52.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/circuito/250644"
-    },
-    {
-        "title": "LIVE06.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopA",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/061126-hotline-692-secret-garden/250666"
-    },
-    {
-        "title": "Jacidorex · Rbx",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
     },
     {
         "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
@@ -537,6 +523,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/tutti-satelliti-ugo-borghetti-podcast-live-dj-set-roma-xceed-square-cd3e.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/tutti-satelliti-ugo-borghetti-podcast-live/249950"
+    },
+    {
+        "title": "AGM- Any Given MondayTEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/agm-any-given-monday-10-roma-xceed-eebf.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/agm-any-given-monday-15/251457"
     },
     {
         "title": "BLOODY LOUIS",
