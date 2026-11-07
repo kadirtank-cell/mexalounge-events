@@ -147,18 +147,18 @@
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
     },
     {
-        "title": "Opposite",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/load/249294"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-srxmas-disco-bar-los-dos-mil-bruno-not-bruno/251319"
+    },
+    {
+        "title": "Opposite",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/load-barcelona-xceed-square-e1da.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/load/249294"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -344,17 +344,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
-    },
-    {
-        "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
         "title": "Fusolab",
@@ -889,18 +889,18 @@
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
     },
     {
-        "title": "Secret Location",
-        "date": "Secret Location",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
         "title": "Seehaus",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/fritz-kalkbrenner-4-hamburg-xceed-square-b9b3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
+    },
+    {
+        "title": "Secret Location",
+        "date": "Secret Location",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
         "title": "45 Hertz Festival",
@@ -915,13 +915,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
-    },
-    {
-        "title": "Beau Didier · Bours? · ENNIO +4",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-raw-w-beau-didier-bours-hamburg-xceed-square-ed4c.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-raw-w-beau-didier-bours/249887"
     },
     {
         "title": "SUPERGLOSS · Gianni · Klaryoko +2",
