@@ -21,6 +21,13 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
+    },
+    {
         "title": "Sala Taro",
         "date": "Rampell Club: Diara DGY · Carla Gal",
         "location": "BARCELONA",
@@ -33,13 +40,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live-barcelona-xceed-square-8c90.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live/243260"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
     },
     {
         "title": "DOT",
@@ -315,18 +315,18 @@
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
         "title": "Hacienda",
@@ -357,18 +357,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
-        "title": "Fusolab",
-        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
+    },
+    {
+        "title": "Fusolab",
+        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
         "title": "Alcazar",
@@ -595,6 +595,13 @@
         "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
+    },
+    {
         "title": "Scene Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -607,13 +614,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
     },
     {
         "title": "LIFT BRUSSELS",
