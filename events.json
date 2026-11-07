@@ -329,18 +329,18 @@
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -896,18 +896,18 @@
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
-    },
-    {
         "title": "Bobby Reich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
         "title": "SUPERGLOSS · Gianni · Klaryoko +2",
