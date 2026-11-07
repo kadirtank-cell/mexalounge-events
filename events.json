@@ -7,18 +7,18 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
     },
     {
-        "title": "SEASEACLUB",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-society-of-art-x-anniversary-2nd-round-barcelona-xceed-square-51b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-society-of-art-x-anniversary-2nd-round/237541"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-72-barcelona-xceed-square-cf0e.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
+    },
+    {
+        "title": "SEASEACLUB",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/the-society-of-art-x-anniversary-2nd-round-barcelona-xceed-square-51b2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/the-society-of-art-x-anniversary-2nd-round/237541"
     },
     {
         "title": "NegroRojo",
@@ -49,18 +49,18 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
-        "title": "NIX bcn",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
+    },
+    {
+        "title": "NIX bcn",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
         "title": "Bikini Club",
@@ -308,18 +308,18 @@
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
-        "title": "Hacienda",
-        "date": "Maribou State @ Hacienda - Roma | 1",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
+        "title": "Hacienda",
+        "date": "Maribou State @ Hacienda - Roma | 1",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
         "title": "MONK Roma",
@@ -344,13 +344,6 @@
     },
     {
         "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
-        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
@@ -358,10 +351,17 @@
     },
     {
         "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
+        "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
     },
     {
         "title": "Fusolab",
@@ -371,11 +371,11 @@
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
-        "title": "Alcazar",
+        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
+        "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
     },
     {
         "title": "Cieloterra",
@@ -434,7 +434,7 @@
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
-        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
+        "title": "LIVEAlcazar Comedy Club - Alcazar Live TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=149&h=149&q=90&fm=auto",
@@ -581,6 +581,13 @@
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
+    },
+    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -593,13 +600,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/trendy-afrique-vs-antilles-mirano-brussels-brussels-xceed-square-bb77.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
     },
     {
         "title": "Scene Brussels",
