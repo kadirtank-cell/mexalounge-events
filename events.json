@@ -344,17 +344,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
-        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "Fusolab",
@@ -437,14 +437,7 @@
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
-        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
     },
     {
