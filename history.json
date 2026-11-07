@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Stranger Network",
+        "title": "Massano Feat. Darla Jade - Something In The Water (Extended Mix)",
+        "time": "2026-11-07 16:06:24"
+    },
+    {
+        "artist": "DAVI",
+        "title": "In Deep (Extended Mix)",
+        "time": "2026-11-07 15:56:59"
+    },
+    {
         "artist": "HAFT",
         "title": "Aeryon",
         "time": "2026-11-07 15:49:44"
@@ -38,15 +48,5 @@
         "artist": "LOUT",
         "title": "Muthenya",
         "time": "2026-11-07 15:07:24"
-    },
-    {
-        "artist": "Frankie Vertigo, Aman Anand, Gai Barone",
-        "title": "Can't Stop (Gai Barone Extended Remix)",
-        "time": "2026-11-07 14:59:39"
-    },
-    {
-        "artist": "Fordal, Zuccasam",
-        "title": "Cyber Lights (Zuccasam Remix)",
-        "time": "2026-11-07 14:51:24"
     }
 ]
