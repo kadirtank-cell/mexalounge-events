@@ -14,18 +14,18 @@
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mr-b-vs-krol/250842"
     },
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-72-barcelona-xceed-square-cf0e.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
-    },
-    {
         "title": "BUS HEXPERIENCE",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-72-barcelona-xceed-square-cf0e.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-72/248403"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -315,18 +315,18 @@
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/nel-casino-laura-de-greef-laurentt-michele-cesaretti-roma-xceed-square-8372.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/nel-casino-laura-de-greef-laurentt-michele-cesaretti-1/249654"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
         "title": "Hacienda",
@@ -623,11 +623,11 @@
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "DJUNO x HOTEL TRENDY 2 YEARS ANNIVE",
+        "title": "Scene Brussels",
+        "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/djuno-x-hotel-trendy-12-november-2026-brussels-xceed-square-009f.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
+        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
     },
     {
         "title": "Gare de Bruxelles-Congres",
@@ -637,11 +637,11 @@
         "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
     },
     {
-        "title": "Scene Brussels",
-        "date": "TBA (SOON)",
+        "title": "Hotel Trendy",
+        "date": "DJUNO x HOTEL TRENDY 2 YEARS ANNIVE",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
+        "image": "https://images.xceed.me/events/banners/djuno-x-hotel-trendy-12-november-2026-brussels-xceed-square-009f.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
     },
     {
         "title": "BLOODY LOUIS",
