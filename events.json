@@ -28,11 +28,11 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
-        "title": "NIX bcn",
-        "date": "TBA (SOON)",
+        "title": "Sala Taro",
+        "date": "Rampell Club: Diara DGY · Carla Gal",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
+        "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
         "title": "NegroRojo",
@@ -40,6 +40,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
+    },
+    {
+        "title": "NIX bcn",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
         "title": "SEASEACLUB",
@@ -54,13 +61,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
-    },
-    {
-        "title": "Sala Taro",
-        "date": "Rampell Club: Diara DGY · Carla Gal",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
         "title": "Bikini Club",
@@ -430,15 +430,15 @@
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
+        "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
     },
     {
-        "title": "MUSIC ATELIER - Alcazar LiveAlcazarDeep HouseHouse",
+        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
+        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
     },
     {
         "title": "Don't Tell Mama - Saturday 7 th Nov.TEATRO CENTRALE",
@@ -987,18 +987,18 @@
         "link": "https://xceed.me/en/hamburg/event/listening-session-flofilz-1/249231"
     },
     {
-        "title": "DJ AYA · Surf 2 Glory · Cufme +4",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-aya-surf2glory-cufme-hamburg-xceed-square-9b20.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-aya-surf2glory-cufme/249891"
-    },
-    {
         "title": "IVORY | Back To The RootsUWE Club Reeperbahn",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ivory-back-to-the-roots-hamburg-xceed-c73a.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ivory-back-to-the-roots/250037"
+    },
+    {
+        "title": "DJ AYA · Surf 2 Glory · Cufme +4",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-aya-surf2glory-cufme-hamburg-xceed-square-9b20.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-aya-surf2glory-cufme/249891"
     },
     {
         "title": "Ashwin · Noah James (GER)",
