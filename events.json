@@ -63,6 +63,13 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
     },
     {
+        "title": "La Terrrazza",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
+    },
+    {
         "title": "Sala Taro",
         "date": "Rampell Club: Diara DGY · Carla Gal",
         "location": "BARCELONA",
@@ -75,13 +82,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
-    },
-    {
-        "title": "La Terrrazza",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -98,6 +98,13 @@
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-srxmas-disco-bar-los-dos-mil-bruno-not-bruno/251319"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -110,13 +117,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-80dc.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-srxmas-disco-bar-los-dos-mil-bruno-not-bruno/251319"
     },
     {
         "title": "Boris Club",
@@ -553,18 +553,18 @@
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/3robi-showcase-velar-brussels-xceed-square-afa7.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/3robi-showcase-velar/246376"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-2-brussels-xceed-square-766c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-2/250122"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/3robi-showcase-velar-brussels-xceed-square-afa7.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/3robi-showcase-velar/246376"
     },
     {
         "title": "BLOODY LOUIS",
@@ -630,18 +630,18 @@
         "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/07-novembre-lift-x-babinski-showcase-de-french-montana-brussels-xceed-square-efe6.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/showcase-french-montana-lift-x-babinski/251474"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/aura-33/249960"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/07-novembre-lift-x-babinski-showcase-de-french-montana-brussels-xceed-square-efe6.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/showcase-french-montana-lift-x-babinski/251474"
     },
     {
         "title": "BLOODY LOUIS",
@@ -812,18 +812,18 @@
         "link": "https://xceed.me/en/hamburg/event/one-night-with-felix-krocher-1/240707"
     },
     {
-        "title": "Hot Chocolate Bar",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/day-drinking-at-muhlenkamp-hamburg-xceed-square-9235.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-rap-festival/248797"
+    },
+    {
+        "title": "Hot Chocolate Bar",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/day-drinking-at-muhlenkamp-hamburg-xceed-square-9235.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/day-drinking-at-muhlenkamp/248552"
     },
     {
         "title": "Uebel & Gefährlich",
