@@ -189,13 +189,6 @@
         "link": "https://xceed.me/en/barcelona/event/rabent-11/249980"
     },
     {
-        "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-116/247911"
-    },
-    {
         "title": "Dj Eley · Bichigyalli · Big Mil",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -257,6 +250,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long-barcelona-xceed-square-8c05.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long/251254"
+    },
+    {
+        "title": "SEASEA STAY · Barre by the SeaSEASEACLUB",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasea-stay-barre-by-the-sea-barcelona-xceed-square-9b95.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasea-stay-barre-by-the-sea/250362"
     },
     {
         "title": "Largo Venue",
@@ -364,13 +364,6 @@
         "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tek-hole-pres-lamanna-roma-xceed-square-1cd7.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tek-hole-pres-lamanna/249867"
-    },
-    {
         "title": "Hacienda",
         "date": "The Molotovs Live @ Hacienda - Roma",
         "location": "ROMA",
@@ -383,13 +376,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-peli-e-peluche-roma-xceed-square-3bed.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-peli-e-peluche/250959"
     },
     {
         "title": "Cieloterra",
@@ -425,6 +411,20 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "LIVECIRCUITOTag Culture",
@@ -525,6 +525,13 @@
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-11-novembre/251458"
     },
     {
+        "title": "INDIEPANCHINE PRESENTA: ADDIVVI + LAURYYN + SCAR @ MONK ROMAMONK ",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
+    },
+    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -537,13 +544,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-two-stages-reggaeton-salsa-bachata-brussels-xceed-square-0c5f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-two-stages-reggaeton-salsa-bachata/248564"
-    },
-    {
-        "title": "BIRDY",
-        "date": "EL GRANDE TOTO X SAHARA",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/el-grande-toto-x-sahara-brussels-xceed-square-d698.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/el-grande-toto-x-sahara/248572"
     },
     {
         "title": "Mirano",
@@ -693,11 +693,11 @@
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
-        "title": "Roonx",
+        "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-38-brussels-xceed-square-329d.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-38/251052"
+        "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
         "title": "Roonx",
