@@ -1,12 +1,5 @@
 [
     {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-2/250557"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -108,6 +101,13 @@
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions-barcelona-xceed-square-79c2.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions/250287"
+    },
+    {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
@@ -124,13 +124,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions-barcelona-xceed-square-79c2.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions/250287"
     },
     {
         "title": "Moog",
@@ -168,6 +161,13 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-space-moreno-many-more-cohete-gspot-blackbox/250061"
     },
     {
+        "title": "Jamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cicle-john-coltrane-bruce-barth-trio-piero-odorici-barcelona-xceed-5f21.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cicle-john-coltrane-bruce-barth-trio-piero-odorici/250163"
+    },
+    {
         "title": "KhaLI",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -182,18 +182,18 @@
         "link": "https://xceed.me/en/barcelona/event/hypnotic-cris-h-frankie-g-1/248779"
     },
     {
-        "title": "DJ Muuz · Dj Kunta · Big Mil +1",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/saturday-night-dj-muuz-dj-kunta-barcelona-xceed-36eb.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/saturday-night-dj-muuz-dj-kunta/250185"
-    },
-    {
         "title": "360° BATTLE | FACE TO FACECity HallHardcoreTechno",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/360-battle-face-to-face-barcelona-xceed-square-ff87.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/360-battle-face-to-face/251048"
+    },
+    {
+        "title": "DJ Muuz · Dj Kunta · Big Mil +1",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/saturday-night-dj-muuz-dj-kunta-barcelona-xceed-36eb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/saturday-night-dj-muuz-dj-kunta/250185"
     },
     {
         "title": "Cívaro · Miguel Silva · Elwei",
@@ -266,6 +266,13 @@
         "link": "https://xceed.me/en/barcelona/event/uroz-72/249986"
     },
     {
+        "title": "Jamboree Jam SessionJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/jamboree-jam-session-28-barcelona-xceed-8061.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-28/250160"
+    },
+    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -280,18 +287,18 @@
         "link": "https://xceed.me/en/roma/event/macello-live-a-roma-pensieri-cattivi/242330"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/poppe-11-roma-xceed-square-f4b1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/poppe-11/250681"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/poppe-11-roma-xceed-square-f4b1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/poppe-11/250681"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -385,18 +392,18 @@
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
-        "title": "Hacienda",
-        "date": "The Molotovs Live @ Hacienda - Roma",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-molotovs-live-hacienda-roma-11-novembre-2026-roma-xceed-square-b581.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-molotovs-live-hacienda-roma-11-novembre-2026/243636"
-    },
-    {
         "title": "TEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-7-th-nov-roma-xceed-df96.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-7-th-nov/250596"
+    },
+    {
+        "title": "Hacienda",
+        "date": "The Molotovs Live @ Hacienda - Roma",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-molotovs-live-hacienda-roma-11-novembre-2026-roma-xceed-square-b581.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-molotovs-live-hacienda-roma-11-novembre-2026/243636"
     },
     {
         "title": "MONK Roma",
@@ -434,18 +441,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
+        "title": "LIVEINDIE ROCK A SAN LOLLO - DJ SETPalazzo - San LorenzoIndie - R",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/indie-rock-a-san-lollo-dj-set-roma-xceed-square-edb4.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set/251252"
+    },
+    {
         "title": "LIVE07.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/071126-megabello-692-secret-garden/250667"
-    },
-    {
-        "title": "INDIE ROCK A SAN LOLLO - DJ SETPalazzo - San LorenzoIndie - Rock",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indie-rock-a-san-lollo-dj-set-roma-xceed-square-edb4.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set/251252"
     },
     {
         "title": "BLACK HOPERATHE RANDOMAfrobeatsAmapianoDancehall",
@@ -561,17 +568,17 @@
     },
     {
         "title": "BLOODY LOUIS",
-        "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
-    },
-    {
-        "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
     },
     {
         "title": "Jeux d'Hiver",
@@ -889,13 +896,6 @@
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
-    },
-    {
         "title": "Bobby Reich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -903,11 +903,11 @@
         "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
     },
     {
-        "title": "SUPERGLOSS · Gianni · Klaryoko +2",
+        "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-akt-w-supergloss-hamburg-xceed-square-93b4.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-akt-w-supergloss/249889"
+        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
         "title": "Vali Thun · Sansetto",
@@ -915,6 +915,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-vali-thun-sansetto-hamburg-xceed-a33a.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-vali-thun-sansetto/250808"
+    },
+    {
+        "title": "SUPERGLOSS · Gianni · Klaryoko +2",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-akt-w-supergloss-hamburg-xceed-square-93b4.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-akt-w-supergloss/249889"
     },
     {
         "title": "Vinbuu · AIIA",
