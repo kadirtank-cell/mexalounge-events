@@ -28,18 +28,18 @@
         "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
     },
     {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
-    },
-    {
         "title": "Sala Taro",
         "date": "Rampell Club: Diara DGY · Carla Gal",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/rampell-club-diara-dgy-carla-gal-yam-g-barcelona-xceed-square-5bd6.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
+    },
+    {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
     },
     {
         "title": "SEASEACLUB",
@@ -70,18 +70,18 @@
         "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
     },
     {
-        "title": "La Terrrazza",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
-    },
-    {
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
+    },
+    {
+        "title": "La Terrrazza",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
         "title": "City Hall",
@@ -392,6 +392,13 @@
         "link": "https://xceed.me/en/roma/event/the-molotovs-live-hacienda-roma-11-novembre-2026/243636"
     },
     {
+        "title": "TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-7-th-nov-roma-xceed-df96.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-7-th-nov/250596"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -404,13 +411,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
-    },
-    {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-7-th-nov-roma-xceed-df96.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-7-th-nov/250596"
     },
     {
         "title": "MONK Roma",
@@ -432,13 +432,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
-    },
-    {
-        "title": "LIVEAlcazar Comedy Club - Alcazar Live TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-19/242514"
     },
     {
         "title": "LIVE07.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
@@ -525,6 +518,13 @@
         "link": "https://xceed.me/en/roma/event/fomo-night-18-years-of-ace/251314"
     },
     {
+        "title": "Ciccio Mileto",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/rcc-open-mic-presenta-ciccio-mileto-roma-xceed-square-6147.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/rcc-open-mic-presenta-ciccio-mileto/249856"
+    },
+    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -567,18 +567,18 @@
         "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
     },
     {
-        "title": "Jeux d'Hiver",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
+    },
+    {
+        "title": "Jeux d'Hiver",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
         "title": "Scene Brussels",
