@@ -35,18 +35,18 @@
         "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
     },
     {
-        "title": "DOT",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
-    },
-    {
         "title": "SEASEACLUB",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live-barcelona-xceed-square-8c90.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live/243260"
+    },
+    {
+        "title": "DOT",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
         "title": "NIX bcn",
@@ -196,6 +196,13 @@
         "link": "https://xceed.me/en/barcelona/event/360-battle-face-to-face/251048"
     },
     {
+        "title": "Cívaro · Miguel Silva · Elwei",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long-barcelona-xceed-square-8c05.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long/251254"
+    },
+    {
         "title": "MIRABLAU CLUBMIRABLAUHitsPopReggaeton",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -208,13 +215,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/javi-gon-30-barcelona-xceed-ef83.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/javi-gon-30/249981"
-    },
-    {
-        "title": "Cívaro · Miguel Silva · Elwei",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long-barcelona-xceed-square-8c05.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long/251254"
     },
     {
         "title": "SEASEA STAY · Barre by the SeaSEASEACLUB",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/trendy-afrique-vs-antilles-mirano-brussels-the-day-before-public-holiday/243004"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
-    },
-    {
         "title": "Scene Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rumafriends-scene-pt2-brussels-xceed-square-ee87.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rumafriends-scene-pt2/250052"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
     },
     {
         "title": "BLOODY LOUIS",
