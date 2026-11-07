@@ -28,18 +28,18 @@
         "link": "https://xceed.me/en/barcelona/event/rampell-club-diara-dgy-carla-gal-yam-g/248054"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
-    },
-    {
         "title": "SEASEACLUB",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live-barcelona-xceed-square-8c90.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live/243260"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
     },
     {
         "title": "DOT",
@@ -126,18 +126,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "Moog",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
-    },
-    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions-barcelona-xceed-square-79c2.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions/250287"
+    },
+    {
+        "title": "Moog",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
     },
     {
         "title": "CDLC - Carpe Diem",
@@ -371,18 +371,18 @@
         "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
         "title": "Hacienda",
