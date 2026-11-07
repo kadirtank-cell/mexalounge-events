@@ -42,18 +42,18 @@
         "link": "https://xceed.me/en/barcelona/event/les-enfants-at-seaseaclub-pres-dj-masda-mathew-jonson-live-tal-fussman-sansibar-live/243260"
     },
     {
-        "title": "DOT",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
+    },
+    {
+        "title": "DOT",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
         "title": "NIX bcn",
@@ -77,18 +77,18 @@
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
-    },
-    {
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
+    },
+    {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
     },
     {
         "title": "Slow Club",
@@ -294,6 +294,13 @@
         "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -306,13 +313,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
     },
     {
         "title": "Hacienda",
@@ -343,6 +343,13 @@
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -355,13 +362,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/music-atelier-alcazar-live-roma-xceed-square-2a15.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/music-atelier-alcazar-live/242515"
     },
     {
         "title": "Fusolab",
@@ -623,6 +623,13 @@
         "link": "https://xceed.me/en/brussels/event/showcase-french-montana-lift-x-babinski/251474"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-33/249960"
+    },
+    {
         "title": "Gare de Bruxelles-Congres",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -635,13 +642,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/djuno-x-hotel-trendy-12-november-2026-brussels-xceed-square-009f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-33/249960"
     },
     {
         "title": "BLOODY LOUIS",
@@ -686,18 +686,18 @@
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-no-name/251501"
     },
     {
-        "title": "BLOODY LOUIS",
+        "title": "DADA Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
+        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
         "title": "Roonx",
