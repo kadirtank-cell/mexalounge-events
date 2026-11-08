@@ -280,18 +280,18 @@
         "link": "https://xceed.me/en/roma/event/juicy-at-lanificio/249830"
     },
     {
-        "title": "Largo Venue",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/macello-live-a-roma-pensieri-cattivi-roma-xceed-square-bb96.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/macello-live-a-roma-pensieri-cattivi/242330"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+    },
+    {
+        "title": "Largo Venue",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/macello-live-a-roma-pensieri-cattivi-roma-xceed-square-bb96.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/macello-live-a-roma-pensieri-cattivi/242330"
     },
     {
         "title": "MONK Roma",
