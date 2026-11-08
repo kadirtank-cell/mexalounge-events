@@ -455,11 +455,11 @@
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
-        "title": "MONK Roma",
+        "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
+        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
         "title": "Francesco di Lernia · Riccardo Crivez · Filippo Simoniello +4",
@@ -903,13 +903,6 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "Sat 13 Mar, 11:59pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
-    },
-    {
         "title": "Bobby Reich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -917,11 +910,11 @@
         "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
     },
     {
-        "title": "glimmer",
-        "date": "TBA (SOON)",
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
         "title": "Secret Location",
@@ -929,6 +922,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
+    },
+    {
+        "title": "glimmer",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
     },
     {
         "title": "Seehaus",
