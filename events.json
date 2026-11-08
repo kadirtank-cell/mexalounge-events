@@ -14,20 +14,6 @@
         "link": "https://xceed.me/en/barcelona/event/the-society-of-art-x-anniversary-2nd-round/237541"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jerry-v-arnau-obiols-1/250846"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-s2creto-club-disco-bar-mr-b/250854"
-    },
-    {
         "title": "DOT",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,6 +154,20 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-121/247917"
+    },
+    {
+        "title": "VRABA TERRAZA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-ku/248848"
+    },
+    {
         "title": "LIVE360° BATTLE | FACE TO FACECity HallHardcoreTechno",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -292,6 +292,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1-barcelona-xceed-963f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1/250162"
+    },
+    {
+        "title": "DJ Muuz",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/tuesday-night-dj-muuz-7-barcelona-xceed-4c68.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tuesday-night-dj-muuz-7/250188"
     },
     {
         "title": "Largo Venue",
@@ -588,13 +595,6 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-two-stages-reggaeton-salsa-bachata/248564"
     },
     {
-        "title": "Mirano",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-07-11-mirano-brussels-brussels-xceed-square-e0e9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-07-11-mirano-brussels/248163"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -747,6 +747,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
         "title": "Sip & Paint - BrusselsFox Food Market",
