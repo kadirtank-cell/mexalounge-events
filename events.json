@@ -301,13 +301,6 @@
         "link": "https://xceed.me/en/barcelona/event/deep-tech-house-hermes-disco-eterno/248771"
     },
     {
-        "title": "Largo Venue",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/macello-live-a-roma-pensieri-cattivi-roma-xceed-square-bb96.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/macello-live-a-roma-pensieri-cattivi/242330"
-    },
-    {
         "title": "Palazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -469,6 +462,20 @@
         "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
+    },
+    {
+        "title": "Dj DEZ  · AMED KEY · Kokob +2",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-with-black-on-roma-xceed-square-aca2.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-with-black-on/250335"
+    },
+    {
         "title": "LIVEPRONTO INDIE - DJ SETAlcazarIndie pop",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -481,13 +488,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/tutti-satelliti-ugo-borghetti-podcast-live-dj-set-roma-xceed-square-cd3e.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/tutti-satelliti-ugo-borghetti-podcast-live/249950"
-    },
-    {
-        "title": "Dj DEZ  · AMED KEY · Kokob +2",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-with-black-on-roma-xceed-square-aca2.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-with-black-on/250335"
     },
     {
         "title": "AGM- Any Given MondayTEATRO CENTRALE",
@@ -595,6 +595,13 @@
         "link": "https://xceed.me/en/roma/event/18esto-la-folie-mon-amour-friday-university-night/251558"
     },
     {
+        "title": "Mara Sattei",
+        "date": "MARA SATTEI - Live",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/mara-sattei-live-roma-xceed-41ec.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/mara-sattei-live/224328"
+    },
+    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -686,6 +693,13 @@
         "link": "https://xceed.me/en/brussels/event/fresh-sunday-3/251001"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-no-name/251501"
+    },
+    {
         "title": "Hotel Trendy",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -712,13 +726,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-no-name/251501"
     },
     {
         "title": "DADA Brussels",
