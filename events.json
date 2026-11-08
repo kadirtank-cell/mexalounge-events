@@ -1,12 +1,5 @@
 [
     {
-        "title": "SEASEACLUB",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-society-of-art-x-anniversary-2nd-round-barcelona-xceed-square-51b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-society-of-art-x-anniversary-2nd-round/237541"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,6 +161,13 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/majo-alarcon-l-secret-room-l-indie-dance-melodic-techno-all-night-long-barcelona-xceed-square-f6ff.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/majo-alarcon-l-secret-room-l-indie-dance-melodic-techno-all-night-long/249927"
+    },
+    {
         "title": "Carol Nyx · Mr. Majestyk",
         "date": "Marc Silva + Carol Nyx",
         "location": "BARCELONA",
@@ -180,13 +180,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sunday-night-fein-sundayz-36-barcelona-xceed-5140.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sunday-night-fein-sundayz-36/250186"
-    },
-    {
-        "title": "MAJO ALARCON",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/majo-alarcon-l-secret-room-l-indie-dance-melodic-techno-all-night-long-barcelona-xceed-square-f6ff.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/majo-alarcon-l-secret-room-l-indie-dance-melodic-techno-all-night-long/249927"
     },
     {
         "title": "ELALEEIIX",
@@ -299,6 +292,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/deep-tech-house-hermes-disco-eterno-barcelona-xceed-square-4166.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/deep-tech-house-hermes-disco-eterno/248771"
+    },
+    {
+        "title": "Vandal · INNA SQUAD · Julia Wolf +2",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/vandal-in-the-city-raggatek-hardtek-tekno-main-room-l-teuf-kulture-barcelona-xceed-square-a1bb.webp?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/vandal-in-the-city-raggatek-hardtek-tekno-main-room-l-teuf-kulture/249566"
     },
     {
         "title": "Palazzo - San Lorenzo",
