@@ -77,6 +77,13 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-3-barcelona-xceed-square-1dd2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-3/251537"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -89,13 +96,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
-    },
-    {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-3-barcelona-xceed-square-1dd2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-3/251537"
     },
     {
         "title": "CDLC - Carpe Diem",
@@ -469,6 +469,13 @@
         "link": "https://xceed.me/en/roma/event/rcc-bananas-crivez-simoniello-mattiozzi-di-lernia-flamment-marongiu-dargenio/248309"
     },
     {
+        "title": "LIVETUTTI SATELLITI - UGO BORGHETTI | PODCAST LIVEAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/tutti-satelliti-ugo-borghetti-podcast-live-dj-set-roma-xceed-square-cd3e.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/tutti-satelliti-ugo-borghetti-podcast-live/249950"
+    },
+    {
         "title": "Dj DEZ  · AMED KEY · Kokob +2",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -481,13 +488,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/pronto-indie-dj-set-roma-xceed-square-7575.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/pronto-indie-dj-set/250592"
-    },
-    {
-        "title": "TUTTI SATELLITI - UGO BORGHETTI | PODCAST LIVEAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/tutti-satelliti-ugo-borghetti-podcast-live-dj-set-roma-xceed-square-cd3e.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/tutti-satelliti-ugo-borghetti-podcast-live/249950"
     },
     {
         "title": "AGM- Any Given MondayTEATRO CENTRALE",
@@ -560,18 +560,18 @@
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
     },
     {
-        "title": "MILLENNIAL BUG il party anni 2000 | MONK 13 NOV ORE 22:00| LIVE +",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
-    },
-    {
         "title": "Carlotta Spallino · Filippo Spreafico · Ciccio Mileto +3",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-1-roma-xceed-square-e5b9.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-1/251106"
+    },
+    {
+        "title": "MILLENNIAL BUG il party anni 2000 | MONK 13 NOV ORE 22:00| LIVE +",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
         "title": "Julian Anthony · Elvi · Francesco Maria +1",
@@ -623,18 +623,18 @@
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
     },
     {
         "title": "Gare de Bruxelles-Congres",
