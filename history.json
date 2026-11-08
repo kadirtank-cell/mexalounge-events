@@ -1,5 +1,25 @@
 [
     {
+        "artist": "ARTBAT, JOA",
+        "title": "The Spot",
+        "time": "2026-11-08 19:28:41"
+    },
+    {
+        "artist": "Anyma, Chris Avantgarde",
+        "title": "Quantum",
+        "time": "2026-11-08 19:25:13"
+    },
+    {
+        "artist": "Aio, HNGT",
+        "title": "No Compromise",
+        "time": "2026-11-08 19:20:08"
+    },
+    {
+        "artist": "Anyma; Rebūke",
+        "title": "Syren",
+        "time": "2026-11-08 19:16:34"
+    },
+    {
         "artist": "Beat Of The Drum (Extended Mix)   HARDWELL",
         "title": "Beat Of The Drum (Extended Mix)  HARDWELL",
         "time": "2026-11-08 19:12:31"
@@ -28,25 +48,5 @@
         "artist": "Argy, Joshlane",
         "title": "Papito",
         "time": "2026-11-08 18:54:34"
-    },
-    {
-        "artist": "Afroplugs, Afroplugs, Steve Stones",
-        "title": "I'm Moving To The Sun",
-        "time": "2026-11-08 18:51:32"
-    },
-    {
-        "artist": "Ben Böhmer",
-        "title": "Vale (Extended Mix)",
-        "time": "2026-11-08 18:45:17"
-    },
-    {
-        "artist": "MRAK, Braev",
-        "title": "All Of The Lights",
-        "time": "2026-11-08 18:39:56"
-    },
-    {
-        "artist": "Samm (BE), JUNO (DE)",
-        "title": "Heart Spin",
-        "time": "2026-11-08 18:33:44"
     }
 ]
