@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Rebūke, Au/Ra",
+        "title": "Ignite",
+        "time": "2026-11-08 17:11:13"
+    },
+    {
+        "artist": "DIYNAMIC",
+        "title": "Blackloud - And Then What",
+        "time": "2026-11-08 17:05:35"
+    },
+    {
+        "artist": "Massano",
+        "title": "Massano - Abraza [Official Visualizer]",
+        "time": "2026-11-08 17:03:00"
+    },
+    {
         "artist": "Franco Smith， Gonzalo F",
         "title": "Franco Smith, Gonzalo F - Girls On The Floor (Original Mix)",
         "time": "2026-11-08 16:58:05"
@@ -33,20 +48,5 @@
         "artist": "Earthlife",
         "title": "Expander",
         "time": "2026-11-08 16:25:12"
-    },
-    {
-        "artist": "Franco Smith",
-        "title": "The Anthem (Original Mix)",
-        "time": "2026-11-08 16:18:28"
-    },
-    {
-        "artist": "Peter Luts",
-        "title": "Mobius (Extended Mix)",
-        "time": "2026-11-08 16:13:10"
-    },
-    {
-        "artist": "Sonny Wern; ZANA; Quinten Circle; Lyente",
-        "title": "Dance For Me (1, 2, 3) (Stutter Techno)",
-        "time": "2026-11-08 16:10:44"
     }
 ]
