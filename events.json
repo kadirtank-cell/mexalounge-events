@@ -49,13 +49,6 @@
         "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
     },
     {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sabados-sauvage-2-barcelona-xceed-square-4ace.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-2/250650"
-    },
-    {
         "title": "La Terrrazza",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,6 +161,13 @@
         "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
+    },
+    {
         "title": "LIVE360° BATTLE | FACE TO FACECity HallHardcoreTechno",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -187,13 +187,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long-barcelona-xceed-square-8c05.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long/251254"
-    },
-    {
-        "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-117/247913"
     },
     {
         "title": "Javi Gon · Rorschach",
@@ -287,11 +280,18 @@
         "link": "https://xceed.me/en/barcelona/event/men-l-men-t-21/249988"
     },
     {
-        "title": "Cieloterra",
+        "title": "Trio GrandeJamboree Jazz Club",
         "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/jacidorex-rbx-cieloterra-roma-xceed-square-4eea.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/jacidorex-rbx-cieloterra/248490"
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/trio-grande-barcelona-xceed-ef43.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/trio-grande/250161"
+    },
+    {
+        "title": "Viatge pel Jazz: Una experiència des de Louis Armstrong a Rosalía",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1-barcelona-xceed-963f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1/250162"
     },
     {
         "title": "Largo Venue",
@@ -455,6 +455,13 @@
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
+    },
+    {
         "title": "Francesco di Lernia · Riccardo Crivez · Filippo Simoniello +4",
         "date": "RCC | Bananas | CRIVEZ - SIMONIELLO",
         "location": "ROMA",
@@ -565,6 +572,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
+    },
+    {
+        "title": "Julian Anthony · Elvi · Francesco Maria +1",
+        "date": "Julian Anthony · Elvi · Francesco M",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/mania-invites-julian-anthony-1-roma-xceed-2f70.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/mania-invites-julian-anthony-1/251323"
     },
     {
         "title": "C12",
@@ -733,13 +747,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
-    },
-    {
-        "title": "Roonx",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-39-brussels-xceed-square-f242.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-39/251053"
     },
     {
         "title": "Sip & Paint - BrusselsFox Food Market",
@@ -1097,13 +1104,6 @@
         "location": "CHARLOTTE DE WITTE",
         "image": "https://images.xceed.me/events/banners/i-love-sunday-w-charlotte-de-witte-napoli-xceed-700e.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/napoli/event/i-love-sunday-w-charlotte-de-witte/222043"
-    },
-    {
-        "title": "The Garage",
-        "date": "The Garage",
-        "location": "LONDON",
-        "image": "https://images.xceed.me/events/banners/la-malafamera-vol37-the-real-argentinian-revelry-london-xceed-03d6.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/london/event/la-malafamera-vol55-the-real-argentinian-revelry/246242"
     },
     {
         "title": "Fire",
