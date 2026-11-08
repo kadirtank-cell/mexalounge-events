@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Chi-AD",
+        "title": "Animatrix",
+        "time": "2026-11-08 18:05:50"
+    },
+    {
+        "artist": "Underground Fusion",
+        "title": "EVNTHZN - Mir Gehört Die Nacht (Original Mix)",
+        "time": "2026-11-08 18:00:28"
+    },
+    {
         "artist": "Tonic Walter",
         "title": "The Ghost",
         "time": "2026-11-08 17:54:47"
@@ -38,15 +48,5 @@
         "artist": "Losless, DIEGETIK",
         "title": "Losless - The Loop [DIEGETIK]",
         "time": "2026-11-08 17:17:20"
-    },
-    {
-        "artist": "MAXI MERAKI, Gkat, Grant Pallokat, Maxim Defrancq",
-        "title": "Tik Tak",
-        "time": "2026-11-08 17:14:25"
-    },
-    {
-        "artist": "Rebūke, Au/Ra",
-        "title": "Ignite",
-        "time": "2026-11-08 17:11:13"
     }
 ]
