@@ -1,5 +1,30 @@
 [
     {
+        "artist": "YABANCI",
+        "title": "Eternity",
+        "time": "2026-11-08 09:21:40"
+    },
+    {
+        "artist": "YABANCI",
+        "title": "Devotion",
+        "time": "2026-11-08 09:16:58"
+    },
+    {
+        "artist": "YABANCI",
+        "title": "Kiss My Agony",
+        "time": "2026-11-08 09:15:30"
+    },
+    {
+        "artist": "Maor Buzaglo, Atlantis",
+        "title": "Candela (Extended Mix)",
+        "time": "2026-11-08 09:10:59"
+    },
+    {
+        "artist": "YABANCI",
+        "title": "Call On Me",
+        "time": "2026-11-08 09:08:16"
+    },
+    {
         "artist": "The Drill",
         "title": "The Drill",
         "time": "2026-11-08 09:05:14"
@@ -23,30 +48,5 @@
         "artist": "Adriatique, Notre Dame, Timbaland, Nelly Furtado",
         "title": "Give It To Me 2025 (Extended Mix)",
         "time": "2026-11-08 08:44:20"
-    },
-    {
-        "artist": "David Guetta & Alphaville & Ava Max",
-        "title": "Forever Young (Extended Mix)",
-        "time": "2026-11-08 08:40:46"
-    },
-    {
-        "artist": "YABANCI",
-        "title": "BLACK EYED PEAS – I GOTTA FEELING",
-        "time": "2026-11-08 08:36:23"
-    },
-    {
-        "artist": "Bob Sinclar",
-        "title": "Bob Sinclar & Fireball - What I Want Is You (Visualizer)",
-        "time": "2026-11-08 08:34:04"
-    },
-    {
-        "artist": "Hugel, Ultra Naté",
-        "title": "Free (You Got To Live) (Extended Mix)",
-        "time": "2026-11-08 08:28:36"
-    },
-    {
-        "artist": "Flakkë",
-        "title": "Neurose 2.0",
-        "time": "2026-11-08 08:26:12"
     }
 ]
