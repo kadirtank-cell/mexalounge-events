@@ -7,32 +7,32 @@
     },
     {
         "rank": 2,
+        "artist": "Marika (IT), I Hate Milk",
+        "title": "Dust On My Shoes",
+        "play_count": 7
+    },
+    {
+        "rank": 3,
         "artist": "Akami, Alex Effe",
         "title": "Short Dick Man (Extended Mix)",
         "play_count": 7
     },
     {
-        "rank": 3,
+        "rank": 4,
         "artist": "Fantomel, Kate Linn, Provi",
         "title": "Dame Un Grrr (Provi Extended Remix)",
         "play_count": 7
     },
     {
-        "rank": 4,
+        "rank": 5,
         "artist": "Ede, Ape Drums, Deniz Tekin (TR), Rome Fortune, DESIREE",
         "title": "2 This",
         "play_count": 7
     },
     {
-        "rank": 5,
+        "rank": 6,
         "artist": "Vibey Deep House Music, El Chino Ramos",
         "title": "Shimza, AR:CO & Kasango - Fire Fire (Extended Mix) (Afro House)",
-        "play_count": 7
-    },
-    {
-        "rank": 6,
-        "artist": "Marika (IT), I Hate Milk",
-        "title": "Dust On My Shoes",
         "play_count": 7
     },
     {
@@ -49,74 +49,74 @@
     },
     {
         "rank": 9,
-        "artist": "SPACE MOTION",
-        "title": "Space Motion, Divolly & Markward - Hablando",
-        "play_count": 6
-    },
-    {
-        "rank": 10,
-        "artist": "Massuma",
-        "title": "Mermaid",
-        "play_count": 6
-    },
-    {
-        "rank": 11,
-        "artist": "MANU BS, Moree MK, Roland Clark",
-        "title": "Girls Dance (Extended Mix)",
-        "play_count": 6
-    },
-    {
-        "rank": 12,
         "artist": "Tonic Walter",
         "title": "Into The Night",
         "play_count": 6
     },
     {
+        "rank": 10,
+        "artist": "SPACE MOTION",
+        "title": "Space Motion, Divolly & Markward - Hablando",
+        "play_count": 6
+    },
+    {
+        "rank": 11,
+        "artist": "Massuma",
+        "title": "Mermaid",
+        "play_count": 6
+    },
+    {
+        "rank": 12,
+        "artist": "MANU BS, Moree MK, Roland Clark",
+        "title": "Girls Dance (Extended Mix)",
+        "play_count": 6
+    },
+    {
         "rank": 13,
-        "artist": "Kamafro",
-        "title": "Stayin Alive",
-        "play_count": 5
-    },
-    {
-        "rank": 14,
-        "artist": "The Sacred Tribe",
-        "title": "Pablo Fierro, Nautik (US) – Bird Of Paradise (Original Mix) - #Afrohouse #Thesacredtribe",
-        "play_count": 5
-    },
-    {
-        "rank": 15,
-        "artist": "&Friends",
-        "title": "Sean Paul, &Friends - Get Busy (Club Mix)",
-        "play_count": 5
-    },
-    {
-        "rank": 16,
-        "artist": "Ben Böhmer",
-        "title": "Beyond Beliefs",
-        "play_count": 5
-    },
-    {
-        "rank": 17,
-        "artist": "Benny Bennassi",
-        "title": "Benni Benassi - Change Style",
-        "play_count": 5
-    },
-    {
-        "rank": 18,
-        "artist": "Can Ates",
-        "title": "Shake Up The Drums (Extended Mix)",
-        "play_count": 5
-    },
-    {
-        "rank": 19,
         "artist": "Juany Bravo, Faul & Wad",
         "title": "Go Hot (Babylon) (Extended Mix)",
         "play_count": 5
     },
     {
+        "rank": 14,
+        "artist": "Can Ates",
+        "title": "Shake Up The Drums (Extended Mix)",
+        "play_count": 5
+    },
+    {
+        "rank": 15,
+        "artist": "Benny Bennassi",
+        "title": "Benni Benassi - Change Style",
+        "play_count": 5
+    },
+    {
+        "rank": 16,
+        "artist": "&Friends",
+        "title": "Sean Paul, &Friends - Get Busy (Club Mix)",
+        "play_count": 5
+    },
+    {
+        "rank": 17,
+        "artist": "The Sacred Tribe",
+        "title": "Francis Mercier, Mahmut Orhan - Sadete (Extended Mix) - #Afrohouse #Thesacredtribe",
+        "play_count": 5
+    },
+    {
+        "rank": 18,
+        "artist": "Lizzo",
+        "title": "About Damn Time",
+        "play_count": 5
+    },
+    {
+        "rank": 19,
+        "artist": "Borrtex, Borrtex",
+        "title": "It All Begins Here",
+        "play_count": 5
+    },
+    {
         "rank": 20,
-        "artist": "Eran Hersh, Anorre, Ben Bracha, MELØ",
-        "title": "Back Slap (Extended Mix)",
+        "artist": "Ben Böhmer",
+        "title": "Beyond Beliefs",
         "play_count": 5
     }
 ]
