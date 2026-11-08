@@ -66,13 +66,6 @@
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions-barcelona-xceed-square-79c2.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-legendary-sasha-last-night-on-earth-showcase-by-red-sessions/250287"
-    },
-    {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
@@ -133,13 +126,6 @@
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
     },
     {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/hypnotic-cris-h-frankie-g-barcelona-xceed-square-5a63.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/hypnotic-cris-h-frankie-g-1/248779"
-    },
-    {
         "title": "SEASEACLUB",
         "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
@@ -168,32 +154,18 @@
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-ku/248848"
     },
     {
-        "title": "LIVE360° BATTLE | FACE TO FACECity HallHardcoreTechno",
+        "title": "La Terrrazza",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/360-battle-face-to-face-barcelona-xceed-square-ff87.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/360-battle-face-to-face/251048"
+        "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
     },
     {
-        "title": "DJ Muuz · Dj Kunta · Big Mil +1",
+        "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/saturday-night-dj-muuz-dj-kunta-barcelona-xceed-36eb.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/saturday-night-dj-muuz-dj-kunta/250185"
-    },
-    {
-        "title": "Cívaro · Miguel Silva · Elwei",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long-barcelona-xceed-square-8c05.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/civaro-miguel-silva-el-wei-secret-room-melodic-techno-all-night-long/251254"
-    },
-    {
-        "title": "Javi Gon · Rorschach",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/javi-gon-30-barcelona-xceed-ef83.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/javi-gon-30/249981"
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "SEASEA STAY · Barre by the SeaSEASEACLUB",
@@ -299,6 +271,27 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tuesday-night-dj-muuz-7-barcelona-xceed-4c68.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tuesday-night-dj-muuz-7/250188"
+    },
+    {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-3341.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-65/249771"
+    },
+    {
+        "title": "DJ Muuz",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/wednesday-night-dj-muuz-1-barcelona-xceed-877a.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-muuz-1/250189"
+    },
+    {
+        "title": "BASSDEMON713 · DELERI · H.A +2",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/hardcore-maniaks-only-millennium-early-main-room-barcelona-xceed-square-2b65.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/hardcore-maniaks-only-millennium-early-main-room/251047"
     },
     {
         "title": "Largo Venue",
@@ -596,13 +589,6 @@
     },
     {
         "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/sona-casalua-brussels-xceed-square-3c18.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/sona-casalua/246287"
-    },
-    {
-        "title": "BLOODY LOUIS",
         "date": "NISKA (SHOWCASE)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
@@ -649,20 +635,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-drippy-club/249419"
-    },
-    {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/07-novembre-lift-x-babinski-showcase-de-french-montana-brussels-xceed-square-efe6.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/showcase-french-montana-lift-x-babinski/251474"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-33-brussels-xceed-977c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-33/249960"
     },
     {
         "title": "Gare de Bruxelles-Congres",
@@ -756,11 +728,25 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
-        "title": "Sip & Paint - BrusselsFox Food Market",
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/redroom-face-to-face-1-brussels-xceed-b90a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/redroom-face-to-face-1/244596"
+    },
+    {
+        "title": "Fox Food Market",
         "date": "Fox Food Market",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/brussels-sip-paint-45-brussels-xceed-square-f40e.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/brussels-sip-paint-45-brussels-xceed-square-f40e.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/sip-paint-brussels-7/244522"
+    },
+    {
+        "title": "The Standard, Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
         "title": "Roonx",
@@ -789,6 +775,20 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-42-brussels-xceed-square-ca56.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-42/251056"
+    },
+    {
+        "title": "Roonx",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
+    },
+    {
+        "title": "BACK TO THE BEST HITS - WINTER EDITION | BY PARTYFINDERMadame Mou",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/back-to-the-best-hits-winter-edition-by-partyfinder-brussels-xceed-6650.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/back-to-the-best-hits-winter-edition-by-partyfinder/251472"
     },
     {
         "title": "Edelfettwerk",
@@ -878,13 +878,6 @@
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/holler-at-me-w-noel-holler-ave-molu-nelja-hamburg-xceed-4b69.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/holler-at-me-w-noel-holler-ave-molu-nelja/247532"
-    },
-    {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
@@ -959,18 +952,18 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
+        "title": "Café Schöne Aussichten (CSA)",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/festa-dell-amore-disco-inferno-hamburg-xceed-square-a5b9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/festa-dell-amore-disco-inferno/249572"
+    },
+    {
         "title": "SUPERGLOSS · Gianni · Klaryoko +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-pres-akt-w-supergloss-hamburg-xceed-square-93b4.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-akt-w-supergloss/249889"
-    },
-    {
-        "title": "Vali Thun · Sansetto",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-vali-thun-sansetto-hamburg-xceed-a33a.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-vali-thun-sansetto/250808"
     },
     {
         "title": "Vinbuu · AIIA",
@@ -1085,6 +1078,13 @@
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-thursday-presents-homebase-uniscene-6/251068"
     },
     {
+        "title": "DJ Fuckoff · Elia Haze · guuc20459 +3",
+        "date": "DJ Fuckoff · Elia Haze · guuc20459 ",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-fuckoff-hamburg-xceed-square-0614.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-fuckoff/249894"
+    },
+    {
         "title": "Sat 19 Sep, 5:00pm",
         "date": "TBA (SOON)",
         "location": "CARL COX",
@@ -1125,13 +1125,6 @@
         "location": "LONDON",
         "image": "https://images.xceed.me/events/banners/nueva-soul-boxing-day-affair-london-xceed-square-4757.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/london/event/nueva-soul-boxing-day-affair/251139"
-    },
-    {
-        "title": "Secret Location",
-        "date": "Secret Location",
-        "location": "LONDON",
-        "image": "https://images.xceed.me/events/banners/open-form-function-30-london-xceed-square-243a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/london/event/open-form-function-30/251159"
     },
     {
         "title": "Fri 26 Jun, 5:00pm",
