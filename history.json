@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Steve Tosi",
+        "title": "Heart Of Glass",
+        "time": "2026-11-08 11:36:09"
+    },
+    {
+        "artist": "Bob Sinclar",
+        "title": "Bob Sinclar & Fireball - What I Want Is You (Visualizer)",
+        "time": "2026-11-08 11:33:49"
+    },
+    {
+        "artist": "Diplo & SIDEPIECE",
+        "title": "On My Mind (Purple Disco Machine Remix) (Official Audio)",
+        "time": "2026-11-08 11:29:30"
+    },
+    {
+        "artist": "Can Ates",
+        "title": "Just A Beat",
+        "time": "2026-11-08 11:26:02"
+    },
+    {
         "artist": "Crazibiza",
         "title": "My Lips (Cheesecake Boys Deeper Mix)",
         "time": "2026-11-08 11:20:50"
@@ -28,25 +48,5 @@
         "artist": "Sunset Afrø",
         "title": "Berin, DJ Purple, KIDY, Yalla Habebe - Guess Who's Back (Original Mix) [AFRO HOUSE] (July 2026)",
         "time": "2026-11-08 10:55:57"
-    },
-    {
-        "artist": "Said Energizer",
-        "title": "Chicki 2017",
-        "time": "2026-11-08 10:53:39"
-    },
-    {
-        "artist": "Hugel, Ultra Naté",
-        "title": "Free (You Got To Live) (Extended Mix)",
-        "time": "2026-11-08 10:48:11"
-    },
-    {
-        "artist": "Future House Music",
-        "title": "HUGEL, David Guetta, French Montanta & Aidan Martin - Shine (Extended Mix)",
-        "time": "2026-11-08 10:43:19"
-    },
-    {
-        "artist": "Jackers Revenge",
-        "title": "Funky Stars On 45",
-        "time": "2026-11-08 10:38:31"
     }
 ]
