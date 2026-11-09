@@ -252,6 +252,13 @@
         "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-muuz-1/250189"
     },
     {
+        "title": "ELALEEIIX",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/edicion-especial-reggaeton-retro-2000-hits-el-aleix-main-room-barcelona-xceed-square-5d91.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/edicion-especial-reggaeton-retro-2000-hits-el-aleix-main-room/251777"
+    },
+    {
         "title": "BASSDEMON713 · DELERI · H.A +2",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -278,13 +285,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/deep-tech-house-hermes-disco-eterno-barcelona-xceed-square-4166.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/deep-tech-house-hermes-disco-eterno/248771"
-    },
-    {
-        "title": "Vandal · INNA SQUAD · Julia Wolf +2",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vandal-in-the-city-raggatek-hardtek-tekno-main-room-l-teuf-kulture-barcelona-xceed-square-a1bb.webp?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/vandal-in-the-city-raggatek-hardtek-tekno-main-room-l-teuf-kulture/249566"
     },
     {
         "title": "Stereofan",
@@ -343,18 +343,18 @@
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
-        "title": "Hacienda",
-        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
+    },
+    {
+        "title": "Hacienda",
+        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
         "title": "MONK Roma",
@@ -693,18 +693,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-no-name/251501"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-no-name/251501"
     },
     {
         "title": "Le Baixu!",
@@ -784,6 +784,13 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-41/251055"
     },
     {
+        "title": "FRESH SUNDAYZBIRDYHip-hopAfrobeatsR&B",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
+    },
+    {
         "title": "NɅYM · Celia · Yuya +1",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -810,13 +817,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/back-to-the-best-hits-winter-edition-by-partyfinder-brussels-xceed-6650.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/back-to-the-best-hits-winter-edition-by-partyfinder/251472"
-    },
-    {
-        "title": "Noah · Master Dream",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
     },
     {
         "title": "Edelfettwerk",
