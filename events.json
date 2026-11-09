@@ -329,18 +329,18 @@
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
         "title": "Hacienda",
@@ -511,18 +511,18 @@
         "link": "https://xceed.me/en/roma/event/fomo-night-18-years-of-ace/251314"
     },
     {
-        "title": "Ciccio Mileto",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-open-mic-presenta-ciccio-mileto-roma-xceed-square-6147.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-open-mic-presenta-ciccio-mileto/249856"
-    },
-    {
         "title": "BORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterparty",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/born2bfunky-the-underground-archive-roma-xceed-square-d336.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
+    },
+    {
+        "title": "Ciccio Mileto",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/rcc-open-mic-presenta-ciccio-mileto-roma-xceed-square-6147.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/rcc-open-mic-presenta-ciccio-mileto/249856"
     },
     {
         "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouseFunk",
@@ -700,18 +700,18 @@
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-no-name/251501"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
-    },
-    {
         "title": "Le Baixu!",
         "date": "Resonating Roots: Loop & Tradition ",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
         "title": "BLOODY LOUIS",
