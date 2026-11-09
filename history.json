@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Gain Records",
+        "title": "The Opposiz - SOR (Original Mix)",
+        "time": "2026-11-09 22:04:36"
+    },
+    {
+        "artist": "Prana Flow, HOLTAY",
+        "title": "Energy Rising (Extended Mix)",
+        "time": "2026-11-09 21:58:14"
+    },
+    {
         "artist": "Evil Oil Man, Tom Baker",
         "title": "Extraction",
         "time": "2026-11-09 21:49:59"
@@ -38,15 +48,5 @@
         "artist": "Tiesto",
         "title": "Euphoria",
         "time": "2026-11-09 21:13:07"
-    },
-    {
-        "artist": "Monolink",
-        "title": "Return To Oz (ARTBAT Remix)",
-        "time": "2026-11-09 21:05:10"
-    },
-    {
-        "artist": "Rise And Fall",
-        "title": "Traffic Lights (Artfaq Remix)",
-        "time": "2026-11-09 20:56:53"
     }
 ]
