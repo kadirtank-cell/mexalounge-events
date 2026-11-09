@@ -161,11 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-ku/248848"
     },
     {
-        "title": "La Paloma",
+        "title": "Nitsa Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+        "image": "https://images.xceed.me/events/banners/hedonika-pres-relajadita-open-to-close-at-nitsa-barcelona-xceed-square-6d52.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/hedonika-pres-relajadita-open-to-close-at-nitsa/250911"
     },
     {
         "title": "LIVEJamboree Jam SessionJamboree Jazz Club",
@@ -323,17 +323,17 @@
     },
     {
         "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
-        "title": "Hacienda",
         "date": "Maribou State @ Hacienda - Roma | 1",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
         "title": "MONK Roma",
@@ -371,18 +371,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
         "title": "Fusolab",
         "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "Cieloterra",
@@ -945,18 +945,18 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "Sat 13 Mar, 11:59pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
-    },
-    {
         "title": "Seehaus",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/fritz-kalkbrenner-4-hamburg-xceed-square-b9b3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -1074,7 +1074,7 @@
         "title": "Ashwin · Noah James (GER)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-ashwin-noah-james-hamburg-xceed-3c72.png?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-ashwin-noah-james-hamburg-xceed-35d2.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-ashwin-noah-james/251065"
     },
     {
