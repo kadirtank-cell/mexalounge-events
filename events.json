@@ -126,6 +126,13 @@
         "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
+        "title": "La Terrrazza",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
+    },
+    {
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -145,13 +152,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-ku/248848"
-    },
-    {
-        "title": "La Terrrazza",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
     },
     {
         "title": "La Paloma",
@@ -329,18 +329,18 @@
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
-    },
-    {
         "title": "Palazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
         "title": "Hacienda",
@@ -749,6 +749,13 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
+    },
+    {
         "title": "Fox Food Market",
         "date": "Fox Food Market",
         "location": "BRUSSELS",
@@ -761,13 +768,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
-    },
-    {
-        "title": "Hotel Trendy",
-        "date": "WELCOME • HOTEL TRENDY • 17 DECEMBE",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/welcome-hotel-trendy-17-december-2026-brussels-xceed-square-abe7.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/welcome-hotel-trendy-17-december-2026/249746"
     },
     {
         "title": "Roonx",
