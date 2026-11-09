@@ -63,18 +63,18 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
     },
     {
-        "title": "Moog",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
-    },
-    {
         "title": "Boris Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
+    },
+    {
+        "title": "Moog",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/paco-osuna-1-barcelona-xceed-2d90.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/paco-osuna-1/249989"
     },
     {
         "title": "Bikini Club",
