@@ -238,6 +238,13 @@
         "link": "https://xceed.me/en/barcelona/event/tuesday-night-dj-muuz-7/250188"
     },
     {
+        "title": "ROBERTA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/roberta-l-secret-room-l-techno-all-night-long-1-barcelona-xceed-square-019d.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/roberta-l-secret-room-l-techno-all-night-long-1/250257"
+    },
+    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -266,11 +273,11 @@
         "link": "https://xceed.me/en/barcelona/event/hardcore-maniaks-only-millennium-early-main-room/251047"
     },
     {
-        "title": "ROBERTA",
+        "title": "ROBERTA · ISAAG · Ezequiel Blanco +2",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/roberta-l-secret-room-l-techno-all-night-long-barcelona-xceed-square-30cd.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/roberta-l-secret-room-l-techno-all-night-long/242800"
+        "image": "https://images.xceed.me/events/banners/ezequiel-blanco-isaag-roberta-rolo-b2b-felipe-villota-secret-room-barcelona-xceed-square-395b.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/ezequiel-blanco-isaag-roberta-rolo-b2b-felipe-villota-secret-room/242800"
     },
     {
         "title": "TBA",
@@ -292,13 +299,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/luzzatto-8-barcelona-xceed-square-baf5.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/luzzatto-8/249991"
-    },
-    {
-        "title": "New Jazz Underground: HoodiesJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/new-jazz-underground-hoodies-barcelona-xceed-8eea.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/new-jazz-underground-hoodies/250164"
     },
     {
         "title": "Palazzo - San Lorenzo",
