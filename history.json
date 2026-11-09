@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Pablo Say, Viv Castle, David Lesal",
+        "title": "Weekend",
+        "time": "2026-11-09 19:17:24"
+    },
+    {
+        "artist": "Nu Aspect",
+        "title": "Sweet Release (Extended)",
+        "time": "2026-11-09 19:10:50"
+    },
+    {
         "artist": "Mind Against",
         "title": "Reveries",
         "time": "2026-11-09 19:04:18"
@@ -38,15 +48,5 @@
         "artist": "Jackrock, Hristo Ivanov",
         "title": "Demons Within",
         "time": "2026-11-09 18:28:31"
-    },
-    {
-        "artist": "Terminal M Records",
-        "title": "Monika Kruse - Latex (Mark Reeve Remix)",
-        "time": "2026-11-09 18:25:05"
-    },
-    {
-        "artist": "Gabim",
-        "title": "Feed My Fire (Original Mix)",
-        "time": "2026-11-09 18:16:19"
     }
 ]
