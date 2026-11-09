@@ -588,6 +588,13 @@
         "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
     },
     {
+        "title": "Roberta Orzalesi · Ovren",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
+    },
+    {
         "title": "18eSto! & la Folie - Friday University Night with Mon AmourTEATRO",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -600,13 +607,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mara-sattei-live-roma-xceed-41ec.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mara-sattei-live/224328"
-    },
-    {
-        "title": "CVLTPalazzo - San LorenzoHouseTech house",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cvult-roma-xceed-square-6cc9.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cvlt-1/249477"
     },
     {
         "title": "C12",
@@ -707,18 +707,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
-    },
-    {
         "title": "Le Baixu!",
         "date": "Resonating Roots: Loop & Tradition ",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
         "title": "BLOODY LOUIS",
@@ -952,6 +952,13 @@
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
     },
     {
+        "title": "Secret Location",
+        "date": "Secret Location",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
+    },
+    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -966,13 +973,6 @@
         "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
-        "title": "Secret Location",
-        "date": "Secret Location",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -980,18 +980,18 @@
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
     },
     {
-        "title": "45 Hertz Festival",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
-    },
-    {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
+    },
+    {
+        "title": "45 Hertz Festival",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
         "title": "Vinbuu · AIIA",
