@@ -126,6 +126,13 @@
         "link": "https://xceed.me/en/barcelona/event/cicle-john-coltrane-bruce-barth-trio-piero-odorici/250163"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/the-room-37/251373"
+    },
+    {
         "title": "SEASEACLUB",
         "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-ku/248848"
-    },
-    {
-        "title": "Nitsa Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/hedonika-pres-relajadita-open-to-close-at-nitsa-barcelona-xceed-square-6d52.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/hedonika-pres-relajadita-open-to-close-at-nitsa/250911"
     },
     {
         "title": "LIVEJamboree Jam SessionJamboree Jazz Club",
@@ -917,18 +917,18 @@
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "Seehaus",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "Bobby Reich",
@@ -980,18 +980,18 @@
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
-        "title": "Café Schöne Aussichten (CSA)",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
-    },
-    {
         "title": "45 Hertz Festival",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
+    },
+    {
+        "title": "Café Schöne Aussichten (CSA)",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
     },
     {
         "title": "Vinbuu · AIIA",
