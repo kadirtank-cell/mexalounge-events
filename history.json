@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Massano",
+        "title": "Massano - Abraza [Official Visualizer]",
+        "time": "2026-11-09 21:19:30"
+    },
+    {
+        "artist": "Tiesto",
+        "title": "Euphoria",
+        "time": "2026-11-09 21:13:07"
+    },
+    {
         "artist": "Monolink",
         "title": "Return To Oz (ARTBAT Remix)",
         "time": "2026-11-09 21:05:10"
@@ -38,15 +48,5 @@
         "artist": "Pole Position, Hotlap, Jaime Alguersuari, Loïc Le Joliff",
         "title": "Touch Me (Hotlap Remix)",
         "time": "2026-11-09 20:33:46"
-    },
-    {
-        "artist": "Techno Paraná",
-        "title": "HOF(DE) - Tiger Claw (Extended Mix)",
-        "time": "2026-11-09 20:27:38"
-    },
-    {
-        "artist": "Ivory Child",
-        "title": "Fantasy (Original Mix)",
-        "time": "2026-11-09 20:20:13"
     }
 ]
