@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Palm 3S",
+        "title": "Arcade Lounge",
+        "time": "2026-11-09 03:04:03"
+    },
+    {
+        "artist": "Maison Ware;  Lizzy Land",
+        "title": "Chemical",
+        "time": "2026-11-09 03:00:32"
+    },
+    {
+        "artist": "Sunset Afrø",
+        "title": "Berin, DJ Purple, KIDY, Yalla Habebe - Guess Who's Back (Original Mix) [AFRO HOUSE] (July 2026)",
+        "time": "2026-11-09 02:53:49"
+    },
+    {
+        "artist": "Sevenlies, A Vow",
+        "title": "Elsewhere",
+        "time": "2026-11-09 02:52:20"
+    },
+    {
         "artist": "Can Ates",
         "title": "Just A Beat",
         "time": "2026-11-09 02:48:51"
@@ -28,25 +48,5 @@
         "artist": "Mabel",
         "title": "Mad Love",
         "time": "2026-11-09 02:30:58"
-    },
-    {
-        "artist": "Spanish Flow, Nikko Mad, Ronan, Ronan Esteban Portela, Adrian Ayerbe Chueca",
-        "title": "Moonlight (Instrumental Mix)",
-        "time": "2026-11-09 02:29:05"
-    },
-    {
-        "artist": "Elegant Hands",
-        "title": "Fuego (Original Mix)",
-        "time": "2026-11-09 02:22:22"
-    },
-    {
-        "artist": "Max Pavlov",
-        "title": "A Gira (Extended Mix)",
-        "time": "2026-11-09 02:15:20"
-    },
-    {
-        "artist": "Ninetoes",
-        "title": "Finder",
-        "time": "2026-11-09 02:09:31"
     }
 ]
