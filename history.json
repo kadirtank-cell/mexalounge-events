@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Massano",
+        "title": "The Feeling",
+        "time": "2026-11-09 16:13:09"
+    },
+    {
+        "artist": "Sandro Silva, Quintino",
+        "title": "Epic",
+        "time": "2026-11-09 16:07:23"
+    },
+    {
         "artist": "Charlotte De Witte, Comma Dee, Ryan Gomez",
         "title": "The Heads That Know (Feat. Comma Dee)",
         "time": "2026-11-09 15:58:02"
@@ -38,15 +48,5 @@
         "artist": "Paul Thomas, Ruben Karapetyan",
         "title": "Resurrection (Extended Mix)",
         "time": "2026-11-09 15:12:20"
-    },
-    {
-        "artist": "Thω_Tσε75",
-        "title": "Luke Hunter, Frankie M - Dive On (Jerome Isma Ae Extended Remix)",
-        "time": "2026-11-09 15:05:40"
-    },
-    {
-        "artist": "Ilias Katelanos, Vakabular",
-        "title": "Funk Is Love (Extended Mix)",
-        "time": "2026-11-09 14:59:14"
     }
 ]
