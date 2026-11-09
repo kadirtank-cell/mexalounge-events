@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Techno Paraná",
+        "title": "HOF(DE) - Tiger Claw (Extended Mix)",
+        "time": "2026-11-09 00:44:51"
+    },
+    {
+        "artist": "Tsuki, Cajama, Dominic Boyle, Callum Macdonald, Dominic Boyle, Callum Macdonald",
+        "title": "Pulse",
+        "time": "2026-11-09 00:40:10"
+    },
+    {
+        "artist": "Coldharbour Recordings, Daxson",
+        "title": "Daxson - Amber Horizon (In Search Of Sunrise Mix)",
+        "time": "2026-11-09 00:36:35"
+    },
+    {
         "artist": "Dream",
         "title": "Afem Syko, Linds (Extended Mix) 150",
         "time": "2026-11-09 00:32:06"
@@ -33,20 +48,5 @@
         "artist": "Mrak",
         "title": "Speranza",
         "time": "2026-11-08 23:59:04"
-    },
-    {
-        "artist": "Charlotte De Witte, Amelie Lens",
-        "title": "One Mind",
-        "time": "2026-11-08 23:53:21"
-    },
-    {
-        "artist": "Evil Oil Man, Tom Baker",
-        "title": "Extraction",
-        "time": "2026-11-08 23:45:06"
-    },
-    {
-        "artist": "Avalanche (Extended Mix)   Richard Durand",
-        "title": "Avalanche (Extended Mix)  Richard Durand",
-        "time": "2026-11-08 23:40:03"
     }
 ]
