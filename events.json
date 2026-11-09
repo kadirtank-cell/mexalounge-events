@@ -610,17 +610,17 @@
     },
     {
         "title": "BLOODY LOUIS",
-        "date": "NISKA (SHOWCASE)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
-    },
-    {
-        "title": "BLOODY LOUIS",
         "date": "KEBLACK x LAPREMICE ● LONGLIVE EXPE",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026-brussels-xceed-square-be3d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/keblack-x-lapremice-longlive-experience-bloodylouis-tues-10112026/247286"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "NISKA (SHOWCASE)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
     },
     {
         "title": "BLOODY LOUIS",
@@ -952,6 +952,13 @@
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
     },
     {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
+    },
+    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -964,13 +971,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
         "title": "45 Hertz Festival",
