@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Mike Rish",
+        "title": "Primah",
+        "time": "2026-11-09 15:30:02"
+    },
+    {
+        "artist": "Duke Dumont",
+        "title": "Ocean Drive",
+        "time": "2026-11-09 15:26:41"
+    },
+    {
+        "artist": "8Bit Records",
+        "title": "Gorge - Veamos",
+        "time": "2026-11-09 15:20:02"
+    },
+    {
         "artist": "Paul Thomas, Ruben Karapetyan",
         "title": "Resurrection (Extended Mix)",
         "time": "2026-11-09 15:12:20"
@@ -33,20 +48,5 @@
         "artist": "Nordfold",
         "title": "Collide (Extended Mix)",
         "time": "2026-11-09 14:36:17"
-    },
-    {
-        "artist": "Thω_Tσε75",
-        "title": "YOTTO - Come Back Baby (Extended Mix)",
-        "time": "2026-11-09 14:30:39"
-    },
-    {
-        "artist": "Juan Buitrago",
-        "title": "Forever Mover",
-        "time": "2026-11-09 14:22:47"
-    },
-    {
-        "artist": "HAFT",
-        "title": "Galaxium",
-        "time": "2026-11-09 14:15:17"
     }
 ]
