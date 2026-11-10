@@ -182,18 +182,18 @@
         "link": "https://xceed.me/en/barcelona/event/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1/250162"
     },
     {
-        "title": "VRON · DOUGLAS MANZANARES · FEDERIX",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/claridad-vron-douglas-manzanares-federix-progressive-house-main-room-barcelona-xceed-square-f42e.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/claridad-vron-douglas-manzanares-federix-progressive-house-main-room/242763"
-    },
-    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-e830.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-65/249765"
+    },
+    {
+        "title": "VRON · DOUGLAS MANZANARES · FEDERIX",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/claridad-vron-douglas-manzanares-federix-progressive-house-main-room-barcelona-xceed-square-f42e.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/claridad-vron-douglas-manzanares-federix-progressive-house-main-room/242763"
     },
     {
         "title": "Men (L-Men-T) · Purpur",
@@ -931,18 +931,18 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "Sat 13 Mar, 11:59pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
-    },
-    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
         "title": "45 Hertz Festival",
