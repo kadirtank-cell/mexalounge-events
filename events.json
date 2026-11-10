@@ -294,13 +294,6 @@
         "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
-    },
-    {
         "title": "Hacienda",
         "date": "Maribou State @ Hacienda - Roma | 1",
         "location": "ROMA",
@@ -446,6 +439,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
     },
     {
         "title": "QUINDIE FESTIVALAlcazar",
