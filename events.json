@@ -168,6 +168,20 @@
         "link": "https://xceed.me/en/barcelona/event/tuesday-night-dj-muuz-7/250188"
     },
     {
+        "title": "LIVETrio GrandeJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/trio-grande-barcelona-xceed-ef43.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/trio-grande/250161"
+    },
+    {
+        "title": "LIVEViatge pel Jazz: Una experiència des de Louis Armstrong a Ros",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1-barcelona-xceed-963f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1/250162"
+    },
+    {
         "title": "VRON · DOUGLAS MANZANARES · FEDERIX",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -187,20 +201,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/men-l-men-t-21-barcelona-xceed-5656.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/men-l-men-t-21/249988"
-    },
-    {
-        "title": "Trio GrandeJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/trio-grande-barcelona-xceed-ef43.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/trio-grande/250161"
-    },
-    {
-        "title": "Viatge pel Jazz: Una experiència des de Louis Armstrong a Rosalía",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1-barcelona-xceed-963f.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/viatge-pel-jazz-una-experiencia-des-de-louis-armstrong-a-rosalia-1/250162"
     },
     {
         "title": "ROBERTA",
@@ -287,18 +287,18 @@
         "link": "https://xceed.me/en/barcelona/event/dj-pedri-yagmur/251875"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
         "title": "MONK Roma",
@@ -413,18 +413,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "MONK Roma",
@@ -875,18 +875,18 @@
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
-        "title": "Seehaus",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
-    },
-    {
         "title": "Bobby Reich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
+    },
+    {
+        "title": "Seehaus",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
         "title": "PHOXXI Green Area",
