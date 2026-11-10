@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Luçïd (Paris)",
+        "title": "Fait Vriller",
+        "time": "2026-11-10 02:38:33"
+    },
+    {
+        "artist": "Camilo Salazar",
+        "title": "Salsa Del 78 (Extended Mix)",
+        "time": "2026-11-10 02:33:50"
+    },
+    {
+        "artist": "Oman Chali, Kevër Gassé, Alejandro Gabriel Seoane",
+        "title": "Rouge Noir",
+        "time": "2026-11-10 02:31:34"
+    },
+    {
+        "artist": "Vibey Deep House Music, El Chino Ramos",
+        "title": "Shimza, AR:CO & Kasango - Fire Fire (Extended Mix) (Afro House)",
+        "time": "2026-11-10 02:26:58"
+    },
+    {
         "artist": "Jamie Woon",
         "title": "Lady Luck (Mightyb Remix)",
         "time": "2026-11-10 02:20:37"
@@ -28,25 +48,5 @@
         "artist": "Petit Biscuit",
         "title": "Sunset Lover",
         "time": "2026-11-10 02:01:57"
-    },
-    {
-        "artist": "James Mac, Vall, Rosalie",
-        "title": "The Boy Is Mine (Feat. Rosalie) (Club Mix)",
-        "time": "2026-11-10 01:55:21"
-    },
-    {
-        "artist": "Lorna, Ben Carter, SIRØB",
-        "title": "Papi Chulo (Latin House Remix) (Extended Mix)",
-        "time": "2026-11-10 01:51:20"
-    },
-    {
-        "artist": "Sofi Tukker",
-        "title": "Original Sin",
-        "time": "2026-11-10 01:48:31"
-    },
-    {
-        "artist": "Ed Sheeran",
-        "title": "Shape Of You",
-        "time": "2026-11-10 01:44:28"
     }
 ]
