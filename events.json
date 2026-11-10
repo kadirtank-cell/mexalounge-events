@@ -325,15 +325,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
+        "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/jarboe-zu-roma-xceed-square-d140.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/jarboe-zu/245169"
+        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -343,18 +343,18 @@
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
-        "title": "Hacienda",
-        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
         "title": "Fusolab",
         "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
+    },
+    {
+        "title": "Hacienda",
+        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
         "title": "MONK Roma",
