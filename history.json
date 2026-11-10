@@ -1,5 +1,25 @@
 [
     {
+        "artist": "YABANCI",
+        "title": "GRAMOPHONEDZIE – WHY DON’T YOU",
+        "time": "2026-11-10 04:09:12"
+    },
+    {
+        "artist": "Kisses At Dawn, Alejandro Gabriel Seoane",
+        "title": "Compassion",
+        "time": "2026-11-10 04:07:05"
+    },
+    {
+        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
+        "title": "ME QUEMO",
+        "time": "2026-11-10 04:04:12"
+    },
+    {
+        "artist": "Maor Buzaglo, Atlantis",
+        "title": "Candela (Extended Mix)",
+        "time": "2026-11-10 03:59:20"
+    },
+    {
         "artist": "Geom",
         "title": "Back To You (Housenick Remix)",
         "time": "2026-11-10 03:54:58"
@@ -28,25 +48,5 @@
         "artist": "ALEX GAUDINO Feat. SHENA NARI",
         "title": "Watch Out (Nari And Milani Remix)",
         "time": "2026-11-10 03:32:27"
-    },
-    {
-        "artist": "Mabel",
-        "title": "Don T Call Me Up",
-        "time": "2026-11-10 03:29:25"
-    },
-    {
-        "artist": "FRAMEWORKS, Matthew Brewer",
-        "title": "COLD",
-        "time": "2026-11-10 03:25:34"
-    },
-    {
-        "artist": "I'm Mady",
-        "title": "Verrücktes Rumgehüpfe",
-        "time": "2026-11-10 03:17:56"
-    },
-    {
-        "artist": "Nelly Furtado",
-        "title": "Say It Right",
-        "time": "2026-11-10 03:14:19"
     }
 ]
