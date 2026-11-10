@@ -728,18 +728,18 @@
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/redroom-face-to-face-1-brussels-xceed-b90a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/redroom-face-to-face-1/244596"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/redroom-face-to-face-1-brussels-xceed-b90a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/redroom-face-to-face-1/244596"
     },
     {
         "title": "Fox Food Market",
