@@ -525,18 +525,18 @@
         "link": "https://xceed.me/en/roma/event/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-1/251106"
     },
     {
-        "title": "Roberta Orzalesi · Ovren",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
-    },
-    {
         "title": "Julian Anthony · Elvi · Francesco Maria +1",
         "date": "Julian Anthony · Elvi · Francesco M",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mania-invites-julian-anthony-1-roma-xceed-2f70.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mania-invites-julian-anthony-1/251323"
+    },
+    {
+        "title": "Roberta Orzalesi · Ovren",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
     },
     {
         "title": "DISCO EXPRESSAlcazar",
@@ -952,11 +952,11 @@
         "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
-        "title": "Café Schöne Aussichten (CSA)",
+        "title": "45 Hertz Festival",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/festa-dell-amore-disco-inferno-hamburg-xceed-square-a5b9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/festa-dell-amore-disco-inferno/249572"
+        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
         "title": "Vinbuu · AIIA",
