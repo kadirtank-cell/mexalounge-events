@@ -168,13 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/tuesday-night-dj-muuz-7/250188"
     },
     {
-        "title": "TBA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-e830.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-65/249765"
-    },
-    {
         "title": "VRON · DOUGLAS MANZANARES · FEDERIX",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -278,6 +271,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/viernes-intimos-barcelona-xceed-square-43fd.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/viernes-intimos/250899"
+    },
+    {
+        "title": "MIRABLAU CLUBMIRABLAUHitsPopReggaeton",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-118/247914"
     },
     {
         "title": "MONK Roma",
