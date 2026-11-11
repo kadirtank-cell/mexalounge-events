@@ -1,5 +1,20 @@
 [
     {
+        "artist": "David Guetta & Alphaville & Ava Max",
+        "title": "Forever Young (Extended Mix)",
+        "time": "2026-11-11 09:30:44"
+    },
+    {
+        "artist": "Ede, Ape Drums, Deniz Tekin (TR), Rome Fortune, DESIREE",
+        "title": "2 This",
+        "time": "2026-11-11 09:24:38"
+    },
+    {
+        "artist": "ATB; Topic; A7S",
+        "title": "Your Love (9PM)",
+        "time": "2026-11-11 09:22:11"
+    },
+    {
         "artist": "John Summit, CLOVES",
         "title": "Focus (Alok Remix)",
         "time": "2026-11-11 09:18:32"
@@ -33,20 +48,5 @@
         "artist": "YABANCI",
         "title": "Hot (Club Version By Play & Win) ( Www.E-Clubb.Com )",
         "time": "2026-11-11 08:54:51"
-    },
-    {
-        "artist": "MANU BS, Moree MK, Roland Clark",
-        "title": "Girls Dance (Extended Mix)",
-        "time": "2026-11-11 08:49:55"
-    },
-    {
-        "artist": "DJ Regard",
-        "title": "RIDE IT",
-        "time": "2026-11-11 08:47:20"
-    },
-    {
-        "artist": "David Guetta",
-        "title": "Titanium (Feat. Sia)",
-        "time": "2026-11-11 08:43:28"
     }
 ]
