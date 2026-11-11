@@ -337,17 +337,17 @@
     },
     {
         "title": "Hacienda",
-        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
-        "title": "Hacienda",
         "date": "The Molotovs Live @ Hacienda - Roma",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-molotovs-live-hacienda-roma-11-novembre-2026-roma-xceed-square-b581.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-molotovs-live-hacienda-roma-11-novembre-2026/243636"
+    },
+    {
+        "title": "Hacienda",
+        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
         "title": "MONK Roma",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/nomad-x-euphoria-at-mirano-gta-vi-miami-edition/251968"
     },
     {
-        "title": "Roonx",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-41-brussels-xceed-square-0d16.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-41/251055"
-    },
-    {
         "title": "Y2K - OLD SCHOOL PARTYCoco BrusselsR&BHip-hopPop",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/y2k-old-school-party-brussels-xceed-square-e5ae.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/y2k-old-school-party/252004"
+    },
+    {
+        "title": "Roonx",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-41-brussels-xceed-square-0d16.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-41/251055"
     },
     {
         "title": "FRESH SUNDAYZBIRDYHip-hopAfrobeatsR&B",
@@ -854,18 +854,18 @@
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-rap-festival/248797"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
     },
     {
         "title": "Uebel & Gefährlich",
