@@ -133,6 +133,13 @@
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
+    },
+    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
-    },
-    {
-        "title": "La Terrrazza",
-        "date": "Jackies Open Air Daytime - Closing ",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/jackies-open-air-daytime-w-chus-ceballos-open-to-close-barcelona-xceed-square-eecd.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jackies-open-air-daytime-closing-2026-season-la-terrrazza/244456"
     },
     {
         "title": "DJ Muuz",
@@ -889,18 +889,18 @@
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
-        "title": "Bobby Reich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
-    },
-    {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
+    },
+    {
+        "title": "Bobby Reich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
     },
     {
         "title": "Seehaus",
@@ -964,13 +964,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
-    },
-    {
-        "title": "Vinbuu · AIIA",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/aiia-hamburg-xceed-square-7ed1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/aiia/250559"
     },
     {
         "title": "Listening Session: Lovie & Jada MoraesTrader Hifi",
@@ -1083,6 +1076,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-1-hamburg-xceed-c1f5.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-1/247880"
+    },
+    {
+        "title": "ONYX X ABIFIZ HEIDBERGGolden Cut90s - 00sHouseAfro House",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg/248020"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
