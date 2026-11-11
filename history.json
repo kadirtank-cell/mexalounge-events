@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Kiasmos",
+        "title": "Thrown",
+        "time": "2026-11-11 01:20:43"
+    },
+    {
+        "artist": "FRAMEWORKS, Matthew Brewer",
+        "title": "COLD",
+        "time": "2026-11-11 01:16:37"
+    },
+    {
         "artist": "Simon Fava",
         "title": "Music Is The Answer (Extended Mix)",
         "time": "2026-11-11 01:11:45"
@@ -38,15 +48,5 @@
         "artist": "Ibogatech Records",
         "title": "HNGT - Dark Empire",
         "time": "2026-11-11 00:40:09"
-    },
-    {
-        "artist": "ATLANTE (FR), Romain Say",
-        "title": "The White Lotus",
-        "time": "2026-11-11 00:36:07"
-    },
-    {
-        "artist": "Kontor.TV, Lilly Palmer, Space 92, Armada Music TV",
-        "title": "Lilly Palmer & Space 92 - Vicious Chords",
-        "time": "2026-11-11 00:33:22"
     }
 ]
