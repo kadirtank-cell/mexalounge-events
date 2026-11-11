@@ -350,18 +350,18 @@
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
-    },
-    {
         "title": "Hacienda",
         "date": "The Molotovs Live @ Hacienda - Roma",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-molotovs-live-hacienda-roma-11-novembre-2026-roma-xceed-square-b581.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-molotovs-live-hacienda-roma-11-novembre-2026/243636"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
         "title": "Cieloterra",
@@ -374,15 +374,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
+        "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/thylacine/233342"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/thylacine-roma-xceed-square-ef0a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/thylacine/233342"
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "Hacienda",
@@ -434,18 +434,18 @@
         "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
-        "title": "Cieloterra",
-        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
     },
     {
         "title": "MONK Roma",
