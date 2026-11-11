@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Guy J",
+        "title": "Rise",
+        "time": "2026-11-11 15:31:29"
+    },
+    {
+        "artist": "Estiva",
+        "title": "Noo Tacchi (Extended Mix)",
+        "time": "2026-11-11 15:25:32"
+    },
+    {
         "artist": "Thω_Tσε75",
         "title": "Gai Barone - Macula (Hernan Cattaneo & Simply City Extended Remix)",
         "time": "2026-11-11 15:16:10"
@@ -38,15 +48,5 @@
         "artist": "Tripl",
         "title": "Selekta",
         "time": "2026-11-11 14:36:48"
-    },
-    {
-        "artist": "CASSIMM",
-        "title": "LOVE DESIRE",
-        "time": "2026-11-11 14:33:58"
-    },
-    {
-        "artist": "Nordfold",
-        "title": "Collide (Extended Mix)",
-        "time": "2026-11-11 14:27:50"
     }
 ]
