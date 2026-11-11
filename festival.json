@@ -1,7 +1,7 @@
 [
   {
     "festival": "Coachella",
-    "country": "Kaliforniya-USA",
+    "country": "CA-USA",
     "date": "2027-04-09",
     "days_left": "",
     "url": "https://www.coachella.com/",
@@ -16,44 +16,44 @@
     "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2026/09/27115549/edclv_2027_mk_an_fest_site_dh_3200x1520_r01-scaled.jpg"
   },
   {
-    "festival": "OUTREBLEU [weekender]",
-    "country": "France",
+    "festival": "Tomorrowland Brazil",
+    "country": "São Paulo-Brazil",
     "date": "2026-11-20",
-    "days_left": 10,
-    "url": "https://ra.co/events/2494321",
-    "image": "https://images.ra.co/6aa6d83bfe07821e7eaa2df9e1da37b256e369e6.png"
+    "days_left": "",
+    "url": "https://brasil.tomorrowland.com/en/line-up/?day=2027-04-30",
+    "image": "https://cdn.assets.prezly.com/ccdab255-83f6-42da-bdf4-bb0780dbec4e/-/preview/2000x2000/-/resize/1200/TML26_CONSCIENCIA_KEY%20VISUAL_3%20COUNTRIES_PORTRAIT.png"
   },
   {
-    "festival": "WEIRDO FEST",
-    "country": "Netherlands",
-    "date": "2026-11-21",
-    "days_left": 11,
-    "url": "https://ra.co/events/2520400",
-    "image": "https://images.ra.co/7b765c65bfa5722b926bf05e723df3c8affa7da7.png"
+    "festival": "Primavera Sound",
+    "country": "São Paulo-Brazil",
+    "date": "2026-12-05",
+    "days_left": "",
+    "url": "https://www.primaverasound.com/en/sao-paulo",
+    "image": "https://assets-img.primaverasound.com/2880x755/psweb/5eegkkizbgb4gpha7p8j_1790000960671.png"
   },
   {
-    "festival": "Latino Fest",
-    "country": "United Kingdom",
-    "date": "2026-11-27",
-    "days_left": 17,
-    "url": "https://ra.co/events/2551377",
-    "image": "https://images.ra.co/369042af8aa60ca3e5fc8e01040e6976ea45a05d.png"
+    "festival": "Primavera Sound",
+    "country": "Barcelona-Spain",
+    "date": "2027-01-02",
+    "days_left": "",
+    "url": "https://www.primaverasound.com/en/barcelona",
+    "image": "https://assets-img.primaverasound.com/2000x0/psweb/aifzy160f8g81wvx9g3v_1793622189774.jpg"
   },
   {
     "festival": "Kool & The Gang + Sister Sledge feat. Slegendary [Melbourne]",
-    "country": "Australia",
-    "date": "2026-11-28",
-    "days_left": 18,
-    "url": "https://ra.co/events/2496370",
-    "image": "https://images.ra.co/fe8590f8058f431ac637767c55f53e83993e2739.jpg"
+    "country": "Porto-Portugal",
+    "date": "2027-01-10",
+    "days_left": "",
+    "url": "https://www.primaverasound.com/en/porto",
+    "image": "https://assets-img.primaverasound.com/2000x0/psweb/uhovtzstnm6dt9nkupnm_1793277345770.jpg"
   },
   {
-    "festival": "Sonora Gathering",
-    "country": "South Africa",
-    "date": "2026-11-29",
-    "days_left": 19,
-    "url": "https://ra.co/events/2578149",
-    "image": "https://images.ra.co/506ea7145e5f0e6594e8b510b363860ca0caa242.png"
+    "festival": "Glastonbury Festivals",
+    "country": "London-England",
+    "date": "2027-06-13",
+    "days_left": "",
+    "url": "https://www.glastonburyfestivals.co.uk/line-up/",
+    "image": "https://www.glastonburyfestivals.co.uk/wp-content/uploads/2025/05/2025_logo_colour_outline.png"
   },
   {
     "festival": "Dunya Fest",
