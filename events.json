@@ -427,13 +427,6 @@
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -444,15 +437,22 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
-        "title": "Qube Disco Roma",
+        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
     },
     {
         "title": "LIVEQUINDIE FESTIVALAlcazar",
@@ -467,13 +467,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-11-novembre-roma-xceed-f19f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-11-novembre/251458"
-    },
-    {
-        "title": "INDIEPANCHINE PRESENTA: ADDIVVI + LAURYYN + SCAR @ MONK ROMAMONK ",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
     },
     {
         "title": "BORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterparty",
