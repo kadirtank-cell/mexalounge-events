@@ -427,6 +427,13 @@
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
+    },
+    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -439,13 +446,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
     },
     {
         "title": "MONK Roma",
@@ -707,13 +707,6 @@
         "link": "https://xceed.me/en/brussels/event/sip-paint-brussels-7/244522"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/redroom-face-to-face-1-brussels-xceed-b90a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/redroom-face-to-face-1/244596"
-    },
-    {
         "title": "The Standard, Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -733,6 +726,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
+    },
+    {
+        "title": "Crosly Bowling",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
     },
     {
         "title": "Roonx",
@@ -924,6 +924,13 @@
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
     },
     {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
+    },
+    {
         "title": "Seehaus",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -936,13 +943,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/saltarus-w-svetec-in-verruf-hamburg-xceed-square-c238.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
         "title": "Uebel & Gefährlich",
