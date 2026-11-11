@@ -301,18 +301,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
-    },
-    {
         "title": "Hacienda",
         "date": "Maribou State @ Hacienda - Roma | 1",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -336,18 +336,18 @@
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
-        "title": "Fusolab",
-        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
+    },
+    {
+        "title": "Fusolab",
+        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
         "title": "Hacienda",
@@ -448,18 +448,18 @@
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
         "title": "LIVEQUINDIE FESTIVALAlcazar",
@@ -476,18 +476,18 @@
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-11-novembre/251458"
     },
     {
-        "title": "BORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterparty",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/born2bfunky-the-underground-archive-roma-xceed-square-d336.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
-    },
-    {
         "title": "FOMO Night - 18 years of ACETEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/fomo-night-18-years-of-ace-roma-xceed-e68b.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/fomo-night-18-years-of-ace/251314"
+    },
+    {
+        "title": "BORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterparty",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/born2bfunky-the-underground-archive-roma-xceed-square-d336.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
     },
     {
         "title": "Ciccio Mileto",
