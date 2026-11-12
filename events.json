@@ -42,25 +42,18 @@
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
-    },
-    {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/wave-event-x-bad-decisions-barcelona-xceed-square-e7f9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/wave-fest-x-bad-decisions/250494"
-    },
-    {
         "title": "La Terrrazza",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/opening-happy-techno-barcelona-open-air-daytime-barcelona-xceed-square-65b7.webp?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
+    },
+    {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
         "title": "Boris Club",
@@ -166,6 +159,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
+    },
+    {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
         "title": "BASSDEMON713 · DELERI · H.A +2",
@@ -287,6 +287,13 @@
         "link": "https://xceed.me/en/barcelona/event/the-hospital-party/251034"
     },
     {
+        "title": "LOST x REECORDSSEASEACLUBTech houseHouse",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/lost-x-reecords-barcelona-xceed-square-971b.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/lost-x-reecords/251582"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -315,6 +322,13 @@
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
+        "title": "Fusolab",
+        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -327,13 +341,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
-        "title": "Fusolab",
-        "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
         "title": "Hacienda",
@@ -686,6 +693,13 @@
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/y2k-old-school-party-brussels-xceed-square-e5ae.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/y2k-old-school-party/252004"
+    },
+    {
         "title": "Latino’s bar",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
@@ -705,13 +719,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
-    },
-    {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/y2k-old-school-party-brussels-xceed-square-e5ae.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/y2k-old-school-party/252004"
     },
     {
         "title": "BLOODY LOUIS",
@@ -882,18 +889,18 @@
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
     },
     {
-        "title": "Bobby Reich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
-    },
-    {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
+    },
+    {
+        "title": "Bobby Reich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
     },
     {
         "title": "Seehaus",
@@ -964,13 +971,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/listening-session-lovie-jada-moraes-hamburg-xceed-square-178b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/listening-session-lovie-jada-moraes/249051"
-    },
-    {
-        "title": "Nikki Tiger Thursday presents HOMEBASE × UNISCENENikki TigerHouse",
-        "date": "Nikki Tiger Thursday presents HOMEB",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-thursday-presents-homebase-uniscene-4-hamburg-xceed-a003.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-thursday-presents-homebase-uniscene-5/251062"
     },
     {
         "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
@@ -1076,6 +1076,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg/248020"
+    },
+    {
+        "title": "ONYX X ABIFIZ HEIDBERGGolden Cut90s - 00sHouseAfro House",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-2/250426"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
