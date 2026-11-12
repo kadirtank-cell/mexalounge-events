@@ -374,15 +374,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
+        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "Hacienda",
@@ -416,8 +416,22 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
     },
     {
         "title": "Alcazar",
@@ -430,22 +444,8 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/roberto-colella-live-1-roma-xceed-square-6896.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
         "title": "MONK Roma",
@@ -686,6 +686,13 @@
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
+        "title": "Latino’s bar",
+        "date": "REGGAETONISTA @Latino's Bar",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-2-brussels-xceed-square-7f42.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-2/251581"
+    },
+    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -698,13 +705,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
-    },
-    {
-        "title": "Latino’s bar",
-        "date": "REGGAETONISTA @Latino's Bar",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-2-brussels-xceed-square-7f42.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-2/251581"
     },
     {
         "title": "BLOODY LOUIS",
