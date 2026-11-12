@@ -77,6 +77,13 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-74/249799"
     },
     {
+        "title": "NegroRojo",
+        "date": "PABLO CAROL / BORJA DE LA RIVA & MA",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-borja-de-la-riva-marques/251876"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -120,10 +127,17 @@
     },
     {
         "title": "NegroRojo",
-        "date": "PABLO CAROL / BORJA DE LA RIVA & MA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/dj-pedri-yagmur/251875"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-borja-de-la-riva-marques/251876"
+        "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -138,20 +152,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/dj-pedri-yagmur/251875"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
     },
     {
         "title": "MIRABLAU",
@@ -1050,11 +1050,11 @@
         "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-2/250426"
     },
     {
-        "title": "ONYX X ABIFIZ GYMFISTS 28Golden CutHouse90s - 00sAfro House",
+        "title": "ONYX X ABIFIZ BONDENWALDGolden CutHouse90s - 00sAfro House",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-gymfists-28-hamburg-xceed-29a2.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-gymfists-28/249725"
+        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-1-hamburg-xceed-c1f5.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-bondenwald/248527"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
