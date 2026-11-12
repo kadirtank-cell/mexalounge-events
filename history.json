@@ -1,5 +1,20 @@
 [
     {
+        "artist": "D-Nox, Andre Moret",
+        "title": "Universe",
+        "time": "2026-11-12 15:21:00"
+    },
+    {
+        "artist": "KATO, Jon",
+        "title": "Turn The Lights Off (Extended)",
+        "time": "2026-11-12 15:15:49"
+    },
+    {
+        "artist": "Vinyl On Demand",
+        "title": "Bipolar Sunshine, Hardt Antoine, Nariman - Stay",
+        "time": "2026-11-12 15:12:37"
+    },
+    {
         "artist": "Duke Dumont",
         "title": "Ocean Drive",
         "time": "2026-11-12 15:09:15"
@@ -33,20 +48,5 @@
         "artist": "Progressive Waves",
         "title": "Gai Barone - Taking Credits (Extended Mix)",
         "time": "2026-11-12 14:25:22"
-    },
-    {
-        "artist": "Max Wexem",
-        "title": "Flourish",
-        "time": "2026-11-12 14:21:32"
-    },
-    {
-        "artist": "HAFT",
-        "title": "Galaxium",
-        "time": "2026-11-12 14:14:07"
-    },
-    {
-        "artist": "Durante, Anjunadeep",
-        "title": "Durante & ALLKNIGHT - How Does It Feel",
-        "time": "2026-11-12 14:09:33"
     }
 ]
