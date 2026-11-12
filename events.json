@@ -273,18 +273,18 @@
         "link": "https://xceed.me/en/barcelona/event/secret-location-x-plethoric/250486"
     },
     {
-        "title": "The Hospital PartySauvage Swinger ClubHits",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-hospital-party-barcelona-xceed-square-8514.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-hospital-party/251034"
-    },
-    {
         "title": "Jmedina · Mr. B",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
+    },
+    {
+        "title": "The Hospital PartySauvage Swinger ClubHits",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/the-hospital-party-barcelona-xceed-square-8514.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/the-hospital-party/251034"
     },
     {
         "title": "MONK Roma",
@@ -409,15 +409,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "MONK Roma",
@@ -455,6 +455,13 @@
         "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
+        "title": "Ciccio Mileto",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/rcc-open-mic-presenta-ciccio-mileto-roma-xceed-square-6147.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/rcc-open-mic-presenta-ciccio-mileto/249856"
+    },
+    {
         "title": "BORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterparty",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -467,13 +474,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/fomo-night-18-years-of-ace-roma-xceed-e68b.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/fomo-night-18-years-of-ace/251314"
-    },
-    {
-        "title": "Ciccio Mileto",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-open-mic-presenta-ciccio-mileto-roma-xceed-square-6147.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-open-mic-presenta-ciccio-mileto/249856"
     },
     {
         "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouseFunk",
@@ -679,18 +679,18 @@
         "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
-    },
-    {
         "title": "Latino’s bar",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-2-brussels-xceed-square-7f42.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-2/251581"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
         "title": "BLOODY LOUIS",
@@ -952,13 +952,6 @@
         "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
     },
     {
-        "title": "LIVEListening Session: Lovie & Jada MoraesTrader Hifi",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/listening-session-lovie-jada-moraes-hamburg-xceed-square-178b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/listening-session-lovie-jada-moraes/249051"
-    },
-    {
         "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -1069,6 +1062,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-2/250426"
+    },
+    {
+        "title": "ONYX X ABIFIZ GYMFISTS 28Golden CutHouse90s - 00sAfro House",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-gymfists-28-hamburg-xceed-29a2.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-gymfists-28/249725"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
