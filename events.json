@@ -301,13 +301,6 @@
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cerco-solo-divertimento-simonetta-musitano-roma-xceed-square-9e51.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -441,18 +434,25 @@
         "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
+        "title": "Cieloterra",
+        "date": "Neon pres METEMPSICOSI!",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-metempsicosi-roma-xceed-square-35a3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
+    },
+    {
+        "title": "LIVEBORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterp",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/born2bfunky-the-underground-archive-roma-xceed-square-d336.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
+    },
+    {
         "title": "Ciccio Mileto",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/rcc-open-mic-presenta-ciccio-mileto-roma-xceed-square-6147.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/rcc-open-mic-presenta-ciccio-mileto/249856"
-    },
-    {
-        "title": "BORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterparty",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/born2bfunky-the-underground-archive-roma-xceed-square-d336.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
     },
     {
         "title": "FOMO Night - 18 years of ACETEATRO CENTRALE",
@@ -525,13 +525,6 @@
         "link": "https://xceed.me/en/roma/event/131126-hotline-692-secret-garden/251905"
     },
     {
-        "title": "LUCA PECHINO · Luca Pechino · Ricky Le Roy +1",
-        "date": "Neon pres METEMPSICOSI!",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-metempsicosi-roma-xceed-square-35a3.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
-    },
-    {
         "title": "YASMIN - GROOVE THERAPY - at ALCAZAR LIVEAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -551,6 +544,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
+    },
+    {
+        "title": "Filippo Spreafico",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-in-english-alcazar-live-trastevere-5-roma-xceed-square-cca3.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-in-english-alcazar-live-trastevere-5/249911"
     },
     {
         "title": "C12",
