@@ -399,18 +399,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
         "title": "MONK Roma",
@@ -448,11 +448,11 @@
         "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
     },
     {
-        "title": "Ciccio Mileto",
+        "title": "LIVEComemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouse",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-open-mic-presenta-ciccio-mileto-roma-xceed-square-6147.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-open-mic-presenta-ciccio-mileto/249856"
+        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-roma-xceed-f010.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-36/242521"
     },
     {
         "title": "FOMO Night - 18 years of ACETEATRO CENTRALE",
@@ -460,13 +460,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/fomo-night-18-years-of-ace-roma-xceed-e68b.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/fomo-night-18-years-of-ace/251314"
-    },
-    {
-        "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouseFunk",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-roma-xceed-f010.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-36/242521"
     },
     {
         "title": "Carlotta Spallino · Filippo Spreafico · Ciccio Mileto +3",
@@ -551,6 +544,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-in-english-alcazar-live-trastevere-5-roma-xceed-square-cca3.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-in-english-alcazar-live-trastevere-5/249911"
+    },
+    {
+        "title": "14.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPop",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/141126-megabello-692-secret-garden/251904"
     },
     {
         "title": "C12",
