@@ -56,18 +56,18 @@
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
-        "title": "Boris Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
         "title": "NegroRojo",
         "date": "PABLO CAROL / BORJA DE LA RIVA & MA",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-borja-de-la-riva-marques/251876"
+    },
+    {
+        "title": "Boris Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -168,13 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
     },
     {
-        "title": "TBA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-68/249778"
-    },
-    {
         "title": "BASSDEMON713 · DELERI · H.A +2",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -187,6 +180,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/ezequiel-blanco-isaag-roberta-rolo-b2b-felipe-villota-secret-room-barcelona-xceed-square-395b.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/ezequiel-blanco-isaag-roberta-rolo-b2b-felipe-villota-secret-room/242800"
+    },
+    {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-68/249778"
     },
     {
         "title": "Hermes Disco Eterno",
@@ -364,18 +364,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
-        "title": "Cieloterra",
-        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
     },
     {
         "title": "MONK Roma",
@@ -1043,18 +1043,18 @@
         "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg/248020"
     },
     {
-        "title": "ONYX X ABIFIZ HEIDBERGGolden Cut90s - 00sHouseAfro House",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-2/250426"
-    },
-    {
         "title": "ONYX X ABIFIZ BONDENWALDGolden CutHouse90s - 00sAfro House",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-1-hamburg-xceed-c1f5.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-bondenwald/248527"
+    },
+    {
+        "title": "ONYX X ABIFIZ HEIDBERGGolden Cut90s - 00sHouseAfro House",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-2/250426"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
