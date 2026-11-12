@@ -14,18 +14,18 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-3/251537"
     },
     {
-        "title": "DOT",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
-    },
-    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
+    },
+    {
+        "title": "DOT",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
         "title": "La Paloma",
