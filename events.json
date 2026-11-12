@@ -322,18 +322,18 @@
         "link": "https://xceed.me/en/roma/event/cerco-solo-divertimento-simonetta-musitano/244455"
     },
     {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
         "title": "Fusolab",
@@ -735,10 +735,17 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
-        "title": "Mirano",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=349&h=349&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
+    },
+    {
+        "title": "Noah · Mk Silva · Soso",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nomad-x-euphoria-at-mirano-gta-vi-miami-edition/251968"
     },
     {
@@ -754,13 +761,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-41-brussels-xceed-square-0d16.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-41/251055"
-    },
-    {
-        "title": "FRESH SUNDAYZBIRDYHip-hopAfrobeatsR&B",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
     },
     {
         "title": "NɅYM · Celia · Yuya +1",
