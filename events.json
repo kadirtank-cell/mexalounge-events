@@ -364,13 +364,6 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
-    },
-    {
         "title": "Cieloterra",
         "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
         "location": "ROMA",
@@ -381,8 +374,8 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
+        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
         "title": "Cieloterra",
@@ -441,11 +434,11 @@
         "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
     },
     {
-        "title": "LIVEBORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterp",
+        "title": "Traffic Club",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/born2bfunky-the-underground-archive-roma-xceed-square-d336.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
+        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
     },
     {
         "title": "LIVEFOMO Night - 18 years of ACETEATRO CENTRALE",
@@ -453,6 +446,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/fomo-night-18-years-of-ace-roma-xceed-e68b.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/fomo-night-18-years-of-ace/251314"
+    },
+    {
+        "title": "LIVEBORN2BFUNKY (THE UNDERGROUND ARCHIVE) - “Style Wars” + afterp",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/born2bfunky-the-underground-archive-roma-xceed-square-d336.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/born2bfunky-the-underground-archive-style-wars-afterparty-by-lembo/250971"
     },
     {
         "title": "LIVEComemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouse",
@@ -551,6 +551,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/141126-megabello-692-secret-garden/251904"
+    },
+    {
+        "title": "BLACK HOPERATHE RANDOM",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/black-hoper-roma-xceed-square-79ae.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/black-hopera-1/252176"
     },
     {
         "title": "C12",
@@ -658,18 +665,18 @@
         "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
     },
     {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
-    },
-    {
         "title": "Latino’s bar",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-2-brussels-xceed-square-7f42.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-2/251581"
+    },
+    {
+        "title": "DADA Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "Hotel Trendy",
