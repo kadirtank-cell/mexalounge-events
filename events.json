@@ -63,6 +63,13 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
+        "title": "ICE BAR Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-seaview-club-nautico/247255"
+    },
+    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -75,13 +82,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
-        "title": "ICE BAR Barcelona",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-seaview-club-nautico/247255"
     },
     {
         "title": "VRABA TERRAZA",
@@ -133,11 +133,11 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
-        "title": "MIRABLAU",
+        "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/dj-pedri-yagmur/251875"
     },
     {
         "title": "NegroRojo",
@@ -147,6 +147,13 @@
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-borja-de-la-riva-marques/251876"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
+    },
+    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -154,18 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/jerry-v-junnior/251880"
     },
     {
-        "title": "La Terrrazza",
-        "date": "TBA (SOON)",
+        "title": "SEASEACLUB",
+        "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
-    },
-    {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
         "title": "LIVENew Jazz Underground: HoodiesJamboree Jazz Club",
@@ -173,13 +173,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/new-jazz-underground-hoodies-barcelona-xceed-8eea.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/new-jazz-underground-hoodies/250164"
-    },
-    {
-        "title": "DJ PEDRI",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/dj-pedri-yagmur/251875"
     },
     {
         "title": "BASSDEMON713 · DELERI · H.A +2",
@@ -222,6 +215,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/thursday-night-flavio-rodriguez-9-barcelona-xceed-2c61.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/thursday-night-flavio-rodriguez-9/250190"
+    },
+    {
+        "title": "MR MAJESTYK",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
     },
     {
         "title": "Viernes ÍntimosSauvage Swinger ClubHits",
@@ -392,11 +392,11 @@
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
     },
     {
-        "title": "Cieloterra",
+        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
     },
     {
         "title": "MONK Roma",
@@ -406,11 +406,11 @@
         "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
-        "title": "MONK Roma",
+        "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma-roma-xceed-square-6274.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-addivvi-lauryyn-scar-monk-roma/245561"
+        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
         "title": "MONK Roma",
@@ -728,11 +728,11 @@
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "title": "Bourse/Beurs Rooftop Brussels",
+        "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
+        "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
     },
     {
         "title": "Noah · Mk Silva · Soso",
@@ -941,15 +941,15 @@
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/festa-dell-amore-disco-inferno-hamburg-xceed-square-a5b9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/festa-dell-amore-disco-inferno/249572"
+        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
     },
     {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
+        "image": "https://images.xceed.me/events/banners/festa-dell-amore-disco-inferno-hamburg-xceed-square-a5b9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/festa-dell-amore-disco-inferno/249572"
     },
     {
         "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
@@ -959,18 +959,18 @@
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
     },
     {
-        "title": "NOSTALGIA X REPLAYUWE Club Reeperbahn90s - 00sHip-hopHouse",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nostalgia-x-replay-2-hamburg-xceed-square-e47f.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nostalgia-x-replay-2/250608"
-    },
-    {
         "title": "Jarmo · MOLU",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-jarmo-molu-ber-hamburg-xceed-efc0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-jarmo-molu-ber/251064"
+    },
+    {
+        "title": "NOSTALGIA X REPLAYUWE Club Reeperbahn90s - 00sHip-hopHouse",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nostalgia-x-replay-2-hamburg-xceed-square-e47f.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nostalgia-x-replay-2/250608"
     },
     {
         "title": "Listening Session: Theo CrokerTrader Hifi",
