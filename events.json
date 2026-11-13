@@ -136,15 +136,15 @@
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
+        "image": "https://images.xceed.me/events/banners/viernes-intimos-barcelona-xceed-square-43fd.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/viernes-intimos/250899"
     },
     {
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/viernes-intimos-barcelona-xceed-square-43fd.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/viernes-intimos/250899"
+        "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
     },
     {
         "title": "Hotel SLS Barcelona",
@@ -322,18 +322,18 @@
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
-    },
-    {
         "title": "Cieloterra",
         "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
         "title": "Hacienda",
@@ -434,32 +434,18 @@
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
+        "title": "Lanificio",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
-    },
-    {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
-    },
-    {
-        "title": "Carlotta Spallino · Filippo Spreafico · Ciccio Mileto +3",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-roma-xceed-square-1913.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo/249859"
-    },
-    {
-        "title": "Shaky ShakyLanificioHitsR&B",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
     },
     {
         "title": "DISCO EXPRESSAlcazar",
@@ -560,6 +546,13 @@
         "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
     },
     {
+        "title": "PIGNETO FILM FESTIVAL at PALAZZO SAN LORENZOPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/pigneto-film-festival-at-palazzo-san-lorenzo-roma-xceed-square-1b4b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pigneto-film-festival-at-palazzo-san-lorenzo/251455"
+    },
+    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -644,18 +637,18 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
-    },
-    {
         "title": "Latino’s bar",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-2-brussels-xceed-square-7f42.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-2/251581"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
         "title": "Mirano",
@@ -840,18 +833,18 @@
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
     },
     {
-        "title": "Edelfettwerk",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/one-night-rap-festival/248797"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
+    },
+    {
+        "title": "Edelfettwerk",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/one-night-rap-festival/248797"
     },
     {
         "title": "Uebel & Gefährlich",
