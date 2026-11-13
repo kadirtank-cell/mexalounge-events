@@ -56,18 +56,18 @@
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-borja-de-la-riva-marques/251876"
     },
     {
-        "title": "Boris Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-pisano-disco-bar-mr-b-tambo-friends/251867"
+    },
+    {
+        "title": "Boris Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -371,18 +371,18 @@
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
         "title": "Cieloterra",
         "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "Cieloterra",
@@ -462,18 +462,18 @@
         "link": "https://xceed.me/en/roma/event/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-1/251106"
     },
     {
-        "title": "DISCO EXPRESSAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/disco-express-roma-xceed-square-678d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/disco-express/249907"
-    },
-    {
         "title": "18eSto! & la Folie - Friday University Night with Mon AmourTEATRO",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/18esto-la-folie-mon-amour-friday-university-night-roma-xceed-c5ea.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/18esto-la-folie-friday-university-night-with-mon-amour/251558"
+    },
+    {
+        "title": "DISCO EXPRESSAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/disco-express-roma-xceed-square-678d.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/disco-express/249907"
     },
     {
         "title": "Julian Anthony · Elvi · Francesco Maria +1",
@@ -721,10 +721,17 @@
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
     },
     {
-        "title": "Mirano",
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
+    },
+    {
+        "title": "Noah · Mk Silva · Soso",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=349&h=349&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nomad-x-euphoria-at-mirano-gta-vi-miami-edition/251968"
     },
     {
