@@ -42,18 +42,18 @@
         "link": "https://xceed.me/en/barcelona/event/closing-party-happy-techno-barcelona-open-air-daytime/241874"
     },
     {
-        "title": "NIX bcn",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-pisano-disco-bar-mr-b-tambo-friends/251867"
+    },
+    {
+        "title": "NIX bcn",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
         "title": "Slow Club",
@@ -105,6 +105,13 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
+    },
+    {
         "title": "CDLC - Carpe Diem",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -124,13 +131,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/the-room-21-1-barcelona-xceed-square-086f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/the-room-21-1/251373"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -238,6 +238,13 @@
         "link": "https://xceed.me/en/barcelona/event/javi-gon-32/249995"
     },
     {
+        "title": "bruno castillo · Cucut",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
+    },
+    {
         "title": "Frankie G",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -266,13 +273,6 @@
         "link": "https://xceed.me/en/barcelona/event/saturday-night-dj-eley-dj-kunta/250192"
     },
     {
-        "title": "bruno castillo · Cucut",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
-    },
-    {
         "title": "SEASEA STAY · Core & BreathSEASEACLUB",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -280,18 +280,18 @@
         "link": "https://xceed.me/en/barcelona/event/seasea-stay-core-breath/250363"
     },
     {
-        "title": "Hacienda",
-        "date": "Maribou State @ Hacienda - Roma | 1",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
+    },
+    {
+        "title": "Hacienda",
+        "date": "Maribou State @ Hacienda - Roma | 1",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
         "title": "Fusolab",
@@ -350,18 +350,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "MONK Roma",
@@ -406,18 +406,18 @@
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "MONK Roma",
@@ -588,18 +588,18 @@
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
     },
     {
-        "title": "Jeux d'Hiver",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
+    },
+    {
+        "title": "Jeux d'Hiver",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
         "title": "Gare de Bruxelles-Congres",
@@ -833,18 +833,18 @@
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/one-night-rap-festival/248797"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -973,18 +973,18 @@
         "link": "https://xceed.me/en/hamburg/event/oliver-schories-all-night-long-1/240709"
     },
     {
-        "title": "Listening Session: FloFilzTrader Hifi",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/listening-session-flofilz-1-hamburg-xceed-square-fd2b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/listening-session-flofilz-1/249231"
-    },
-    {
         "title": "Ashwin · Noah James (GER)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-ashwin-noah-james-hamburg-xceed-35d2.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-ashwin-noah-james/251065"
+    },
+    {
+        "title": "Listening Session: FloFilzTrader Hifi",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/listening-session-flofilz-1-hamburg-xceed-square-fd2b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/listening-session-flofilz-1/249231"
     },
     {
         "title": "DJ AYA · Surf 2 Glory · Cufme +4",
