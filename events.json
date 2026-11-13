@@ -70,6 +70,13 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-pisano-disco-bar-mr-b-tambo-friends/251867"
     },
     {
+        "title": "VRABA TERRAZA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/nye-seaview-club-nautico/247257"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -89,13 +96,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
-        "title": "VRABA TERRAZA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/nye-seaview-club-nautico/247257"
     },
     {
         "title": "CDLC - Carpe Diem",
@@ -553,11 +553,11 @@
         "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
     },
     {
-        "title": "PIGNETO FILM FESTIVAL at PALAZZO SAN LORENZOPalazzo - San Lorenzo",
+        "title": "COME MAMMA M'HA FATTO",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pigneto-film-festival-at-palazzo-san-lorenzo-roma-xceed-square-1b4b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pigneto-film-festival-at-palazzo-san-lorenzo/251455"
+        "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
     },
     {
         "title": "C12",
