@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Techno Paraná",
+        "title": "HOF(DE) - Tiger Claw (Extended Mix)",
+        "time": "2026-11-13 17:13:30"
+    },
+    {
+        "artist": "Ben Böhmer",
+        "title": "Breathing",
+        "time": "2026-11-13 17:09:50"
+    },
+    {
+        "artist": "Anyma",
+        "title": "Sentient",
+        "time": "2026-11-13 17:05:20"
+    },
+    {
         "artist": "Electropeople",
         "title": "ELEVEN (FR), Twofaced. - Everything In Its Right Place (Original Mix)",
         "time": "2026-11-13 16:58:05"
@@ -33,20 +48,5 @@
         "artist": "EXTATIC Records",
         "title": "Marie Vaunt - That Acid (2HOT2PLAY & Jimmy Peel Remix)",
         "time": "2026-11-13 16:31:56"
-    },
-    {
-        "artist": "Experts Only",
-        "title": "Roddy Lima - Night Time [Extended Mix]",
-        "time": "2026-11-13 16:26:11"
-    },
-    {
-        "artist": "Oliver Heldens, Kate Ryan",
-        "title": "Désenchantée (Oli’S Eurorave Mix)",
-        "time": "2026-11-13 16:22:37"
-    },
-    {
-        "artist": "Andrey Exx, Turaniqa",
-        "title": "Be Good To Me (Extended Mix)",
-        "time": "2026-11-13 16:17:19"
     }
 ]
