@@ -175,13 +175,6 @@
         "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
     },
     {
-        "title": "LIVEEnrique Oliver + Among3Jamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/enrique-oliver-among3-barcelona-xceed-be88.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/enrique-oliver-among3/250165"
-    },
-    {
         "title": "Navider",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -280,11 +273,11 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
     },
     {
-        "title": "MONK Roma",
+        "title": "SEASEA STAY · Core & BreathSEASEACLUB",
         "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasea-stay-core-breath-barcelona-xceed-square-7338.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasea-stay-core-breath/250363"
     },
     {
         "title": "Hacienda",
@@ -292,6 +285,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
         "title": "Fusolab",
@@ -336,6 +336,13 @@
         "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
+    },
+    {
         "title": "Hacienda",
         "date": "PENDULUM @Hacienda - Roma | 11 Dice",
         "location": "ROMA",
@@ -344,17 +351,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
-    },
-    {
-        "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
     },
     {
         "title": "MONK Roma",
@@ -369,13 +376,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
-    },
-    {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
     },
     {
         "title": "TEATRO CENTRALE",
@@ -413,6 +413,13 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
+        "title": "Lanificio",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -434,25 +441,11 @@
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
-        "title": "Lanificio",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
-    },
-    {
-        "title": "DISCO EXPRESSAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/disco-express-roma-xceed-square-678d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/disco-express/249907"
     },
     {
         "title": "Carlotta Spallino · Filippo Spreafico · Ciccio Mileto +3",
@@ -462,18 +455,25 @@
         "link": "https://xceed.me/en/roma/event/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-1/251106"
     },
     {
+        "title": "LIVE13.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopA",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/131126-hotline-692-secret-garden/251905"
+    },
+    {
+        "title": "DISCO EXPRESSAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/disco-express-roma-xceed-square-678d.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/disco-express/249907"
+    },
+    {
         "title": "Julian Anthony · Elvi · Francesco Maria +1",
         "date": "Julian Anthony · Elvi · Francesco M",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mania-invites-julian-anthony-1-roma-xceed-2f70.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mania-invites-julian-anthony-1/251323"
-    },
-    {
-        "title": "13.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopAfrob",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/131126-hotline-692-secret-garden/251905"
     },
     {
         "title": "LUCA PECHINO · Luca Pechino · Ricky Le Roy +1",
