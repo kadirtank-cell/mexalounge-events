@@ -1,12 +1,5 @@
 [
     {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-x-melt-g-spot-srxmas-disco-bar-los-dos-mil-bruno-not-bruno-barcelona-xceed-square-a6d6.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-x-melt-g-spot-srxmas-disco-bar-los-dos-mil-bruno-not-bruno/251319"
-    },
-    {
         "title": "BUS HEXPERIENCE",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -129,13 +122,6 @@
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/dj-pedri-yagmur/251875"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
     },
@@ -166,6 +152,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jerry-v-junnior/251880"
+    },
+    {
+        "title": "SEASEACLUB",
+        "date": "Half Baked x Les Enfants at SEASEAC",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
         "title": "Viernes ÍntimosSauvage Swinger ClubHits",
@@ -271,6 +271,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/glamour-freaks-frankie-g-kenzo-barcelona-xceed-square-773b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-frankie-g-kenzo/250238"
+    },
+    {
+        "title": "bruno castillo · Cucut",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
     },
     {
         "title": "MONK Roma",
