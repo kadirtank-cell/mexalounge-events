@@ -25,21 +25,21 @@
     },
     {
         "rank": 5,
+        "artist": "Massuma",
+        "title": "Mermaid",
+        "play_count": 13
+    },
+    {
+        "rank": 6,
         "artist": "Ninetoes",
         "title": "Finder",
         "play_count": 13
     },
     {
-        "rank": 6,
+        "rank": 7,
         "artist": "Ajna (BE)",
         "title": "Forest",
         "play_count": 13
-    },
-    {
-        "rank": 7,
-        "artist": "Massuma",
-        "title": "Mermaid",
-        "play_count": 12
     },
     {
         "rank": 8,
