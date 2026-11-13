@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Guy J",
+        "title": "Roy Rosenfeld - New Life",
+        "time": "2026-11-13 15:08:57"
+    },
+    {
+        "artist": "Thω_Tσε75",
+        "title": "Guy J - Rise (Original Mix)",
+        "time": "2026-11-13 15:00:33"
+    },
+    {
         "artist": "Thω_Tσε75",
         "title": "Luke Hunter, Frankie M - Dive On (Jerome Isma Ae Extended Remix)",
         "time": "2026-11-13 14:53:32"
@@ -38,15 +48,5 @@
         "artist": "Progressive Waves",
         "title": "Gai Barone - Taking Credits (Extended Mix)",
         "time": "2026-11-13 14:13:05"
-    },
-    {
-        "artist": "Vinyl On Demand",
-        "title": "Samm, Mosoo  - Burnin'",
-        "time": "2026-11-13 14:09:05"
-    },
-    {
-        "artist": "Paul Thomas, Weird Sounding Dude",
-        "title": "Summersault (Weird Sounding Dude Extended Remix)",
-        "time": "2026-11-13 14:02:46"
     }
 ]

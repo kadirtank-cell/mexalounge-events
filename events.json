@@ -406,6 +406,13 @@
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
+    },
+    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -418,13 +425,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
     },
     {
         "title": "MONK Roma",
@@ -553,11 +553,11 @@
         "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
     },
     {
-        "title": "COME MAMMA M'HA FATTO",
+        "title": "PIGNETO FILM FESTIVAL at PALAZZO SAN LORENZOPalazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
+        "image": "https://images.xceed.me/events/banners/pigneto-film-festival-at-palazzo-san-lorenzo-roma-xceed-square-1b4b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pigneto-film-festival-at-palazzo-san-lorenzo/251455"
     },
     {
         "title": "C12",
@@ -707,6 +707,13 @@
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
+        "title": "Mirano",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nomad-x-euphoria-at-mirano-gta-vi-miami-edition/251968"
+    },
+    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -719,20 +726,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
-    },
-    {
-        "title": "Hotel Trendy",
-        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
-    },
-    {
-        "title": "Noah · Mk Silva · Soso",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nomad-x-euphoria-at-mirano-gta-vi-miami-edition/251968"
     },
     {
         "title": "Roonx",
@@ -952,18 +945,18 @@
         "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
     },
     {
-        "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-arman-john-bae-blade-hamburg-xceed-square-da4f.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
-    },
-    {
         "title": "Jarmo · MOLU",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-jarmo-molu-ber-hamburg-xceed-efc0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-jarmo-molu-ber/251064"
+    },
+    {
+        "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-arman-john-bae-blade-hamburg-xceed-square-da4f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
     },
     {
         "title": "NOSTALGIA X REPLAYUWE Club Reeperbahn90s - 00sHip-hopHouse",
@@ -1001,18 +994,18 @@
         "link": "https://xceed.me/en/hamburg/event/listening-session-flofilz-1/249231"
     },
     {
-        "title": "DJ AYA · Surf 2 Glory · Cufme +4",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-aya-surf2glory-cufme-hamburg-xceed-square-9b20.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-aya-surf2glory-cufme/249891"
-    },
-    {
         "title": "Ashwin · Noah James (GER)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-ashwin-noah-james-hamburg-xceed-35d2.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-ashwin-noah-james/251065"
+    },
+    {
+        "title": "DJ AYA · Surf 2 Glory · Cufme +4",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-aya-surf2glory-cufme-hamburg-xceed-square-9b20.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-aya-surf2glory-cufme/249891"
     },
     {
         "title": "Arodes · Vinbuu",
