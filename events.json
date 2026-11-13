@@ -448,13 +448,6 @@
         "link": "https://xceed.me/en/roma/event/fomo-night-18-years-of-ace/251314"
     },
     {
-        "title": "LIVEComemammam'hafatto - Alcazar Live TrastevereAlcazarDiscoHouse",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-roma-xceed-f010.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-36/242521"
-    },
-    {
         "title": "Roberta Orzalesi · Ovren",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -560,6 +553,13 @@
         "link": "https://xceed.me/en/roma/event/rcc-giullari-grossi-cometto-cartesio/249862"
     },
     {
+        "title": "Dj Ali Gee",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
+    },
+    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -593,13 +593,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
-    },
-    {
-        "title": "Hotel Trendy",
-        "date": "DJUNO x HOTEL TRENDY 2 YEARS ANNIVE",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/djuno-x-hotel-trendy-12-november-2026-brussels-xceed-square-009f.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/djuno-x-hotel-trendy-2-years-anniversary-12-november-2026/249741"
     },
     {
         "title": "Jeux d'Hiver",
@@ -728,10 +721,10 @@
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
     },
     {
-        "title": "Noah · Mk Silva · Soso",
+        "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/nomad-x-euphoria-at-mirano-gta-vi-miami-edition-brussels-xceed-square-2f0a.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nomad-x-euphoria-at-mirano-gta-vi-miami-edition/251968"
     },
     {
@@ -775,6 +768,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
+    },
+    {
+        "title": "Noah · Master Dream",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
     },
     {
         "title": "Edelfettwerk",
