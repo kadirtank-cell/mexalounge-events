@@ -70,6 +70,13 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
+    },
+    {
         "title": "VRABA TERRAZA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -126,18 +133,18 @@
         "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
     },
     {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
-    },
-    {
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
+    },
+    {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/viernes-intimos-barcelona-xceed-square-43fd.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/viernes-intimos/250899"
     },
     {
         "title": "MIRABLAU",
@@ -154,18 +161,18 @@
         "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
     },
     {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/viernes-intimos-barcelona-xceed-square-43fd.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/viernes-intimos/250899"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jerry-v-junnior/251880"
+    },
+    {
+        "title": "LIVEEnrique Oliver + Among3Jamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/enrique-oliver-among3-barcelona-xceed-be88.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/enrique-oliver-among3/250165"
     },
     {
         "title": "Navider",
@@ -194,13 +201,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-118/247914"
-    },
-    {
-        "title": "Enrique Oliver + Among3Jamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/enrique-oliver-among3-barcelona-xceed-be88.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/enrique-oliver-among3/250165"
     },
     {
         "title": "Dj Eley · Big Mil",
@@ -322,13 +322,6 @@
         "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
-        "title": "Hacienda",
-        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
         "title": "Cieloterra",
         "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
         "location": "ROMA",
@@ -336,11 +329,11 @@
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "title": "Hacienda",
+        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
         "title": "MONK Roma",
@@ -348,6 +341,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "MONK Roma",
@@ -413,18 +413,18 @@
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "MONK Roma",
@@ -574,18 +574,18 @@
         "link": "https://xceed.me/en/brussels/event/swae-lee-x-birdy-club-x-drippy/249419"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "NISKA (SHOWCASE)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "NISKA (SHOWCASE)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/niska-showcase-2-brussels-xceed-square-7a46.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
     },
     {
         "title": "Jeux d'Hiver",
@@ -623,18 +623,18 @@
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/y2k-old-school-party-brussels-xceed-square-e5ae.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/y2k-old-school-party/252004"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "BIRDY",
