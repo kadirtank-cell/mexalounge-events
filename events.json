@@ -294,18 +294,18 @@
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
-    },
-    {
         "title": "Fusolab",
         "date": "KING ALPHA | FIKIR AMLAK | BLUE ZON",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma/240278"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
         "title": "MONK Roma",
@@ -339,15 +339,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
+        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
         "title": "Cieloterra",
