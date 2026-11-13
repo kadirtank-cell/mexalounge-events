@@ -329,18 +329,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
         "title": "Cieloterra",
         "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "MONK Roma",
@@ -364,6 +364,13 @@
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
+    },
+    {
         "title": "Hacienda",
         "date": "Nto - Live @ Hacienda | 18 Dicembre",
         "location": "ROMA",
@@ -376,13 +383,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
     },
     {
         "title": "TEATRO CENTRALE",
