@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
     },
     {
-        "title": "DOT",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
-    },
-    {
         "title": "NegroRojo",
         "date": "PABLO CAROL / BORJA DE LA RIVA & MA",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-borja-de-la-riva-marques/251876"
+    },
+    {
+        "title": "DOT",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
         "title": "La Terrrazza",
@@ -126,18 +126,18 @@
         "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
     },
     {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
+    },
+    {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
     },
     {
         "title": "MIRABLAU",
@@ -154,6 +154,13 @@
         "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
     },
     {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/viernes-intimos-barcelona-xceed-square-43fd.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/viernes-intimos/250899"
+    },
+    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -161,25 +168,11 @@
         "link": "https://xceed.me/en/barcelona/event/jerry-v-junnior/251880"
     },
     {
-        "title": "SEASEACLUB",
-        "date": "Half Baked x Les Enfants at SEASEAC",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
-    },
-    {
         "title": "LIVESecret Location x plethoricOpposite",
         "date": "Secret Location x plethoric",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/secret-location-x-plethoric-barcelona-xceed-square-9636.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/secret-location-x-plethoric/250486"
-    },
-    {
-        "title": "Viernes ÍntimosSauvage Swinger ClubHits",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/viernes-intimos-barcelona-xceed-square-43fd.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/viernes-intimos/250899"
     },
     {
         "title": "Carlota · Carol Nyx · Clara Rigby",
@@ -343,6 +336,13 @@
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
+        "title": "Cieloterra",
+        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -355,13 +355,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
-    },
-    {
-        "title": "Cieloterra",
-        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
     },
     {
         "title": "Cieloterra",
@@ -392,6 +385,13 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
     },
     {
+        "title": "TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/18esto-la-folie-mon-amour-friday-university-night-roma-xceed-c5ea.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/18esto-la-folie-friday-university-night-with-mon-amour/251558"
+    },
+    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -404,13 +404,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
-    },
-    {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/18esto-la-folie-mon-amour-friday-university-night-roma-xceed-c5ea.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/18esto-la-folie-friday-university-night-with-mon-amour/251558"
     },
     {
         "title": "MONK Roma",
@@ -455,6 +448,13 @@
         "link": "https://xceed.me/en/roma/event/disco-express/249907"
     },
     {
+        "title": "Shaky ShakyLanificioHitsR&B",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
+    },
+    {
         "title": "Carlotta Spallino · Filippo Spreafico · Ciccio Mileto +3",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -467,13 +467,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-1-roma-xceed-square-e5b9.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/rcc-pescato-del-giorno-spallino-spreafico-mileto-raz-russo-1/251106"
-    },
-    {
-        "title": "Shaky ShakyLanificioHitsR&B",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
     },
     {
         "title": "Julian Anthony · Elvi · Francesco Maria +1",
@@ -602,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
-        "title": "Gare de Bruxelles-Congres",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
+    },
+    {
+        "title": "Gare de Bruxelles-Congres",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
     },
     {
         "title": "BLOODY LOUIS",
@@ -861,6 +854,13 @@
         "link": "https://xceed.me/en/hamburg/event/one-night-with-felix-krocher-1/240707"
     },
     {
+        "title": "Café Schöne Aussichten (CSA)",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
+    },
+    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -873,13 +873,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
-    },
-    {
-        "title": "Café Schöne Aussichten (CSA)",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
     },
     {
         "title": "Seehaus",
@@ -959,18 +952,18 @@
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-jarmo-molu-ber/251064"
     },
     {
-        "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-arman-john-bae-blade-hamburg-xceed-square-da4f.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
-    },
-    {
         "title": "NOSTALGIA X REPLAYUWE Club Reeperbahn90s - 00sHip-hopHouse",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nostalgia-x-replay-2-hamburg-xceed-square-e47f.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nostalgia-x-replay-2/250608"
+    },
+    {
+        "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-arman-john-bae-blade-hamburg-xceed-square-da4f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
     },
     {
         "title": "IVORY | Back To The RootsUWE Club Reeperbahn",

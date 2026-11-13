@@ -1,5 +1,25 @@
 [
     {
+        "artist": "D-Devils",
+        "title": "The Devil Is A DJ",
+        "time": "2026-11-13 18:11:49"
+    },
+    {
+        "artist": "Veerus",
+        "title": "Frequency",
+        "time": "2026-11-13 18:07:32"
+    },
+    {
+        "artist": "Eli Brown",
+        "title": "Be The One",
+        "time": "2026-11-13 18:04:47"
+    },
+    {
+        "artist": "Imdat Beşikci",
+        "title": "Hırçın Dalgalar",
+        "time": "2026-11-13 18:01:32"
+    },
+    {
         "artist": "Monolink",
         "title": "Return To Oz (ARTBAT Remix - Radio Edit)",
         "time": "2026-11-13 17:57:48"
@@ -28,25 +48,5 @@
         "artist": "Kosheen, Ferry Corsten",
         "title": "Catch (Extended Mix)",
         "time": "2026-11-13 17:29:44"
-    },
-    {
-        "artist": "Max Styler, Vintage Culture",
-        "title": "Max Styler - You & Me (Vintage Culture Remix)",
-        "time": "2026-11-13 17:25:51"
-    },
-    {
-        "artist": "Pakito",
-        "title": "Moving On Stero",
-        "time": "2026-11-13 17:19:54"
-    },
-    {
-        "artist": "Techno Paraná",
-        "title": "HOF(DE) - Tiger Claw (Extended Mix)",
-        "time": "2026-11-13 17:13:30"
-    },
-    {
-        "artist": "Ben Böhmer",
-        "title": "Breathing",
-        "time": "2026-11-13 17:09:50"
     }
 ]
