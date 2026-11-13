@@ -168,11 +168,11 @@
         "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
     },
     {
-        "title": "MR MAJESTYK",
-        "date": "TBA (SOON)",
+        "title": "Carlota · Carol Nyx · Clara Rigby",
+        "date": "Carlota · Carol Nyx · Clara Rigby",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/throwback-back-to-80s-90s-00s-opening-2026-la-terrrazza-barcelona-xceed-square-b7e3.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/throwback-one-more-dance-back-to-80s-90s-00s-at-la-terrrazza/249245"
+        "image": "https://images.xceed.me/events/banners/carlota-carol-nyx-1-barcelona-xceed-11d0.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/carlota-carol-nyx-1/249993"
     },
     {
         "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
@@ -180,6 +180,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-118/247914"
+    },
+    {
+        "title": "Dj Eley · Big Mil",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-flavio-rodriguez-6-barcelona-xceed-0540.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-flavio-rodriguez-6/250191"
     },
     {
         "title": "Navider",
@@ -194,20 +201,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/secret-location-x-plethoric-barcelona-xceed-square-9636.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/secret-location-x-plethoric/250486"
-    },
-    {
-        "title": "Carlota · Carol Nyx · Clara Rigby",
-        "date": "Carlota · Carol Nyx · Clara Rigby",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/carlota-carol-nyx-1-barcelona-xceed-11d0.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/carlota-carol-nyx-1/249993"
-    },
-    {
-        "title": "Dj Eley · Big Mil",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-flavio-rodriguez-6-barcelona-xceed-0540.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-flavio-rodriguez-6/250191"
     },
     {
         "title": "The Hospital PartySauvage Swinger ClubHits",
@@ -280,6 +273,13 @@
         "link": "https://xceed.me/en/barcelona/event/seasea-stay-core-breath/250363"
     },
     {
+        "title": "Carol Nyx · Mr. Majestyk",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/carol-nyx-34-barcelona-xceed-8539.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/carol-nyx-34/249997"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -301,18 +301,18 @@
         "link": "https://xceed.me/en/roma/event/ticket-disponibili-in-cassa-king-alpha-fikir-amlak-14-novembre-2026-fusolab/240278"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
-    },
-    {
         "title": "Cieloterra",
         "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
         "title": "MONK Roma",
@@ -392,18 +392,18 @@
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "Cieloterra",
@@ -427,18 +427,18 @@
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
         "title": "Cieloterra",
         "date": "Neon pres METEMPSICOSI!",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/neon-pres-metempsicosi-roma-xceed-square-35a3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
         "title": "Alcazar",
@@ -665,13 +665,6 @@
         "link": "https://xceed.me/en/brussels/event/nomad-x-euphoria-at-mirano-gta-vi-miami-edition/251968"
     },
     {
-        "title": "Le Baixu!",
-        "date": "Resonating Roots: Loop & Tradition ",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue-brussels-xceed-square-4e3b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/resonating-roots-loop-tradition-nagme-yarkin-damla-aydin-a-contemporary-musical-dialogue/248580"
-    },
-    {
         "title": "DADA Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -721,6 +714,13 @@
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
+    },
+    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -768,6 +768,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
+    },
+    {
+        "title": "Friendsgiving Bingo x WANDLER at The Standard, BrusselsThe Standa",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
         "title": "Edelfettwerk",
@@ -889,18 +896,18 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/stil-vor-talent-hamburg-xceed-e4e2.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "glimmer",
@@ -924,18 +931,18 @@
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
     },
     {
-        "title": "Secret Location",
-        "date": "Secret Location",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
+    },
+    {
+        "title": "Secret Location",
+        "date": "Secret Location",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
         "title": "Jarmo · MOLU",
@@ -945,18 +952,18 @@
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-jarmo-molu-ber/251064"
     },
     {
+        "title": "LIVEglimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechn",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-arman-john-bae-blade-hamburg-xceed-square-da4f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
+    },
+    {
         "title": "LIVENOSTALGIA X REPLAYUWE Club Reeperbahn90s - 00sHip-hopHouse",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nostalgia-x-replay-2-hamburg-xceed-square-e47f.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nostalgia-x-replay-2/250608"
-    },
-    {
-        "title": "glimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechnoHou",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-arman-john-bae-blade-hamburg-xceed-square-da4f.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-arman-john-bae-blade/249893"
     },
     {
         "title": "IVORY | Back To The RootsUWE Club Reeperbahn",
