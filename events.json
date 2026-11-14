@@ -294,13 +294,6 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
-        "title": "Hacienda",
-        "date": "Maribou State @ Hacienda - Roma | 1",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
-    },
-    {
         "title": "Fusolab",
         "date": "(TICKET DISPONIBILI IN CASSA) KING ",
         "location": "ROMA",
@@ -371,13 +364,6 @@
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
-        "title": "Lanificio",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/shaky-shaky-19/250285"
-    },
-    {
         "title": "Hacienda",
         "date": "Nto - Live @ Hacienda | 18 Dicembre",
         "location": "ROMA",
@@ -390,13 +376,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/18esto-la-folie-mon-amour-friday-university-night-roma-xceed-c5ea.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/18esto-la-folie-friday-university-night-with-mon-amour/251558"
     },
     {
         "title": "Cieloterra",
@@ -448,18 +427,32 @@
         "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
     },
     {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/yasmin-groove-therapy-at-alcazar-live-roma-xceed-square-e46d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/yasmin-groove-therapy-at-alcazar-live/250019"
+    },
+    {
+        "title": "Traffic Club",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
+    },
+    {
         "title": "Julian Anthony · Elvi · Francesco Maria +1",
         "date": "Julian Anthony · Elvi · Francesco M",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mania-invites-julian-anthony-1-roma-xceed-2f70.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mania-invites-julian-anthony-1/251323"
-    },
-    {
-        "title": "YASMIN - GROOVE THERAPY - at ALCAZAR LIVEAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/yasmin-groove-therapy-at-alcazar-live-roma-xceed-square-e46d.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/yasmin-groove-therapy-at-alcazar-live/250019"
     },
     {
         "title": "occibel · Giano · Sandro",
@@ -544,6 +537,20 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/gelo-comedy-happening-raimondo-lancia-galeazzi-roma-xceed-square-7572.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/gelo-comedy-happening-raimondo-lancia-galeazzi/246885"
+    },
+    {
+        "title": "DISCO SOLEPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/disco-sole-1-roma-xceed-square-31dd.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/disco-sole-1/249457"
+    },
+    {
+        "title": "DARKORE - 20 NOVEMBRE 2026Tag CultureHard TechnoHardcoreTechno",
+        "date": "DARKORE - 20 NOVEMBRE 2026",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
     },
     {
         "title": "C12",
