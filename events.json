@@ -351,6 +351,13 @@
     },
     {
         "title": "Cieloterra",
+        "date": "Neon pres METEMPSICOSI!",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-metempsicosi-roma-xceed-square-35a3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
+    },
+    {
+        "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
@@ -364,11 +371,11 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
-        "title": "Cieloterra",
-        "date": "Neon pres METEMPSICOSI!",
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-metempsicosi-roma-xceed-square-35a3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
+        "image": "https://images.xceed.me/events/banners/yasmin-groove-therapy-at-alcazar-live-roma-xceed-square-e46d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/yasmin-groove-therapy-at-alcazar-live/250019"
     },
     {
         "title": "Hacienda",
@@ -376,13 +383,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
-    },
-    {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/yasmin-groove-therapy-at-alcazar-live-roma-xceed-square-e46d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/yasmin-groove-therapy-at-alcazar-live/250019"
     },
     {
         "title": "MONK Roma",
@@ -460,13 +460,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
-    },
-    {
-        "title": "Filippo Spreafico",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-in-english-alcazar-live-trastevere-5-roma-xceed-square-cca3.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-in-english-alcazar-live-trastevere-5/249911"
     },
     {
         "title": "LIVE14.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
@@ -572,6 +565,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends-roma-xceed-square-db4e.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
+    },
+    {
+        "title": "Karaoke indie nostalgia Roma + indie club party | MONK 20 NOVEMBR",
+        "date": "Karaoke indie nostalgia Roma + indi",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione-roma-xceed-square-14cb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
     },
     {
         "title": "C12",
