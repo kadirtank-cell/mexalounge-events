@@ -504,6 +504,13 @@
         "link": "https://xceed.me/en/roma/event/pigneto-film-festival-at-palazzo-san-lorenzo/251455"
     },
     {
+        "title": "AGM- Any Given MondayTEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/agm-any-given-monday-10-roma-xceed-eebf.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/agm-any-given-monday-16/252313"
+    },
+    {
         "title": "QUINDIE FESTIVALAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -551,13 +558,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
-    },
-    {
-        "title": "Filippo Spreafico",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends-roma-xceed-square-db4e.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
     },
     {
         "title": "C12",
@@ -679,18 +679,18 @@
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
         "title": "BLOODY LOUIS",
@@ -700,18 +700,18 @@
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
         "title": "NUA",
@@ -840,18 +840,18 @@
         "link": "https://xceed.me/en/hamburg/event/ver-pres-paracek-invites-early-rave/249329"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
-    },
-    {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/sessionon-csa-hamburg-xceed-square-5549.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/sessionon-csa/248149"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -882,6 +882,13 @@
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
+        "title": "UWE Club Reeperbahn",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/ivory-back-to-the-roots-hamburg-xceed-c73a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/ivory-back-to-the-roots/250037"
+    },
+    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -894,13 +901,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
-        "title": "UWE Club Reeperbahn",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/ivory-back-to-the-roots-hamburg-xceed-c73a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/ivory-back-to-the-roots/250037"
     },
     {
         "title": "glimmer",
