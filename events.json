@@ -7,13 +7,6 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-3/251537"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tikitaka-club-w-ze-pequena-barcelona-xceed-square-1084.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,31 +161,10 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
     },
     {
-        "title": "Carlota · Carol Nyx · Clara Rigby",
-        "date": "Carlota · Carol Nyx · Clara Rigby",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/carlota-carol-nyx-1-barcelona-xceed-11d0.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/carlota-carol-nyx-1/249993"
-    },
-    {
-        "title": "Dj Eley · Big Mil",
+        "title": "SEASEACLUB",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-flavio-rodriguez-6-barcelona-xceed-0540.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-flavio-rodriguez-6/250191"
-    },
-    {
-        "title": "Navider",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/naviders-10-hour-set-10th-anniversary-barcelona-xceed-square-11aa.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/naviders-10-hour-set-10th-anniversary/250296"
-    },
-    {
-        "title": "LOST x REECORDSSEASEACLUBTech houseHouse",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/lost-x-reecords-barcelona-xceed-square-971b.png?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/lost-x-reecords-barcelona-xceed-square-971b.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/lost-x-reecords/251582"
     },
     {
@@ -292,6 +264,34 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/monday-night-dj-mastie-38-barcelona-xceed-2cff.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/monday-night-dj-mastie-38/250194"
+    },
+    {
+        "title": "MARTES / TUESDAY at City Hall Club || DOWNLOAD YOUR FREE PASSCity",
+        "date": "MARTES / TUESDAY at City Hall Club ",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/martes-tuesday-at-city-hall-club-download-your-free-pass-barcelona-xceed-square-3b77.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/martes-tuesday-at-city-hall-club-download-your-free-pass-10/242764"
+    },
+    {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-e830.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-66/249766"
+    },
+    {
+        "title": "Rubén Seoane · Rorschach",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/ruben-seoane-61-barcelona-xceed-c6af.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/ruben-seoane-61/250002"
+    },
+    {
+        "title": "Samuel Blaser QuartetJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/samuel-blaser-quartet-barcelona-xceed-square-ce67.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/samuel-blaser-quartet/250167"
     },
     {
         "title": "MONK Roma",
@@ -658,13 +658,6 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "Latino’s bar",
-        "date": "REGGAETONISTA @Latino's Bar",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-2-brussels-xceed-square-7f42.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-2/251581"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -749,6 +742,13 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
+        "title": "Be Here Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
+    },
+    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -789,6 +789,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
+    },
+    {
+        "title": "Cleean · Cuuurtis · Yuya +1",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-ce74.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
     },
     {
         "title": "Edelfettwerk",
@@ -866,13 +873,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/bunker-rave-w-david-lohlein-johannes-schuster-hamburg-xceed-square-b6bc.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
-    },
-    {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/one-night-with-felix-krocher-hamburg-xceed-square-4d96.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/one-night-with-felix-krocher-1/240707"
     },
     {
         "title": "Café Schöne Aussichten (CSA)",
@@ -959,11 +959,11 @@
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
-        "title": "Jarmo · MOLU",
-        "date": "TBA (SOON)",
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-jarmo-molu-ber-hamburg-xceed-efc0.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-jarmo-molu-ber/251064"
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
         "title": "LIVEglimmer glubnacht w/ Arman John & Bae BladeglimmerTranceTechn",
@@ -1078,6 +1078,20 @@
         "link": "https://xceed.me/en/hamburg/event/onyx-x-gse-asbi-27/251515"
     },
     {
+        "title": "ONYX X ABIFIZ HEIDBERG 27Golden CutHouse90s - 00sAfro House",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-27-hamburg-xceed-4339.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-27/249462"
+    },
+    {
+        "title": "Marc Wiese · Alexej · Luitpold +2",
+        "date": "Marc Wiese · Alexej · Luitpold +2",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-wellenklang-hamburg-xceed-a159.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-wellenklang/251069"
+    },
+    {
         "title": "Sat 19 Sep, 5:00pm",
         "date": "TBA (SOON)",
         "location": "CARL COX",
@@ -1111,13 +1125,6 @@
         "location": "LONDON",
         "image": "https://images.xceed.me/events/banners/la-malafamera-vol37-the-real-argentinian-revelry-london-xceed-03d6.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/london/event/la-malafamera-vol56-the-real-argentinian-revelry/251543"
-    },
-    {
-        "title": "Fire",
-        "date": "TBA (SOON)",
-        "location": "LONDON",
-        "image": "https://images.xceed.me/events/banners/kinyxx-london-fetsh-edition-london-xceed-square-0122.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/london/event/kinyxx-london-fetsh-edition/244329"
     },
     {
         "title": "Paloma Chelsea",
