@@ -126,18 +126,18 @@
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
     },
     {
-        "title": "Hotel SLS Barcelona",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
-    },
-    {
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/the-hospital-party-barcelona-xceed-square-8514.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/the-hospital-party/251034"
+    },
+    {
+        "title": "Hotel SLS Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
     },
     {
         "title": "NegroRojo",
@@ -441,18 +441,18 @@
         "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
-        "title": "Traffic Club",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
-    },
-    {
         "title": "TEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
+    },
+    {
+        "title": "Traffic Club",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
     },
     {
         "title": "Lanificio",
