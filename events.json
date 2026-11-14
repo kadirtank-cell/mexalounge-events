@@ -14,25 +14,11 @@
         "link": "https://xceed.me/en/barcelona/event/tikitaka-club-w-ze-pequena-1/251189"
     },
     {
-        "title": "NegroRojo",
-        "date": "PABLO CAROL / BORJA DE LA RIVA & MA",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-borja-de-la-riva-marques/251876"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-73-barcelona-xceed-square-80dc.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-pisano-disco-bar-mr-b-tambo-friends/251867"
     },
     {
         "title": "DOT",
@@ -168,6 +154,20 @@
         "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+    },
+    {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
+    },
+    {
         "title": "Carlota · Carol Nyx · Clara Rigby",
         "date": "Carlota · Carol Nyx · Clara Rigby",
         "location": "BARCELONA",
@@ -187,13 +187,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/naviders-10-hour-set-10th-anniversary-barcelona-xceed-square-11aa.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/naviders-10-hour-set-10th-anniversary/250296"
-    },
-    {
-        "title": "bruno castillo · Cucut",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
     },
     {
         "title": "LOST x REECORDSSEASEACLUBTech houseHouse",
@@ -285,6 +278,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/uroz-74-barcelona-xceed-a668.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/uroz-74/250000"
+    },
+    {
+        "title": "Jamboree Jam SessionJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/jamboree-jam-session-29-barcelona-xceed-d3a1.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-29/250166"
+    },
+    {
+        "title": "Dj Mastie",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/monday-night-dj-mastie-38-barcelona-xceed-2cff.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/monday-night-dj-mastie-38/250194"
     },
     {
         "title": "MONK Roma",
