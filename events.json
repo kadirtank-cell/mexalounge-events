@@ -203,18 +203,18 @@
         "link": "https://xceed.me/en/barcelona/event/secret-location-x-plethoric/250486"
     },
     {
-        "title": "The Hospital PartySauvage Swinger ClubHits",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-hospital-party-barcelona-xceed-square-8514.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-hospital-party/251034"
-    },
-    {
         "title": "LOST x REECORDSSEASEACLUBTech houseHouse",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/lost-x-reecords-barcelona-xceed-square-971b.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/lost-x-reecords/251582"
+    },
+    {
+        "title": "The Hospital PartySauvage Swinger ClubHits",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/the-hospital-party-barcelona-xceed-square-8514.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/the-hospital-party/251034"
     },
     {
         "title": "TARDEO HYBRID CLUBMIRABLAU80's90s - 00s",
@@ -280,6 +280,13 @@
         "link": "https://xceed.me/en/barcelona/event/carol-nyx-34/249997"
     },
     {
+        "title": "Cieloterra",
+        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -292,13 +299,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/maribou-state-hacienda-roma-13-novembre-2026-roma-xceed-square-adaf.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maribou-state-hacienda-roma-13-novembre-2026/234536"
-    },
-    {
-        "title": "Cieloterra",
-        "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/13-11-2026-shdw-rebel-rebel-invite-e1-london-cieloterra-roma-xceed-square-ca16.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/13-11-2026-rebel-rebel-with-shdw-feat-e1-london-at-cieloterra/249202"
     },
     {
         "title": "Fusolab",
@@ -462,13 +462,6 @@
         "link": "https://xceed.me/en/roma/event/mania-invites-julian-anthony-1/251323"
     },
     {
-        "title": "LIVE13.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopA",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/131126-hotline-692-secret-garden/251905"
-    },
-    {
         "title": "Francesco Cicconetti in \"Ragazzo, uomo, altro\"MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -551,6 +544,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/quindie-festival-10-roma-xceed-square-d118.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/quindie-festival-10/250024"
+    },
+    {
+        "title": "Bonita ''no dejes que te lo cuenten''-  18 NovembreTEATRO CENTRAL",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-18-novembre-roma-xceed-b50c.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-18-novembre/252267"
     },
     {
         "title": "C12",
