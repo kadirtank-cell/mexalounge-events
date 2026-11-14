@@ -196,6 +196,13 @@
         "link": "https://xceed.me/en/barcelona/event/naviders-10-hour-set-10th-anniversary/250296"
     },
     {
+        "title": "bruno castillo · Cucut",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
+    },
+    {
         "title": "LOST x REECORDSSEASEACLUBTech houseHouse",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -222,13 +229,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/javi-gon-32-barcelona-xceed-ca63.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/javi-gon-32/249995"
-    },
-    {
-        "title": "bruno castillo · Cucut",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
     },
     {
         "title": "Frankie G",
@@ -343,18 +343,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
-    },
-    {
         "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1-roma-xceed-square-5585.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-dancescopia-a-new-dimension-of-clubbing-sala-bom-dia-1/251626"
     },
     {
         "title": "MONK Roma",
@@ -448,13 +448,6 @@
         "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
     },
     {
-        "title": "LIVEDISCO EXPRESSAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/disco-express-roma-xceed-square-678d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/disco-express/249907"
-    },
-    {
         "title": "Julian Anthony · Elvi · Francesco Maria +1",
         "date": "Julian Anthony · Elvi · Francesco M",
         "location": "ROMA",
@@ -544,6 +537,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-18-novembre-roma-xceed-b50c.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-18-novembre/252267"
+    },
+    {
+        "title": "Saverio Raimondo · Francesco Lancia · Chiara Galeazzi",
+        "date": "Saverio Raimondo · Francesco Lancia",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/gelo-comedy-happening-raimondo-lancia-galeazzi-roma-xceed-square-7572.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/gelo-comedy-happening-raimondo-lancia-galeazzi/246885"
     },
     {
         "title": "C12",
@@ -679,18 +679,18 @@
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
         "title": "BLOODY LOUIS",
@@ -973,18 +973,18 @@
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-ashwin-noah-james/251065"
     },
     {
-        "title": "Listening Session: FloFilzTrader Hifi",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/listening-session-flofilz-1-hamburg-xceed-square-fd2b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/listening-session-flofilz-1/249231"
-    },
-    {
         "title": "DJ AYA · Surf 2 Glory · Cufme +4",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-aya-surf2glory-cufme-hamburg-xceed-square-9b20.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-aya-surf2glory-cufme/249891"
+    },
+    {
+        "title": "Listening Session: FloFilzTrader Hifi",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/listening-session-flofilz-1-hamburg-xceed-square-fd2b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/listening-session-flofilz-1/249231"
     },
     {
         "title": "Arodes · Vinbuu",
