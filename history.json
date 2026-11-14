@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Rana Alagöz",
+        "title": "Aþkýn Gözü Kör Mü?",
+        "time": "2026-11-14 23:17:10"
+    },
+    {
+        "artist": "Chi-AD",
+        "title": "Animatrix",
+        "time": "2026-11-14 23:07:51"
+    },
+    {
         "artist": "FOLUAL, Luca Antolini",
         "title": "Opus (Extended Mix)",
         "time": "2026-11-14 23:02:56"
@@ -38,15 +48,5 @@
         "artist": "Housewerk, Mario Più",
         "title": "Acid Dreams",
         "time": "2026-11-14 22:30:45"
-    },
-    {
-        "artist": "Yellowheads, Sarah De Warren",
-        "title": "On A Trip (Peak Mode Mix)",
-        "time": "2026-11-14 22:25:50"
-    },
-    {
-        "artist": "Adam Beyer",
-        "title": "Ghost Kiss",
-        "time": "2026-11-14 22:22:01"
     }
 ]
