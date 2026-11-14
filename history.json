@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Alex Micca, Norvis",
+        "title": "Black Rift",
+        "time": "2026-11-14 21:01:23"
+    },
+    {
+        "artist": "Scorpio (HNGT Remix)   Victor Ruiz",
+        "title": "Scorpio (HNGT Remix)  Victor Ruiz",
+        "time": "2026-11-14 20:55:18"
+    },
+    {
         "artist": "DJ Tiesto",
         "title": "Sparkles (DJ Tiёsto Magikal Remake)",
         "time": "2026-11-14 20:46:43"
@@ -38,15 +48,5 @@
         "artist": "Global Deejays",
         "title": "Lonely",
         "time": "2026-11-14 20:08:28"
-    },
-    {
-        "artist": "İmdat Beşikçi-Neuroacid",
-        "title": "İmdat Beşikçi-Neuroacid",
-        "time": "2026-11-14 20:04:31"
-    },
-    {
-        "artist": "Anden",
-        "title": "Futurism",
-        "time": "2026-11-14 20:00:50"
     }
 ]

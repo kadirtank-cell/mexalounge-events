@@ -14,18 +14,18 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-73/249013"
     },
     {
-        "title": "DOT",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
+    },
+    {
+        "title": "DOT",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
         "title": "La Terrrazza",
@@ -378,18 +378,18 @@
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/yasmin-groove-therapy-at-alcazar-live-roma-xceed-square-e46d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/yasmin-groove-therapy-at-alcazar-live/250019"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "TEATRO CENTRALE",
@@ -469,7 +469,7 @@
         "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-in-english-alcazar-live-trastevere-5/249911"
     },
     {
-        "title": "14.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPop",
+        "title": "LIVE14.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
@@ -1001,48 +1001,6 @@
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-fuckoff/249894"
     },
     {
-        "title": "ONYX X ABIFIZ HEIDBERGGolden CutHouse90s - 00sAfro House",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-1-hamburg-xceed-c1f5.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-1/247880"
-    },
-    {
-        "title": "ONYX X ABIFIZ HEIDBERGGolden Cut90s - 00sHouseAfro House",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg/248020"
-    },
-    {
-        "title": "ONYX X ABIFIZ BONDENWALDGolden CutHouse90s - 00sAfro House",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-1-hamburg-xceed-c1f5.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-bondenwald/248527"
-    },
-    {
-        "title": "ONYX X ABIFIZ GYMFISTS 28Golden CutHouse90s - 00sAfro House",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-gymfists-28-hamburg-xceed-29a2.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-gymfists-28/249725"
-    },
-    {
-        "title": "ONYX X ABIFIZ HEIDBERGGolden Cut90s - 00sHouseAfro House",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-hamburg-xceed-e02a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-2/250426"
-    },
-    {
-        "title": "ONYX X GSE ASBI 27Golden CutHouse90s - 00sAfro House",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-gse-asbi-27-hamburg-xceed-9cff.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-gse-asbi-27/251515"
-    },
-    {
         "title": "Marc Wiese · Alexej · Luitpold +2",
         "date": "Marc Wiese · Alexej · Luitpold +2",
         "location": "HAMBURG",
@@ -1050,25 +1008,60 @@
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-wellenklang/251069"
     },
     {
-        "title": "ONYX X ABIFIZ HEIDBERG 27Golden CutHouse90s - 00sAfro House",
+        "title": "Frank Rayo · NATTA · an.judge +1",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-27-hamburg-xceed-4339.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heidberg-27/249462"
+        "image": "https://images.xceed.me/events/banners/last-rave-8-hamburg-xceed-square-0300.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/last-rave-invites-toxic/249029"
     },
     {
-        "title": "ONYX X ABIFIZ HEINRICH-HEINE 28Golden CutHouse90s - 00sAfro House",
+        "title": "5euroGoldi · GI.O (Brasil) · 3LEEZA +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heinrich-heine-28-hamburg-xceed-51e2.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-heinrich-heine-28/249621"
+        "image": "https://images.xceed.me/events/banners/unceen-w-gio-3leeza-bnzn-5eurogoldi-dj-wifi-hamburg-xceed-square-5d38.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/unceen-w-gio-3leeza-bnzn-5eurogoldi-dj-wifi/250283"
     },
     {
-        "title": "ONYX X ABIFIZ HOCHRAD 27Golden CutHouse90s - 00sAfro House",
+        "title": "Justin Jay · antonym · JOKESONYOU +1",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/onyx-x-abifiz-heidberg-1-hamburg-xceed-c1f5.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/onyx-x-abifiz-hochrad-27/248755"
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou-hamburg-xceed-square-fce8.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou/249895"
+    },
+    {
+        "title": "OUR HOUSE. YOUR HOUSE. SECRET LINEUP. (FREE ADMISSION)Edelfettwer",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/our-house-your-house-secret-lineup-free-admission-1-hamburg-xceed-square-7290.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
+    },
+    {
+        "title": "Teenage Mutants · Sophie Cut · HOTFRIEDRICECRACKER +2",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/tragedie-w-teenage-mutant-hamburg-xceed-square-3fd7.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/tragedie-w-teenage-mutants/247813"
+    },
+    {
+        "title": "convinced",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinced-special-guest/251070"
+    },
+    {
+        "title": "twofacedkimmy · Pierre Kraft · Unromantic +2",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/inner-circle-pres-trance-bounce-hamburg-xceed-square-379f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/inner-circle-pres-jannik-van-der-vegt/248379"
+    },
+    {
+        "title": "Nikki Tiger Thursday presents HOMEBASE × UNISCENENikki TigerHouse",
+        "date": "Nikki Tiger Thursday presents HOMEB",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-thursday-presents-homebase-uniscene-4-hamburg-xceed-a003.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-thursday-presents-homebase-uniscene-7/251071"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
