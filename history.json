@@ -1,5 +1,15 @@
 [
     {
+        "artist": "AURA",
+        "title": "Goodboys, DEPARTAMENTO - Discoteca (Extended)",
+        "time": "2026-11-14 17:12:42"
+    },
+    {
+        "artist": "Anyma, Chris Avantgarde",
+        "title": "Consciousness (Eric Prydz Remix)",
+        "time": "2026-11-14 17:08:44"
+    },
+    {
         "artist": "Tiësto",
         "title": "Dj Tiesto - Adagio For Strings",
         "time": "2026-11-14 17:01:23"
@@ -38,15 +48,5 @@
         "artist": "Illumi Music",
         "title": "Hotlap - Recall",
         "time": "2026-11-14 16:18:36"
-    },
-    {
-        "artist": "Argy, SOLANCE",
-        "title": "Window Shake",
-        "time": "2026-11-14 16:16:00"
-    },
-    {
-        "artist": "Kevin De Vries",
-        "title": "Dance With Me",
-        "time": "2026-11-14 16:09:44"
     }
 ]
