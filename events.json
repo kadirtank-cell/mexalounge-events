@@ -196,13 +196,6 @@
         "link": "https://xceed.me/en/barcelona/event/naviders-10-hour-set-10th-anniversary/250296"
     },
     {
-        "title": "LIVESecret Location x plethoricOpposite",
-        "date": "Secret Location x plethoric",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/secret-location-x-plethoric-barcelona-xceed-square-9636.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/secret-location-x-plethoric/250486"
-    },
-    {
         "title": "LOST x REECORDSSEASEACLUBTech houseHouse",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -280,6 +273,13 @@
         "link": "https://xceed.me/en/barcelona/event/carol-nyx-34/249997"
     },
     {
+        "title": "Dj Kunta · Big Mil",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sunday-night-fein-sundayz-37-barcelona-xceed-d436.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sunday-night-fein-sundayz-37/250193"
+    },
+    {
         "title": "Cieloterra",
         "date": "13|11|2026 REBEL REBEL WITH SHDW - ",
         "location": "ROMA",
@@ -334,13 +334,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/millennial-bug-il-party-anni-2000-monk-22-maggio-ore-2200-live-dj-set-2-roma-xceed-square-afca.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/millennial-bug-il-party-anni-2000-monk-13-nov-ore-2200-live-dj-set/250059"
     },
     {
         "title": "Hacienda",
@@ -448,6 +441,13 @@
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
+    },
+    {
         "title": "LIVEDISCO EXPRESSAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -460,13 +460,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/mania-invites-julian-anthony-1-roma-xceed-2f70.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/mania-invites-julian-anthony-1/251323"
-    },
-    {
-        "title": "Francesco Cicconetti in \"Ragazzo, uomo, altro\"MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/francesco-cicconetti-in-ragazzo-uomo-altro-1-roma-xceed-square-1d86.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/francesco-cicconetti-in-ragazzo-uomo-altro-1/250062"
     },
     {
         "title": "YASMIN - GROOVE THERAPY - at ALCAZAR LIVEAlcazar",
@@ -588,13 +581,6 @@
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
     },
     {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-3-brussels-xceed-square-7926.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-3/250124"
-    },
-    {
         "title": "Jeux d'Hiver",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -679,18 +665,18 @@
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
         "title": "BLOODY LOUIS",
@@ -721,6 +707,13 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
+    },
+    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -733,13 +726,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-41-brussels-xceed-square-0d16.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-41/251055"
-    },
-    {
-        "title": "NɅYM · Celia · Yuya +1",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
     },
     {
         "title": "Roonx",
