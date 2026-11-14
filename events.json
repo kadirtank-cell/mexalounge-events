@@ -49,6 +49,13 @@
         "link": "https://xceed.me/en/barcelona/event/jmedina-mr-b-2/251877"
     },
     {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
+    },
+    {
         "title": "Boris Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -61,13 +68,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-bruno-castillo-3/251868"
     },
     {
         "title": "La Paloma",
@@ -154,6 +154,13 @@
         "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
         "title": "SEASEACLUB",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -161,14 +168,7 @@
         "link": "https://xceed.me/en/barcelona/event/lost-x-reecords/251582"
     },
     {
-        "title": "SEASEACLUB",
-        "date": "Half Baked x Les Enfants at SEASEAC",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
-    },
-    {
-        "title": "TARDEO HYBRID CLUBMIRABLAU80's90s - 00s",
+        "title": "LIVETARDEO HYBRID CLUBMIRABLAU80's90s - 00s",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tardeo-hybrid-club-barcelona-xceed-square-e17f.jpg?w=149&h=149&q=90&fm=auto",
@@ -385,6 +385,13 @@
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/yasmin-groove-therapy-at-alcazar-live-roma-xceed-square-e46d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/yasmin-groove-therapy-at-alcazar-live/250019"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -392,11 +399,11 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Alcazar",
+        "title": "TEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/yasmin-groove-therapy-at-alcazar-live-roma-xceed-square-e46d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/yasmin-groove-therapy-at-alcazar-live/250019"
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
     },
     {
         "title": "MONK Roma",
@@ -425,13 +432,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
     },
     {
         "title": "Qube Disco Roma",
@@ -483,18 +483,18 @@
         "link": "https://xceed.me/en/roma/event/rcc-giullari-grossi-cometto-cartesio/249862"
     },
     {
-        "title": "Dj Ali Gee",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
-    },
-    {
         "title": "COME MAMMA M'HA FATTO",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
+    },
+    {
+        "title": "Dj Ali Gee",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
     },
     {
         "title": "PIGNETO FILM FESTIVAL at PALAZZO SAN LORENZOPalazzo - San Lorenzo",
@@ -721,17 +721,10 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
-        "title": "Be Here Brussels",
+        "title": "NUA",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
-    },
-    {
-        "title": "Roonx",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-41-brussels-xceed-square-0d16.png?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-41-brussels-xceed-square-0d16.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-41/251055"
     },
     {
@@ -903,6 +896,13 @@
         "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
+        "title": "UWE Club Reeperbahn",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/ivory-back-to-the-roots-hamburg-xceed-c73a.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/ivory-back-to-the-roots/250037"
+    },
+    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -915,13 +915,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/fritz-kalkbrenner-4-hamburg-xceed-square-b9b3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
-    },
-    {
-        "title": "UWE Club Reeperbahn",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/ivory-back-to-the-roots-hamburg-xceed-c73a.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/ivory-back-to-the-roots/250037"
     },
     {
         "title": "Café Schöne Aussichten (CSA)",
