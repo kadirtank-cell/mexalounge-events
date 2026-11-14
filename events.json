@@ -301,13 +301,6 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
-        "title": "Fusolab",
-        "date": "(TICKET DISPONIBILI IN CASSA) KING ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ticket-disponibili-in-cassa-king-alpha-fikir-amlak-14-novembre-2026-fusolab/240278"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -320,6 +313,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
+    },
+    {
+        "title": "Fusolab",
+        "date": "(TICKET DISPONIBILI IN CASSA) KING ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/king-alpha-fikir-amlak-blue-zone-hi-fi-14-novembre-2026-fusolab-roma-roma-xceed-a6fe.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ticket-disponibili-in-cassa-king-alpha-fikir-amlak-14-novembre-2026-fusolab/240278"
     },
     {
         "title": "MONK Roma",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/3robi-showcase-velar/246376"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/swae-lee-x-birdy-club-x-drippy/249419"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/btf-the-last-gift-brussels-xceed-square-2a72.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/btf-the-last-gift/250502"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/swae-lee-x-birdy-club-x-drippy/249419"
     },
     {
         "title": "BLOODY LOUIS",
