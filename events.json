@@ -155,24 +155,17 @@
     },
     {
         "title": "SEASEACLUB",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/lost-x-reecords-barcelona-xceed-square-971b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/lost-x-reecords/251582"
+    },
+    {
+        "title": "SEASEACLUB",
         "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
-    },
-    {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
-        "title": "LOST x REECORDSSEASEACLUBTech houseHouse",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/lost-x-reecords-barcelona-xceed-square-971b.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/lost-x-reecords/251582"
     },
     {
         "title": "Javi Gon · Numax · Rorschach",
@@ -644,18 +637,18 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
-    },
-    {
         "title": "Bourse/Beurs Rooftop Brussels",
         "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
         "title": "DADA Brussels",
@@ -938,18 +931,18 @@
         "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
     },
     {
-        "title": "Secret Location",
-        "date": "Secret Location",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
         "title": "UWE Club Reeperbahn",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ivory-back-to-the-roots-hamburg-xceed-c73a.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ivory-back-to-the-roots/250037"
+    },
+    {
+        "title": "Secret Location",
+        "date": "Secret Location",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
         "title": "Oliver Schories",
