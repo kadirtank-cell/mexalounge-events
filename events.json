@@ -497,18 +497,18 @@
         "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
     },
     {
-        "title": "Mattia Grossi · Niccoló Cometto +1",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-giullari-grossi-cometto-cartesio-roma-xceed-square-33b3.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-giullari-grossi-cometto-cartesio/249862"
-    },
-    {
         "title": "COME MAMMA M'HA FATTO",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
+    },
+    {
+        "title": "Mattia Grossi · Niccoló Cometto +1",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/rcc-giullari-grossi-cometto-cartesio-roma-xceed-square-33b3.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/rcc-giullari-grossi-cometto-cartesio/249862"
     },
     {
         "title": "Dj Ali Gee",
@@ -651,18 +651,18 @@
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
     },
     {
-        "title": "Jeux d'Hiver",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
         "title": "Gare de Bruxelles-Congres",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
+    },
+    {
+        "title": "Jeux d'Hiver",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
     },
     {
         "title": "BLOODY LOUIS",
