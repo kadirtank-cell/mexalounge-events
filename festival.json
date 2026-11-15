@@ -1,0 +1,98 @@
+[
+  {
+    "festival": "Coachella",
+    "country": "CA-USA",
+    "date": "2027-04-09",
+    "days_left": "",
+    "url": "https://www.coachella.com/",
+    "image": "https://aegwebprod.blob.core.windows.net/content/coachella-2027/coachella-2027-poster.jpg"
+  },
+  {
+    "festival": "EDC",
+    "country": "Las Vegas-USA",
+    "date": "2027-05-15",
+    "days_left": "",
+    "url": "https://lasvegas.edc.com/",
+    "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2026/09/27115549/edclv_2027_mk_an_fest_site_dh_3200x1520_r01-scaled.jpg"
+  },
+  {
+    "festival": "Tomorrowland Brazil",
+    "country": "São Paulo-Brazil",
+    "date": "2026-04-30",
+    "days_left": "",
+    "url": "https://brasil.tomorrowland.com/en/line-up/?day=2027-04-30",
+    "image": "https://cdn.assets.prezly.com/ccdab255-83f6-42da-bdf4-bb0780dbec4e/-/preview/2000x2000/-/resize/1200/TML26_CONSCIENCIA_KEY%20VISUAL_3%20COUNTRIES_PORTRAIT.png"
+  },
+  {
+    "festival": "Primavera Sound",
+    "country": "São Paulo-Brazil",
+    "date": "2026-12-05",
+    "days_left": "",
+    "url": "https://www.primaverasound.com/en/sao-paulo",
+    "image": "https://assets-img.primaverasound.com/2880x755/psweb/5eegkkizbgb4gpha7p8j_1790000960671.png"
+  },
+  {
+    "festival": "Primavera Sound",
+    "country": "Barcelona-Spain",
+    "date": "2027-01-02",
+    "days_left": "",
+    "url": "https://www.primaverasound.com/en/barcelona",
+    "image": "https://assets-img.primaverasound.com/2000x0/psweb/aifzy160f8g81wvx9g3v_1793622189774.jpg"
+  },
+  {
+    "festival": "Primavera Sound",
+    "country": "Porto-Portugal",
+    "date": "2027-01-10",
+    "days_left": "",
+    "url": "https://www.primaverasound.com/en/porto",
+    "image": "https://assets-img.primaverasound.com/2000x0/psweb/uhovtzstnm6dt9nkupnm_1793277345770.jpg"
+  },
+  {
+    "festival": "Glastonbury Festivals",
+    "country": "London-England",
+    "date": "2027-06-13",
+    "days_left": "",
+    "url": "https://www.glastonburyfestivals.co.uk/line-up/",
+    "image": "https://www.glastonburyfestivals.co.uk/wp-content/uploads/2025/05/2025_logo_colour_outline.png"
+  },
+  {
+    "festival": "Dunya Fest",
+    "country": "Sweden",
+    "date": "2026-12-11",
+    "days_left": 31,
+    "url": "https://ra.co/events/2546749",
+    "image": "https://images.ra.co/4c4e5def0d9a8663f00047bbd6100d19ccbf4028.jpg"
+  },
+  {
+    "festival": "Elrow Weekender",
+    "country": "United States of America",
+    "date": "2026-12-11",
+    "days_left": 31,
+    "url": "https://ra.co/events/2538162",
+    "image": "https://images.ra.co/0c8889ccad342986db651e2e6859ca7f240ef7a6.jpg"
+  },
+  {
+    "festival": "Bazique Festival 2026",
+    "country": "South Africa",
+    "date": "2027-03-06",
+    "days_left": 116,
+    "url": "https://ra.co/events/2266419",
+    "image": "https://images.ra.co/fe15bd02728751abdada140a6538fdf2e0af2cee.png"
+  },
+  {
+    "festival": "Collect Gathering",
+    "country": "Portugal",
+    "date": "2027-05-07",
+    "days_left": 178,
+    "url": "https://ra.co/events/2580774",
+    "image": "https://images.ra.co/53ea040939fb39613ddf10886b21e9802e3f7189.jpg"
+  },
+  {
+    "festival": "Docklands Festival 2027",
+    "country": "Germany",
+    "date": "2027-06-12",
+    "days_left": 214,
+    "url": "https://ra.co/events/2463146",
+    "image": "https://images.ra.co/1fa823597e73ece07523a8f1b7b5e6c67feb47bc.png"
+  }
+]
