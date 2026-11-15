@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Calvin Harris, Clementine Douglas",
+        "title": "Blessings",
+        "time": "2026-11-15 08:12:58"
+    },
+    {
+        "artist": "David Guetta & Alphaville & Ava Max",
+        "title": "Forever Young (Extended Mix)",
+        "time": "2026-11-15 08:09:24"
+    },
+    {
+        "artist": "AVALAN ROKSTON, Avalan, Rokston",
+        "title": "Something To Believe In",
+        "time": "2026-11-15 08:07:03"
+    },
+    {
+        "artist": "DJ Regard",
+        "title": "RIDE IT",
+        "time": "2026-11-15 08:04:28"
+    },
+    {
         "artist": "Ede, Ape Drums, Deniz Tekin (TR), Rome Fortune, DESIREE",
         "title": "2 This",
         "time": "2026-11-15 07:56:00"
@@ -28,25 +48,5 @@
         "artist": "Moblack Records",
         "title": "Moblack, Salif Keita, Benja(NL) - Yamore (Official Music Video) Ft. Franc Fala , Cesária Evora",
         "time": "2026-11-15 07:42:10"
-    },
-    {
-        "artist": "YABANCI",
-        "title": "Scared Of Me",
-        "time": "2026-11-15 07:35:00"
-    },
-    {
-        "artist": "Can Ates",
-        "title": "Just A Beat",
-        "time": "2026-11-15 07:31:32"
-    },
-    {
-        "artist": "Hi-Tack",
-        "title": "Say Say Say",
-        "time": "2026-11-15 07:28:15"
-    },
-    {
-        "artist": "Global Deejays",
-        "title": "What A Feeling (Flashdance) (Progressive Album Mix)",
-        "time": "2026-11-15 07:25:00"
     }
 ]
