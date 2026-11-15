@@ -308,18 +308,18 @@
         "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
     },
     {
-        "title": "Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
-    },
-    {
         "title": "Cieloterra",
         "date": "Neon pres METEMPSICOSI!",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/neon-pres-metempsicosi-roma-xceed-square-35a3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
+    },
+    {
+        "title": "Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/remuntada-xhuliano-dule-roma-xceed-square-9578.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
         "title": "Fusolab",
@@ -350,18 +350,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/quercia-at-lanificio-roma-xceed-square-6e0f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/quercia-at-lanificio/250722"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "Alcazar",
@@ -399,18 +399,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
+    },
+    {
+        "title": "TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
     },
     {
         "title": "MONK Roma",
@@ -483,18 +483,18 @@
         "link": "https://xceed.me/en/roma/event/rcc-giullari-grossi-cometto-cartesio/249862"
     },
     {
-        "title": "Dj Ali Gee",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
-    },
-    {
         "title": "COME MAMMA M'HA FATTO",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
+    },
+    {
+        "title": "Dj Ali Gee",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
     },
     {
         "title": "PIGNETO FILM FESTIVAL at PALAZZO SAN LORENZOPalazzo - San Lorenzo",
@@ -665,18 +665,18 @@
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
+    },
+    {
+        "title": "DADA Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "BLOODY LOUIS",
