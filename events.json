@@ -343,18 +343,18 @@
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
-        "title": "Hacienda",
-        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/quercia-at-lanificio-roma-xceed-square-6e0f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/quercia-at-lanificio/250722"
+    },
+    {
+        "title": "Hacienda",
+        "date": "PENDULUM @Hacienda - Roma | 11 Dice",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
         "title": "MONK Roma",
@@ -406,13 +406,6 @@
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -425,6 +418,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/roberto-colella-live-1-roma-xceed-square-6896.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
+    },
+    {
+        "title": "TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-14-th-nov-roma-xceed-02a9.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-14-th-nov/251559"
     },
     {
         "title": "MONK Roma",
@@ -467,13 +467,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/black-hoper-roma-xceed-square-79ae.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/black-hopera-1/252176"
-    },
-    {
-        "title": "LIVE14.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/141126-megabello-692-secret-garden/251904"
     },
     {
         "title": "Mattia Grossi · Niccoló Cometto · Giacomo Cartesio",
@@ -572,6 +565,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
+    },
+    {
+        "title": "BEYOND THE WALL |  BACKDOOR  at Palazzo San LorenzoPalazzo - San ",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/backdoor-beyond-the-wall-roma-xceed-square-dc7c.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/beyond-the-wall-backdoor-at-palazzo-san-lorenzo/249448"
     },
     {
         "title": "C12",
