@@ -504,18 +504,18 @@
         "link": "https://xceed.me/en/roma/event/alessandro-cognigni-in-campari-e-pantoprazolo/246154"
     },
     {
-        "title": "COME MAMMA M'HA FATTO",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
-    },
-    {
         "title": "Dj Ali Gee",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
+    },
+    {
+        "title": "COME MAMMA M'HA FATTO",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
     },
     {
         "title": "AGM- Any Given MondayTEATRO CENTRALE",
@@ -609,18 +609,18 @@
         "link": "https://xceed.me/en/roma/event/hbr-live-acts-young-signorino-futura-live/251521"
     },
     {
-        "title": "Ivan Dal Monte · VALERIO LAZZARI +2",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-0734.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
-    },
-    {
         "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
+    },
+    {
+        "title": "Ivan Dal Monte · VALERIO LAZZARI +2",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-0734.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
     },
     {
         "title": "Bellaire",
@@ -700,13 +700,6 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -714,11 +707,11 @@
         "link": "https://xceed.me/en/brussels/event/niaks-showcase/252365"
     },
     {
-        "title": "BLOODY LOUIS",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
+        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
         "title": "BIRDY",
@@ -726,6 +719,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
         "title": "DADA Brussels",
