@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Techno Paraná",
+        "title": "HOF(DE) - Tiger Claw (Extended Mix)",
+        "time": "2026-11-15 19:04:02"
+    },
+    {
+        "artist": "Camelphat, Cristoph, Jem Cooke",
+        "title": "Breathe",
+        "time": "2026-11-15 19:00:56"
+    },
+    {
+        "artist": "DJ Tiesto",
+        "title": "Insomnia",
+        "time": "2026-11-15 18:58:35"
+    },
+    {
+        "artist": "İmdat Beşikçi-Synthetic Surge",
+        "title": "İmdat Beşikçi-Synthetic Surge",
+        "time": "2026-11-15 18:54:07"
+    },
+    {
         "artist": "Illumi Music",
         "title": "Hotlap - Recall",
         "time": "2026-11-15 18:50:22"
@@ -28,25 +48,5 @@
         "artist": "Franc Fala, Benja (NL), Malive, Stijn Wind, Jesse Mak",
         "title": "Dirty Dancing (Malive 'Goes To Rio' Extended Mix)",
         "time": "2026-11-15 18:23:50"
-    },
-    {
-        "artist": "Camilo Malatini",
-        "title": "Beyond Time",
-        "time": "2026-11-15 18:21:17"
-    },
-    {
-        "artist": "Shouse",
-        "title": "Love Tonight (David Guetta Remix)",
-        "time": "2026-11-15 18:18:05"
-    },
-    {
-        "artist": "Anyma;  Chris Avantgarde",
-        "title": "Simulation",
-        "time": "2026-11-15 18:14:52"
-    },
-    {
-        "artist": "Deborah De Luca",
-        "title": "Kick It (Solamente) 132",
-        "time": "2026-11-15 18:08:34"
     }
 ]
