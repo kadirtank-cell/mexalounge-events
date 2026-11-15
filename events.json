@@ -108,13 +108,6 @@
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-hospital-party-barcelona-xceed-square-8514.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-hospital-party/251034"
-    },
-    {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
     },
@@ -168,6 +161,13 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
+    },
+    {
         "title": "Javi Gon · Numax · Rorschach",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -180,20 +180,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/glamour-freaks-frankie-g-kenzo-barcelona-xceed-square-773b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-frankie-g-kenzo/250238"
-    },
-    {
-        "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-119/247915"
-    },
-    {
-        "title": "Vandal · INNA SQUAD · Julia Wolf +2",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vandal-in-the-city-raggatek-hardtek-tekno-main-room-l-teuf-kulture-barcelona-xceed-square-a1bb.webp?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/vandal-in-the-city-raggatek-hardtek-tekno-main-room-l-teuf-kulture/249566"
     },
     {
         "title": "Dj Eley · Dj Kunta · Big Mil +1",
@@ -308,18 +294,32 @@
         "link": "https://xceed.me/en/barcelona/event/carlota-10/250004"
     },
     {
+        "title": "Francesco Bearzatti TrioJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/francesco-bearzatti-trio-barcelona-xceed-4031.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/francesco-bearzatti-trio/250168"
+    },
+    {
+        "title": "Dj Stile",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/wednesday-night-dj-stile-37-barcelona-xceed-6ef6.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-stile-37/250196"
+    },
+    {
+        "title": "KEYBLOW · Cívaro · REN",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/echoes-of-karma-keyblow-civaro-ren-l-main-room-l-melodic-techno-barcelona-xceed-square-e342.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/echoes-of-karma-keyblow-civaro-ren-l-main-room-l-melodic-techno/250558"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
-    },
-    {
-        "title": "Cieloterra",
-        "date": "Neon pres METEMPSICOSI!",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-metempsicosi-roma-xceed-square-35a3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-metempsicosi/250279"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -476,6 +476,13 @@
         "link": "https://xceed.me/en/roma/event/alessandro-cognigni-in-campari-e-pantoprazolo/246154"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spartiti-concerto-presto-presto-inizio-ore-1600-roma-xceed-square-2307.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
+    },
+    {
         "title": "Mattia Grossi · Niccoló Cometto · Giacomo Cartesio",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -616,6 +623,13 @@
         "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
     },
     {
+        "title": "RAKAA & DJ BABU ( DILATED PEOPLES)Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/rakaa-dj-babu-roma-xceed-square-c7ad.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/rakaa-dj-babu-dilated-peoples/249866"
+    },
+    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -628,13 +642,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/3robi-showcase-velar-brussels-xceed-square-afa7.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/3robi-showcase-velar/246376"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/swae-lee-x-drippy-club-brussels-xceed-8e57.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/swae-lee-x-birdy-club-x-drippy/249419"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -763,13 +770,6 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
-        "title": "NUA",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-41-brussels-xceed-square-0d16.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-41/251055"
-    },
-    {
         "title": "The Standard, Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -784,25 +784,25 @@
         "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
+        "title": "Madame Moustache",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/back-to-the-best-hits-winter-edition-by-partyfinder-brussels-xceed-6650.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/back-to-the-best-hits-winter-edition-by-partyfinder/251472"
+    },
+    {
+        "title": "Coco Brussels",
+        "date": "Reggaetonista @Coco Brussels",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/reggaetonista-coco-brussels-brussels-xceed-square-2f4f.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reggaetonista-coco-brussels/252294"
+    },
+    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-42-brussels-xceed-square-ca56.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-42/251056"
-    },
-    {
-        "title": "BACK TO THE BEST HITS - WINTER EDITION | BY PARTYFINDERMadame Mou",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/back-to-the-best-hits-winter-edition-by-partyfinder-brussels-xceed-6650.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/back-to-the-best-hits-winter-edition-by-partyfinder/251472"
-    },
-    {
-        "title": "Decost · Samo DJ · Ana Caballero",
-        "date": "Reggaetonista @Coco Brussels",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reggaetonista-coco-brussels-brussels-xceed-square-2f4f.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reggaetonista-coco-brussels/252294"
     },
     {
         "title": "Roonx",
@@ -831,6 +831,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/session-32-rb-party-in-brussels-ii-brussels-xceed-square-33ae.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
+    },
+    {
+        "title": "Roonx",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-44-brussels-xceed-square-3304.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
     },
     {
         "title": "Edelfettwerk",
