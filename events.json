@@ -133,18 +133,18 @@
         "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
     },
     {
-        "title": "SEASEACLUB",
-        "date": "Half Baked x Les Enfants at SEASEAC",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+    },
+    {
+        "title": "SEASEACLUB",
+        "date": "Half Baked x Les Enfants at SEASEAC",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -154,18 +154,18 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
+    },
+    {
         "title": "La Terrrazza",
         "date": "Jackies Open Air Daytime - Closing ",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/jackies-open-air-daytime-w-chus-ceballos-open-to-close-barcelona-xceed-square-eecd.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jackies-open-air-daytime-closing-2026-season-la-terrrazza/244456"
-    },
-    {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
         "title": "Carol Nyx · Mr. Majestyk",
@@ -714,18 +714,18 @@
         "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
     },
     {
         "title": "BLOODY LOUIS",
