@@ -469,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
-    },
-    {
         "title": "Cieloterra",
         "date": "27|11|2026 - Rebel Rebel with FUTUR",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
         "title": "MONK Roma",
@@ -714,18 +714,18 @@
         "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
         "title": "BLOODY LOUIS",
