@@ -168,13 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
-        "title": "LIVESEASEA STAY · Core & BreathSEASEACLUB",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/seasea-stay-core-breath-barcelona-xceed-square-7338.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/seasea-stay-core-breath/250363"
-    },
-    {
         "title": "Carol Nyx · Mr. Majestyk",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -327,6 +320,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/thursday-night-flavio-rodriguez-10-barcelona-xceed-b62d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/thursday-night-flavio-rodriguez-10/250197"
+    },
+    {
+        "title": "bruno castillo · Alvaro Naive (Trajano!)",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-alvaro-naive-disco-bar-los-dos-mil-bruno-not-bruno/251870"
     },
     {
         "title": "MONK Roma",
@@ -504,18 +504,18 @@
         "link": "https://xceed.me/en/roma/event/rcc-giullari-grossi-cometto-cartesio/249862"
     },
     {
-        "title": "Dj Ali Gee",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
-    },
-    {
         "title": "COME MAMMA M'HA FATTO",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
+    },
+    {
+        "title": "Dj Ali Gee",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bekind-back-to-sunday-night-2-roma-xceed-square-28bb.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
     },
     {
         "title": "PIGNETO FILM FESTIVAL at PALAZZO SAN LORENZOPalazzo - San Lorenzo",
