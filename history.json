@@ -1,5 +1,10 @@
 [
     {
+        "artist": "Frankie Vertigo, Aman Anand, Gai Barone",
+        "title": "Can't Stop (Gai Barone Extended Remix)",
+        "time": "2026-11-15 13:13:11"
+    },
+    {
         "artist": "Paul Thomas, Weird Sounding Dude",
         "title": "Summersault (Weird Sounding Dude Extended Remix)",
         "time": "2026-11-15 13:06:53"
@@ -43,10 +48,5 @@
         "artist": "Ed Sheeran",
         "title": "Azizam",
         "time": "2026-11-15 12:29:44"
-    },
-    {
-        "artist": "Steve Tosi",
-        "title": "Sweet Dreams",
-        "time": "2026-11-15 12:24:56"
     }
 ]
