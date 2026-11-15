@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Charlotte De Witte",
+        "title": "Malina",
+        "time": "2026-11-15 21:09:38"
+    },
+    {
+        "artist": "AURA",
+        "title": "Goodboys, DEPARTAMENTO - Discoteca (Extended)",
+        "time": "2026-11-15 21:04:50"
+    },
+    {
+        "artist": "Housewerk, Mario Più",
+        "title": "Acid Dreams",
+        "time": "2026-11-15 21:01:51"
+    },
+    {
         "artist": "Moguai, Kai Tracid",
         "title": "Dt64 (Original Mix) 130",
         "time": "2026-11-15 20:54:36"
@@ -33,20 +48,5 @@
         "artist": "Senso Sounds, Oliver Huntemann",
         "title": "Oliver Huntemann - Konfusion",
         "time": "2026-11-15 20:26:09"
-    },
-    {
-        "artist": "Echonomist, Alexandros Miaris",
-        "title": "Empty Hours (Colossio Remix)",
-        "time": "2026-11-15 20:19:42"
-    },
-    {
-        "artist": "İmdat Beşikçi-Neuroacid",
-        "title": "İmdat Beşikçi-Neuroacid",
-        "time": "2026-11-15 20:15:29"
-    },
-    {
-        "artist": "RÜFÜS, Jon George, Tyrone Lindqvist, James Hunt, Jon George, Tyrone Lindqvist, James Hunt, Parker & Barrow",
-        "title": "Innerbloom (Parker & Barrow Remix)",
-        "time": "2026-11-15 20:07:09"
     }
 ]
