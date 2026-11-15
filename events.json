@@ -301,13 +301,6 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/80s-never-die-4-roma-xceed-square-e2e9.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/80s-never-die-4/246676"
-    },
-    {
         "title": "Cieloterra",
         "date": "Neon pres METEMPSICOSI!",
         "location": "ROMA",
@@ -462,6 +455,13 @@
         "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
+    },
+    {
         "title": "LIVEBLACK HOPERATHE RANDOM",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -572,6 +572,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/backdoor-beyond-the-wall-roma-xceed-square-dc7c.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/beyond-the-wall-backdoor-at-palazzo-san-lorenzo/249448"
+    },
+    {
+        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazarDis",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
     },
     {
         "title": "C12",
@@ -686,18 +693,18 @@
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
         "title": "BLOODY LOUIS",
