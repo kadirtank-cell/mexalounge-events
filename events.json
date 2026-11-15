@@ -465,15 +465,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
+        "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
+        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
         "title": "Cieloterra",
@@ -502,13 +502,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/spartiti-concerto-presto-presto-inizio-ore-1600-roma-xceed-square-2307.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
-    },
-    {
-        "title": "Mattia Grossi · Niccoló Cometto +1",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-giullari-grossi-cometto-cartesio-roma-xceed-square-33b3.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-giullari-grossi-cometto-cartesio/249862"
     },
     {
         "title": "COME MAMMA M'HA FATTO",
@@ -581,18 +574,18 @@
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
     },
     {
-        "title": "Filippo Spreafico",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends-roma-xceed-square-db4e.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
-    },
-    {
         "title": "Ciao Discoteca ItalianaLanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
+    },
+    {
+        "title": "Filippo Spreafico",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends-roma-xceed-square-db4e.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
     },
     {
         "title": "BEYOND THE WALL |  BACKDOOR  at Palazzo San LorenzoPalazzo - San ",
@@ -649,6 +642,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/rakaa-dj-babu-roma-xceed-square-c7ad.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/rakaa-dj-babu-dilated-peoples/249866"
+    },
+    {
+        "title": "Alcazar Comedy Club - Alcazar Live TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-20/242524"
     },
     {
         "title": "BLOODY LOUIS",
