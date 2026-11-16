@@ -168,6 +168,13 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
+        "title": "Dj Mastie",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/monday-night-dj-mastie-38-barcelona-xceed-2cff.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/monday-night-dj-mastie-38/250194"
+    },
+    {
         "title": "KhaLI",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -187,13 +194,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/uroz-74-barcelona-xceed-a668.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/uroz-74/250000"
-    },
-    {
-        "title": "Dj Mastie",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/monday-night-dj-mastie-38-barcelona-xceed-2cff.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/monday-night-dj-mastie-38/250194"
     },
     {
         "title": "CIRCO PARAISO · ARTDETTA +1",
@@ -567,18 +567,18 @@
         "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
     },
     {
-        "title": "BEYOND THE WALL |  BACKDOOR  at Palazzo San LorenzoPalazzo - San ",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/backdoor-beyond-the-wall-roma-xceed-square-dc7c.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/beyond-the-wall-backdoor-at-palazzo-san-lorenzo/249448"
-    },
-    {
         "title": "Ivan Dal Monte · VALERIO LAZZARI +2",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-9b8d.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
+    },
+    {
+        "title": "BEYOND THE WALL |  BACKDOOR  at Palazzo San LorenzoPalazzo - San ",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/backdoor-beyond-the-wall-roma-xceed-square-dc7c.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/beyond-the-wall-backdoor-at-palazzo-san-lorenzo/249448"
     },
     {
         "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
