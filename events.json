@@ -581,18 +581,18 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
     },
     {
-        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
-    },
-    {
         "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
+    },
+    {
+        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
     },
     {
         "title": "Young Signorino live",
@@ -763,6 +763,13 @@
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
+        "title": "Plein Publiek BXL",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
+    },
+    {
         "title": "BLOODY LOUIS",
         "date": "RONISIA (SHOWCASE) + RONINB PARTY",
         "location": "BRUSSELS",
@@ -775,13 +782,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
-    },
-    {
-        "title": "Plein Publiek BXL",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
     },
     {
         "title": "Crosly Bowling",
@@ -980,18 +980,18 @@
         "link": "https://xceed.me/en/hamburg/event/festa-dell-amore-disco-inferno/249572"
     },
     {
-        "title": "Seehaus",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/fritz-kalkbrenner-4-hamburg-xceed-square-b9b3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
-    },
-    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
+    },
+    {
+        "title": "Seehaus",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/fritz-kalkbrenner-4-hamburg-xceed-square-b9b3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
     },
     {
         "title": "Café Schöne Aussichten (CSA)",
