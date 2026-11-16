@@ -112,13 +112,6 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -166,6 +159,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/jackies-open-air-daytime-w-chus-ceballos-open-to-close-barcelona-xceed-square-eecd.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jackies-open-air-daytime-closing-2026-season-la-terrrazza/244456"
+    },
+    {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
         "title": "KhaLI",
@@ -686,6 +686,20 @@
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
+        "title": "Scene Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/sharehome-10th-anniversary-by-birl-brussels-xceed-9f49.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/sharehome-10th-anniversary-by-birl/251843"
+    },
+    {
+        "title": "COHOP",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/meet-my-friend-1-brussels-xceed-d430.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/meet-my-friend-1/247366"
+    },
+    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -770,18 +784,18 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
-        "title": "The Standard, Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
-    },
-    {
         "title": "Crosly Bowling",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
+    },
+    {
+        "title": "The Standard, Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
         "title": "Coco Brussels",
@@ -805,20 +819,6 @@
         "link": "https://xceed.me/en/brussels/event/back-to-the-best-hits-winter-edition-by-partyfinder/251472"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
-    },
-    {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
-    },
-    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -840,6 +840,13 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
     },
     {
+        "title": "BAILE BAILEBLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
+    },
+    {
         "title": "Session 32 R&B party in Brussels IICoco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -852,6 +859,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-44-brussels-xceed-square-3304.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
+    },
+    {
+        "title": "FÊTE NATIONALE ALBANAISE 🇦🇱Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
     },
     {
         "title": "Edelfettwerk",
