@@ -70,6 +70,13 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
         "title": "CDLC - Carpe Diem",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -89,13 +96,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
-    },
-    {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -584,7 +584,7 @@
         "title": "Ivan Dal Monte · VALERIO LAZZARI +2",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-0734.jpg?w=99&h=99&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-1c04.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
     },
     {
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
         "title": "BLOODY LOUIS",
