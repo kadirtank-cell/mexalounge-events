@@ -49,6 +49,13 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
+    },
+    {
         "title": "VRABA TERRAZA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -61,13 +68,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-seaview-club-nautico/247255"
-    },
-    {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
     },
     {
         "title": "Bikini Club",
@@ -133,6 +133,13 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
     },
     {
+        "title": "SEASEACLUB",
+        "date": "Half Baked x Les Enfants at SEASEAC",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
+    },
+    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -145,13 +152,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
-        "title": "SEASEACLUB",
-        "date": "Half Baked x Les Enfants at SEASEAC",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
         "title": "MIRABLAU",
@@ -679,6 +679,13 @@
         "link": "https://xceed.me/en/brussels/event/niaks-showcase/252365"
     },
     {
+        "title": "Bourse/Beurs Rooftop Brussels",
+        "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
+    },
+    {
         "title": "Scene Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -691,13 +698,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/meet-my-friend-1-brussels-xceed-d430.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/meet-my-friend-1/247366"
-    },
-    {
-        "title": "Bourse/Beurs Rooftop Brussels",
-        "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
     },
     {
         "title": "Ratz Food Market",
@@ -924,18 +924,18 @@
         "link": "https://xceed.me/en/hamburg/event/bunker-rave-w-david-lohlein-johannes-schuster/247211"
     },
     {
-        "title": "Bobby Reich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive-hamburg-xceed-square-a163.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/trancelator-bounce-edition-w-zwilling-feat-fronsi-live-relajadita-shilo-softdrive/247674"
+    },
+    {
+        "title": "Bobby Reich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/la-dolce-vita-x-winter-edition-hamburg-xceed-square-a4e4.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/la-dolce-vita-x-winter-edition/250673"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -959,18 +959,18 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/festa-dell-amore-disco-inferno-hamburg-xceed-square-a5b9.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/festa-dell-amore-disco-inferno/249572"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "glimmer",
