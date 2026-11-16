@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Charlotte De Witte, Amelie Lens",
+        "title": "One Mind",
+        "time": "2026-11-16 23:13:43"
+    },
+    {
+        "artist": "Alan Fullmer, Mark Yula, EYLA",
+        "title": "One (Extended Mix)",
+        "time": "2026-11-16 23:07:16"
+    },
+    {
         "artist": "CERES",
         "title": "Charlotte De Witte - Amor (Feat. CERES) [Lyric Video]",
         "time": "2026-11-16 23:01:06"
@@ -38,15 +48,5 @@
         "artist": "Wigs",
         "title": "Ascension",
         "time": "2026-11-16 22:22:56"
-    },
-    {
-        "artist": "Beat Of The Drum (Extended Mix)   HARDWELL",
-        "title": "Beat Of The Drum (Extended Mix)  HARDWELL",
-        "time": "2026-11-16 22:18:37"
-    },
-    {
-        "artist": "Housewerk, Mario Più",
-        "title": "Acid Dreams",
-        "time": "2026-11-16 22:15:39"
     }
 ]
