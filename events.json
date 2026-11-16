@@ -133,18 +133,18 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
+    },
+    {
         "title": "SEASEACLUB",
         "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more-barcelona-xceed-square-18a3.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
-    },
-    {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club/252364"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -511,13 +511,6 @@
         "link": "https://xceed.me/en/roma/event/bekind-back-to-sunday-night-2/251971"
     },
     {
-        "title": "COME MAMMA M'HA FATTO",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/151126-comemammamhafatto-692-secret-garden-roma-xceed-square-5e61.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/151126-comemammamhafatto-692-secret-garden/251908"
-    },
-    {
         "title": "AGM- Any Given MondayTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -649,6 +642,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/alcazar-comedy-club-alcazar-live-trastevere-2-roma-xceed-be86.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-20/242524"
+    },
+    {
+        "title": "MP4 +++ EXCLUSIVE CLUBBING AT PALAZZO SAN LORENZOPalazzo - San Lo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/mp4-exclusive-clubbing-at-palazzo-san-lorenzo-roma-xceed-square-8dbe.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/mp4-exclusive-clubbing-at-palazzo-san-lorenzo/251192"
     },
     {
         "title": "BLOODY LOUIS",
