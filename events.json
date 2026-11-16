@@ -168,20 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/jackies-open-air-daytime-closing-2026-season-la-terrrazza/244456"
     },
     {
-        "title": "Carol Nyx · Mr. Majestyk",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/carol-nyx-34-barcelona-xceed-8539.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/carol-nyx-34/249997"
-    },
-    {
-        "title": "Dj Kunta · Big Mil",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sunday-night-fein-sundayz-37-barcelona-xceed-d436.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sunday-night-fein-sundayz-37/250193"
-    },
-    {
         "title": "KhaLI",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -334,6 +320,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
+    },
+    {
+        "title": "VICTOR DESTROY · DIEK +3",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/nalgotika-l-city-hall-l-main-room-l-dark-techno-acid-gabber-hardcore-barcelona-xceed-square-b816.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/nalgotika-l-city-hall-l-main-room-l-dark-techno-acid-gabber-hardcore/252285"
     },
     {
         "title": "MONK Roma",
@@ -714,13 +707,6 @@
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sundayz-brussels-xceed-square-e565.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sundayz/251780"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -819,6 +805,13 @@
         "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
     },
     {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
+    },
+    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -847,11 +840,11 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
     },
     {
-        "title": "FÊTE NATIONALE ALBANAISE 🇦🇱Coco Brussels",
+        "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-45-brussels-xceed-square-4d72.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
     },
     {
         "title": "Edelfettwerk",
