@@ -161,11 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
-        "title": "Opium Barcelona",
+        "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/opium-white-party-1-barcelona-xceed-square-3510.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/opium-white-party-1/247260"
+        "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
     },
     {
         "title": "TBA",
@@ -308,13 +308,6 @@
         "link": "https://xceed.me/en/barcelona/event/lulu-obetko-l-secret-room-l-reggaeton-cumbia-all-night-long/252442"
     },
     {
-        "title": "Salsa y BachataSauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -343,18 +336,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "Hacienda",
@@ -449,17 +442,17 @@
     },
     {
         "title": "Cieloterra",
-        "date": "27|11|2026 - Rebel Rebel with FUTUR",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
-    },
-    {
-        "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/biia-all-night-long-cieloterra-roma-xceed-square-c8e3.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "27|11|2026 - Rebel Rebel with FUTUR",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
     },
     {
         "title": "MONK Roma",
