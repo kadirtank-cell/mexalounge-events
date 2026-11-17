@@ -1,17 +1,17 @@
 [
     {
-        "title": "DOT",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/the-room-21-1-barcelona-xceed-square-086f.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/the-room-21-1/251373"
+    },
+    {
+        "title": "DOT",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/venus-birthday-barcelona-xceed-square-25c9.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
         "title": "NIX bcn",
@@ -315,11 +315,11 @@
         "link": "https://xceed.me/en/barcelona/event/lulu-obetko-l-secret-room-l-reggaeton-cumbia-all-night-long/252442"
     },
     {
-        "title": "PEP ALEGRIA · MARCELUS",
-        "date": "PEP ALEGRIA · MARCELUS",
+        "title": "Salsa y BachataSauvage Swinger Club",
+        "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
+        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
         "title": "MONK Roma",
@@ -560,18 +560,18 @@
         "link": "https://xceed.me/en/roma/event/beyond-the-wall-backdoor-at-palazzo-san-lorenzo/249448"
     },
     {
-        "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
-    },
-    {
         "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
+    },
+    {
+        "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
     },
     {
         "title": "Young Signorino live",
@@ -770,18 +770,18 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
-        "title": "Madame Moustache",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/back-to-the-best-hits-winter-edition-by-partyfinder-brussels-xceed-6650.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/back-to-the-best-hits-winter-edition-by-partyfinder/251472"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
+    },
+    {
+        "title": "Madame Moustache",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/back-to-the-best-hits-winter-edition-by-partyfinder-brussels-xceed-6650.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/back-to-the-best-hits-winter-edition-by-partyfinder/251472"
     },
     {
         "title": "BLOODY LOUIS",
