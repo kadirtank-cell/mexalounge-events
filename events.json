@@ -14,18 +14,18 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
-        "title": "NIX bcn",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-74-barcelona-xceed-square-aebd.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-74/249799"
+    },
+    {
+        "title": "NIX bcn",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
         "title": "Slow Club",
@@ -105,6 +105,13 @@
         "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
     },
     {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
+    },
+    {
         "title": "Sauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -117,13 +124,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
-    },
-    {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -168,6 +168,13 @@
         "link": "https://xceed.me/en/barcelona/event/opium-white-party-1/247260"
     },
     {
+        "title": "LIVESamuel Blaser QuartetJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/samuel-blaser-quartet-barcelona-xceed-square-ce67.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/samuel-blaser-quartet/250167"
+    },
+    {
         "title": "CIRCO PARAISO · ARTDETTA +1",
         "date": "PLAY CUBE RECORDS | CIRCO PARAÍSO ·",
         "location": "BARCELONA",
@@ -187,13 +194,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/ruben-seoane-61-barcelona-xceed-c6af.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/ruben-seoane-61/250002"
-    },
-    {
-        "title": "Samuel Blaser QuartetJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/samuel-blaser-quartet-barcelona-xceed-square-ce67.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/samuel-blaser-quartet/250167"
     },
     {
         "title": "DJ Muuz",
@@ -686,18 +686,18 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
         "title": "DADA Brussels",
