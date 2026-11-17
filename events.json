@@ -91,6 +91,13 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
+    },
+    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -103,13 +110,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
-    },
-    {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
     },
     {
         "title": "Sauvage Swinger Club",
@@ -693,13 +693,6 @@
         "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -707,11 +700,25 @@
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
+    },
+    {
         "title": "Plein Publiek BXL",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
         "title": "BLOODY LOUIS",
@@ -726,13 +733,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
-    },
-    {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
         "title": "Hotel Trendy",

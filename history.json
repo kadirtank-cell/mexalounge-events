@@ -1,5 +1,20 @@
 [
     {
+        "artist": "DAMEN",
+        "title": "TH",
+        "time": "2026-11-17 20:36:23"
+    },
+    {
+        "artist": "Monolink",
+        "title": "Return To Oz (ARTBAT Remix)",
+        "time": "2026-11-17 20:28:26"
+    },
+    {
+        "artist": "Oliver Smith",
+        "title": "Signals (Maty Owl Remix)",
+        "time": "2026-11-17 20:23:48"
+    },
+    {
         "artist": "Seismal D, Amiley, Daniele Vantaggio, Emilia Del Monte",
         "title": "Ricordia",
         "time": "2026-11-17 20:17:16"
@@ -33,20 +48,5 @@
         "artist": "RÜFÜS, Jon George, Tyrone Lindqvist, James Hunt, Jon George, Tyrone Lindqvist, James Hunt, Parker & Barrow",
         "title": "Innerbloom (Parker & Barrow Remix)",
         "time": "2026-11-17 19:42:26"
-    },
-    {
-        "artist": "İmdat Beşikçi-Acid Piano",
-        "title": "İmdat Beşikçi-Acid Piano",
-        "time": "2026-11-17 19:38:35"
-    },
-    {
-        "artist": "Svonco",
-        "title": "Perception Reset",
-        "time": "2026-11-17 19:32:11"
-    },
-    {
-        "artist": "Pavel Petrov",
-        "title": "Pavel Petrov - Never Fake (Original Mix) [EXE AUDIO]",
-        "time": "2026-11-17 19:27:15"
     }
 ]
