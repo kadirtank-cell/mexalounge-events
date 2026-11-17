@@ -37,8 +37,8 @@
     },
     {
         "rank": 7,
-        "artist": "Can Ates",
-        "title": "Just A Beat",
+        "artist": "Marika (IT), I Hate Milk",
+        "title": "Dust On My Shoes",
         "play_count": 16
     },
     {
@@ -49,8 +49,8 @@
     },
     {
         "rank": 9,
-        "artist": "Marika (IT), I Hate Milk",
-        "title": "Dust On My Shoes",
+        "artist": "Can Ates",
+        "title": "Just A Beat",
         "play_count": 16
     },
     {
@@ -61,38 +61,38 @@
     },
     {
         "rank": 11,
-        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
-        "title": "ME QUEMO",
-        "play_count": 15
-    },
-    {
-        "rank": 12,
         "artist": "Juany Bravo, Faul & Wad",
         "title": "Go Hot (Babylon) (Extended Mix)",
         "play_count": 15
     },
     {
-        "rank": 13,
-        "artist": "Tonic Walter",
-        "title": "Into The Night",
-        "play_count": 14
+        "rank": 12,
+        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
+        "title": "ME QUEMO",
+        "play_count": 15
     },
     {
-        "rank": 14,
+        "rank": 13,
         "artist": "Aaron Sevilla, Afrodise Music",
         "title": "Afrohouse / @Aaronsevilla @Theolivergil - Desenchante",
         "play_count": 14
     },
     {
+        "rank": 14,
+        "artist": "Sunset Afrø",
+        "title": "Berin, DJ Purple, KIDY, Yalla Habebe - Guess Who's Back (Original Mix) [AFRO HOUSE] (July 2026)",
+        "play_count": 14
+    },
+    {
         "rank": 15,
-        "artist": "James Mac, Vall, Rosalie",
-        "title": "The Boy Is Mine (Feat. Rosalie) (Club Mix)",
+        "artist": "UNCOMMON Records",
+        "title": "Joezi & Voodoochild Feat. Burlington - Cola",
         "play_count": 14
     },
     {
         "rank": 16,
-        "artist": "UNCOMMON Records",
-        "title": "Joezi & Voodoochild Feat. Burlington - Cola",
+        "artist": "James Mac, Vall, Rosalie",
+        "title": "The Boy Is Mine (Feat. Rosalie) (Club Mix)",
         "play_count": 14
     },
     {
@@ -103,20 +103,20 @@
     },
     {
         "rank": 18,
+        "artist": "Tonic Walter",
+        "title": "Into The Night",
+        "play_count": 14
+    },
+    {
+        "rank": 19,
         "artist": "Massuma",
         "title": "Mermaid",
         "play_count": 14
     },
     {
-        "rank": 19,
-        "artist": "Sunset Afrø",
-        "title": "Berin, DJ Purple, KIDY, Yalla Habebe - Guess Who's Back (Original Mix) [AFRO HOUSE] (July 2026)",
-        "play_count": 14
-    },
-    {
         "rank": 20,
-        "artist": "Eran Hersh, Anorre, Ben Bracha, MELØ",
-        "title": "Back Slap (Extended Mix)",
+        "artist": "Addicted To Music",
+        "title": "Glauko - Calypso (Extended Mix)",
         "play_count": 13
     }
 ]
