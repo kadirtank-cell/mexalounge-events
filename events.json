@@ -343,6 +343,13 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
+    },
+    {
         "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
@@ -355,13 +362,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
         "title": "MONK Roma",
@@ -413,18 +413,18 @@
         "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "MONK Roma",
@@ -476,11 +476,11 @@
         "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
     },
     {
-        "title": "MONK Roma",
+        "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
+        "image": "https://images.xceed.me/events/banners/biia-all-night-long-cieloterra-roma-xceed-square-c8e3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
     },
     {
         "title": "Bonita ''no dejes que te lo cuenten''-  18 NovembreTEATRO CENTRAL",
@@ -553,18 +553,18 @@
         "link": "https://xceed.me/en/roma/event/beyond-the-wall-backdoor-at-palazzo-san-lorenzo/249448"
     },
     {
-        "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
-    },
-    {
         "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
+    },
+    {
+        "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
     },
     {
         "title": "Young Signorino live",
@@ -579,13 +579,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/201126-hotline-692-secret-garden/252506"
-    },
-    {
-        "title": "BIIA",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/biia-all-night-long-cieloterra-roma-xceed-square-c8e3.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
     },
     {
         "title": "RAKAA & DJ BABU ( DILATED PEOPLES)Palazzo - San Lorenzo",
