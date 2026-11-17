@@ -1,5 +1,25 @@
 [
     {
+        "artist": "D-Nox, Andre Moret",
+        "title": "Universe",
+        "time": "2026-11-17 13:42:58"
+    },
+    {
+        "artist": "Duke Dumont",
+        "title": "Ocean Drive",
+        "time": "2026-11-17 13:39:37"
+    },
+    {
+        "artist": "Christian Smith",
+        "title": "Golden Point",
+        "time": "2026-11-17 13:35:25"
+    },
+    {
+        "artist": "Durante, Anjunadeep",
+        "title": "Durante & ALLKNIGHT - How Does It Feel",
+        "time": "2026-11-17 13:30:51"
+    },
+    {
         "artist": "Armin Van Buuren;  Wrabel",
         "title": "Feel Again (ABGT560)",
         "time": "2026-11-17 13:25:26"
@@ -28,25 +48,5 @@
         "artist": "Room 5 Feat. Oliver Cheatham",
         "title": "Make Luv (Radio Version)",
         "time": "2026-11-17 12:59:01"
-    },
-    {
-        "artist": "Calvin Harris & Disciples",
-        "title": "How Deep Is Your Love",
-        "time": "2026-11-17 12:54:51"
-    },
-    {
-        "artist": "Pmz",
-        "title": "Lady (Federico Scavo Remix)",
-        "time": "2026-11-17 12:47:29"
-    },
-    {
-        "artist": "MANU BS, Moree MK, Roland Clark",
-        "title": "Girls Dance (Extended Mix)",
-        "time": "2026-11-17 12:42:33"
-    },
-    {
-        "artist": "Block & Crown",
-        "title": "Smalltown Boy (Rerubb)",
-        "time": "2026-11-17 12:36:26"
     }
 ]
