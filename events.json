@@ -63,18 +63,18 @@
         "link": "https://xceed.me/en/barcelona/event/nye-seaview-club-nautico/247257"
     },
     {
-        "title": "ICE BAR Barcelona",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-seaview-club-nautico/247255"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
+        "title": "ICE BAR Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-seaview-club-nautico/247255"
     },
     {
         "title": "Bikini Club",
@@ -672,6 +672,13 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
+    },
+    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -684,13 +691,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
-    },
-    {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
     },
     {
         "title": "DADA Brussels",
