@@ -350,18 +350,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
         "title": "MONK Roma",
         "date": "HENGE + MARK THE HAMMER > CONCERTO ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
         "title": "Cieloterra",
@@ -560,18 +560,18 @@
         "link": "https://xceed.me/en/roma/event/beyond-the-wall-backdoor-at-palazzo-san-lorenzo/249448"
     },
     {
-        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
-    },
-    {
         "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
+    },
+    {
+        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
     },
     {
         "title": "Young Signorino live",
@@ -805,18 +805,18 @@
         "link": "https://xceed.me/en/brussels/event/intimate-international-party-nomad-x-scene/252409"
     },
     {
-        "title": "Roonx",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
-    },
-    {
         "title": "COCO JE T'AIME - OLD SCHOOL PARTYCoco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/coco-je-taime-old-school-party-brussels-xceed-square-f3f6.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/coco-je-taime-old-school-party/252856"
+    },
+    {
+        "title": "Roonx",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
     },
     {
         "title": "Session 32 R&B party in Brussels IICoco Brussels",
@@ -966,18 +966,18 @@
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
     },
     {
-        "title": "Café Schöne Aussichten (CSA)",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
-    },
-    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou-hamburg-xceed-square-fce8.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou/249895"
+    },
+    {
+        "title": "Café Schöne Aussichten (CSA)",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
     },
     {
         "title": "Uebel & Gefährlich",
@@ -1057,18 +1057,18 @@
         "link": "https://xceed.me/en/hamburg/event/tragedie-w-teenage-mutants/247813"
     },
     {
-        "title": "convinced",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinced-special-guest/251070"
-    },
-    {
         "title": "twofacedkimmy · Pierre Kraft +3",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/inner-circle-pres-trance-bounce-hamburg-xceed-square-379f.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/inner-circle-pres-jannik-van-der-vegt/248379"
+    },
+    {
+        "title": "convinced",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinced-special-guest/251070"
     },
     {
         "title": "Casino Royal | MSH x BSPGolden Cut",
