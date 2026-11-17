@@ -42,13 +42,6 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -166,6 +159,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
+    },
+    {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
         "title": "CIRCO PARAISO · ARTDETTA +1",
