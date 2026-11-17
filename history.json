@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Progressive Waves",
+        "title": "Gai Barone - Taking Credits (Extended Mix)",
+        "time": "2026-11-17 14:53:57"
+    },
+    {
+        "artist": "Yoshitoshirecordings",
+        "title": "HAFT & Peyman S - Echoes In The Dark",
+        "time": "2026-11-17 14:47:18"
+    },
+    {
         "artist": "Black Hole Recordings",
         "title": "BT Ft. Jan Johnston - Mercury & Solace (Sasha Remix)",
         "time": "2026-11-17 14:42:43"
@@ -38,15 +48,5 @@
         "artist": "Ilias Katelanos, Vakabular",
         "title": "Funk Is Love (Extended Mix)",
         "time": "2026-11-17 13:50:45"
-    },
-    {
-        "artist": "D-Nox, Andre Moret",
-        "title": "Universe",
-        "time": "2026-11-17 13:42:58"
-    },
-    {
-        "artist": "Duke Dumont",
-        "title": "Ocean Drive",
-        "time": "2026-11-17 13:39:37"
     }
 ]

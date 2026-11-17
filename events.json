@@ -483,18 +483,18 @@
         "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
     },
     {
-        "title": "QUINDIE FESTIVALAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/quindie-festival-10-roma-xceed-square-d118.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/quindie-festival-10/250024"
-    },
-    {
         "title": "Bonita ''no dejes que te lo cuenten''-  18 NovembreTEATRO CENTRAL",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-18-novembre-roma-xceed-b50c.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-18-novembre/252267"
+    },
+    {
+        "title": "QUINDIE FESTIVALAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/quindie-festival-10-roma-xceed-square-d118.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/quindie-festival-10/250024"
     },
     {
         "title": "Saverio Raimondo · Francesco Lancia +1",
@@ -672,18 +672,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "BIRDY",
