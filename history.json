@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Darude",
+        "title": "Ecstacy",
+        "time": "2026-11-17 00:16:15"
+    },
+    {
+        "artist": "LUSU",
+        "title": "The Great Reset",
+        "time": "2026-11-17 00:10:41"
+    },
+    {
         "artist": "Charlotte De Witte, Lisa Gerrard",
         "title": "After The Fall (Feat. Lisa Gerrard)",
         "time": "2026-11-17 00:03:15"
@@ -38,15 +48,5 @@
         "artist": "EXTATIC Records",
         "title": "Marie Vaunt - That Acid (2HOT2PLAY & Jimmy Peel Remix)",
         "time": "2026-11-16 23:36:18"
-    },
-    {
-        "artist": "Trippy Music",
-        "title": "Diego Straube - Circuit Reactor (Original Mix)",
-        "time": "2026-11-16 23:30:03"
-    },
-    {
-        "artist": "Armin Van Buuren， Glockenbach",
-        "title": "Sun Shines On Me",
-        "time": "2026-11-16 23:26:37"
     }
 ]
