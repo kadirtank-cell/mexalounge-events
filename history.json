@@ -1,5 +1,20 @@
 [
     {
+        "artist": "R3HAB, A Touch Of Class",
+        "title": "All Around The World (La La La)",
+        "time": "2026-11-18 08:01:07"
+    },
+    {
+        "artist": "Kamafro",
+        "title": "Stayin Alive",
+        "time": "2026-11-18 07:55:45"
+    },
+    {
+        "artist": "Eran Hersh, Anorre, Ben Bracha, MELØ",
+        "title": "Back Slap (Extended Mix)",
+        "time": "2026-11-18 07:50:01"
+    },
+    {
         "artist": "YABANCI",
         "title": "Eternity",
         "time": "2026-11-18 07:45:56"
@@ -33,20 +48,5 @@
         "artist": "Brutishheavymusic",
         "title": "PSY-TRANCE ◉ Tones And I - Dance Monkey (Alegro & Shibass Remix)",
         "time": "2026-11-18 07:15:22"
-    },
-    {
-        "artist": "Massuma",
-        "title": "Mermaid",
-        "time": "2026-11-18 07:11:41"
-    },
-    {
-        "artist": "Bob Sinclar & Cutee B",
-        "title": "Rock This Party (Everybody Dance Now)",
-        "time": "2026-11-18 07:06:11"
-    },
-    {
-        "artist": "Max Pavlov",
-        "title": "A Gira (Extended Mix)",
-        "time": "2026-11-18 06:59:08"
     }
 ]
