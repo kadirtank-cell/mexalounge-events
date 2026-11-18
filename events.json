@@ -455,18 +455,18 @@
         "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
     },
     {
-        "title": "Cieloterra",
-        "date": "27|11|2026 - Rebel Rebel with FUTUR",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
-    },
-    {
         "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione-roma-xceed-square-14cb.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "27|11|2026 - Rebel Rebel with FUTUR",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
     },
     {
         "title": "Lanificio",
@@ -665,18 +665,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
         "title": "BLOODY LOUIS",
@@ -693,6 +693,13 @@
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
+        "title": "Hotel Trendy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
+    },
+    {
         "title": "Ratz Food Market",
         "date": "Ratz Food Market",
         "location": "BRUSSELS",
@@ -705,13 +712,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
-    },
-    {
-        "title": "Hotel Trendy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
         "title": "Plein Publiek BXL",
