@@ -175,6 +175,13 @@
         "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
+        "title": "LIVEFrancesco Bearzatti TrioJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/francesco-bearzatti-trio-barcelona-xceed-4031.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/francesco-bearzatti-trio/250168"
+    },
+    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -201,13 +208,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/carlota-10-barcelona-xceed-ac0a.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/carlota-10/250004"
-    },
-    {
-        "title": "Francesco Bearzatti TrioJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/francesco-bearzatti-trio-barcelona-xceed-4031.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/francesco-bearzatti-trio/250168"
     },
     {
         "title": "Dj Stile",
@@ -651,18 +651,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
-    },
-    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
         "title": "BIRDY",

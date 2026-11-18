@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Jackrock, Hristo Ivanov",
+        "title": "Demons Within",
+        "time": "2026-11-18 19:35:00"
+    },
+    {
+        "artist": "Monolink",
+        "title": "Return To Oz (ARTBAT Remix)",
+        "time": "2026-11-18 19:27:03"
+    },
+    {
         "artist": "Mario Ochoa",
         "title": "Crushed",
         "time": "2026-11-18 19:23:32"
@@ -38,15 +48,5 @@
         "artist": "JUNO (DE), Samm (BE)",
         "title": "Muralli",
         "time": "2026-11-18 18:49:06"
-    },
-    {
-        "artist": "FOLUAL, Luca Antolini",
-        "title": "Opus (Extended Mix)",
-        "time": "2026-11-18 18:44:11"
-    },
-    {
-        "artist": "Argy, Goom Gum",
-        "title": "Pantheon",
-        "time": "2026-11-18 18:39:40"
     }
 ]
