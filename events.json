@@ -217,6 +217,13 @@
         "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-stile-37/250196"
     },
     {
+        "title": "Borja de la Riva · Luis Mendez",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
+    },
+    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -257,13 +264,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-alvaro-naive-disco-bar-los-dos-mil-bruno-not-bruno/251870"
-    },
-    {
-        "title": "Borja de la Riva · Luis Mendez",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
     },
     {
         "title": "VICTOR DESTROY · DIEK · KISELI +2",
@@ -434,18 +434,18 @@
         "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
     },
     {
         "title": "Cieloterra",
@@ -476,7 +476,7 @@
         "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
     },
     {
-        "title": "QUINDIE FESTIVALAlcazar",
+        "title": "LIVEQUINDIE FESTIVALAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/quindie-festival-10-roma-xceed-square-d118.png?w=149&h=149&q=90&fm=auto",
@@ -658,6 +658,13 @@
         "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
+        "title": "C12",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
+    },
+    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -698,13 +705,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
-        "title": "C12",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
         "title": "Plein Publiek BXL",
@@ -812,18 +812,18 @@
         "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
     },
     {
-        "title": "Roonx",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-44-brussels-xceed-square-3304.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
-    },
-    {
         "title": "DJ JAIRO · Kay C",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-3-brussels-xceed-square-b13f.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-3/253259"
+    },
+    {
+        "title": "Roonx",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-44-brussels-xceed-square-3304.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
     },
     {
         "title": "Edelfettwerk",
