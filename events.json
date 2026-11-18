@@ -273,6 +273,13 @@
         "link": "https://xceed.me/en/barcelona/event/lulu-obetko-l-secret-room-l-reggaeton-cumbia-all-night-long/252442"
     },
     {
+        "title": "Dj Amazing · Dj Gahdoor",
+        "date": "Hop on The Top (The Last Jam) at La",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/hop-on-the-top-hip-hop-throwback-90-00-closing-party-barcelona-xceed-d3ae.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/hop-on-the-top-the-last-jam-at-la-terrrazza-2026/250643"
+    },
+    {
         "title": "MIRABLAU CLUBMIRABLAUHitsPopReggaeton",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -301,13 +308,6 @@
         "link": "https://xceed.me/en/barcelona/event/soulful-city-navider-1/250247"
     },
     {
-        "title": "Dj Amazing · Dj Gahdoor",
-        "date": "Hop on The Top (The Last Jam) at La",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/hop-on-the-top-hip-hop-throwback-90-00-closing-party-barcelona-xceed-d3ae.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/hop-on-the-top-the-last-jam-at-la-terrrazza-2026/250643"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -322,18 +322,18 @@
         "link": "https://xceed.me/en/roma/event/remuntada-xhuliano-dule/243510"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/modena-city-ramblers-concerto-presto-ore-1930-roma-xceed-square-114b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
         "title": "MONK Roma",
@@ -420,18 +420,18 @@
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
-        "title": "MONK Roma",
-        "date": "Karaoke indie nostalgia Roma + indi",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione-roma-xceed-square-14cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "Karaoke indie nostalgia Roma + indi",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione-roma-xceed-square-14cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
     },
     {
         "title": "Traffic Club",
