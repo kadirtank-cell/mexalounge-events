@@ -420,6 +420,13 @@
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
+        "title": "Traffic Club",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
+    },
+    {
         "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
@@ -432,13 +439,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
-    },
-    {
-        "title": "Traffic Club",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
     },
     {
         "title": "Lanificio",
@@ -525,18 +525,18 @@
         "link": "https://xceed.me/en/roma/event/omasta-1/245459"
     },
     {
-        "title": "Filippo Spreafico",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends-roma-xceed-square-db4e.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
-    },
-    {
         "title": "Ivan Dal Monte · VALERIO LAZZARI · Sisko Electrofanatik +1",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-9b8d.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
+    },
+    {
+        "title": "Filippo Spreafico",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends-roma-xceed-square-db4e.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
     },
     {
         "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazarDis",
@@ -756,11 +756,11 @@
         "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
-        "title": "The Standard, Brussels",
+        "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
+        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-05-12-mirano-brussels-brussels-xceed-square-1fe3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
     },
     {
         "title": "INTIMATE INTERNATIONAL PARTY ｜NOMAD X SCÈNEScene BrusselsHouseHit",
@@ -789,6 +789,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
+    },
+    {
+        "title": "Friendsgiving Bingo x WANDLER at The Standard, BrusselsThe Standa",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
         "title": "Session 32 R&B party in Brussels IICoco BrusselsR&BHip-hopTrap",
@@ -966,18 +973,18 @@
         "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
+        "title": "45 Hertz Festival",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
+    },
+    {
         "title": "Secret Location",
         "date": "Secret Location",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
-        "title": "Fundbureau",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/zwideja-7-hamburg-xceed-square-fd06.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/zwideja-7/252321"
     },
     {
         "title": "Arodes · Vinbuu",
