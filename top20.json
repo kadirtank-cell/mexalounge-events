@@ -31,14 +31,14 @@
     },
     {
         "rank": 6,
-        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
-        "title": "ME QUEMO",
+        "artist": "Simon Fava",
+        "title": "Music Is The Answer (Extended Mix)",
         "play_count": 18
     },
     {
         "rank": 7,
-        "artist": "Simon Fava",
-        "title": "Music Is The Answer (Extended Mix)",
+        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
+        "title": "ME QUEMO",
         "play_count": 18
     },
     {
@@ -103,20 +103,20 @@
     },
     {
         "rank": 18,
+        "artist": "Tonic Walter",
+        "title": "Into The Night",
+        "play_count": 15
+    },
+    {
+        "rank": 19,
         "artist": "Sunset Afrø",
         "title": "Berin, DJ Purple, KIDY, Yalla Habebe - Guess Who's Back (Original Mix) [AFRO HOUSE] (July 2026)",
         "play_count": 15
     },
     {
-        "rank": 19,
+        "rank": 20,
         "artist": "Vibey Deep House Music, El Chino Ramos",
         "title": "Shimza, AR:CO & Kasango - Fire Fire (Extended Mix) (Afro House)",
-        "play_count": 15
-    },
-    {
-        "rank": 20,
-        "artist": "Tonic Walter",
-        "title": "Into The Night",
         "play_count": 15
     }
 ]
