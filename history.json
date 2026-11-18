@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Amtrac, Anjunadeep",
+        "title": "Amtrac - High Speed Ring",
+        "time": "2026-11-18 14:35:27"
+    },
+    {
+        "artist": "James Hype; Kim Petras",
+        "title": "Drums",
+        "time": "2026-11-18 14:32:56"
+    },
+    {
+        "artist": "Jaydee (DE)",
+        "title": "Haunted (Extended Mix)",
+        "time": "2026-11-18 14:26:34"
+    },
+    {
         "artist": "Estiva",
         "title": "Noo Tacchi (Extended Mix)",
         "time": "2026-11-18 14:20:38"
@@ -33,20 +48,5 @@
         "artist": "Paul Thomas, Weird Sounding Dude",
         "title": "Summersault (Weird Sounding Dude Extended Remix)",
         "time": "2026-11-18 13:38:42"
-    },
-    {
-        "artist": "8Bit Records",
-        "title": "Gorge - Veamos",
-        "time": "2026-11-18 13:32:02"
-    },
-    {
-        "artist": "Anjunadeep",
-        "title": "Ezequiel Arias & Durante - Prisma (From Anjunadeep Malta 2025)",
-        "time": "2026-11-18 13:26:44"
-    },
-    {
-        "artist": "Dynoro; Gigi D'agostino",
-        "title": "In My Mind",
-        "time": "2026-11-18 13:23:54"
     }
 ]
