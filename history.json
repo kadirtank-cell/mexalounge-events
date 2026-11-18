@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Diago, Daniel Kandi, Clara Mitchell",
+        "title": "Siren's Howl",
+        "time": "2026-11-18 00:54:49"
+    },
+    {
+        "artist": "Devid Dega",
+        "title": "Break",
+        "time": "2026-11-18 00:51:12"
+    },
+    {
+        "artist": "Brendan Bartels, Dan Cooper, Ren Faye",
+        "title": "Pure Imagination (Extended Mix)",
+        "time": "2026-11-18 00:45:17"
+    },
+    {
         "artist": "Ampish Junoon (Original Mix)",
         "title": "Ampish Junoon (Original Mix)",
         "time": "2026-11-18 00:39:09"
@@ -33,20 +48,5 @@
         "artist": "Trance Music Dimlok",
         "title": "Alper Cetin-Arcus Extended Mix (Suanda Base)",
         "time": "2026-11-18 00:09:06"
-    },
-    {
-        "artist": "Pawlowski",
-        "title": "Make It Smooth",
-        "time": "2026-11-18 00:03:26"
-    },
-    {
-        "artist": "Emro",
-        "title": "Vastness",
-        "time": "2026-11-17 23:56:48"
-    },
-    {
-        "artist": "Ruben De Ronde, Statement! Music",
-        "title": "Ruben De Ronde & TRYAD - Doubts (NEW SINGLE!)",
-        "time": "2026-11-17 23:53:18"
     }
 ]
