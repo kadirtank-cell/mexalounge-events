@@ -168,34 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
     },
     {
-        "title": "CIRCO PARAISO · ARTDETTA +1",
-        "date": "PLAY CUBE RECORDS | CIRCO PARAÍSO ·",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/play-cube-records-circo-paraiso-artdetta-dj-hxnds-main-room-barcelona-xceed-square-320f.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/play-cube-records-circo-paraiso-artdetta-dj-hxnds-main-room/242764"
-    },
-    {
-        "title": "Rubén Seoane · Rorschach",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/ruben-seoane-61-barcelona-xceed-c6af.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/ruben-seoane-61/250002"
-    },
-    {
-        "title": "DJ Muuz",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tuesday-night-dj-muuz-8-barcelona-xceed-f61a.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/tuesday-night-dj-muuz-8/250195"
-    },
-    {
-        "title": "ARDZ · SAMU BY CHAMPA +3",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/maki-nova-ardz-samu-by-champa-cartvi-b2b-blung-dj-bernik-secret-room-barcelona-xceed-square-a1fa.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/maki-nova-ardz-samu-by-champa-cartvi-b2b-blung-dj-bernik-secret-room/252408"
-    },
-    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -306,6 +278,34 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
+    },
+    {
+        "title": "MIRABLAU CLUBMIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-120/247916"
+    },
+    {
+        "title": "Men (L-Men-T) · Monraker",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/men-l-men-t-24-barcelona-xceed-6cc2.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/men-l-men-t-24/250008"
+    },
+    {
+        "title": "Dj Eley · DJ Muuz +1",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-dj-muuz-3-barcelona-xceed-ed8b.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-dj-muuz-3/250198"
+    },
+    {
+        "title": "Navider",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/soulful-city-navider-1-barcelona-xceed-square-475b.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/soulful-city-navider-1/250247"
     },
     {
         "title": "MONK Roma",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/coco-je-taime-old-school-party-brussels-xceed-square-f3f6.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/coco-je-taime-old-school-party/252856"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
+    },
+    {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/coco-je-taime-old-school-party-brussels-xceed-square-f3f6.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/coco-je-taime-old-school-party/252856"
     },
     {
         "title": "The Standard, Brussels",
