@@ -301,6 +301,13 @@
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/poppe-14-roma-xceed-square-d8cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/poppe-14/252820"
+    },
+    {
         "title": "Hacienda",
         "date": "PENDULUM @Hacienda - Roma | 11 Dice",
         "location": "ROMA",
@@ -313,13 +320,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/poppe-14-roma-xceed-square-d8cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/poppe-14/252820"
     },
     {
         "title": "MONK Roma",
@@ -651,18 +651,18 @@
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "Plein Publiek BXL",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "Coco Brussels",
@@ -752,7 +752,7 @@
         "title": "PRIVATE FEELS •  HOTEL TRENDY •  26 NOVEMBER 2026Hotel Trendy",
         "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-a4c0.png?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
