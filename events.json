@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-74/249799"
     },
     {
-        "title": "NIX bcn",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
-    },
-    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
+    },
+    {
+        "title": "NIX bcn",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
         "title": "BUS HEXPERIENCE",
@@ -47,6 +47,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
+    },
+    {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
     },
     {
         "title": "Boris Club",
@@ -70,13 +77,6 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
-    },
-    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -89,6 +89,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nye-seaview-rooftop-club-nautico/247257"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
     },
     {
         "title": "MIRABLAU",
@@ -110,13 +117,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
     },
     {
         "title": "Bikini Club",
@@ -344,17 +344,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
-    },
-    {
-        "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione-roma-xceed-square-14cb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "Lanificio",
@@ -665,18 +665,18 @@
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/coco-je-taime-old-school-party-brussels-xceed-square-f3f6.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/coco-je-taime-old-school-party/252856"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
         "title": "Crosly Bowling",
