@@ -318,6 +318,13 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/poppe-14-roma-xceed-square-d8cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/poppe-14/252820"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
@@ -427,13 +434,6 @@
         "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
     },
     {
-        "title": "Tag Culture",
-        "date": "DARKORE - 20 NOVEMBRE 2026",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
-    },
-    {
         "title": "Saverio Raimondo · Francesco Lancia · Chiara Galeazzi",
         "date": "Saverio Raimondo · Francesco Lancia",
         "location": "ROMA",
@@ -453,6 +453,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/symo-dj-lorenzo-bartolo-roma-xceed-b37b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/symo-dj-lorenzo-bartolo/252254"
+    },
+    {
+        "title": "DARKORE - 20 NOVEMBRE 2026Tag CultureHard TechnoHardcoreTechno",
+        "date": "DARKORE - 20 NOVEMBRE 2026",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
     },
     {
         "title": "Ivan Dal Monte · VALERIO LAZZARI · Sisko Electrofanatik +1",
@@ -523,13 +530,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
-    },
-    {
-        "title": "POPPEMONK RomaPopDanceDisco",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/poppe-14-roma-xceed-square-d8cb.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/poppe-14/252820"
     },
     {
         "title": "RAKAA & DJ BABU ( DILATED PEOPLES)Palazzo - San Lorenzo",
@@ -623,18 +623,18 @@
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
         "title": "DADA Brussels",
