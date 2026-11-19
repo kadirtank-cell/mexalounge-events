@@ -168,13 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
-        "title": "LIVEBrigitte EmagaJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/brigitte-emaga-barcelona-xceed-f48a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/brigitte-emaga/250169"
-    },
-    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -343,18 +336,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/roberto-colella-live-1-roma-xceed-square-6896.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/roberto-colella-live-1-roma-xceed-square-6896.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
     },
     {
         "title": "MONK Roma",
@@ -616,18 +609,18 @@
         "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/the-muse-hotel-trendy-19-november-brussels-xceed-square-7781.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
         "title": "BLOODY LOUIS",
@@ -679,18 +672,18 @@
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
-        "title": "Crosly Bowling",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/l2b-showcase-2-brussels-xceed-square-13d0.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/l2b-showcase-2/253361"
+    },
+    {
+        "title": "Crosly Bowling",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
     },
     {
         "title": "BLOODY LOUIS",
@@ -987,18 +980,18 @@
         "link": "https://xceed.me/en/hamburg/event/tragedie-w-teenage-mutants/247813"
     },
     {
-        "title": "convinced",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinzed-special-guest/251070"
-    },
-    {
         "title": "twofacedkimmy · Pierre Kraft · Unromantic +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/inner-circle-pres-trance-bounce-hamburg-xceed-square-379f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/inner-circle-pres-jannik-van-der-vegt/248379"
+    },
+    {
+        "title": "convinced",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinzed-special-guest/251070"
     },
     {
         "title": "Casino Royal | MSH x BSPGolden Cut",
