@@ -21,6 +21,13 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
+    },
+    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -33,13 +40,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/delirio-xmas-barcelona-xceed-square-625c.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
-    },
-    {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
     },
     {
         "title": "Slow Club",
@@ -63,18 +63,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-dadame-1/251871"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
+    },
+    {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-dadame-1/251871"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
