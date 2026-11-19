@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Charlotte De Witte, Amelie Lens",
+        "title": "One Mind",
+        "time": "2026-11-19 16:54:25"
+    },
+    {
+        "artist": "Argy, Son Of Son",
+        "title": "Faust",
+        "time": "2026-11-19 16:50:50"
+    },
+    {
+        "artist": "ARTBAT, Armin Van Buuren",
+        "title": "Take Off (Extended Mix)",
+        "time": "2026-11-19 16:44:58"
+    },
+    {
         "artist": "Stylo, Amethy, Moii",
         "title": "Papi",
         "time": "2026-11-19 16:40:58"
@@ -33,20 +48,5 @@
         "artist": "Tescao",
         "title": "Dance With My Ghost",
         "time": "2026-11-19 16:13:04"
-    },
-    {
-        "artist": "Electropeople",
-        "title": "ELEVEN (FR), Twofaced. - Everything In Its Right Place (Original Mix)",
-        "time": "2026-11-19 16:06:10"
-    },
-    {
-        "artist": "David Vendetta-Braek For Love",
-        "title": "BREAK FOR LOVE",
-        "time": "2026-11-19 15:54:12"
-    },
-    {
-        "artist": "Jaydee (DE)",
-        "title": "Haunted (Extended Mix)",
-        "time": "2026-11-19 15:47:50"
     }
 ]
