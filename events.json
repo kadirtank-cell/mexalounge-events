@@ -144,6 +144,13 @@
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jerry-v-junnior/251880"
     },
     {
@@ -166,20 +173,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
-    },
-    {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
-    },
-    {
-        "title": "Borja de la Riva · Luis Mendez",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-luis-mendez-siro-pau-vilella/251878"
     },
     {
         "title": "TBA",
@@ -372,17 +365,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
-        "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione-roma-xceed-square-14cb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
         "title": "Alcazar",
@@ -532,18 +525,18 @@
         "link": "https://xceed.me/en/roma/event/alcazar-comedy-club-alcazar-live-trastevere-20/242524"
     },
     {
-        "title": "RAKAA & DJ BABU ( DILATED PEOPLES)Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rakaa-dj-babu-roma-xceed-square-c7ad.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rakaa-dj-babu-dilated-peoples/249866"
-    },
-    {
         "title": "MAURICE FULTON DJ SET - Alcazar LiveAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
+    },
+    {
+        "title": "RAKAA & DJ BABU ( DILATED PEOPLES)Palazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/rakaa-dj-babu-roma-xceed-square-c7ad.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/rakaa-dj-babu-dilated-peoples/249866"
     },
     {
         "title": "Don't Tell Mama - Saturday 21 st Nov.TEATRO CENTRALE",
