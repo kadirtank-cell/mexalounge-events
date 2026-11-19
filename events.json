@@ -175,13 +175,6 @@
         "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-69/249779"
     },
     {
-        "title": "bruno castillo · Alvaro Naive (Trajano!)",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-alvaro-naive-disco-bar-los-dos-mil-bruno-not-bruno/251870"
-    },
-    {
         "title": "DJ Hell · Reka · MARIBEL PINCHADISCOS",
         "date": "DJ Hell · Reka · MARIBEL PINCHADISC",
         "location": "BARCELONA",
@@ -208,6 +201,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/thursday-night-flavio-rodriguez-10-barcelona-xceed-b62d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/thursday-night-flavio-rodriguez-10/250197"
+    },
+    {
+        "title": "bruno castillo · Alvaro Naive (Trajano!)",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-alvaro-naive-disco-bar-los-dos-mil-bruno-not-bruno/251870"
     },
     {
         "title": "LULU OBETKO (ARG)",
@@ -336,6 +336,13 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
+        "title": "Lanificio",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
+    },
+    {
         "title": "MONK Roma",
         "date": "Karaoke indie nostalgia Roma + indi",
         "location": "ROMA",
@@ -348,13 +355,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
-    },
-    {
-        "title": "Lanificio",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
     },
     {
         "title": "MONK Roma",
@@ -609,6 +609,13 @@
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
+        "title": "DADA Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
+    },
+    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -628,13 +635,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
-    },
-    {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "BLOODY LOUIS",
