@@ -105,6 +105,13 @@
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
     },
     {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
+    },
+    {
         "title": "Bikini Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -131,13 +138,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
     },
     {
         "title": "NegroRojo",
@@ -469,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
     },
     {
-        "title": "OMASTAAlcazarJazz / BluesHip-hopElectronica / Downtempo",
-        "date": "Electronica / Downtempo",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/omasta-1-roma-xceed-square-55c6.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/omasta-1/245459"
-    },
-    {
         "title": "Ivan Dal Monte · VALERIO LAZZARI · Sisko Electrofanatik +1",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-9b8d.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
+    },
+    {
+        "title": "OMASTAAlcazarJazz / BluesHip-hopElectronica / Downtempo",
+        "date": "Electronica / Downtempo",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/omasta-1-roma-xceed-square-55c6.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/omasta-1/245459"
     },
     {
         "title": "Filippo Spreafico",
@@ -945,11 +945,11 @@
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "Sat 13 Mar, 11:59pm",
+        "title": "Kent Club",
+        "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
+        "image": "https://images.xceed.me/events/banners/keine-halben-goes-nacs-level-1-hamburg-xceed-square-13c7.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/keine-halben-goes-nacs-level-1/239304"
     },
     {
         "title": "Fundbureau",
@@ -957,13 +957,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/zwideja-7-hamburg-xceed-square-fd06.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/zwideja-7/252321"
-    },
-    {
-        "title": "luis · katlix · Bella Reed +3",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/keine-halben-goes-nacs-level-1-hamburg-xceed-square-13c7.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/keine-halben-goes-nacs-level-1/239304"
     },
     {
         "title": "DJ Fuckoff · Elia Haze · guuc20459 +3",
