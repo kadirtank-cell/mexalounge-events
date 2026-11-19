@@ -420,13 +420,6 @@
         "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -434,11 +427,11 @@
         "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
     },
     {
-        "title": "LIVESYMO || DJ Lorenzo BartoloVinile",
+        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/symo-dj-lorenzo-bartolo-roma-xceed-b37b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/symo-dj-lorenzo-bartolo/252254"
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
     },
     {
         "title": "Saverio Raimondo · Francesco Lancia · Chiara Galeazzi",
@@ -446,6 +439,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/gelo-comedy-happening-raimondo-lancia-galeazzi-roma-xceed-square-7572.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/gelo-comedy-happening-raimondo-lancia-galeazzi/246885"
+    },
+    {
+        "title": "LIVESYMO || DJ Lorenzo BartoloVinile",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/symo-dj-lorenzo-bartolo-roma-xceed-b37b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/symo-dj-lorenzo-bartolo/252254"
     },
     {
         "title": "DISCO SOLEPalazzo - San Lorenzo",
@@ -469,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
     },
     {
-        "title": "OMASTAAlcazarJazz / BluesHip-hopElectronica / Downtempo",
-        "date": "Electronica / Downtempo",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/omasta-1-roma-xceed-square-55c6.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/omasta-1/245459"
-    },
-    {
         "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALEReggaeton",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
+    },
+    {
+        "title": "OMASTAAlcazarJazz / BluesHip-hopElectronica / Downtempo",
+        "date": "Electronica / Downtempo",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/omasta-1-roma-xceed-square-55c6.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/omasta-1/245459"
     },
     {
         "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazarDis",
@@ -693,11 +693,11 @@
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
-        "title": "BIRDY",
+        "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
+        "image": "https://images.xceed.me/events/banners/l2b-showcase-2-brussels-xceed-square-13d0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/l2b-showcase-2/253361"
     },
     {
         "title": "Hotel Trendy",
@@ -707,11 +707,11 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
-        "title": "Coco Brussels",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/session-32-rb-party-in-brussels-ii-brussels-xceed-square-33ae.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
+        "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
     },
     {
         "title": "INTIMATE INTERNATIONAL PARTY ｜NOMAD X SCÈNEScene BrusselsHouseHit",
@@ -749,11 +749,11 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
-        "title": "L2B",
+        "title": "Session 32 R&B party in Brussels IICoco BrusselsR&BHip-hopTrap",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/l2b-showcase-2-brussels-xceed-square-13d0.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/l2b-showcase-2/253361"
+        "image": "https://images.xceed.me/events/banners/session-32-rb-party-in-brussels-ii-brussels-xceed-square-33ae.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
     },
     {
         "title": "BAILE BAILEBLOODY LOUIS",
