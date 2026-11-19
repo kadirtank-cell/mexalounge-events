@@ -434,6 +434,13 @@
         "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
     },
     {
+        "title": "LIVESYMO || DJ Lorenzo BartoloVinile",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/symo-dj-lorenzo-bartolo-roma-xceed-b37b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/symo-dj-lorenzo-bartolo/252254"
+    },
+    {
         "title": "Saverio Raimondo · Francesco Lancia · Chiara Galeazzi",
         "date": "Saverio Raimondo · Francesco Lancia",
         "location": "ROMA",
@@ -446,13 +453,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/disco-sole-1-roma-xceed-square-a081.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/disco-sole-1/249457"
-    },
-    {
-        "title": "SYMO || DJ Lorenzo BartoloVinile",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/symo-dj-lorenzo-bartolo-roma-xceed-b37b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/symo-dj-lorenzo-bartolo/252254"
     },
     {
         "title": "DARKORE - 20 NOVEMBRE 2026Tag CultureHard TechnoHardcoreTechno",
@@ -630,18 +630,18 @@
         "link": "https://xceed.me/en/brussels/event/the-muse-hotel-trendy-19-november/249742"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
-    },
-    {
         "title": "DADA Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
         "title": "BLOODY LOUIS",
