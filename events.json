@@ -336,18 +336,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/roberto-colella-live-1-roma-xceed-square-6896.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/roberto-colella-live-1/245693"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
         "title": "MONK Roma",
@@ -357,18 +357,18 @@
         "link": "https://xceed.me/en/roma/event/karaoke-indie-nostalgia-roma-indie-club-party-monk-20-novembre-ore-2130-nuova-stagione/251939"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "Qube Disco Roma",
@@ -427,11 +427,11 @@
         "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
     },
     {
-        "title": "Cieloterra",
-        "date": "27|11|2026 - Rebel Rebel with FUTUR",
+        "title": "Tag Culture",
+        "date": "DARKORE - 20 NOVEMBRE 2026",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
+        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
     },
     {
         "title": "Saverio Raimondo · Francesco Lancia · Chiara Galeazzi",
@@ -455,13 +455,6 @@
         "link": "https://xceed.me/en/roma/event/symo-dj-lorenzo-bartolo/252254"
     },
     {
-        "title": "DARKORE - 20 NOVEMBRE 2026Tag CultureHard TechnoHardcoreTechno",
-        "date": "DARKORE - 20 NOVEMBRE 2026",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
-    },
-    {
         "title": "Ivan Dal Monte · VALERIO LAZZARI · Sisko Electrofanatik +1",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -476,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/omasta-1/245459"
     },
     {
-        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazarDis",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
-    },
-    {
         "title": "RIKO - El Flow Mas Rico De La NocheTEATRO CENTRALEReggaeton",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
+    },
+    {
+        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazarDis",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
     },
     {
         "title": "Filippo Spreafico",
@@ -532,6 +525,13 @@
         "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
     },
     {
+        "title": "POPPEMONK RomaPopDanceDisco",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/poppe-14-roma-xceed-square-d8cb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/poppe-14/252820"
+    },
+    {
         "title": "RAKAA & DJ BABU ( DILATED PEOPLES)Palazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -544,13 +544,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-21-st-nov-roma-xceed-9045.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-21-st-nov/252363"
-    },
-    {
-        "title": "MP4 +++ EXCLUSIVE CLUBBING AT PALAZZO SAN LORENZOPalazzo - San Lo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/mp4-exclusive-clubbing-at-palazzo-san-lorenzo-roma-xceed-square-8dbe.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/mp4-exclusive-clubbing-at-palazzo-san-lorenzo/251192"
     },
     {
         "title": "Gare de Bruxelles-Congres",
