@@ -49,18 +49,18 @@
         "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
     },
     {
-        "title": "Boris Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
         "title": "BUS HEXPERIENCE",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
+    },
+    {
+        "title": "Boris Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -483,13 +483,6 @@
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-18-novembre/252267"
     },
     {
-        "title": "LIVEQUINDIE FESTIVALAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/quindie-festival-10-roma-xceed-square-d118.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/quindie-festival-10/250024"
-    },
-    {
         "title": "Saverio Raimondo · Francesco Lancia · Chiara Galeazzi",
         "date": "Saverio Raimondo · Francesco Lancia",
         "location": "ROMA",
@@ -593,6 +586,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
+    },
+    {
+        "title": "Don't Tell Mama - Saturday 21 st Nov.TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-21-st-nov-roma-xceed-9045.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-21-st-nov/252363"
     },
     {
         "title": "Gare de Bruxelles-Congres",
