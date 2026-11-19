@@ -161,11 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
-        "title": "MIRABLAU",
+        "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "TBA",
@@ -222,6 +222,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/lulu-obetko-l-secret-room-l-reggaeton-cumbia-all-night-long-barcelona-xceed-square-99e6.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/lulu-obetko-l-secret-room-l-reggaeton-cumbia-all-night-long/252442"
+    },
+    {
+        "title": "PEP ALEGRIA · MARCELUS",
+        "date": "PEP ALEGRIA · MARCELUS",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
     },
     {
         "title": "Dj Amazing · Dj Gahdoor",
@@ -574,18 +581,18 @@
         "link": "https://xceed.me/en/brussels/event/la-feve-showcase-x-welcome/251992"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
-    },
-    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -693,6 +700,13 @@
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
+    },
+    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -705,13 +719,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/invasion-latina-sat-05-12-mirano-brussels-brussels-xceed-square-1fe3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
     },
     {
         "title": "INTIMATE INTERNATIONAL PARTY ｜NOMAD X SCÈNEScene BrusselsHouseHit",
@@ -987,18 +994,18 @@
         "link": "https://xceed.me/en/hamburg/event/tragedie-w-teenage-mutants/247813"
     },
     {
-        "title": "convinced",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinzed-special-guest/251070"
-    },
-    {
         "title": "twofacedkimmy · Pierre Kraft · Unromantic +2",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/inner-circle-pres-trance-bounce-hamburg-xceed-square-379f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/inner-circle-pres-jannik-van-der-vegt/248379"
+    },
+    {
+        "title": "convinced",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinzed-special-guest/251070"
     },
     {
         "title": "Casino Royal | MSH x BSPGolden Cut",
