@@ -42,6 +42,13 @@
         "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
     },
     {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
+    },
+    {
         "title": "NIX bcn",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -54,13 +61,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jerry-v-junnior/251880"
-    },
-    {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
     },
     {
         "title": "MIRABLAU",
@@ -77,18 +77,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
+    },
+    {
+        "title": "Sauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -385,18 +385,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Lanificio",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bellaire-the-funky-adventure-tour-pt-2-at-lanificio-roma-xceed-square-ee4f.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
+    },
+    {
+        "title": "Lanificio",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bellaire-the-funky-adventure-tour-pt-2-at-lanificio-roma-xceed-square-ee4f.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
     },
     {
         "title": "Qube Disco Roma",
@@ -420,11 +420,11 @@
         "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
+        "title": "Tag Culture",
+        "date": "DARKORE - 20 NOVEMBRE 2026",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
+        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
     },
     {
         "title": "LIVEOMASTAAlcazarJazz / BluesHip-hopElectronica / Downtempo",
@@ -441,11 +441,11 @@
         "link": "https://xceed.me/en/roma/event/one-night-in-rome-stand-up-in-english-filippo-spreafico-friends/250879"
     },
     {
-        "title": "DARKORE - 20 NOVEMBRE 2026Tag CultureHard TechnoHardcoreTechno",
-        "date": "DARKORE - 20 NOVEMBRE 2026",
+        "title": "LIVE20.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopA",
+        "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
+        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/201126-hotline-692-secret-garden/252506"
     },
     {
         "title": "BEYOND THE WALL |  BACKDOOR  at Palazzo San LorenzoPalazzo - San ",
@@ -460,13 +460,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/hbr-live-acts-young-signorino-futura-live-roma-xceed-square-7b3e.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/hbr-live-acts-young-signorino-futura-live/251521"
-    },
-    {
-        "title": "20.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopAfrob",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/201126-hotline-692-secret-garden/252506"
     },
     {
         "title": "MAURICE FULTON DJ SET - Alcazar LiveAlcazar",
@@ -686,7 +679,7 @@
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
-        "title": "INTIMATE INTERNATIONAL PARTY ｜NOMAD X SCÈNEScene BrusselsHouseHit",
+        "title": "LIVEINTIMATE INTERNATIONAL PARTY ｜NOMAD X SCÈNEScene BrusselsHous",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/intimate-international-party-nomad-x-scene-brussels-xceed-square-2f69.png?w=149&h=149&q=90&fm=auto",
@@ -896,18 +889,18 @@
         "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/discovaganza-w-nyra-bovski-dirrty-disco-divas-uvm-hamburg-xceed-square-24d5.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/discovaganza-w-nyra-bovski-dirty-disco-divas-uvm/247214"
-    },
-    {
         "title": "MS Stubnitz",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/discovaganza-w-nyra-bovski-dirrty-disco-divas-uvm-hamburg-xceed-square-24d5.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/discovaganza-w-nyra-bovski-dirty-disco-divas-uvm/247214"
     },
     {
         "title": "Uebel & Gefährlich",
