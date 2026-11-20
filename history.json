@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Guy J",
+        "title": "Rise",
+        "time": "2026-11-20 13:40:07"
+    },
+    {
+        "artist": "Kabi (AR), Hicky & Kalo",
+        "title": "First Snow (Extended Mix)",
+        "time": "2026-11-20 13:33:24"
+    },
+    {
         "artist": "Black Hole Recordings",
         "title": "BT Ft. Jan Johnston - Mercury & Solace (Sasha Remix)",
         "time": "2026-11-20 13:28:50"
@@ -38,15 +48,5 @@
         "artist": "Jackers Revenge",
         "title": "Funky Stars On 45",
         "time": "2026-11-20 12:51:26"
-    },
-    {
-        "artist": "Partners In Dance",
-        "title": "In Love With You (Extended Mix)",
-        "time": "2026-11-20 12:47:32"
-    },
-    {
-        "artist": "Discotron",
-        "title": "You Sexy Dancer (Extended Mix)",
-        "time": "2026-11-20 12:41:51"
     }
 ]
