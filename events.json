@@ -350,18 +350,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-9b8d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
         "title": "TEATRO CENTRALE",
@@ -385,18 +385,18 @@
         "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bellaire-the-funky-adventure-tour-pt-2-at-lanificio-roma-xceed-square-ee4f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
         "title": "MONK Roma",
@@ -420,18 +420,18 @@
         "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
     },
     {
-        "title": "Tag Culture",
-        "date": "DARKORE - 20 NOVEMBRE 2026",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
-    },
-    {
-        "title": "BELLA - Musica Italiana da ballare - Alcazar TrastevereAlcazarDis",
+        "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
+    },
+    {
+        "title": "DARKORE - 20 NOVEMBRE 2026Tag CultureHard TechnoHardcoreTechno",
+        "date": "DARKORE - 20 NOVEMBRE 2026",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
     },
     {
         "title": "OMASTAAlcazarJazz / BluesHip-hopElectronica / Downtempo",
@@ -588,18 +588,18 @@
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
+    },
+    {
+        "title": "DADA Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "BLOODY LOUIS",
@@ -875,18 +875,18 @@
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "Seehaus",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/fritz-kalkbrenner-4-hamburg-xceed-square-b9b3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "Edelfettwerk",
