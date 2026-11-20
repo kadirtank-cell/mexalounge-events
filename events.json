@@ -175,6 +175,13 @@
         "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-69/249779"
     },
     {
+        "title": "Navider",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/deep-tech-house-by-navider-35-barcelona-xceed-square-3f16.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/deep-tech-house-by-navider-35/248773"
+    },
+    {
         "title": "DJ Hell · Reka · MARIBEL PINCHADISCOS",
         "date": "DJ Hell · Reka · MARIBEL PINCHADISC",
         "location": "BARCELONA",
@@ -187,13 +194,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/nalgotika-l-city-hall-l-main-room-l-dark-techno-acid-gabber-hardcore-barcelona-xceed-square-b816.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nalgotika-l-city-hall-l-main-room-l-dark-techno-acid-gabber-hardcore/252285"
-    },
-    {
-        "title": "Navider",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/deep-tech-house-by-navider-35-barcelona-xceed-square-3f16.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/deep-tech-house-by-navider-35/248773"
     },
     {
         "title": "Carla Nisha",
@@ -574,18 +574,18 @@
         "link": "https://xceed.me/en/brussels/event/la-feve-showcase-x-welcome/251992"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/niaks-showcase-brussels-xceed-square-e64b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/niaks-showcase/252365"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
         "title": "Bourse/Beurs Rooftop Brussels",
@@ -875,13 +875,6 @@
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
-        "title": "Kent Club",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/keine-halben-goes-nacs-level-1-hamburg-xceed-square-13c7.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/keine-halben-goes-nacs-level-1/239304"
-    },
-    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -936,6 +929,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
+    },
+    {
+        "title": "Fundbureau",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/zwideja-7-hamburg-xceed-square-fd06.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/zwideja-7/252321"
     },
     {
         "title": "DJ Fuckoff · Elia Haze · guuc20459 +5",
@@ -1048,6 +1048,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/exit-the-final-chapter-44-hours-hamburg-xceed-square-c7ca.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/exit-the-final-chapter-44-hours/250805"
+    },
+    {
+        "title": "HANÀ · Two Girls one Mom · yamyam +3",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/dualism-w-hana-two-girls-one-mom-hamburg-xceed-square-0d03.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/dualism-w-hana-two-girls-one-mom/248567"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
