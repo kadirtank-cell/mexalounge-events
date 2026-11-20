@@ -168,11 +168,11 @@
         "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
-        "title": "Dj Amazing · Dj Gahdoor",
-        "date": "Hop on The Top (The Last Jam) at La",
+        "title": "Navider",
+        "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/hop-on-the-top-hip-hop-throwback-90-00-closing-party-barcelona-xceed-d3ae.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/hop-on-the-top-the-last-jam-at-la-terrrazza-2026/250643"
+        "image": "https://images.xceed.me/events/banners/soulful-city-navider-1-barcelona-xceed-square-475b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/soulful-city-navider-1/250247"
     },
     {
         "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
@@ -180,13 +180,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-120/247916"
-    },
-    {
-        "title": "Navider",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/soulful-city-navider-1-barcelona-xceed-square-475b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/soulful-city-navider-1/250247"
     },
     {
         "title": "Men (L-Men-T) · Monraker",
@@ -250,6 +243,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/future-head-l-secret-room-l-hard-techno-all-night-long-barcelona-xceed-square-dc96.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/future-head-l-secret-room-l-hard-techno-all-night-long/250568"
+    },
+    {
+        "title": "Bambi · Rorschach",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bambi-14-barcelona-xceed-2648.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bambi-14/250011"
     },
     {
         "title": "Cieloterra",
@@ -357,18 +357,18 @@
         "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/neon-pres-jazzy-cieloterra-roma-xceed-square-de84.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
         "title": "TEATRO CENTRALE",
@@ -392,18 +392,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
-    },
-    {
         "title": "Tag Culture",
         "date": "DARKORE - 20 NOVEMBRE 2026",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-roma-xceed-square-2951.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
         "title": "MONK Roma",
@@ -539,18 +539,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
     },
     {
-        "title": "C12",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
+    },
+    {
+        "title": "C12",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
         "title": "BLOODY LOUIS",
@@ -861,6 +861,13 @@
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
     },
     {
+        "title": "Edelfettwerk",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/our-house-your-house-secret-lineup-free-admission-1-hamburg-xceed-square-7290.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
+    },
+    {
         "title": "MS Stubnitz",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -882,13 +889,6 @@
         "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
-        "title": "Edelfettwerk",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/our-house-your-house-secret-lineup-free-admission-1-hamburg-xceed-square-7290.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -903,18 +903,18 @@
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
-        "title": "Marc Wiese · Alexej · Luitpold +2",
-        "date": "Marc Wiese · Alexej · Luitpold +2",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-wellenklang-hamburg-xceed-a159.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-wellenklang/251069"
-    },
-    {
         "title": "DJ Fuckoff · Elia Haze · guuc20459 +5",
         "date": "DJ Fuckoff · Elia Haze · guuc20459 ",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-fuckoff-hamburg-xceed-square-0614.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-fuckoff-robin-tasi/249894"
+    },
+    {
+        "title": "Marc Wiese · Alexej · Luitpold +2",
+        "date": "Marc Wiese · Alexej · Luitpold +2",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-wellenklang-hamburg-xceed-a159.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-wellenklang/251069"
     },
     {
         "title": "Frank Rayo · NATTA · an.judge +1",
