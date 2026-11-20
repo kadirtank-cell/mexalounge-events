@@ -168,46 +168,11 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
-        "title": "Navider",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/deep-tech-house-by-navider-35-barcelona-xceed-square-3f16.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/deep-tech-house-by-navider-35/248773"
-    },
-    {
-        "title": "DJ Hell · Reka · MARIBEL PINCHADISCOS",
-        "date": "DJ Hell · Reka · MARIBEL PINCHADISC",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/dj-hell-reka-1-barcelona-xceed-2d04.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/dj-hell-reka-1/250006"
-    },
-    {
-        "title": "VICTOR DESTROY · DIEK · KISELI +2",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/nalgotika-l-city-hall-l-main-room-l-dark-techno-acid-gabber-hardcore-barcelona-xceed-square-b816.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/nalgotika-l-city-hall-l-main-room-l-dark-techno-acid-gabber-hardcore/252285"
-    },
-    {
-        "title": "Carla Nisha",
-        "date": "Carla Nisha",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/thursday-night-flavio-rodriguez-10-barcelona-xceed-b62d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/thursday-night-flavio-rodriguez-10/250197"
-    },
-    {
         "title": "bruno castillo · Alvaro Naive (Trajano!)",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-alvaro-naive-disco-bar-los-dos-mil-bruno-not-bruno/251870"
-    },
-    {
-        "title": "LULU OBETKO (ARG)",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/lulu-obetko-l-secret-room-l-reggaeton-cumbia-all-night-long-barcelona-xceed-square-99e6.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/lulu-obetko-l-secret-room-l-reggaeton-cumbia-all-night-long/252442"
     },
     {
         "title": "PEP ALEGRIA · MARCELUS",
@@ -257,6 +222,41 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
+    },
+    {
+        "title": "TwoCaps · Drty San · Add Us +1",
+        "date": "TwoCaps · Drty San · Add Us +1",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
+    },
+    {
+        "title": "Octave One · Piem · Givio",
+        "date": "Jackies Open Air Daytime - Closing ",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/jackies-open-air-daytime-w-chus-ceballos-open-to-close-barcelona-xceed-square-eecd.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jackies-open-air-daytime-closing-2026-season-la-terrrazza/244456"
+    },
+    {
+        "title": "Javi Gon · Rorschach",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/javi-gon-34-barcelona-xceed-88aa.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/javi-gon-34/250010"
+    },
+    {
+        "title": "Frankie G",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/the-retrospective-frankie-g-barcelona-xceed-square-30cb.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/the-retrospective-frankie-g/250252"
+    },
+    {
+        "title": "Albert Cirera & Tres TamborsJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/albert-cirera-tres-tambors-barcelona-xceed-ef07.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/albert-cirera-tres-tambors/250170"
     },
     {
         "title": "Cieloterra",
