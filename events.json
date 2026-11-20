@@ -161,17 +161,10 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
-        "title": "City Hall",
+        "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
-    },
-    {
-        "title": "PEP ALEGRIA · MARCELUS",
-        "date": "PEP ALEGRIA · MARCELUS",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/tardeo-40-1-barcelona-xceed-square-5f59.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tardeo-40-1/251917"
     },
     {
@@ -208,6 +201,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/soulful-city-navider-1-barcelona-xceed-square-475b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/soulful-city-navider-1/250247"
+    },
+    {
+        "title": "REBORN · 3.º ANIVERSARIO · ÚLTIMO CAPÍTULOCity Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
         "title": "TwoCaps · Drty San · Add Us +1",
@@ -581,18 +581,18 @@
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
-        "title": "Bourse/Beurs Rooftop Brussels",
-        "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
+    },
+    {
+        "title": "Bourse/Beurs Rooftop Brussels",
+        "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
     },
     {
         "title": "BIRDY",
@@ -609,18 +609,18 @@
         "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
         "title": "BLOODY LOUIS",
