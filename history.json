@@ -1,5 +1,30 @@
 [
     {
+        "artist": "jerry_ropero_feat_cozi-the_storm",
+        "title": "Jerry Ropero Feat Cozi-The Storm",
+        "time": "2026-11-20 02:22:08"
+    },
+    {
+        "artist": "Maison Ware;  Lizzy Land",
+        "title": "Chemical",
+        "time": "2026-11-20 02:18:21"
+    },
+    {
+        "artist": "Jon Gurd, Reset Robot",
+        "title": "Five",
+        "time": "2026-11-20 02:15:09"
+    },
+    {
+        "artist": "Zigala, Alejandro Gabriel Seoane",
+        "title": "Red Night",
+        "time": "2026-11-20 02:13:07"
+    },
+    {
+        "artist": "Aaron Sevilla, Afrodise Music",
+        "title": "Afrohouse / @Aaronsevilla @Theolivergil - Desenchante",
+        "time": "2026-11-20 02:10:26"
+    },
+    {
         "artist": "Luçïd (Paris)",
         "title": "Fait Vriller",
         "time": "2026-11-20 02:03:57"
@@ -23,30 +48,5 @@
         "artist": "Bob Sinclar",
         "title": "Bob Sinclar & Fireball - What I Want Is You (Visualizer)",
         "time": "2026-11-20 01:51:18"
-    },
-    {
-        "artist": "Acnatro",
-        "title": "Dear Brother (Original Mix)",
-        "time": "2026-11-20 01:46:55"
-    },
-    {
-        "artist": "Tones And I",
-        "title": "Dance Monkey",
-        "time": "2026-11-20 01:43:29"
-    },
-    {
-        "artist": "Billie Eilish",
-        "title": "BIRDS OF A FEATHER",
-        "time": "2026-11-20 01:40:03"
-    },
-    {
-        "artist": "FRAMEWORKS, Matthew Brewer",
-        "title": "COLD",
-        "time": "2026-11-20 01:35:57"
-    },
-    {
-        "artist": "MASKØFF",
-        "title": "CONTROLLER (Extended Mix)",
-        "time": "2026-11-20 01:31:55"
     }
 ]
