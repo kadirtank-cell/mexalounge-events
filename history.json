@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Deborah De Luca",
+        "title": "Kick It (Solamente) 132",
+        "time": "2026-11-20 21:40:02"
+    },
+    {
+        "artist": "Lane 8",
+        "title": "Atlas",
+        "time": "2026-11-20 21:34:00"
+    },
+    {
+        "artist": "Recondite",
+        "title": "Levo",
+        "time": "2026-11-20 21:29:28"
+    },
+    {
+        "artist": "Amelie Lens",
+        "title": "Feel It",
+        "time": "2026-11-20 21:25:13"
+    },
+    {
         "artist": "Innellea, Rafael Cerato, Michael Miethig",
         "title": "Unleashed",
         "time": "2026-11-20 21:21:12"
@@ -28,25 +48,5 @@
         "artist": "Tiësto, Mathame",
         "title": "Feel Your Ghost",
         "time": "2026-11-20 20:56:09"
-    },
-    {
-        "artist": "Techno Paraná",
-        "title": "HOF(DE) - Tiger Claw (Extended Mix)",
-        "time": "2026-11-20 20:50:01"
-    },
-    {
-        "artist": "SN-EB",
-        "title": "Dark Illusion",
-        "time": "2026-11-20 20:45:27"
-    },
-    {
-        "artist": "D-Devils",
-        "title": "The Devil Is A DJ",
-        "time": "2026-11-20 20:40:29"
-    },
-    {
-        "artist": "Dj Renato Ortiz",
-        "title": "Fancy Inc - Hypnotic (Extended Mix)",
-        "time": "2026-11-20 20:35:06"
     }
 ]
