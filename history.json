@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Gotye, Kimbra, FISHER, Chris Lake, Sante Sansone",
+        "title": "Somebody (2024) (Extended Mix)",
+        "time": "2026-11-21 11:18:03"
+    },
+    {
+        "artist": "Drop The Pressure (Purple Disco Machine Remix)",
+        "title": "Drop The Pressure (Purple Disco Machine Remix)",
+        "time": "2026-11-21 11:11:48"
+    },
+    {
+        "artist": "Max Magnani",
+        "title": "Poker Face",
+        "time": "2026-11-21 11:07:28"
+    },
+    {
         "artist": "Max Pavlov",
         "title": "A Gira (Extended Mix)",
         "time": "2026-11-21 11:00:47"
@@ -33,20 +48,5 @@
         "artist": "Shana Vanguarde",
         "title": "Gimme! Gimme! Gimme! (A Man Afeter Midnight) Midnigh",
         "time": "2026-11-21 10:33:43"
-    },
-    {
-        "artist": "Discotron",
-        "title": "You Sexy Dancer (Extended Mix)",
-        "time": "2026-11-21 10:28:02"
-    },
-    {
-        "artist": "Global Deejays",
-        "title": "Clap Your Hands",
-        "time": "2026-11-21 10:23:20"
-    },
-    {
-        "artist": "Direct Disco",
-        "title": "Join The Disco Ride",
-        "time": "2026-11-21 10:18:13"
     }
 ]
