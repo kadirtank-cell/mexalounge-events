@@ -77,6 +77,13 @@
         "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
     },
     {
+        "title": "City Hall",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -119,13 +126,6 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
-    },
-    {
         "title": "SEASEACLUB",
         "date": "Half Baked x Les Enfants at SEASEAC",
         "location": "BARCELONA",
@@ -133,18 +133,18 @@
         "link": "https://xceed.me/en/barcelona/event/half-baked-x-les-enfants-at-seaseaclub-with-margaret-dygas-tristan-da-cunha-more/245081"
     },
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "Opium Barcelona",
@@ -294,18 +294,18 @@
         "link": "https://xceed.me/en/roma/event/modena-city-ramblers-concerto-presto-ore-1930/243289"
     },
     {
-        "title": "MONK Roma",
-        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/biia-all-night-long-cieloterra-roma-xceed-square-c8e3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "HENGE + MARK THE HAMMER > CONCERTO ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/henge-mark-the-hammer-concerto-presto-h-1900-roma-xceed-square-2dbe.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/henge-mark-the-hammer-concerto-presto-inizio-ore-1900/234415"
     },
     {
         "title": "MONK Roma",
@@ -385,6 +385,13 @@
         "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
     },
     {
+        "title": "TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-21-st-nov-roma-xceed-9045.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-21-st-nov/252363"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -395,22 +402,15 @@
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
+        "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
     },
     {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
-    },
-    {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-21-st-nov-roma-xceed-9045.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-21-st-nov/252363"
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "Traffic Club",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/l2b-showcase-2-brussels-xceed-square-13d0.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/l2b-showcase-2/253361"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/coco-je-taime-old-school-party-brussels-xceed-square-f3f6.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/coco-je-taime-old-school-party/252856"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/l2b-showcase-2-brussels-xceed-square-13d0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/l2b-showcase-2/253361"
     },
     {
         "title": "Plein Publiek BXL",
@@ -847,6 +847,13 @@
         "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
     },
     {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/discovaganza-w-nyra-bovski-dirrty-disco-divas-uvm-hamburg-xceed-square-24d5.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/discovaganza-w-nyra-bovski-dirty-disco-divas-uvm/247214"
+    },
+    {
         "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -859,13 +866,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
-    },
-    {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/discovaganza-w-nyra-bovski-dirrty-disco-divas-uvm-hamburg-xceed-square-24d5.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/discovaganza-w-nyra-bovski-dirty-disco-divas-uvm/247214"
     },
     {
         "title": "Seehaus",
