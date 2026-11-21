@@ -434,13 +434,6 @@
         "link": "https://xceed.me/en/roma/event/hbr-live-acts-young-signorino-futura-live/251521"
     },
     {
-        "title": "LIVE20.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopA",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/201126-hotline-692-secret-garden/252506"
-    },
-    {
         "title": "MAURICE FULTON DJ SET - Alcazar LiveAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -502,6 +495,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bekind-big-kid-special-guest-back-to-sunday-night-roma-xceed-square-388b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bekind-big-kid-special-guest-back-to-sunday-night/252465"
+    },
+    {
+        "title": "ALVIDEO MARKET – Mostra, proiezioni e talkPalazzo - San Lorenzo",
+        "date": "ALVIDEO MARKET – Mostra, proiezioni",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/alvideo-market-mostra-proiezioni-e-talk-roma-xceed-square-4079.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alvideo-market-mostra-proiezioni-e-talk/252906"
     },
     {
         "title": "Gare de Bruxelles-Congres",
@@ -616,18 +616,18 @@
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/coco-je-taime-old-school-party-brussels-xceed-square-f3f6.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/coco-je-taime-old-school-party/252856"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "Crosly Bowling",
@@ -658,18 +658,18 @@
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/session-32-rb-party-in-brussels-ii-brussels-xceed-square-33ae.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/kalash-showcase-1-brussels-xceed-square-ec06.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/kalash-showcase-1/253489"
+    },
+    {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/session-32-rb-party-in-brussels-ii-brussels-xceed-square-33ae.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
     },
     {
         "title": "LIVEINTIMATE INTERNATIONAL PARTY ｜NOMAD X SCÈNEScene BrusselsHous",
