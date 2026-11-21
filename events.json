@@ -1,17 +1,17 @@
 [
     {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-74-barcelona-xceed-square-aebd.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-74/249799"
+    },
+    {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-4/252339"
     },
     {
         "title": "NegroRojo",
@@ -175,13 +175,6 @@
         "link": "https://xceed.me/en/barcelona/event/jackies-open-air-daytime-closing-2026-season-la-terrrazza/244456"
     },
     {
-        "title": "LIVEAlbert Cirera & Tres TamborsJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/albert-cirera-tres-tambors-barcelona-xceed-ef07.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/albert-cirera-tres-tambors/250170"
-    },
-    {
         "title": "Frankie G",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -273,6 +266,13 @@
         "link": "https://xceed.me/en/barcelona/event/majo-alarcon-l-secret-room-l-indie-dance-melodic-techno-all-night-long-1/250565"
     },
     {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-e830.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-67/249767"
+    },
+    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -315,18 +315,18 @@
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
     },
     {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
-    },
-    {
         "title": "Lanificio",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bellaire-the-funky-adventure-tour-pt-2-at-lanificio-roma-xceed-square-ee4f.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/lagwagon-hacienda-25-febbraio-roma-xceed-square-0bc1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/lagwagon-hacienda-25-febbraio/244919"
     },
     {
         "title": "MONK Roma",
@@ -448,18 +448,18 @@
         "link": "https://xceed.me/en/roma/event/rakaa-dj-babu-dilated-peoples/249866"
     },
     {
+        "title": "LIVE21.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/211126-megabello-692-secret-garden/252504"
+    },
+    {
         "title": "INDIE ROCK A SAN LOLLO - DJ SETPalazzo - San LorenzoIndie - Rock",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/indie-rock-a-san-lollo-dj-set-1-roma-xceed-square-5f63.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set-1/253384"
-    },
-    {
-        "title": "21.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPop",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/211126-megabello-692-secret-garden/252504"
     },
     {
         "title": "BALCK HOPERATHE RANDOM",
@@ -553,18 +553,18 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
+    },
+    {
+        "title": "DADA Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "BLOODY LOUIS",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/coco-je-taime-old-school-party-brussels-xceed-square-f3f6.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/coco-je-taime-old-school-party/252856"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -700,7 +700,7 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
-        "title": "BACK TO THE BEST HITS - WINTER EDITION | BY PARTYFINDERMadame Mou",
+        "title": "LIVEBACK TO THE BEST HITS - WINTER EDITION | BY PARTYFINDERMadame",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/back-to-the-best-hits-winter-edition-by-partyfinder-brussels-xceed-6650.png?w=149&h=149&q=90&fm=auto",
