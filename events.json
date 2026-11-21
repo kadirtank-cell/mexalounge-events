@@ -84,13 +84,6 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
     },
     {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-y-bachata-2-barcelona-xceed-square-e007.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-y-bachata-2/250903"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,18 +161,18 @@
         "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
+        "title": "Opium Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/opium-white-party-1-barcelona-xceed-square-3510.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/opium-white-party-1/247260"
+    },
+    {
         "title": "Navider",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/soulful-city-navider-1-barcelona-xceed-square-475b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/soulful-city-navider-1/250247"
-    },
-    {
-        "title": "LIVEMIRABLAU CLUBMIRABLAUHitsPopReggaeton",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-120/247916"
     },
     {
         "title": "Men (L-Men-T) · Monraker",
@@ -252,11 +245,18 @@
         "link": "https://xceed.me/en/barcelona/event/bambi-14/250011"
     },
     {
-        "title": "Cieloterra",
+        "title": "Dj Kunta · DJ HAL9000",
         "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/camoufly-in-europe-again-roma-xceed-square-b9cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sunday-night-fein-sundayz-38-barcelona-xceed-176f.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sunday-night-fein-sundayz-38/250200"
+    },
+    {
+        "title": "SEASEA STAY · Ocean WithinSEASEACLUB",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasea-stay-ocean-within-barcelona-xceed-square-ff63.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasea-stay-ocean-within/250364"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -299,13 +299,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-we-pink-prisionwepartygroup-roma-xceed-square-9b8d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-we-pink-prisionwepartygroup/252290"
     },
     {
         "title": "Hacienda",
@@ -420,6 +413,20 @@
         "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
+    },
+    {
         "title": "MAURICE FULTON DJ SET - Alcazar LiveAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -504,6 +511,20 @@
         "link": "https://xceed.me/en/roma/event/quindie-festival-11/250025"
     },
     {
+        "title": "SAVANA FUNK",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/savana-funk-1-roma-xceed-square-6f5b.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/savana-funk-1/249324"
+    },
+    {
+        "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-42-roma-xceed-square-73fd.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
+    },
+    {
         "title": "Gare de Bruxelles-Congres",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -523,13 +544,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/niaks-showcase-brussels-xceed-square-e64b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/niaks-showcase/252365"
     },
     {
         "title": "BLOODY LOUIS",
@@ -672,11 +686,11 @@
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
-        "title": "Roonx",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-42-brussels-xceed-square-ca56.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-42/251056"
+        "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
     },
     {
         "title": "BACK TO THE BEST HITS - WINTER EDITION | BY PARTYFINDERMadame Mou",
@@ -691,13 +705,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
-    },
-    {
-        "title": "FRESH SUNDAYBIRDYHip-hopRapTrap",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
     },
     {
         "title": "Friendsgiving Bingo x WANDLER at The Standard, BrusselsThe Standa",
@@ -726,6 +733,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-44-brussels-xceed-square-3304.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
+    },
+    {
+        "title": "FÊTE NATIONALE ALBANAISE 🇦🇱Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
     },
     {
         "title": "Edelfettwerk",
