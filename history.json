@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Imdat Beşikci",
+        "title": "Hırçın Dalgalar",
+        "time": "2026-11-21 20:11:55"
+    },
+    {
+        "artist": "Lane 8",
+        "title": "Atlas",
+        "time": "2026-11-21 20:06:09"
+    },
+    {
         "artist": "Evil Oil Man, Tom Baker",
         "title": "Extraction",
         "time": "2026-11-21 19:55:38"
@@ -38,15 +48,5 @@
         "artist": "Mihaela & Dj Nick",
         "title": "Ourframes | Franco Smith, Lautaro Ibañez - Master Control (Extended Mix)",
         "time": "2026-11-21 19:20:18"
-    },
-    {
-        "artist": "Tiësto, Mathame",
-        "title": "Everlight",
-        "time": "2026-11-21 19:17:17"
-    },
-    {
-        "artist": "Armin Van Buuren, JOA",
-        "title": "Heavy (Extended Mix)",
-        "time": "2026-11-21 19:12:02"
     }
 ]
