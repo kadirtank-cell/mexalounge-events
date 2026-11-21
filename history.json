@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Armin Van Buuren",
+        "title": "Sonic Samba (Mixed) (Rising Star Remix)",
+        "time": "2026-11-21 00:11:08"
+    },
+    {
+        "artist": "Franco Smith",
+        "title": "The Anthem (Original Mix)",
+        "time": "2026-11-21 00:04:44"
+    },
+    {
+        "artist": "Trippy Music",
+        "title": "Diego Straube - Magnetic Induction (Original Mix)",
+        "time": "2026-11-20 23:58:07"
+    },
+    {
         "artist": "Edson Gomes",
         "title": "EBENEZER - Heaven | As Played On A State Of Trance Episode 1260",
         "time": "2026-11-20 23:54:14"
@@ -33,20 +48,5 @@
         "artist": "Darude",
         "title": "Sandstorm (Radio Edit)",
         "time": "2026-11-20 23:25:40"
-    },
-    {
-        "artist": "Thomas Schumacher",
-        "title": "Crimson 129",
-        "time": "2026-11-20 23:17:32"
-    },
-    {
-        "artist": "A.D.H.S.",
-        "title": "Hyena",
-        "time": "2026-11-20 23:13:27"
-    },
-    {
-        "artist": "Sandro Silva, Quintino",
-        "title": "Epic",
-        "time": "2026-11-20 23:07:42"
     }
 ]
