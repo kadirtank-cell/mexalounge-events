@@ -336,18 +336,18 @@
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/biia-all-night-long-cieloterra-roma-xceed-square-c8e3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "Lanificio",
@@ -574,18 +574,18 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
     },
     {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
+    },
+    {
+        "title": "DADA Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "BIRDY",
@@ -861,6 +861,13 @@
         "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
     },
     {
+        "title": "Café Schöne Aussichten (CSA)",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
+    },
+    {
         "title": "glimmer",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -873,13 +880,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/discovaganza-w-nyra-bovski-dirrty-disco-divas-uvm-hamburg-xceed-square-24d5.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/discovaganza-w-nyra-bovski-dirty-disco-divas-uvm/247214"
-    },
-    {
-        "title": "Café Schöne Aussichten (CSA)",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
     },
     {
         "title": "Seehaus",
