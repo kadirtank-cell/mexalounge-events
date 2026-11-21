@@ -25,20 +25,20 @@
     },
     {
         "rank": 5,
+        "artist": "Can Ates",
+        "title": "Just A Beat",
+        "play_count": 23
+    },
+    {
+        "rank": 6,
         "artist": "Marika (IT), I Hate Milk",
         "title": "Dust On My Shoes",
         "play_count": 23
     },
     {
-        "rank": 6,
+        "rank": 7,
         "artist": "Akami, Alex Effe",
         "title": "Short Dick Man (Extended Mix)",
-        "play_count": 22
-    },
-    {
-        "rank": 7,
-        "artist": "Can Ates",
-        "title": "Just A Beat",
         "play_count": 22
     },
     {
@@ -57,7 +57,7 @@
         "rank": 10,
         "artist": "Lorna, Ben Carter, SIRØB",
         "title": "Papi Chulo (Latin House Remix) (Extended Mix)",
-        "play_count": 20
+        "play_count": 21
     },
     {
         "rank": 11,

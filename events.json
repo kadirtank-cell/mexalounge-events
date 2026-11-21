@@ -574,6 +574,13 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
     },
     {
+        "title": "DADA Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
+    },
+    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -586,13 +593,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
-    },
-    {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
     },
     {
         "title": "LIFT BRUSSELS",
@@ -903,18 +903,18 @@
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "Sat 13 Mar, 11:59pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
-    },
-    {
         "title": "Fundbureau",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/zwideja-7-hamburg-xceed-square-fd06.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/zwideja-7/252321"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
         "title": "MS Stubnitz",
