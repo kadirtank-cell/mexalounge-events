@@ -21,13 +21,6 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vertigo-club-presenta-puchito-agz-es-per-sempre-lu-de-sempre-barcelona-xceed-square-2ab3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/puchito-agz-es-per-sempre-lu-de-sempre-by-vertigo-club-1/252364"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,25 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
     },
     {
-        "title": "Navider",
+        "title": "DiverBosc",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/soulful-city-navider-1-barcelona-xceed-square-475b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/soulful-city-navider-1/250247"
-    },
-    {
-        "title": "Men (L-Men-T) · Monraker",
-        "date": "Electronica / Downtempo",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/men-l-men-t-24-barcelona-xceed-6cc2.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/men-l-men-t-24/250008"
-    },
-    {
-        "title": "Dj Eley · DJ Muuz · DJ TEO",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-dj-muuz-3-barcelona-xceed-ed8b.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-dj-muuz-3/250198"
+        "image": "https://images.xceed.me/events/banners/output-pres-nyd-2027-with-richie-hawtin-barcelona-xceed-square-d959.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/output-pres-nyd-2027-with-richie-hawtin/250659"
     },
     {
         "title": "Octave One · Piem · Givio",
@@ -264,6 +243,34 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/jamboree-jam-session-30-barcelona-xceed-c0e0.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-30/250171"
+    },
+    {
+        "title": "Dj Mastie",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/monday-night-dj-mastie-39-barcelona-xceed-5c9c.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/monday-night-dj-mastie-39/250201"
+    },
+    {
+        "title": "ANGELS GAVIRIA l SECRET ROOM l TECHNO / HARD TECHNO ALL NIGHT LON",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/angels-gaviria-l-secret-room-l-techno-hard-techno-all-night-long-barcelona-xceed-square-476a.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/angels-gaviria-l-secret-room-l-techno-hard-techno-all-night-long/250564"
+    },
+    {
+        "title": "MAJO ALARCON",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/majo-alarcon-l-secret-room-l-indie-dance-melodic-techno-all-night-long-1-barcelona-xceed-square-79f0.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/majo-alarcon-l-secret-room-l-indie-dance-melodic-techno-all-night-long-1/250565"
+    },
+    {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-e830.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-moods-at-noxe-26th-floor-w-barcelona-67/249767"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -525,13 +532,6 @@
         "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
     },
     {
-        "title": "Gare de Bruxelles-Congres",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/21am-gare-congres-party-in-a-train-station-brussels-xceed-square-caac.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/21am-gare-congres-party-in-a-train-station/250945"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "NISKA (SHOWCASE)",
         "location": "BRUSSELS",
@@ -544,13 +544,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
     },
     {
         "title": "C12",
@@ -693,6 +686,20 @@
         "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
     },
     {
+        "title": "The Standard, Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
+    },
+    {
+        "title": "Be Here Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
+    },
+    {
         "title": "BACK TO THE BEST HITS - WINTER EDITION | BY PARTYFINDERMadame Mou",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -705,13 +712,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
-    },
-    {
-        "title": "Friendsgiving Bingo x WANDLER at The Standard, BrusselsThe Standa",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
         "title": "BAILE BAILEBLOODY LOUIS",
@@ -740,6 +740,20 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
+    },
+    {
+        "title": "BIRDY 10 YEAR ANNIVERSARYBIRDYHip-hopR&B90s - 00s",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
+    },
+    {
+        "title": "Roonx",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-45-brussels-xceed-square-4d72.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
     },
     {
         "title": "Edelfettwerk",
@@ -917,13 +931,6 @@
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-fuckoff-robin-tasi/249894"
     },
     {
-        "title": "Marc Wiese · Alexej · Luitpold +2",
-        "date": "Marc Wiese · Alexej · Luitpold +2",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-friday-presents-wellenklang-hamburg-xceed-a159.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-friday-presents-wellenklang/251069"
-    },
-    {
         "title": "Frank Rayo · NATTA · an.judge +1",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -1034,6 +1041,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-dominik-muelar-muc-3-hamburg-xceed-cf6b.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-dominik-muelar-muc-3/251073"
+    },
+    {
+        "title": "DJ Storm · DJ Sprinter · Sarah Q +2",
+        "date": "Das Ohr zum Sonntag: DOZSFEST [1/2]",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/das-ohr-zum-sonntag-dozsfest-1-2-w-dj-storm-dj-sprinter-sarah-q-b2b-schwesta-sehra-soraya-hamburg-xceed-square-a949.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/das-ohr-zum-sonntag-dozsfest-1-2-w-dj-storm-dj-sprinter-sarah-q-b2b-schwesta-sehra-soraya-1/251964"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
