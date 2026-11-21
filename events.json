@@ -84,6 +84,13 @@
         "link": "https://xceed.me/en/barcelona/event/nye-seaview-rooftop-club-nautico/247257"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -103,13 +110,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
-    },
-    {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
         "title": "Bikini Club",
@@ -301,6 +301,13 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-2/248081"
     },
     {
+        "title": "Lanificio",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bellaire-the-funky-adventure-tour-pt-2-at-lanificio-roma-xceed-square-ee4f.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
+    },
+    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -313,13 +320,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/pendulum-hacienda-roma-11-dicembre-2026-1-roma-xceed-square-7b7a.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/pendulum-hacienda-roma-11-dicembre-2026-1/244920"
-    },
-    {
-        "title": "Lanificio",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bellaire-the-funky-adventure-tour-pt-2-at-lanificio-roma-xceed-square-ee4f.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bellaire-the-funky-adventure-tour-pt-2-at-lanificio/234102"
     },
     {
         "title": "Hacienda",
@@ -448,13 +448,6 @@
         "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set-1/253384"
     },
     {
-        "title": "LIVERAKAA & DJ BABU ( DILATED PEOPLES)Palazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rakaa-dj-babu-roma-xceed-square-c7ad.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rakaa-dj-babu-dilated-peoples/249866"
-    },
-    {
         "title": "LIVE21.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -530,6 +523,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-42-roma-xceed-square-73fd.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
+    },
+    {
+        "title": "TOY TONICS - ALCAZAR LIVEAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
     },
     {
         "title": "Jeux d'Hiver",
