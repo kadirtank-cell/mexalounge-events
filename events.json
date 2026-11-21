@@ -42,6 +42,13 @@
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
+    },
+    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -54,13 +61,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -381,15 +381,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
+        "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
         "title": "Alcazar",
@@ -693,18 +693,18 @@
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
+    },
+    {
         "title": "The Standard, Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
-    },
-    {
-        "title": "Be Here Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
         "title": "BACK TO THE BEST HITS - WINTER EDITION | BY PARTYFINDERMadame Mou",
@@ -721,13 +721,6 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
     },
     {
-        "title": "BAILE BAILEBLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
-    },
-    {
         "title": "DJ JAIRO · Kay C",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
@@ -742,18 +735,18 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
     },
     {
-        "title": "FÊTE NATIONALE ALBANAISE 🇦🇱Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
-    },
-    {
         "title": "BIRDY 10 YEAR ANNIVERSARYBIRDYHip-hopR&B90s - 00s",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
+    },
+    {
+        "title": "FÊTE NATIONALE ALBANAISE 🇦🇱Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
     },
     {
         "title": "Roonx",
@@ -840,18 +833,18 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "glimmer",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou-hamburg-xceed-square-fce8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou/249895"
-    },
-    {
         "title": "Seehaus",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
+    },
+    {
+        "title": "glimmer",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou-hamburg-xceed-square-fce8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-justin-jay-antonym-jokesonyou/249895"
     },
     {
         "title": "MS Stubnitz",
