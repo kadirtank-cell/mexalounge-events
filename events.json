@@ -1,24 +1,10 @@
 [
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-room-21-1-barcelona-xceed-square-086f.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-room-21-1/251373"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-74-barcelona-xceed-square-aebd.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-74/249799"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-7-barcelona-xceed-square-4cbb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cucut-disco-bar-dadame-1/251871"
     },
     {
         "title": "BUS HEXPERIENCE",
@@ -168,6 +154,20 @@
         "link": "https://xceed.me/en/barcelona/event/opium-white-party-1/247260"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
+    },
+    {
+        "title": "VRABA TERRAZA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
+    },
+    {
         "title": "Navider",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -187,13 +187,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-dj-eley-dj-muuz-3-barcelona-xceed-ed8b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-dj-eley-dj-muuz-3/250198"
-    },
-    {
-        "title": "TwoCaps · Drty San · Add Us +1",
-        "date": "TwoCaps · Drty San · Add Us +1",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
     },
     {
         "title": "Octave One · Piem · Givio",
@@ -257,6 +250,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/seasea-stay-ocean-within-barcelona-xceed-square-ff63.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/seasea-stay-ocean-within/250364"
+    },
+    {
+        "title": "Uroz · Mr. Majestyk",
+        "date": "Electronica / Downtempo",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/uroz-75-barcelona-xceed-18e4.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/uroz-75/250012"
+    },
+    {
+        "title": "Jamboree Jam SessionJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/jamboree-jam-session-30-barcelona-xceed-c0e0.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/jamboree-jam-session-30/250171"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -357,13 +364,6 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Tag Culture",
-        "date": "DARKORE - 20 NOVEMBRE 2026",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/darkore-20-novembre-2026-roma-xceed-square-0ce5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/darkore-20-novembre-2026/250969"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -427,10 +427,10 @@
         "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
-        "title": "MAURICE FULTON DJ SET - Alcazar LiveAlcazar",
+        "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
     },
     {
