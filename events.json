@@ -259,13 +259,6 @@
         "link": "https://xceed.me/en/roma/event/camoufly-in-europe-again/244376"
     },
     {
-        "title": "Lanificio",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ciao-discoteca-italiana-10-roma-xceed-square-fd5d.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ciao-discoteca-italiana-10/250718"
-    },
-    {
         "title": "Palazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -371,13 +364,6 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/riko-el-flow-mas-rico-de-la-noche-6-roma-xceed-af5f.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/riko-el-flow-mas-rico-de-la-noche-6/252347"
-    },
-    {
         "title": "Tag Culture",
         "date": "DARKORE - 20 NOVEMBRE 2026",
         "location": "ROMA",
@@ -418,6 +404,20 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
+    },
+    {
+        "title": "Cieloterra",
+        "date": "27|11|2026 - Rebel Rebel with FUTUR",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
     },
     {
         "title": "Young Signorino live",
@@ -497,11 +497,18 @@
         "link": "https://xceed.me/en/roma/event/alvideo-market-mostra-proiezioni-e-talk/252906"
     },
     {
-        "title": "LAMANTE  · Irossa · @gabriele",
+        "title": "THE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil’Jea",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
+        "image": "https://images.xceed.me/events/banners/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett-roma-xceed-square-b982.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett/252432"
+    },
+    {
+        "title": "QUINDIE FESTIVALAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/quindie-festival-11-roma-xceed-square-51ee.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/quindie-festival-11/250025"
     },
     {
         "title": "Gare de Bruxelles-Congres",
@@ -763,20 +770,6 @@
         "link": "https://xceed.me/en/hamburg/event/les-amis-7/248207"
     },
     {
-        "title": "Café Schöne Aussichten (CSA)",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bronka-hates-hamburg-hamburg-xceed-square-1745.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bronka-hates-hamburg/246109"
-    },
-    {
-        "title": "Edelfettwerk",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/one-night-festival-hamburg-xceed-square-755b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/one-night-rap-festival/248797"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -896,6 +889,20 @@
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
+    },
+    {
+        "title": "Fundbureau",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/zwideja-7-hamburg-xceed-square-fd06.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/zwideja-7/252321"
+    },
+    {
         "title": "DJ Fuckoff · Elia Haze · guuc20459 +5",
         "date": "DJ Fuckoff · Elia Haze · guuc20459 ",
         "location": "HAMBURG",
@@ -1006,6 +1013,20 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/exit-the-final-chapter-44-hours-hamburg-xceed-square-c7ca.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/exit-the-final-chapter-44-hours/250805"
+    },
+    {
+        "title": "HANÀ · Two Girls one Mom · yamyam +3",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/dualism-w-hana-two-girls-one-mom-hamburg-xceed-square-0d03.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/dualism-w-hana-two-girls-one-mom/248567"
+    },
+    {
+        "title": "Dominik Muelar",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-dominik-muelar-muc-3-hamburg-xceed-cf6b.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-dominik-muelar-muc-3/251073"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
