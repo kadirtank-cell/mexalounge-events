@@ -343,18 +343,18 @@
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bella-musica-italiana-da-ballare-alcazar-trastevere-3-roma-xceed-square-ce88.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bella-musica-italiana-da-ballare-alcazar-trastevere-5/242523"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
     {
         "title": "Cieloterra",
@@ -532,18 +532,18 @@
         "link": "https://xceed.me/en/brussels/event/niaks-showcase/252365"
     },
     {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rio-sensation-20-brussels-xceed-square-ca80.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rio-sensation-20/250975"
+    },
+    {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-4-brussels-xceed-square-fe75.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-4/250125"
     },
     {
         "title": "C12",
