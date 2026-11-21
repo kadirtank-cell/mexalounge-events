@@ -847,6 +847,13 @@
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
+        "title": "MS Stubnitz",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
+    },
+    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -866,13 +873,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
-    },
-    {
-        "title": "MS Stubnitz",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
         "title": "Seehaus",
@@ -922,20 +922,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-hamburg-xceed-88b7.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg/243734"
-    },
-    {
-        "title": "DJ Fuckoff · Elia Haze · guuc20459 +5",
-        "date": "DJ Fuckoff · Elia Haze · guuc20459 ",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/glimmer-glubnacht-w-dj-fuckoff-hamburg-xceed-square-0614.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-dj-fuckoff-robin-tasi/249894"
-    },
-    {
-        "title": "5euroGoldi · GI.O (Brasil) · 3LEEZA +2",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/unceen-w-gio-3leeza-bnzn-5eurogoldi-dj-wifi-hamburg-xceed-square-5d38.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/unceen-w-gio-3leeza-bnzn-5eurogoldi-dj-wifi/250283"
     },
     {
         "title": "Teenage Mutants · Sophie Cut · HOTFRIEDRICECRACKER +2",
@@ -1048,6 +1034,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg-hamburg-xceed-square-f3a6.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
+    },
+    {
+        "title": "Re.You · SITZE · Elias everest +1",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/alegria-season-closing-w-reyou-circle-club-hamburg-xceed-1c27.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/alegria-season-closing-w-reyou-circle-club/252515"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
