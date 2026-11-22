@@ -1,12 +1,5 @@
 [
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-74-barcelona-xceed-square-aebd.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-74/249799"
-    },
-    {
         "title": "DOT",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,6 +161,13 @@
         "link": "https://xceed.me/en/barcelona/event/tsoa-yotto/253379"
     },
     {
+        "title": "ICE BAR Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/ice-bar-x-ku-showcase-la-rvfleuze/247263"
+    },
+    {
         "title": "Bambi · Rorschach",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -327,6 +327,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-70/249780"
+    },
+    {
+        "title": "Carla Nisha",
+        "date": "Carla Nisha",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/thursday-night-flavio-rodriguez-11-barcelona-xceed-b938.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/thursday-night-flavio-rodriguez-11/250204"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -1092,6 +1099,13 @@
         "link": "https://xceed.me/en/hamburg/event/alegria-season-closing-w-reyou-circle-club/252515"
     },
     {
+        "title": "Jarmo",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nostalgia-x-chandon-winter-wonderland-hamburg-xceed-square-101d.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nostalgia-x-chandon-winter-wonderland/253578"
+    },
+    {
         "title": "Tim Reaper · Mantra · ROOF +3",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -1104,13 +1118,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/toxic-release-party-1-hamburg-xceed-square-d518.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/toxic-release-party-1/252032"
-    },
-    {
-        "title": "CÜLPA · With U · TWO OF YOU",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/dome-vol-vii-nikkitiger-hamburg-xceed-square-c1ac.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/dome-vol-vii-nikkitiger/253252"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
