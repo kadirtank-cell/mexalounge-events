@@ -395,13 +395,6 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
@@ -495,6 +488,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/alessandro-cognigni-in-campari-e-pantoprazolo-roma-xceed-square-3b9a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alessandro-cognigni-in-campari-e-pantoprazolo/246154"
     },
     {
         "title": "LIVEALVIDEO MARKET – Mostra, proiezioni e talkPalazzo - San Loren",
@@ -614,6 +614,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
+    },
+    {
+        "title": "ANXHELA · ANXHELA · Trixie",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
     },
     {
         "title": "BLOODY LOUIS",
@@ -749,18 +756,18 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-d214.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/blankka-club-x-birdy-brussels-xceed-7f86.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/blankka-club-x-birdy/253555"
+    },
+    {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-d214.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
     },
     {
         "title": "Be Here Brussels",
@@ -959,18 +966,18 @@
         "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "Sat 13 Mar, 11:59pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
-    },
-    {
         "title": "45 Hertz Festival",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "Sat 13 Mar, 11:59pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/mythical-rave-pull-w-ephy-pinkman-and-many-more-hamburg-xceed-square-03f4.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
         "title": "MS Stubnitz",
