@@ -595,6 +595,13 @@
         "link": "https://xceed.me/en/roma/event/oltrenotte-release-party/251744"
     },
     {
+        "title": "Cassimm · Overgivelse",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
+    },
+    {
         "title": "spiller · Giovannino · Floww +1",
         "date": "Paradise Loft X Club 44 with SPILLE",
         "location": "ROMA",
@@ -607,13 +614,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
-    },
-    {
-        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
-        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
     },
     {
         "title": "BLOODY LOUIS",
@@ -707,18 +707,18 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
     },
     {
         "title": "BLOODY LOUIS",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
     },
     {
-        "title": "Be Here Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-d214.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
+    },
+    {
+        "title": "Be Here Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
         "title": "Kooki",
