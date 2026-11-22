@@ -7,20 +7,6 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-74/249799"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/jerry-v-junnior/251880"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-edit-x-outsiders-gersound-mata-disco-bar-brino-castillo/251872"
-    },
-    {
         "title": "DOT",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,6 +154,20 @@
         "link": "https://xceed.me/en/barcelona/event/hedonika-pres-relajadita-open-to-close-at-nitsa/250911"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
+    },
+    {
+        "title": "ICE BAR Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/ice-bar-x-pacha-ku-3/252079"
+    },
+    {
         "title": "Frankie G",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -299,6 +299,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long-barcelona-xceed-square-a052.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long/242784"
+    },
+    {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-3341.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-67/249773"
+    },
+    {
+        "title": "Men (L-Men-T) · Rorschach",
+        "date": "Electronica / Downtempo",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/men-l-men-t-25-barcelona-xceed-92df.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/men-l-men-t-25/250014"
     },
     {
         "title": "Palazzo - San Lorenzo",
