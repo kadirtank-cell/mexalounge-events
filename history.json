@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Jon Gurd, Reset Robot",
+        "title": "Five",
+        "time": "2026-11-22 06:37:06"
+    },
+    {
+        "artist": "Amtrac",
+        "title": "Generator",
+        "time": "2026-11-22 06:32:10"
+    },
+    {
+        "artist": "Rone",
+        "title": "Nakt",
+        "time": "2026-11-22 06:27:41"
+    },
+    {
+        "artist": "Le Griser, Alejandro Gabriel Seoane",
+        "title": "Symbiotic",
+        "time": "2026-11-22 06:25:01"
+    },
+    {
         "artist": "Geom",
         "title": "Lost Paradise (Housenick Remix)",
         "time": "2026-11-22 06:19:13"
@@ -28,25 +48,5 @@
         "artist": "Meduza",
         "title": "Piece Of Your Heart (Ft. Goodboys)",
         "time": "2026-11-22 06:05:38"
-    },
-    {
-        "artist": "ALEX GAUDINO Feat. SHENA NARI",
-        "title": "Watch Out (Nari And Milani Remix)",
-        "time": "2026-11-22 05:58:38"
-    },
-    {
-        "artist": "Zigala, Alejandro Gabriel Seoane",
-        "title": "Red Night",
-        "time": "2026-11-22 05:56:36"
-    },
-    {
-        "artist": "Palm 3S",
-        "title": "Arcade Lounge",
-        "time": "2026-11-22 05:53:24"
-    },
-    {
-        "artist": "Kiasmos",
-        "title": "Thrown",
-        "time": "2026-11-22 05:44:33"
     }
 ]
