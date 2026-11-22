@@ -840,18 +840,18 @@
         "link": "https://xceed.me/en/hamburg/event/sold-out-ver-pres-marlon-hoffstadt-1/248287"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/ely-oaks-1-hamburg-xceed-square-ae2e.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/ely-oaks-ausverkauft/227934"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/ver-pres-ueberrest-44-front-row-somewhen-44-front-row-uvm-hamburg-xceed-square-a9f8.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/ver-pres-ueberrest-44-front-row-somewhen-44-front-row-uvm/247827"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/ely-oaks-1-hamburg-xceed-square-ae2e.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/ely-oaks-ausverkauft/227934"
     },
     {
         "title": "MOJO",
