@@ -56,6 +56,13 @@
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
+        "title": "Hotel SLS Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -68,13 +75,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
-    },
-    {
-        "title": "Hotel SLS Barcelona",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
     },
     {
         "title": "Bikini Club",
@@ -115,6 +115,13 @@
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-77-barcelona-xceed-square-0da7.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-77/252446"
     },
@@ -145,13 +152,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/hedonika-pres-relajadita-open-to-close-at-nitsa-barcelona-xceed-square-6d52.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/hedonika-pres-relajadita-open-to-close-at-nitsa/250911"
-    },
-    {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -787,8 +787,8 @@
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
+        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "DJ JAIRO · Kay C",
@@ -803,13 +803,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-44-brussels-xceed-square-3304.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
-    },
-    {
-        "title": "BIRDY 10 YEAR ANNIVERSARYBIRDYHip-hopR&B90s - 00s",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "FÊTE NATIONALE ALBANAISE 🇦🇱Coco Brussels",
@@ -838,6 +831,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/drippy-hotel-trendy-03-december-2026-brussels-xceed-square-4106.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/drippy-hotel-trendy-03-december-2026/249744"
+    },
+    {
+        "title": "AURA X SISMO DESIGNBIRDYHip-hopAfrobeatsR&B",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
     },
     {
         "title": "Edelfettwerk",
