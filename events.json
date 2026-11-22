@@ -14,13 +14,6 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box-barcelona-xceed-square-cb85.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-presents-low-end-theory-steff-kurk-pol-carter-sala-candy-box/250115"
-    },
-    {
         "title": "NIX bcn",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -40,13 +33,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
-    },
-    {
-        "title": "City Hall",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/reborn-3-aniversario-ultimo-capitulo-barcelona-xceed-square-0bfe.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/reborn-3-aniversario-ultimo-capitulo/246791"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -168,32 +154,18 @@
         "link": "https://xceed.me/en/barcelona/event/ice-bar-x-pacha-ku-3/252079"
     },
     {
-        "title": "Frankie G",
+        "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/the-retrospective-frankie-g-barcelona-xceed-square-30cb.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/the-retrospective-frankie-g/250252"
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-77-barcelona-xceed-square-0da7.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-77/252446"
     },
     {
-        "title": "Javi Gon · Rorschach",
+        "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/javi-gon-34-barcelona-xceed-88aa.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/javi-gon-34/250010"
-    },
-    {
-        "title": "Dj Eley · Dj Stile · CLAUPI +1",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/saturday-night-dj-eley-dj-stile-barcelona-xceed-9537.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/saturday-night-dj-eley-dj-stile/250199"
-    },
-    {
-        "title": "XSP · DIEUX · CORE ON ONE +1",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/future-head-l-secret-room-l-hard-techno-all-night-long-barcelona-xceed-square-dc96.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/future-head-l-secret-room-l-hard-techno-all-night-long/250568"
+        "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/ice-bar-x-ku-showcase-la-rvfleuze/247263"
     },
     {
         "title": "Bambi · Rorschach",
@@ -313,6 +285,48 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/men-l-men-t-25-barcelona-xceed-92df.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/men-l-men-t-25/250014"
+    },
+    {
+        "title": "Cicle Miles Davis: Eddie Henderson QuartetJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cicle-miles-davis-eddie-henderson-quartet-1-barcelona-xceed-c4b0.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cicle-miles-davis-eddie-henderson-quartet-1/250173"
+    },
+    {
+        "title": "Dj Stile",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/wednesday-night-dj-stile-38-barcelona-xceed-9cce.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-stile-38/250203"
+    },
+    {
+        "title": "Paulix · PINK ID · YEISON M +4",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/vybe-l-city-hall-barcelona-l-bounce-all-night-long-main-room-barcelona-xceed-square-3254.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/vybe-l-city-hall-barcelona-l-bounce-all-night-long-main-room/251903"
+    },
+    {
+        "title": "6TMA · Uroz · Stereofan",
+        "date": "Electronica / Downtempo",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/moog-history-6tma-uroz-1-barcelona-xceed-1180.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/moog-history-6tma-uroz-1/250015"
+    },
+    {
+        "title": "Navider",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/deep-tech-house-by-navider-36-barcelona-xceed-square-a147.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/deep-tech-house-by-navider-36/248774"
+    },
+    {
+        "title": "FROSTY · DRAKAR · JHOTAAX +3",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/thursday-l-agressive-hard-l-city-hall-barcelona-main-room-barcelona-xceed-square-3935.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/thursday-l-agressive-hard-l-city-hall-barcelona-main-room/249660"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -609,13 +623,6 @@
         "link": "https://xceed.me/en/brussels/event/niska-showcase-2/251381"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/full-na-full-x-211126-brussels-x-bloody-louis-brussels-xceed-square-04c2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/full-na-full-x-211126-brussels-x-bloody-louis/251332"
-    },
-    {
         "title": "C12",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -770,6 +777,13 @@
         "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
+    },
+    {
         "title": "DJ JAIRO · Kay C",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
@@ -803,13 +817,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-45-brussels-xceed-square-4d72.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
-    },
-    {
-        "title": "Dopebwoy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "DRIPPY • HOTEL TRENDY • 03 DECEMBER 2026Hotel Trendy",
@@ -896,13 +903,6 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "Edelfettwerk",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/our-house-your-house-secret-lineup-free-admission-1-hamburg-xceed-square-7290.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
-    },
-    {
         "title": "Seehaus",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -987,11 +987,11 @@
         "link": "https://xceed.me/en/hamburg/event/loud-round-10-anniversary/247293"
     },
     {
-        "title": "Teenage Mutants · Sophie Cut · HOTFRIEDRICECRACKER +2",
+        "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/tragedie-w-teenage-mutant-hamburg-xceed-square-3fd7.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/tragedie-w-teenage-mutants/247813"
+        "image": "https://images.xceed.me/events/banners/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg-hamburg-xceed-square-f3a6.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
     },
     {
         "title": "twofacedkimmy · Pierre Kraft · Unromantic +2",
@@ -999,13 +999,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/inner-circle-pres-trance-bounce-hamburg-xceed-square-379f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/inner-circle-pres-jannik-van-der-vegt/248379"
-    },
-    {
-        "title": "convinced",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-saturday-presents-convinced-special-guest-hamburg-xceed-738f.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-saturday-presents-convinzed-special-guest/251070"
     },
     {
         "title": "Robag WruhmeSeehausMelodic House & Techno",
@@ -1085,18 +1078,25 @@
         "link": "https://xceed.me/en/hamburg/event/das-ohr-zum-sonntag-dozsfest-1-2-w-dj-storm-dj-sprinter-sarah-q-b2b-schwesta-sehra-soraya-1/251964"
     },
     {
-        "title": "HOOM · NOTMYTYPE · Shilo +1",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg-hamburg-xceed-square-f3a6.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
-    },
-    {
         "title": "Re.You · SITZE · Elias everest +1",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/alegria-season-closing-w-reyou-circle-club-hamburg-xceed-1c27.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/alegria-season-closing-w-reyou-circle-club/252515"
+    },
+    {
+        "title": "Tim Reaper · Mantra · ROOF +3",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/das-ohr-zum-sonntag-dozsfest-2-2-hamburg-xceed-square-53b6.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/das-ohr-zum-sonntag-dozsfest-2-2-w-tim-reaper-mantra-roof-b2b-lang-jan-nassstya-b2b-nin-1/251966"
+    },
+    {
+        "title": "ENGTANZ BALLKaroline80's90s - 00s70s - 80s",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/engtanz-ball-5-hamburg-xceed-7cbd.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/engtanz-ball-6/248495"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
