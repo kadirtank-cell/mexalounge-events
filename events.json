@@ -56,13 +56,6 @@
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
     },
     {
-        "title": "Sauvage Swinger Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sabados-sauvage-3-barcelona-xceed-square-d1dc.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sabados-sauvage-3/250653"
-    },
-    {
         "title": "City Hall",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -119,13 +112,6 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/seasons-at-mirablau-club-1-barcelona-xceed-square-b604.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/seasons-at-mirablau-club-1/247917"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -166,6 +152,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tsoa-roy-rosenfeld-4h-set-barcelona-xceed-square-29b5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tsoa-roy-rosenfeld-4h-set/248665"
+    },
+    {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-pres-beatlab-jayzo-juannce-llopart-shuntta-tacidelli-sala-candy-box-barcelona-xceed-square-be9f.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
+    },
+    {
+        "title": "Nitsa Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/hedonika-pres-relajadita-open-to-close-at-nitsa-barcelona-xceed-square-6d52.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/hedonika-pres-relajadita-open-to-close-at-nitsa/250911"
     },
     {
         "title": "Frankie G",
@@ -287,11 +287,18 @@
         "link": "https://xceed.me/en/barcelona/event/tuesday-night-dj-muuz-9/250202"
     },
     {
-        "title": "Cieloterra",
+        "title": "ADRIÀ DUCH · KAIFERZ · BAGTRASH",
         "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/biia-all-night-long-cieloterra-roma-xceed-square-c8e3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/biia-all-night-long-cieloterra/251032"
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/leit-kontrol-adria-duch-kaiferz-bagtrash-main-room-barcelona-xceed-square-c8ed.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/leit-kontrol-adria-duch-kaiferz-bagtrash-main-room/252435"
+    },
+    {
+        "title": "LULU OBETKO (ARG)",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long-barcelona-xceed-square-a052.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long/242784"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -455,6 +462,13 @@
         "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
     },
     {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/alessandro-cognigni-in-campari-e-pantoprazolo-roma-xceed-square-3b9a.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/alessandro-cognigni-in-campari-e-pantoprazolo/246154"
+    },
+    {
         "title": "Dj Bigkid",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -567,11 +581,11 @@
         "link": "https://xceed.me/en/roma/event/beat-the-90s-13/242527"
     },
     {
-        "title": "Jeux d'Hiver",
+        "title": "ANXHELA · ANXHELA · Trixie",
         "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111-brussels-xceed-square-e8ef.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/piccadilly-jeux-dhiver-10-th-anniversary-postponed-to-saturday-2111/246745"
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
     },
     {
         "title": "BLOODY LOUIS",
@@ -595,25 +609,11 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
-        "title": "DADA Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-montaigne-brussels-xceed-square-f327.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/rumafriends-invite-montaigne/250313"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gradur-live-show-x-no-name-brussels-xceed-af23.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gradur-live-show-x-birdy-club-x-no-name/251501"
     },
     {
         "title": "BLOODY LOUIS",
@@ -649,13 +649,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
-    },
-    {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/kalash-showcase-1-brussels-xceed-square-ec06.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/kalash-showcase-1/253489"
     },
     {
         "title": "Ratz Food Market",
@@ -735,11 +728,32 @@
         "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
-        "title": "Roonx",
+        "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-43-brussels-xceed-square-36c4.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-43/251057"
+        "image": "https://images.xceed.me/events/banners/new-years-eve-44-brussels-xceed-square-2fd0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/new-years-eve-44/253514"
+    },
+    {
+        "title": "Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-d214.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
+    },
+    {
+        "title": "Kooki",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/kooki-paint-brussels-xceed-square-cc2c.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/kooki-paint-1/251370"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
     },
     {
         "title": "DJ JAIRO · Kay C",
