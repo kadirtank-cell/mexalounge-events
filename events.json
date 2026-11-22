@@ -665,18 +665,18 @@
         "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
-        "title": "Plein Publiek BXL",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
-    },
-    {
         "title": "Crosly Bowling",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
+    },
+    {
+        "title": "Plein Publiek BXL",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
     },
     {
         "title": "Ratz Food Market",
