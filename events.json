@@ -378,13 +378,6 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/maurice-fulton-dj-set-alcazar-live-roma-xceed-square-f268.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/maurice-fulton-dj-set-alcazar-live/252126"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -455,11 +448,11 @@
         "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
-        "title": "LIVEINDIE ROCK A SAN LOLLO - DJ SETPalazzo - San LorenzoIndie - R",
+        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indie-rock-a-san-lollo-dj-set-1-roma-xceed-square-5f63.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set-1/253384"
+        "image": "https://images.xceed.me/events/banners/spartiti-concerto-presto-presto-inizio-ore-1600-roma-xceed-square-2307.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
     },
     {
         "title": "LIVEBALCK HOPERATHE RANDOM",
@@ -544,6 +537,20 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
+    },
+    {
+        "title": "SALOTTO ELETTRONICOPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/salotto-elettronico-roma-xceed-square-acbf.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/salotto-elettronico/249458"
+    },
+    {
+        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
+        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
     },
     {
         "title": "Jeux d'Hiver",
@@ -847,18 +854,18 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "Seehaus",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/our-house-your-house-secret-lineup-free-admission-1-hamburg-xceed-square-7290.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/our-house-your-house-secret-lineup-free-admission-1/250754"
+    },
+    {
+        "title": "Seehaus",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
         "title": "MS Stubnitz",
