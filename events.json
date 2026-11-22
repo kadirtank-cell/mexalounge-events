@@ -364,13 +364,6 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-21-st-nov-roma-xceed-9045.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-21-st-nov/252363"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -383,6 +376,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/svergongnate-podcast-live-spettacolo-presto-inizio-ore-1900-roma-xceed-square-c49b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/svergognate-podcast-spettacolo-presto-inizio-ore-1900-1/251347"
+    },
+    {
+        "title": "TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-21-st-nov-roma-xceed-9045.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-21-st-nov/252363"
     },
     {
         "title": "Qube Disco Roma",
@@ -446,13 +446,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/indie-rock-a-san-lollo-dj-set-1-roma-xceed-square-5f63.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/indie-rock-a-san-lollo-dj-set-1/253384"
-    },
-    {
-        "title": "LIVE21.11.26 MEGABELLO @ 692 Secret Garden692 Secret GardenHitsPo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/200626-megabello-692-secret-garden-roma-xceed-ae4d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/211126-megabello-692-secret-garden/252504"
     },
     {
         "title": "LIVEBALCK HOPERATHE RANDOM",
@@ -530,6 +523,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+    },
+    {
+        "title": "BRIT supernova PARTY ROMA | live + dj set | 27 Novembre | MONK OR",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
     },
     {
         "title": "Jeux d'Hiver",
