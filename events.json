@@ -472,13 +472,6 @@
         "title": "Maison Rosé",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/rcc-one-stand-up-roma-xceed-square-9401.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/rcc-one-stand-up/249191"
-    },
-    {
-        "title": "Maison Rosé",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/gelo-comedy-happening-de-carlo-ferrario-raimondo-roma-xceed-square-4515.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/gelo-comedy-happening-de-carlo-ferrario-raimondo/253274"
     },
@@ -504,11 +497,11 @@
         "link": "https://xceed.me/en/roma/event/alessandro-cognigni-in-campari-e-pantoprazolo/246154"
     },
     {
-        "title": "LIVEALVIDEO MARKET – Mostra, proiezioni e talkPalazzo - San Loren",
-        "date": "ALVIDEO MARKET – Mostra, proiezioni",
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/alvideo-market-mostra-proiezioni-e-talk-roma-xceed-square-4079.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/alvideo-market-mostra-proiezioni-e-talk/252906"
+        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
     },
     {
         "title": "Dj Bigkid",
@@ -567,13 +560,6 @@
         "link": "https://xceed.me/en/roma/event/bailao-at-teatro-centrale-giovedi-26-novmebre/253542"
     },
     {
-        "title": "TOY TONICS - ALCAZAR LIVEAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
-    },
-    {
         "title": "BRIT supernova PARTY ROMA | live + dj set | 27 Novembre | MONK OR",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -628,6 +614,20 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
+    },
+    {
+        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
+        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
+    },
+    {
+        "title": "BEAT THE 90'SAlcazarHip-hopRap",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/beat-the-90s-10-roma-xceed-square-77e1.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/beat-the-90s-13/242527"
     },
     {
         "title": "BLOODY LOUIS",
