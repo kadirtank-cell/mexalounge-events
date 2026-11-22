@@ -168,6 +168,13 @@
         "link": "https://xceed.me/en/barcelona/event/ice-bar-x-ku-showcase-la-rvfleuze/247263"
     },
     {
+        "title": "LIVESEASEA STAY · Ocean WithinSEASEACLUB",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seasea-stay-ocean-within-barcelona-xceed-square-ff63.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seasea-stay-ocean-within/250364"
+    },
+    {
         "title": "Bambi · Rorschach",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -180,13 +187,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sunday-night-fein-sundayz-38-barcelona-xceed-176f.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sunday-night-fein-sundayz-38/250200"
-    },
-    {
-        "title": "SEASEA STAY · Ocean WithinSEASEACLUB",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/seasea-stay-ocean-within-barcelona-xceed-square-ff63.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/seasea-stay-ocean-within/250364"
     },
     {
         "title": "ELALEEIIX",
@@ -693,18 +693,18 @@
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
         "title": "BLOODY LOUIS",
