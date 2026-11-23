@@ -602,6 +602,13 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
     },
     {
+        "title": "27.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopAfrob",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/271126-hotline-692-secret-garden/253643"
+    },
+    {
         "title": "spiller · Giovannino · Floww +1",
         "date": "Paradise Loft X Club 44 with SPILLE",
         "location": "ROMA",
@@ -621,13 +628,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
-    },
-    {
-        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
-        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
     },
     {
         "title": "BLOODY LOUIS",
@@ -917,18 +917,18 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "Seehaus",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
-    },
-    {
         "title": "MS Stubnitz",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
+    },
+    {
+        "title": "Seehaus",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
         "title": "Uebel & Gefährlich",
