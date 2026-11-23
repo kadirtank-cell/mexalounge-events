@@ -42,18 +42,18 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
-        "title": "VRABA TERRAZA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/nye-seaview-rooftop-club-nautico/247257"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
+        "title": "VRABA TERRAZA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/nye-seaview-rooftop-club-nautico/247257"
     },
     {
         "title": "Hotel SLS Barcelona",
@@ -462,18 +462,18 @@
         "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
         "title": "Maison Rosé",
@@ -644,18 +644,18 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
-    },
-    {
         "title": "Bourse/Beurs Rooftop Brussels",
         "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
         "title": "BLOODY LOUIS",
@@ -833,6 +833,13 @@
         "link": "https://xceed.me/en/brussels/event/drippy-hotel-trendy-03-december-2026/249744"
     },
     {
+        "title": "RUMA · Adrian Forsen  · Luigi",
+        "date": "RUMA&FRIENDS (LAST OF 2026) 👠",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/rumafriends-last-of-2026-brussels-xceed-square-8bd5.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/rumafriends-last-of-2026/253669"
+    },
+    {
         "title": "AURA X SISMO DESIGNBIRDYHip-hopAfrobeatsR&B",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -845,13 +852,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/legendary-brussels-xceed-7a14.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/legendary/253280"
-    },
-    {
-        "title": "UURBAN • HOTEL TRENDY • 10 DECEMBER 2026Hotel Trendy",
-        "date": "UURBAN • HOTEL TRENDY • 10 DECEMBER",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/uurban-hotel-trendy-10-december-2026-brussels-xceed-square-d0ad.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/uurban-hotel-trendy-10-december-2026/249745"
     },
     {
         "title": "Edelfettwerk",
