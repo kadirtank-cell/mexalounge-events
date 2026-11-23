@@ -700,18 +700,18 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "Mirano",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-05-12-mirano-brussels-brussels-xceed-square-1fe3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
+    },
+    {
+        "title": "Mirano",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/invasion-latina-sat-05-12-mirano-brussels-brussels-xceed-square-1fe3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
     },
     {
         "title": "BLOODY LOUIS",
