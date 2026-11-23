@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Ajna (BE), Misha",
+        "title": "Body Moving",
+        "time": "2026-11-23 18:48:05"
+    },
+    {
+        "artist": "Solomun",
+        "title": "Home",
+        "time": "2026-11-23 18:44:28"
+    },
+    {
+        "artist": "Carl Bee, Carlo Baldacchino",
+        "title": "Time To End",
+        "time": "2026-11-23 18:41:04"
+    },
+    {
         "artist": "RÜFÜS, Jon George, Tyrone Lindqvist, James Hunt, Jon George, Tyrone Lindqvist, James Hunt, Parker & Barrow",
         "title": "Innerbloom (Parker & Barrow Remix)",
         "time": "2026-11-23 18:32:29"
@@ -33,20 +48,5 @@
         "artist": "Mind Against;  Vaert",
         "title": "Posterity",
         "time": "2026-11-23 17:59:10"
-    },
-    {
-        "artist": "Adam Sellouk, Alex Kaspersky",
-        "title": "Body",
-        "time": "2026-11-23 17:56:11"
-    },
-    {
-        "artist": "Trippy Music",
-        "title": "Diego Straube - Magnetic Induction (Original Mix)",
-        "time": "2026-11-23 17:49:56"
-    },
-    {
-        "artist": "Tinlicker, Helsloot",
-        "title": "Because You Move Me",
-        "time": "2026-11-23 17:46:41"
     }
 ]
