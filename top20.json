@@ -1,20 +1,20 @@
 [
     {
         "rank": 1,
+        "artist": "Ajna (BE)",
+        "title": "Forest",
+        "play_count": 27
+    },
+    {
+        "rank": 2,
         "artist": "Marika (IT), I Hate Milk",
         "title": "Dust On My Shoes",
         "play_count": 26
     },
     {
-        "rank": 2,
+        "rank": 3,
         "artist": "Simon Fava",
         "title": "Music Is The Answer (Extended Mix)",
-        "play_count": 26
-    },
-    {
-        "rank": 3,
-        "artist": "Ajna (BE)",
-        "title": "Forest",
         "play_count": 26
     },
     {
