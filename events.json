@@ -679,13 +679,6 @@
         "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
-        "title": "Crosly Bowling",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/drinknbowl-x-drippy-winter-seas-brussels-xceed-8bf0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/drinknbowl-x-drippy-winter-season/251535"
-    },
-    {
         "title": "Plein Publiek BXL",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -798,6 +791,13 @@
         "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
+    },
+    {
         "title": "DJ JAIRO · Kay C",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
@@ -840,11 +840,11 @@
         "link": "https://xceed.me/en/brussels/event/drippy-hotel-trendy-03-december-2026/249744"
     },
     {
-        "title": "AURA X SISMO DESIGNBIRDYHip-hopAfrobeatsR&B",
+        "title": "LEGENDARYPurple roseLatinAfrobeats",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
+        "image": "https://images.xceed.me/events/banners/legendary-brussels-xceed-7a14.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/legendary/253280"
     },
     {
         "title": "Edelfettwerk",
