@@ -469,6 +469,13 @@
         "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+    },
+    {
         "title": "Maison Rosé",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -481,13 +488,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/2manydjs-dj-set-hacienda-roma-15-gennaio-2027-roma-xceed-square-ae98.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
-    },
-    {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
     },
     {
         "title": "MONK Roma",
@@ -707,18 +707,18 @@
         "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-d214.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
         "title": "BLOODY LOUIS",
