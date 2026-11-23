@@ -420,18 +420,18 @@
         "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
         "title": "Traffic Club",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "MONK Roma",
@@ -602,6 +602,13 @@
         "link": "https://xceed.me/en/roma/event/circolo-dei-cerchi-x-blaze/252579"
     },
     {
+        "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALEReggaeto",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
+    },
+    {
         "title": "Cassimm · Overgivelse",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -614,13 +621,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/271126-hotline-692-secret-garden/253643"
-    },
-    {
-        "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALEReggaeto",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
     },
     {
         "title": "Shaky ShakyLanificioHitsR&B",
@@ -644,18 +644,18 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
-        "title": "Bourse/Beurs Rooftop Brussels",
-        "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
+    },
+    {
+        "title": "Bourse/Beurs Rooftop Brussels",
+        "date": "GASOLINA SOCIAL CLUB X BOURSE ROOFT",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gasolina-social-club-x-bourse-rooftop-reggaeton-party-3-brussels-xceed-square-8516.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gasolina-social-club-x-bourse-rooftop-final-edition-of-2026-reggaeton-party/252165"
     },
     {
         "title": "BLOODY LOUIS",
@@ -686,6 +686,13 @@
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/elengi-x-121226-x-bloody-louis-brussels-xceed-square-3225.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/elengi-x-121226-x-bloody-louis/253718"
+    },
+    {
         "title": "Ratz Food Market",
         "date": "Ratz Food Market",
         "location": "BRUSSELS",
@@ -698,13 +705,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/invasion-latina-sat-05-12-mirano-brussels-brussels-xceed-square-1fe3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/elengi-x-121226-x-bloody-louis-brussels-xceed-square-3225.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/elengi-x-121226-x-bloody-louis/253718"
     },
     {
         "title": "BLOODY LOUIS",
@@ -728,18 +728,18 @@
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
-    },
-    {
         "title": "Hotel Trendy",
         "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
         "title": "BLOODY LOUIS",
@@ -973,18 +973,18 @@
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
     },
     {
-        "title": "45 Hertz Festival",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
-    },
-    {
         "title": "Golden Cut",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/loud-round-10-anniversary-hamburg-xceed-9d0a.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/loud-round-10-anniversary/247293"
+    },
+    {
+        "title": "45 Hertz Festival",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
     },
     {
         "title": "PHOXXI Green Area",
