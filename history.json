@@ -1,5 +1,30 @@
 [
     {
+        "artist": "Bob Sinclar",
+        "title": "Bob Sinclar & Fireball - What I Want Is You (Visualizer)",
+        "time": "2026-11-23 03:09:49"
+    },
+    {
+        "artist": "Tuğba Yurt, Tuğba Yurt, Ersay Üner, Ersay Üner",
+        "title": "Benim O (Remix)",
+        "time": "2026-11-23 03:06:48"
+    },
+    {
+        "artist": "Limelight Sound, Adrian Ayerbe Chueca",
+        "title": "Don't Wanna Fix You",
+        "time": "2026-11-23 03:04:54"
+    },
+    {
+        "artist": "Innerverse; Helsloot; Malou",
+        "title": "Allein Allein",
+        "time": "2026-11-23 03:01:16"
+    },
+    {
+        "artist": "Dreem",
+        "title": "Preference",
+        "time": "2026-11-23 02:57:13"
+    },
+    {
         "artist": "Eli Kazah, Alejandro Gabriel Seoane",
         "title": "Flair",
         "time": "2026-11-23 02:55:10"
@@ -23,30 +48,5 @@
         "artist": "Oman Chali, Kevër Gassé, Alejandro Gabriel Seoane",
         "title": "Rouge Noir",
         "time": "2026-11-23 02:43:23"
-    },
-    {
-        "artist": "Four Tet",
-        "title": "Into Dust (Still Falling)",
-        "time": "2026-11-23 02:37:36"
-    },
-    {
-        "artist": "Buray",
-        "title": "Mecnun (Mahmut Orhan Remix)",
-        "time": "2026-11-23 02:34:01"
-    },
-    {
-        "artist": "BATU (TR), CVALM, Batu Yalcinbayir, Mikkel Emil Joergensen",
-        "title": "So Loud",
-        "time": "2026-11-23 02:30:38"
-    },
-    {
-        "artist": "Dream Machine, Farlight",
-        "title": "Moonstruck",
-        "time": "2026-11-23 02:28:28"
-    },
-    {
-        "artist": "Ajna (BE)",
-        "title": "Forest",
-        "time": "2026-11-23 02:22:58"
     }
 ]
