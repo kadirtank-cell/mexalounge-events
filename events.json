@@ -693,13 +693,6 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fresh-sunday-4-brussels-xceed-square-a73c.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fresh-sunday-4/252547"
-    },
-    {
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -798,6 +791,13 @@
         "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
+    },
+    {
         "title": "DJ JAIRO · Kay C",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
@@ -826,13 +826,6 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
     },
     {
-        "title": "Dopebwoy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
-    },
-    {
         "title": "DRIPPY • HOTEL TRENDY • 03 DECEMBER 2026Hotel Trendy",
         "date": "DRIPPY • HOTEL TRENDY • 03 DECEMBER",
         "location": "BRUSSELS",
@@ -845,6 +838,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/legendary-brussels-xceed-7a14.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/legendary/253280"
+    },
+    {
+        "title": "UURBAN • HOTEL TRENDY • 10 DECEMBER 2026Hotel Trendy",
+        "date": "UURBAN • HOTEL TRENDY • 10 DECEMBER",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/uurban-hotel-trendy-10-december-2026-brussels-xceed-square-d0ad.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/uurban-hotel-trendy-10-december-2026/249745"
     },
     {
         "title": "Edelfettwerk",
