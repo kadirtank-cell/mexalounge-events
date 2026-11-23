@@ -448,18 +448,18 @@
         "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
         "title": "MONK Roma",
@@ -791,11 +791,11 @@
         "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
     },
     {
-        "title": "Kooki",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/kooki-paint-brussels-xceed-square-cc2c.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/kooki-paint-1/251370"
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "DJ JAIRO · Kay C",
@@ -819,13 +819,6 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
     },
     {
-        "title": "Dopebwoy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
-    },
-    {
         "title": "DRIPPY • HOTEL TRENDY • 03 DECEMBER 2026Hotel Trendy",
         "date": "DRIPPY • HOTEL TRENDY • 03 DECEMBER",
         "location": "BRUSSELS",
@@ -838,6 +831,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rumafriends-last-of-2026-brussels-xceed-square-8bd5.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rumafriends-last-of-2026/253669"
+    },
+    {
+        "title": "Kooki & PaintKookiAfrobeatsR&BHip-hop",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/kooki-paint-brussels-xceed-square-cc2c.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/kooki-paint-1/251370"
     },
     {
         "title": "AURA X SISMO DESIGNBIRDYHip-hopAfrobeatsR&B",
@@ -973,18 +973,18 @@
         "link": "https://xceed.me/en/hamburg/event/fritz-kalkbrenner-4/250617"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "45 Hertz Festival",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/bassmuzik-festival-2027-hamburg-xceed-square-f150.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/bassmuzik-festival-2027/247276"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "Golden Cut",
