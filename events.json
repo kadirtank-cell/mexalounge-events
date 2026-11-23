@@ -70,6 +70,13 @@
         "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
     },
     {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-5/253528"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -89,13 +96,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-5/253528"
     },
     {
         "title": "Opium Barcelona",
@@ -119,6 +119,13 @@
         "link": "https://xceed.me/en/barcelona/event/output-pres-nyd-2027-with-richie-hawtin/250659"
     },
     {
+        "title": "Hotel Nobu",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -138,13 +145,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-77-barcelona-xceed-square-0da7.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-77/252446"
-    },
-    {
-        "title": "Hotel Nobu",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
     },
     {
         "title": "Secret Location Barcelona",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/roma/event/oltrenotte-release-party/251744"
     },
     {
-        "title": "Circolo dei Cerchi x BlazeTag Culture",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/circolo-dei-cerchi-x-blaze-roma-xceed-square-7e14.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/circolo-dei-cerchi-x-blaze/252579"
-    },
-    {
         "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALEReggaeto",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
+    },
+    {
+        "title": "Circolo dei Cerchi x BlazeTag Culture",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/circolo-dei-cerchi-x-blaze-roma-xceed-square-7e14.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/circolo-dei-cerchi-x-blaze/252579"
     },
     {
         "title": "Cassimm · Overgivelse",
@@ -945,13 +945,6 @@
         "link": "https://xceed.me/en/hamburg/event/discovaganza-w-nyra-bovski-dirty-disco-divas-uvm/247214"
     },
     {
-        "title": "Café Schöne Aussichten (CSA)",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
-    },
-    {
         "title": "Golden Cut",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -959,11 +952,11 @@
         "link": "https://xceed.me/en/hamburg/event/loud-round-10-anniversary/247293"
     },
     {
-        "title": "Fundbureau",
+        "title": "Café Schöne Aussichten (CSA)",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/zwideja-7-hamburg-xceed-square-fd06.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/zwideja-7/252321"
+        "image": "https://images.xceed.me/events/banners/secret-garden-7-hamburg-xceed-square-066b.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/secret-garden-7/251523"
     },
     {
         "title": "glimmer",
@@ -971,6 +964,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/union-1850-lupus-lucky-l-stammtisch-rallye-hamburg-xceed-square-96f9.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/union-1850-lupus-lucky-l-stammtisch-rallye/228082"
+    },
+    {
+        "title": "Fundbureau",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/zwideja-7-hamburg-xceed-square-fd06.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/zwideja-7/252321"
     },
     {
         "title": "Seehaus",
