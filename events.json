@@ -105,6 +105,13 @@
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
     },
     {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-129/247925"
+    },
+    {
         "title": "DiverBosc",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/hedonika-pres-relajadita-open-to-close-at-nitsa-barcelona-xceed-square-6d52.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/hedonika-pres-relajadita-open-to-close-at-nitsa/250911"
-    },
-    {
-        "title": "ICE BAR Barcelona",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/ice-bar-x-pacha-ku-3/252079"
     },
     {
         "title": "ELALEEIIX",
@@ -794,8 +794,8 @@
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "DJ JAIRO · Kay C",
@@ -819,18 +819,18 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
     },
     {
-        "title": "Dopebwoy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
-    },
-    {
         "title": "DRIPPY • HOTEL TRENDY • 03 DECEMBER 2026Hotel Trendy",
         "date": "DRIPPY • HOTEL TRENDY • 03 DECEMBER",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/drippy-hotel-trendy-03-december-2026-brussels-xceed-square-4106.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/drippy-hotel-trendy-03-december-2026/249744"
+    },
+    {
+        "title": "AURA X SISMO DESIGNBIRDYHip-hopAfrobeatsR&B",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
     },
     {
         "title": "LEGENDARYPurple roseLatinAfrobeats",
