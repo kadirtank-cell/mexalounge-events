@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Max Pavlov",
+        "title": "A Gira (Extended Mix)",
+        "time": "2026-11-23 11:02:42"
+    },
+    {
+        "artist": "Maurizio Basilotta",
+        "title": "Maniac (Extended Mix)",
+        "time": "2026-11-23 10:55:46"
+    },
+    {
+        "artist": "Mr. Belt & Wezol, Nicola Fasano, Steve Forest, Topazz",
+        "title": "New Millenium (Feat. Topazz) (Extended Mix)",
+        "time": "2026-11-23 10:51:04"
+    },
+    {
         "artist": "Block & Crown",
         "title": "Insomnia",
         "time": "2026-11-23 10:46:30"
@@ -33,20 +48,5 @@
         "artist": "Crazibiza, House Of Prayers",
         "title": "Fresh (House Of Prayers Poolside Edit)",
         "time": "2026-11-23 10:19:59"
-    },
-    {
-        "artist": "Global Deejays",
-        "title": "Clap Your Hands",
-        "time": "2026-11-23 10:15:01"
-    },
-    {
-        "artist": "Room 5 Feat. Oliver Cheatham",
-        "title": "Make Luv (Radio Version)",
-        "time": "2026-11-23 10:11:41"
-    },
-    {
-        "artist": "James Mac, Vall, Rosalie",
-        "title": "The Boy Is Mine (Feat. Rosalie) (Club Mix)",
-        "time": "2026-11-23 10:05:26"
     }
 ]
