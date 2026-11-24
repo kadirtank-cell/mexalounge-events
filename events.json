@@ -63,18 +63,18 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
-        "title": "Hotel SLS Barcelona",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
-    },
-    {
         "title": "BUS HEXPERIENCE",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-5/253528"
+    },
+    {
+        "title": "Hotel SLS Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -399,18 +399,18 @@
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
-        "title": "Traffic Club",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
+    },
+    {
+        "title": "Traffic Club",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
     },
     {
         "title": "Cieloterra",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
-        "title": "Latino’s bar",
-        "date": "REGGAETONISTA @Latino's Bar",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-3-brussels-xceed-square-b13f.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-3/253259"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
+    },
+    {
+        "title": "Latino’s bar",
+        "date": "REGGAETONISTA @Latino's Bar",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-3-brussels-xceed-square-b13f.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-3/253259"
     },
     {
         "title": "Roonx",
