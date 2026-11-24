@@ -91,18 +91,18 @@
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
     },
     {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
         "title": "Hotel Nobu",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
+    },
+    {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
         "title": "DiverBosc",
@@ -166,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/checkpoint-les-enfants-goes-to-seaseaclub-with-the-ghost-evan-baggs-barcelona-xceed-square-fb17.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/checkpoint-les-enfants-goes-to-seaseaclub-with-the-ghost-evan-baggs/249470"
-    },
-    {
-        "title": "LIVECicle Miles Davis: Eddie Henderson QuartetJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cicle-miles-davis-eddie-henderson-quartet-barcelona-xceed-0bb2.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cicle-miles-davis-eddie-henderson-quartet/250172"
     },
     {
         "title": "TBA",
@@ -306,6 +299,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
+    },
+    {
+        "title": "Juannce",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-pres-beatlab-jayzo-juannce-llopart-shuntta-tacidelli-sala-candy-box-barcelona-xceed-square-be9f.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -679,18 +679,18 @@
         "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
     },
     {
-        "title": "Hotel Trendy",
-        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
-    },
-    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-d214.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
+    },
+    {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
         "title": "BLOODY LOUIS",
@@ -707,6 +707,13 @@
         "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/new-years-eve-44-brussels-xceed-square-2fd0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/new-years-eve-44/253514"
+    },
+    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -719,13 +726,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/new-years-eve-44-brussels-xceed-square-2fd0.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/new-years-eve-44/253514"
     },
     {
         "title": "BIRDY",
