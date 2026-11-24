@@ -721,18 +721,18 @@
         "link": "https://xceed.me/en/brussels/event/blankka-club-x-birdy/253555"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
-    },
-    {
         "title": "The Standard, Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "BLOODY LOUIS",
