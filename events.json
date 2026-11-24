@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+    },
+    {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
     },
     {
         "title": "MIRABLAU",
@@ -98,18 +98,25 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
-    },
-    {
         "title": "Hotel Nobu",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
+    },
+    {
+        "title": "DiverBosc",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/output-pres-nyd-2027-with-richie-hawtin-barcelona-xceed-square-d959.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/output-pres-nyd-2027-with-richie-hawtin/250659"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
     },
     {
         "title": "Opium Barcelona",
@@ -124,13 +131,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
-    },
-    {
-        "title": "DiverBosc",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/output-pres-nyd-2027-with-richie-hawtin-barcelona-xceed-square-d959.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/output-pres-nyd-2027-with-richie-hawtin/250659"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -644,18 +644,18 @@
         "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/elengi-x-121226-x-bloody-louis-brussels-xceed-square-3225.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/elengi-x-121226-x-bloody-louis/253718"
-    },
-    {
         "title": "Plein Publiek BXL",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/prini-x-nueve-2-brussels-xceed-square-abd9.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/elengi-x-121226-x-bloody-louis-brussels-xceed-square-3225.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/elengi-x-121226-x-bloody-louis/253718"
     },
     {
         "title": "Ratz Food Market",
