@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+    },
+    {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
         "title": "MIRABLAU",
@@ -423,15 +423,15 @@
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
     },
     {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
+        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
     },
     {
         "title": "MONK Roma",
@@ -731,6 +731,13 @@
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
@@ -740,13 +747,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "Latino’s bar",
