@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "MIRABLAU",
@@ -168,6 +168,13 @@
         "link": "https://xceed.me/en/barcelona/event/checkpoint-les-enfants-goes-to-seaseaclub-with-the-ghost-evan-baggs/249470"
     },
     {
+        "title": "LIVECicle Miles Davis: Eddie Henderson QuartetJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/cicle-miles-davis-eddie-henderson-quartet-barcelona-xceed-0bb2.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/cicle-miles-davis-eddie-henderson-quartet/250172"
+    },
+    {
         "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -187,13 +194,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/ruben-seoane-62-barcelona-xceed-5259.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/ruben-seoane-62/250013"
-    },
-    {
-        "title": "Cicle Miles Davis: Eddie Henderson QuartetJamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cicle-miles-davis-eddie-henderson-quartet-barcelona-xceed-0bb2.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cicle-miles-davis-eddie-henderson-quartet/250172"
     },
     {
         "title": "DJ Muuz",
@@ -497,18 +497,18 @@
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-wednesday/253500"
     },
     {
-        "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-42-roma-xceed-square-73fd.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
-    },
-    {
         "title": "Bailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bailao-at-teatro-centrale-giovedi-26-novmebre-roma-xceed-square-80cc.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bailao-at-teatro-centrale-giovedi-26-novmebre/253542"
+    },
+    {
+        "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-42-roma-xceed-square-73fd.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
     },
     {
         "title": "Lorenzo Bartolo",
@@ -532,18 +532,18 @@
         "link": "https://xceed.me/en/roma/event/salotto-elettronico/249458"
     },
     {
-        "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
-    },
-    {
         "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
         "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
+    },
+    {
+        "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
     },
     {
         "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALEReggaeto",
@@ -721,6 +721,13 @@
         "link": "https://xceed.me/en/brussels/event/blankka-club-x-birdy/253555"
     },
     {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
+    },
+    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -733,13 +740,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "The Standard, Brussels",
@@ -1026,7 +1026,7 @@
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glubnacht-w-snoritz-krash-cora-hamburg-xceed-square-d311.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glubnacht-w-snoritz-krash-cora/252479"
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-snoritz-krash-cora/252479"
     },
     {
         "title": "OÄZIZBar NoneHouse",
@@ -1075,7 +1075,7 @@
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glubnacht-w-jks-dj-swisherman-b2b-emi-koto-hamburg-xceed-square-ecf0.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glubnacht-w-jks-dj-swisherman-b2b-emi-koto/253991"
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-jks-dj-swisherman-b2b-emi-koto/253991"
     },
     {
         "title": "Re.You · SITZE · Elias everest +1",
@@ -1089,7 +1089,7 @@
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glubnacht-pres-butschi-all-night-long-yung-womb-sherryaeri-hamburg-xceed-square-f03e.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glubnacht-pres-butschi-all-night-long-yung-womb-sherryaeri/253992"
+        "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-pres-butschi-all-night-long-yung-womb-sherryaeri/253992"
     },
     {
         "title": "Jarmo",
