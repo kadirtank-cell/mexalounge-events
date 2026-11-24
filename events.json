@@ -14,18 +14,18 @@
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
-        "title": "Boris Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
+        "title": "Boris Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
         "title": "La Paloma",
@@ -381,13 +381,6 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
     },
@@ -395,8 +388,8 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
+        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
     },
     {
         "title": "Traffic Club",
@@ -404,6 +397,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/spike-the-gimme-gimmes-live-traffic-club-roma-xceed-square-4c4e.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/spike-the-gimme-gimmes-live-traffic-club/226684"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "Alcazar",
@@ -451,6 +451,13 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/savana-funk-1-roma-xceed-square-6f5b.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/savana-funk-1/249324"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
@@ -458,8 +465,8 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/savana-funk-1-roma-xceed-square-6f5b.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/savana-funk-1/249324"
+        "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
     },
     {
         "title": "MONK Roma",
@@ -467,13 +474,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
-    },
-    {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/2manydjs-dj-set-hacienda-roma-15-gennaio-2027-roma-xceed-square-ae98.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
     },
     {
         "title": "THE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil’Jea",
@@ -516,13 +516,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/synrjee-advent-calendar-n1-roma-xceed-square-aaf9.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/synrjee-advent-calendar-n1/253699"
-    },
-    {
-        "title": "BRIT supernova PARTY ROMA | live + dj set | 27 Novembre | MONK OR",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
     },
     {
         "title": "SALOTTO ELETTRONICOPalazzo - San Lorenzo",
