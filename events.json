@@ -497,18 +497,18 @@
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-wednesday/253500"
     },
     {
-        "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-42-roma-xceed-square-73fd.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
-    },
-    {
         "title": "Bailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/bailao-at-teatro-centrale-giovedi-26-novmebre-roma-xceed-square-80cc.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/bailao-at-teatro-centrale-giovedi-26-novmebre/253542"
+    },
+    {
+        "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-42-roma-xceed-square-73fd.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
     },
     {
         "title": "Lorenzo Bartolo",
@@ -553,6 +553,13 @@
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
     },
     {
+        "title": "Shaky ShakyLanificioHitsR&B",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/shaky-shaky-20/253657"
+    },
+    {
         "title": "Oltrenotte release partyLa Galleria delle Arti",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -579,13 +586,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/271126-hotline-692-secret-garden/253643"
-    },
-    {
-        "title": "Shaky ShakyLanificioHitsR&B",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/shaky-shaky-20/253657"
     },
     {
         "title": "Alessandro Barretta  · Cbr320 · Fiveseven +3",
