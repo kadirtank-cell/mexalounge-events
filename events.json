@@ -388,13 +388,6 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/filippo-spreafico-roma-xceed-square-38b8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/filippo-spreafico-in-anteprima-dello-spettacolo-precedente/246836"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
@@ -474,6 +467,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/2manydjs-dj-set-hacienda-roma-15-gennaio-2027-roma-xceed-square-ae98.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
     },
     {
         "title": "THE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil’Jea",
@@ -586,6 +586,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
+    },
+    {
+        "title": "spiller · Giovannino · Floww +1",
+        "date": "Paradise Loft X Club 44 with SPILLE",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
     },
     {
         "title": "BLOODY LOUIS",
