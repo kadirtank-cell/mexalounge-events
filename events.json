@@ -525,18 +525,18 @@
         "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
     },
     {
-        "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
-    },
-    {
         "title": "SALOTTO ELETTRONICOPalazzo - San Lorenzo",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/salotto-elettronico-roma-xceed-square-acbf.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/salotto-elettronico/249458"
+    },
+    {
+        "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
     },
     {
         "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
@@ -980,11 +980,11 @@
         "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
     },
     {
-        "title": "Karoline",
+        "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/engtanz-ball-5-hamburg-xceed-7cbd.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/engtanz-ball-6/248495"
+        "image": "https://images.xceed.me/events/banners/nye-warehouse-xxl-2027-hamburg-xceed-square-9940.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nye-warehouse-xxl-2027/242056"
     },
     {
         "title": "Robag WruhmeSeehausMelodic House & Techno",
