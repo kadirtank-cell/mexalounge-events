@@ -756,17 +756,10 @@
         "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
-    },
-    {
-        "title": "DJ JAIRO · Kay C",
+        "title": "Latino’s bar",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-3-brussels-xceed-square-b13f.png?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-3-brussels-xceed-square-b13f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-3/253259"
     },
     {
@@ -782,6 +775,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-45-brussels-xceed-square-4d72.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
+    },
+    {
+        "title": "Dopebwoy",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "DRIPPY • HOTEL TRENDY • 03 DECEMBER 2026Hotel Trendy",
