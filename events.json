@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "MIRABLAU",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
-        "title": "Be Here Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
-    },
-    {
         "title": "Latino’s bar",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-3-brussels-xceed-square-b13f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-3/253259"
+    },
+    {
+        "title": "Be Here Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
         "title": "Roonx",
@@ -782,13 +782,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-45-brussels-xceed-square-4d72.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
-    },
-    {
-        "title": "Bun Xapa · RUMA",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/rumafriends-invite-bun-xapa-brussels-xceed-square-8949.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/ruma-redroom-invites-bun-xapa/253910"
     },
     {
         "title": "DRIPPY • HOTEL TRENDY • 03 DECEMBER 2026Hotel Trendy",
@@ -817,6 +810,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
+    },
+    {
+        "title": "LEGENDARYPurple roseLatinAfrobeats",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/legendary-brussels-xceed-7a14.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/legendary/253280"
     },
     {
         "title": "Edelfettwerk",
@@ -1082,14 +1082,7 @@
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glub-nach-w-jks-dj-swisherman-b2b-emi-koto-hamburg-xceed-square-6062.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/glub-nach-w-jks-dj-swisherman-b2b-emi-koto/253991"
-    },
-    {
-        "title": "Jarmo",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nostalgia-x-chandon-winter-wonderland-hamburg-xceed-square-101d.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nostalgia-x-chandon-winter-wonderland/253578"
+        "link": "https://xceed.me/en/hamburg/event/glub-nacht-w-jks-dj-swisherman-b2b-emi-koto/253991"
     },
     {
         "title": "Butschi",
@@ -1097,6 +1090,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glub-nacht-pres-butschi-all-night-long-yung-womb-sherryaeri-hamburg-xceed-square-e66b.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glub-nacht-pres-butschi-all-night-long-yung-womb-sherryaeri/253992"
+    },
+    {
+        "title": "Jarmo",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nostalgia-x-chandon-winter-wonderland-hamburg-xceed-square-101d.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nostalgia-x-chandon-winter-wonderland/253578"
     },
     {
         "title": "Tim Reaper · Mantra · ROOF +3",
