@@ -1,5 +1,15 @@
 [
     {
+        "artist": "KORTER",
+        "title": "Mindpocket",
+        "time": "2026-11-24 00:55:29"
+    },
+    {
+        "artist": "Novacode",
+        "title": "Colossus (Extended Mix)",
+        "time": "2026-11-24 00:48:31"
+    },
+    {
         "artist": "Christopher Coe, Harper Lake, Will Clarke",
         "title": "Dance On Water (Will Clarke Remix)",
         "time": "2026-11-24 00:42:17"
@@ -38,15 +48,5 @@
         "artist": "JOOF Recordings • John 00 Fleming",
         "title": "Pablo Gargano - One Journey (Original Mix)",
         "time": "2026-11-24 00:04:23"
-    },
-    {
-        "artist": "Emrah Turken & SUER",
-        "title": "OMG! (Original Mix)",
-        "time": "2026-11-24 00:01:42"
-    },
-    {
-        "artist": "Sandro Silva, Quintino",
-        "title": "Epic",
-        "time": "2026-11-23 23:54:37"
     }
 ]
