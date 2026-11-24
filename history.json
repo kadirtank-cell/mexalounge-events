@@ -1,5 +1,25 @@
 [
     {
+        "artist": "David Guetta",
+        "title": "Titanium (Feat. Sia)",
+        "time": "2026-11-24 08:48:24"
+    },
+    {
+        "artist": "Dumitrescu",
+        "title": "Sitting In The Sun (Walking In The Rain)",
+        "time": "2026-11-24 08:45:31"
+    },
+    {
+        "artist": "Can Ates",
+        "title": "Shake Up The Drums (Extended Mix)",
+        "time": "2026-11-24 08:42:05"
+    },
+    {
+        "artist": "Maor Buzaglo, Atlantis",
+        "title": "Candela (Extended Mix)",
+        "time": "2026-11-24 08:37:17"
+    },
+    {
         "artist": "Ariana Grande",
         "title": "Ariana Grande - Problem (Cosmic Dawn Club Mix) [Feat. Iggy Azalea]",
         "time": "2026-11-24 08:31:37"
@@ -28,25 +48,5 @@
         "artist": "Juany Bravo, Faul & Wad",
         "title": "Go Hot (Babylon) (Extended Mix)",
         "time": "2026-11-24 08:10:07"
-    },
-    {
-        "artist": "Highup;   DJ SODA;  Justin J Moore",
-        "title": "Memories",
-        "time": "2026-11-24 08:07:54"
-    },
-    {
-        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
-        "title": "ME QUEMO",
-        "time": "2026-11-24 08:05:02"
-    },
-    {
-        "artist": "Batu (TR)",
-        "title": "Safe Return (Original Mix)",
-        "time": "2026-11-24 07:56:05"
-    },
-    {
-        "artist": "Avicii",
-        "title": "Tough Love Ft. Agnes, Vargas & Lagola",
-        "time": "2026-11-24 07:52:51"
     }
 ]
