@@ -463,17 +463,17 @@
     },
     {
         "title": "MONK Roma",
-        "date": "Wed 24 Mar, 9:30pm",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
-    },
-    {
-        "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/savana-funk-1-roma-xceed-square-6f5b.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/savana-funk-1/249324"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "Wed 24 Mar, 9:30pm",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
     },
     {
         "title": "THE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil’Jea",
