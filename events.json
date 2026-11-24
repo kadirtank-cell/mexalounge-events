@@ -126,18 +126,18 @@
         "link": "https://xceed.me/en/barcelona/event/output-pres-nyd-2027-with-richie-hawtin/250659"
     },
     {
-        "title": "ICE BAR Barcelona",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/ice-bar-x-ku-showcase-la-rvfleuze/247263"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
+    },
+    {
+        "title": "ICE BAR Barcelona",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/ice-bar-x-ku-showcase-la-rvfleuze/247263"
     },
     {
         "title": "La Paloma",
@@ -980,11 +980,11 @@
         "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
     },
     {
-        "title": "Edelfettwerk",
+        "title": "Karoline",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nye-warehouse-xxl-2027-hamburg-xceed-square-9940.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nye-warehouse-xxl-2027/242056"
+        "image": "https://images.xceed.me/events/banners/engtanz-ball-5-hamburg-xceed-7cbd.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/engtanz-ball-6/248495"
     },
     {
         "title": "Robag WruhmeSeehausMelodic House & Techno",
@@ -1083,13 +1083,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/das-ohr-zum-sonntag-dozsfest-2-2-hamburg-xceed-square-53b6.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/das-ohr-zum-sonntag-dozsfest-2-2-w-tim-reaper-mantra-roof-b2b-lang-jan-nassstya-b2b-nin-1/251966"
-    },
-    {
-        "title": "ENGTANZ BALLKaroline80's90s - 00s70s - 80s",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/engtanz-ball-5-hamburg-xceed-7cbd.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/engtanz-ball-6/248495"
     },
     {
         "title": "an.judge · NATTA · Frank Rayo +2",
