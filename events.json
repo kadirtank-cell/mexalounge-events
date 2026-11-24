@@ -423,15 +423,15 @@
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
+        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
     },
     {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
     },
     {
         "title": "MONK Roma",
@@ -658,18 +658,18 @@
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "Mirano",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/invasion-latina-sat-05-12-mirano-brussels-brussels-xceed-square-1fe3.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "BLOODY LOUIS",
@@ -812,11 +812,11 @@
         "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
     },
     {
-        "title": "LEGENDARYPurple roseLatinAfrobeats",
+        "title": "COCO BRUSSELS - OLD SCHOOL PARTYCoco BrusselsHip-hopR&BDancehall",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/legendary-brussels-xceed-7a14.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/legendary/253280"
+        "image": "https://images.xceed.me/events/banners/coco-brussels-old-school-party-brussels-xceed-square-bbf3.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/coco-brussels-old-school-party/254000"
     },
     {
         "title": "Edelfettwerk",
