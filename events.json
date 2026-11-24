@@ -98,6 +98,13 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
+        "title": "Hotel Nobu",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
+    },
+    {
         "title": "Opium Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -110,13 +117,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
-    },
-    {
-        "title": "Hotel Nobu",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
     },
     {
         "title": "DiverBosc",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
-        "title": "Coco Brussels",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
-    },
-    {
         "title": "Latino’s bar",
         "date": "REGGAETONISTA @Latino's Bar",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/reggaetonista-latinos-bar-3-brussels-xceed-square-b13f.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/reggaetonista-latinos-bar-3/253259"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "Roonx",
@@ -770,18 +770,18 @@
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-44/251058"
     },
     {
+        "title": "FÊTE NATIONALE ALBANAISE 🇦🇱Coco Brussels",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/fete-nationale-albanaise-brussels-xceed-square-fa5e.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
+    },
+    {
         "title": "Roonx",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/vibe-check-free-international-party-45-brussels-xceed-square-4d72.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/vibe-check-free-international-party-45/251059"
-    },
-    {
-        "title": "Dopebwoy",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
     },
     {
         "title": "DRIPPY • HOTEL TRENDY • 03 DECEMBER 2026Hotel Trendy",
