@@ -168,11 +168,11 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-77/252446"
     },
     {
-        "title": "LIVECicle Miles Davis: Eddie Henderson QuartetJamboree Jazz Club",
+        "title": "TBA",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cicle-miles-davis-eddie-henderson-quartet-1-barcelona-xceed-c4b0.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cicle-miles-davis-eddie-henderson-quartet-1/250173"
+        "image": "https://images.xceed.me/events/banners/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-3341.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-67/249773"
     },
     {
         "title": "Men (L-Men-T) · Rorschach",
@@ -187,13 +187,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long-barcelona-xceed-square-a052.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long/242784"
-    },
-    {
-        "title": "TBA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-3341.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-67/249773"
     },
     {
         "title": "Dj Stile",
@@ -292,6 +285,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/seven-seas-orchestra-un-viatge-als-anys-20-barcelona-xceed-3376.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/seven-seas-orchestra-un-viatge-als-anys-20/250174"
+    },
+    {
+        "title": "LubianaJamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/lubiana-barcelona-xceed-4a23.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/lubiana/250175"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -462,18 +462,18 @@
         "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
     },
     {
+        "title": "LIVETHE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett-roma-xceed-square-b982.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett/252432"
+    },
+    {
         "title": "LIVEQUINDIE FESTIVALAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/quindie-festival-11-roma-xceed-square-51ee.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/quindie-festival-11/250025"
-    },
-    {
-        "title": "THE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil’Jea",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett-roma-xceed-square-b982.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett/252432"
     },
     {
         "title": "Bonita ''no dejes que te lo cuenten'' - WednesdayTEATRO CENTRALER",
@@ -861,18 +861,18 @@
         "link": "https://xceed.me/en/hamburg/event/saltarus-w-svetec-in-verruf/249327"
     },
     {
-        "title": "Uebel & Gefährlich",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/stil-vor-talent-hamburg-xceed-e4e2.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
-    },
-    {
         "title": "Golden Cut",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/loud-round-10-anniversary-hamburg-xceed-9d0a.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/loud-round-10-anniversary/247293"
+    },
+    {
+        "title": "Uebel & Gefährlich",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/stil-vor-talent-hamburg-xceed-e4e2.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
         "title": "Seehaus",
