@@ -98,18 +98,18 @@
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
     },
     {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
+    },
+    {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
         "title": "DiverBosc",
@@ -189,18 +189,18 @@
         "link": "https://xceed.me/en/barcelona/event/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long/242784"
     },
     {
-        "title": "Dj Stile",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/wednesday-night-dj-stile-38-barcelona-xceed-9cce.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-stile-38/250203"
-    },
-    {
         "title": "Paulix · PINK ID · YEISON M +4",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/vybe-l-city-hall-barcelona-l-bounce-all-night-long-main-room-barcelona-xceed-square-3254.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/vybe-l-city-hall-barcelona-l-bounce-all-night-long-main-room/251903"
+    },
+    {
+        "title": "Dj Stile",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/wednesday-night-dj-stile-38-barcelona-xceed-9cce.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-stile-38/250203"
     },
     {
         "title": "6TMA · Uroz · Stereofan",
@@ -364,18 +364,18 @@
         "link": "https://xceed.me/en/roma/event/neon-pres-jazzy-cieloterra/249506"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-1-roma-xceed-square-f49c.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
-    },
-    {
         "title": "Cieloterra",
         "date": "27|11|2026 - Rebel Rebel with FUTUR",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-1-roma-xceed-square-f49c.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
         "title": "Alcazar",
@@ -416,13 +416,6 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spartiti-concerto-presto-presto-inizio-ore-1600-roma-xceed-square-2307.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
     },
@@ -430,8 +423,8 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
+        "image": "https://images.xceed.me/events/banners/spartiti-concerto-presto-presto-inizio-ore-1600-roma-xceed-square-2307.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
     },
     {
         "title": "MONK Roma",
@@ -439,6 +432,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
         "title": "Tag Culture",
@@ -567,18 +567,18 @@
         "link": "https://xceed.me/en/roma/event/271126-hotline-692-secret-garden/253643"
     },
     {
-        "title": "spiller · Giovannino · Floww +1",
-        "date": "Paradise Loft X Club 44 with SPILLE",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
-    },
-    {
         "title": "ANXHELA · ANXHELA · Trixie",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
+    },
+    {
+        "title": "spiller · Giovannino · Floww +1",
+        "date": "Paradise Loft X Club 44 with SPILLE",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
     },
     {
         "title": "BLOODY LOUIS",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
-    },
-    {
         "title": "LIFT BRUSSELS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/l2b-showcase-2-brussels-xceed-square-13d0.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/l2b-showcase-2/253361"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
     },
     {
         "title": "Bourse/Beurs Rooftop Brussels",
@@ -777,6 +777,13 @@
         "link": "https://xceed.me/en/brussels/event/rumafriends-last-of-2026/253669"
     },
     {
+        "title": "NONAME x FREAKY FRIDAYBIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/noname-x-freaky-friday-brussels-xceed-square-bf7b.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/noname-x-freaky-friday/254198"
+    },
+    {
         "title": "Kooki & PaintKookiAfrobeatsR&BHip-hop",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
@@ -789,13 +796,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
-    },
-    {
-        "title": "COCO BRUSSELS - OLD SCHOOL PARTYCoco BrusselsHip-hopR&BDancehall",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/coco-brussels-old-school-party-brussels-xceed-square-def4.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/coco-brussels-old-school-party/254000"
     },
     {
         "title": "Edelfettwerk",
