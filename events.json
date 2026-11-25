@@ -14,6 +14,13 @@
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+    },
+    {
         "title": "Boris Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -26,13 +33,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
-    },
-    {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "MIRABLAU",
@@ -140,6 +140,13 @@
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
     },
     {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-pres-beatlab-jayzo-juannce-llopart-shuntta-tacidelli-sala-candy-box-barcelona-xceed-square-be9f.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
+    },
+    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -159,13 +166,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/tsoa-yotto-barcelona-xceed-square-a8dd.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/tsoa-yotto/253379"
-    },
-    {
-        "title": "Secret Location Barcelona",
-        "date": "Secret Location Barcelona",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/los-roques-boiler-room-edition-1-barcelona-xceed-square-b2a4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/los-roques-boiler-room-edition-1/247531"
     },
     {
         "title": "LULU OBETKO (ARG)",
@@ -264,13 +264,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
-    },
-    {
-        "title": "Juannce",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-pres-beatlab-jayzo-juannce-llopart-shuntta-tacidelli-sala-candy-box-barcelona-xceed-square-be9f.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
     },
     {
         "title": "Viernes ÍntimosSauvage Swinger ClubHits",
@@ -437,15 +430,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
+        "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
+        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
         "title": "Hacienda",
