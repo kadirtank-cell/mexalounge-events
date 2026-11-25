@@ -14,13 +14,6 @@
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
         "title": "MIRABLAU",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -33,6 +26,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "MIRABLAU",
@@ -378,13 +378,6 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
-    },
-    {
         "title": "Cieloterra",
         "date": "27|11|2026 - Rebel Rebel with FUTUR",
         "location": "ROMA",
@@ -395,8 +388,8 @@
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
+        "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
     },
     {
         "title": "Alcazar",
@@ -404,6 +397,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
     },
     {
         "title": "MONK Roma",
@@ -448,18 +448,18 @@
         "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
     },
     {
+        "title": "Tag Culture",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
+    },
+    {
         "title": "Traffic Club",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago-roma-xceed-square-225e.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "Wed 24 Mar, 9:30pm",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
     },
     {
         "title": "THE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil’Jea",
@@ -565,13 +565,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/271126-hotline-692-secret-garden/253643"
-    },
-    {
-        "title": "Alessandro Barretta  · Cbr320 · Fiveseven +3",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
     },
     {
         "title": "ANXHELA · ANXHELA · Trixie",
