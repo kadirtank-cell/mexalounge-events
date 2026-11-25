@@ -1,5 +1,10 @@
 [
     {
+        "artist": "Bedrock Records",
+        "title": "Ian O'donovan - Exhale",
+        "time": "2026-11-25 15:16:33"
+    },
+    {
         "artist": "Hernan Cattaneo, Khen, Hen Falah",
         "title": "Rogelito",
         "time": "2026-11-25 15:09:16"
@@ -43,10 +48,5 @@
         "artist": "Jaydee (DE)",
         "title": "Haunted (Extended Mix)",
         "time": "2026-11-25 14:13:09"
-    },
-    {
-        "artist": "Anjunadeep, Durante, Ezequiel Arias",
-        "title": "Ezequiel Arias & Durante - Logical",
-        "time": "2026-11-25 14:06:46"
     }
 ]
