@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Dream Machine, Farlight",
+        "title": "Moonstruck",
+        "time": "2026-11-25 01:33:51"
+    },
+    {
+        "artist": "I'm Mady",
+        "title": "Verrücktes Rumgehüpfe",
+        "time": "2026-11-25 01:25:31"
+    },
+    {
         "artist": "MANU BS, Moree MK, Roland Clark",
         "title": "Girls Dance (Extended Mix)",
         "time": "2026-11-25 01:20:35"
@@ -38,15 +48,5 @@
         "artist": "LASERKRAFT 3D",
         "title": "Laserkraft 3D - Nein Mann (Official Video)",
         "time": "2026-11-25 00:47:03"
-    },
-    {
-        "artist": "Emrah Turken & SUER",
-        "title": "OMG! (Original Mix)",
-        "time": "2026-11-25 00:44:23"
-    },
-    {
-        "artist": "LUSU",
-        "title": "The Great Reset",
-        "time": "2026-11-25 00:38:32"
     }
 ]
