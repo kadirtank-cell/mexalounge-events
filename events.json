@@ -14,6 +14,13 @@
         "link": "https://xceed.me/en/barcelona/event/delirio-xmas/250376"
     },
     {
+        "title": "Boris Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
+    },
+    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -26,13 +33,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
-    },
-    {
-        "title": "Boris Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
         "title": "MIRABLAU",
@@ -49,18 +49,18 @@
         "link": "https://xceed.me/en/barcelona/event/nye-seaview-rooftop-club-nautico/247257"
     },
     {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/mirablau-club-129/247925"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
+    },
+    {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/mirablau-club-129/247925"
     },
     {
         "title": "BUS HEXPERIENCE",
@@ -105,6 +105,13 @@
         "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
+    },
+    {
         "title": "DiverBosc",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -117,13 +124,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
     },
     {
         "title": "Opium Barcelona",
