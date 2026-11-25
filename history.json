@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Dynoro; Gigi D'agostino",
+        "title": "In My Mind",
+        "time": "2026-11-25 13:35:00"
+    },
+    {
+        "artist": "Abracadabra",
+        "title": "Dangel Twins & Misha - Left Right (ABRA X)",
+        "time": "2026-11-25 13:28:55"
+    },
+    {
+        "artist": "John Summit",
+        "title": "Deadmau5 & Kaskade - I Remember (John Summit Remix)",
+        "time": "2026-11-25 13:24:59"
+    },
+    {
         "artist": "Anjunadeep",
         "title": "Ezequiel Arias & Durante - Prisma (From Anjunadeep Malta 2025)",
         "time": "2026-11-25 13:19:41"
@@ -33,20 +48,5 @@
         "artist": "Steve Tosi",
         "title": "Lady (Backnow Mix)",
         "time": "2026-11-25 12:46:28"
-    },
-    {
-        "artist": "Crazibiza, House Of Prayers",
-        "title": "Fresh (House Of Prayers Poolside Edit)",
-        "time": "2026-11-25 12:41:48"
-    },
-    {
-        "artist": "Ilkay Sencan; Dynoro",
-        "title": "Rockstar",
-        "time": "2026-11-25 12:38:02"
-    },
-    {
-        "artist": "Disco Gurls",
-        "title": "Makes Me Better (Extended Mix)",
-        "time": "2026-11-25 12:33:44"
     }
 ]
