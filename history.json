@@ -1,5 +1,30 @@
 [
     {
+        "artist": "Luçïd (Paris)",
+        "title": "Fait Vriller",
+        "time": "2026-11-25 05:53:56"
+    },
+    {
+        "artist": "Elton John, Dua Lipa",
+        "title": "Cold Heart (PNAU Remix)",
+        "time": "2026-11-25 05:50:37"
+    },
+    {
+        "artist": "Ed Sheeran",
+        "title": "Shape Of You",
+        "time": "2026-11-25 05:46:35"
+    },
+    {
+        "artist": "Petit Biscuit",
+        "title": "Sunset Lover",
+        "time": "2026-11-25 05:42:42"
+    },
+    {
+        "artist": "Conte Prad",
+        "title": "Evening",
+        "time": "2026-11-25 05:40:31"
+    },
+    {
         "artist": "Zigala, Alejandro Gabriel Seoane",
         "title": "Red Night",
         "time": "2026-11-25 05:38:13"
@@ -23,30 +48,5 @@
         "artist": "ALEX GAUDINO Feat. SHENA NARI",
         "title": "Watch Out (Nari And Milani Remix)",
         "time": "2026-11-25 05:24:22"
-    },
-    {
-        "artist": "Lola Young",
-        "title": "Messy",
-        "time": "2026-11-25 05:19:46"
-    },
-    {
-        "artist": "Oman Chali, Alejandro Gabriel Seoane",
-        "title": "Reflection",
-        "time": "2026-11-25 05:16:49"
-    },
-    {
-        "artist": "Nils Hoffmann",
-        "title": "Afterglow (Extended Mix)",
-        "time": "2026-11-25 05:11:38"
-    },
-    {
-        "artist": "Dole & Kom",
-        "title": "Away",
-        "time": "2026-11-25 05:04:38"
-    },
-    {
-        "artist": "Innerverse; Helsloot; Malou",
-        "title": "Allein Allein",
-        "time": "2026-11-25 04:59:40"
     }
 ]
