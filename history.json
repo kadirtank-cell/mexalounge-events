@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Anden",
+        "title": "Borah",
+        "time": "2026-11-25 18:26:40"
+    },
+    {
+        "artist": "Kevin De Vries, Jast",
+        "title": "Born Like That",
+        "time": "2026-11-25 18:22:55"
+    },
+    {
+        "artist": "Roman Weber",
+        "title": "Lights Out",
+        "time": "2026-11-25 18:19:22"
+    },
+    {
         "artist": "Coyu",
         "title": "Technostalgia (Original Mix) (Suara) 132",
         "time": "2026-11-25 18:11:49"
@@ -33,20 +48,5 @@
         "artist": "A.D.H.S.",
         "title": "MORPHEUS",
         "time": "2026-11-25 17:41:33"
-    },
-    {
-        "artist": "The Myth Of NYX",
-        "title": "Benny Benassi & Tobias Gerard - DISCOTEKA (Extended Mix)",
-        "time": "2026-11-25 17:36:35"
-    },
-    {
-        "artist": "Kevin De Vries",
-        "title": "Dance With Me",
-        "time": "2026-11-25 17:29:21"
-    },
-    {
-        "artist": "Ten Walls",
-        "title": "Cadencia",
-        "time": "2026-11-25 17:23:29"
     }
 ]
