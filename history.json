@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Anjunadeep",
+        "title": "Ezequiel Arias & Durante - Prisma (From Anjunadeep Malta 2025)",
+        "time": "2026-11-25 13:19:41"
+    },
+    {
+        "artist": "Atlantis",
+        "title": "Fiji (Yeadon Extended Mix)",
+        "time": "2026-11-25 13:12:37"
+    },
+    {
+        "artist": "Tripl",
+        "title": "Selekta",
+        "time": "2026-11-25 13:09:17"
+    },
+    {
         "artist": "Fordal, Zuccasam",
         "title": "Cyber Lights (Zuccasam Remix)",
         "time": "2026-11-25 12:59:43"
@@ -33,20 +48,5 @@
         "artist": "Disco Gurls",
         "title": "Makes Me Better (Extended Mix)",
         "time": "2026-11-25 12:33:44"
-    },
-    {
-        "artist": "MANU BS, Moree MK, Roland Clark",
-        "title": "Girls Dance (Extended Mix)",
-        "time": "2026-11-25 12:27:51"
-    },
-    {
-        "artist": "Arash, Snoop Dogg",
-        "title": "Omg (10D Bass Boosted)",
-        "time": "2026-11-25 12:24:54"
-    },
-    {
-        "artist": "Maurizio Basilotta",
-        "title": "Maniac (Extended Mix)",
-        "time": "2026-11-25 12:19:17"
     }
 ]
