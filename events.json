@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
-        "title": "Boris Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
         "title": "La Paloma",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+    },
+    {
+        "title": "Boris Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
         "title": "MIRABLAU",
@@ -462,18 +462,18 @@
         "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
     },
     {
+        "title": "LIVEQUINDIE FESTIVALAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/quindie-festival-11-roma-xceed-square-51ee.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/quindie-festival-11/250025"
+    },
+    {
         "title": "THE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil’Jea",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett-roma-xceed-square-b982.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett/252432"
-    },
-    {
-        "title": "QUINDIE FESTIVALAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/quindie-festival-11-roma-xceed-square-51ee.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/quindie-festival-11/250025"
     },
     {
         "title": "Bonita ''no dejes que te lo cuenten'' - WednesdayTEATRO CENTRALER",

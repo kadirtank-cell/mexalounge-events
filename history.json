@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Devid Dega",
+        "title": "Break",
+        "time": "2026-11-25 19:11:46"
+    },
+    {
+        "artist": "SAMOH, Thomas Gruppen",
+        "title": "Excluded",
+        "time": "2026-11-25 19:05:06"
+    },
+    {
         "artist": "RÜFÜS, Jon George, Tyrone Lindqvist, James Hunt, Jon George, Tyrone Lindqvist, James Hunt, Lane 8",
         "title": "Innerbloom (Lane 8 Remix)",
         "time": "2026-11-25 18:56:31"
@@ -38,15 +48,5 @@
         "artist": "Anden",
         "title": "Borah",
         "time": "2026-11-25 18:26:40"
-    },
-    {
-        "artist": "Kevin De Vries, Jast",
-        "title": "Born Like That",
-        "time": "2026-11-25 18:22:55"
-    },
-    {
-        "artist": "Roman Weber",
-        "title": "Lights Out",
-        "time": "2026-11-25 18:19:22"
     }
 ]
