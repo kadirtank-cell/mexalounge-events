@@ -1,5 +1,20 @@
 [
     {
+        "artist": "LASERKRAFT 3D",
+        "title": "Laserkraft 3D - Nein Mann (Official Video)",
+        "time": "2026-11-25 00:47:03"
+    },
+    {
+        "artist": "Emrah Turken & SUER",
+        "title": "OMG! (Original Mix)",
+        "time": "2026-11-25 00:44:23"
+    },
+    {
+        "artist": "LUSU",
+        "title": "The Great Reset",
+        "time": "2026-11-25 00:38:32"
+    },
+    {
         "artist": "Charlotte De Witte, Lisa Gerrard",
         "title": "After The Fall (Feat. Lisa Gerrard)",
         "time": "2026-11-25 00:31:07"
@@ -33,20 +48,5 @@
         "artist": "Myth Of NYX",
         "title": "GENESI, ESSENTIA & Franksy - Just Like That (Extended Mix)",
         "time": "2026-11-24 23:50:37"
-    },
-    {
-        "artist": "David Vendetta",
-        "title": "Bleeding Heart (Feat. Rachael Star)",
-        "time": "2026-11-24 23:44:22"
-    },
-    {
-        "artist": "Fisherman",
-        "title": "The Rebel Within (Extended Mix)",
-        "time": "2026-11-24 23:39:52"
-    },
-    {
-        "artist": "UUFO, Re:Locate, Simon Anthony",
-        "title": "Absoluum (Extended Mix)",
-        "time": "2026-11-24 23:34:32"
     }
 ]
