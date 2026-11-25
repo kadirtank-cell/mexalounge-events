@@ -346,13 +346,6 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/indiepanchine-presenta-lamante-gabriele-irossa-roma-xceed-square-5bf5.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/indiepanchine-presenta-lamante-gabriele-irossa/246694"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
     },
@@ -462,6 +455,13 @@
         "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
     },
     {
+        "title": "MONK Roma",
+        "date": "Wed 24 Mar, 9:30pm",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
+    },
+    {
         "title": "LIVETHE UNDERGROUND ARCHIVE  “Check Your Body At The Door” +  Lil",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -469,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/the-underground-archive-check-your-body-at-the-door-liljean-special-guest-archie-burnett/252432"
     },
     {
+        "title": "LIVEBonita ''no dejes que te lo cuenten'' - WednesdayTEATRO CENTR",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-every-wednesday-roma-xceed-7f54.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-wednesday/253500"
+    },
+    {
         "title": "LIVEQUINDIE FESTIVALAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/quindie-festival-11-roma-xceed-square-51ee.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/quindie-festival-11/250025"
-    },
-    {
-        "title": "Bonita ''no dejes que te lo cuenten'' - WednesdayTEATRO CENTRALER",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bonita-no-dejes-que-te-lo-cuenten-every-wednesday-roma-xceed-7f54.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-wednesday/253500"
     },
     {
         "title": "Bailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRALE",
@@ -546,18 +546,18 @@
         "link": "https://xceed.me/en/roma/event/oltrenotte-release-party/251744"
     },
     {
-        "title": "Cassimm · Overgivelse",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
-    },
-    {
         "title": "Circolo dei Cerchi x BlazeTag Culture",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/circolo-dei-cerchi-x-blaze-roma-xceed-square-7e14.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/circolo-dei-cerchi-x-blaze/252579"
+    },
+    {
+        "title": "Cassimm · Overgivelse",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
     },
     {
         "title": "27.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopAfrob",
@@ -579,6 +579,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
+    },
+    {
+        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
+        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
     },
     {
         "title": "BLOODY LOUIS",
