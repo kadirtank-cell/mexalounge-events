@@ -1,21 +1,21 @@
 [
     {
         "rank": 1,
+        "artist": "Can Ates",
+        "title": "Just A Beat",
+        "play_count": 29
+    },
+    {
+        "rank": 2,
         "artist": "Ajna (BE)",
         "title": "Forest",
         "play_count": 29
     },
     {
-        "rank": 2,
+        "rank": 3,
         "artist": "Simon Fava",
         "title": "Music Is The Answer (Extended Mix)",
         "play_count": 29
-    },
-    {
-        "rank": 3,
-        "artist": "Can Ates",
-        "title": "Just A Beat",
-        "play_count": 28
     },
     {
         "rank": 4,
@@ -57,7 +57,7 @@
         "rank": 10,
         "artist": "The Sacred Tribe",
         "title": "Francis Mercier, Mahmut Orhan - Sadete (Extended Mix) - #Afrohouse #Thesacredtribe",
-        "play_count": 24
+        "play_count": 25
     },
     {
         "rank": 11,
