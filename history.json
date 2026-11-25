@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Giorgia Angiuli",
+        "title": "Golden Door",
+        "time": "2026-11-25 16:51:37"
+    },
+    {
+        "artist": "Monolink",
+        "title": "Return To Oz (ARTBAT Remix - Radio Edit)",
+        "time": "2026-11-25 16:48:14"
+    },
+    {
         "artist": "Julian Jeweil",
         "title": "Derbouka",
         "time": "2026-11-25 16:42:28"
@@ -38,15 +48,5 @@
         "artist": "Benny Bennassi",
         "title": "Benni Benassi - Change Style",
         "time": "2026-11-25 16:06:27"
-    },
-    {
-        "artist": "Eddy Tango, Pluto",
-        "title": "My Mind (Pluto Remix)",
-        "time": "2026-11-25 15:58:10"
-    },
-    {
-        "artist": "Progressive Waves",
-        "title": "Gai Barone - Taking Credits (Extended Mix)",
-        "time": "2026-11-25 15:49:44"
     }
 ]
