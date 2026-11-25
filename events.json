@@ -70,6 +70,13 @@
         "link": "https://xceed.me/en/barcelona/event/bus-de-moda-5/253528"
     },
     {
+        "title": "Hotel Nobu",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
+    },
+    {
         "title": "Hotel SLS Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -89,13 +96,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
-    },
-    {
-        "title": "Hotel Nobu",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
     },
     {
         "title": "Bikini Club",
@@ -875,18 +875,18 @@
         "link": "https://xceed.me/en/hamburg/event/stil-vor-talent/246019"
     },
     {
-        "title": "Seehaus",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
-    },
-    {
         "title": "Golden Cut",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/loud-round-10-anniversary-hamburg-xceed-9d0a.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/loud-round-10-anniversary/247293"
+    },
+    {
+        "title": "Seehaus",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/moonbootica-5-hamburg-xceed-square-b5cb.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
         "title": "MS Stubnitz",
