@@ -56,18 +56,18 @@
         "link": "https://xceed.me/en/barcelona/event/nye-seaview-rooftop-club-nautico/247257"
     },
     {
-        "title": "BUS HEXPERIENCE",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-5/253528"
-    },
-    {
         "title": "Hotel Nobu",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
+    },
+    {
+        "title": "BUS HEXPERIENCE",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bus-de-moda-1-barcelona-xceed-square-3bf7.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bus-de-moda-5/253528"
     },
     {
         "title": "MIRABLAU",
@@ -168,13 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-77/252446"
     },
     {
-        "title": "TBA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-3341.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-67/249773"
-    },
-    {
         "title": "Men (L-Men-T) · Rorschach",
         "date": "Electronica / Downtempo",
         "location": "BARCELONA",
@@ -187,6 +180,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long-barcelona-xceed-square-a052.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long/242784"
+    },
+    {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-1-barcelona-xceed-3341.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-housy-at-noxe-26th-floor-w-barcelona-67/249773"
     },
     {
         "title": "Paulix · PINK ID · YEISON M +4",
@@ -749,11 +749,11 @@
         "link": "https://xceed.me/en/brussels/event/fete-nationale-albanaise/252034"
     },
     {
-        "title": "The Standard, Brussels",
+        "title": "Be Here Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/friensgiving-bingo-x-wandler-at-the-standard-brussels-brussels-xceed-square-4b3f.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/friendsgiving-bingo-x-wandler-at-the-standard-brussels/251434"
+        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
     },
     {
         "title": "Roonx",
@@ -803,6 +803,13 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
+    },
+    {
+        "title": "COCO BRUSSELS - OLD SCHOOL PARTYCoco BrusselsHip-hopR&BDancehall",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/coco-brussels-old-school-party-brussels-xceed-square-def4.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/coco-brussels-old-school-party/254000"
     },
     {
         "title": "Edelfettwerk",
@@ -980,13 +987,6 @@
         "link": "https://xceed.me/en/hamburg/event/2027-all-events-pass/247824"
     },
     {
-        "title": "LIVERobag WruhmeSeehausMelodic House & Techno",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/robag-wruhme-2-hamburg-xceed-square-2e69.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/robag-wruhme-2/253488"
-    },
-    {
         "title": "Casino Royal | MSH x BSPGolden Cut",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -1090,6 +1090,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/nostalgia-x-chandon-winter-wonderland-hamburg-xceed-square-101d.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/nostalgia-x-chandon-winter-wonderland/253578"
+    },
+    {
+        "title": "Tim Reaper · Mantra · ROOF +3",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/das-ohr-zum-sonntag-dozsfest-2-2-hamburg-xceed-square-53b6.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/das-ohr-zum-sonntag-dozsfest-2-2-w-tim-reaper-mantra-roof-b2b-lang-jan-nassstya-b2b-nin-1/251966"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
