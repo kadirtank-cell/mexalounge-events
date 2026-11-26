@@ -1,5 +1,15 @@
 [
     {
+        "artist": "ARTBAT",
+        "title": "Horizon",
+        "time": "2026-11-26 16:25:28"
+    },
+    {
+        "artist": "Goom Gum",
+        "title": "Enough",
+        "time": "2026-11-26 16:22:14"
+    },
+    {
         "artist": "Seismal D, Amiley, Daniele Vantaggio, Emilia Del Monte",
         "title": "Ricordia",
         "time": "2026-11-26 16:15:42"
@@ -38,15 +48,5 @@
         "artist": "VANDIT Alternative",
         "title": "LOUT - Icarus (VANALT130)",
         "time": "2026-11-26 15:35:55"
-    },
-    {
-        "artist": "Eddy Tango, Cary Crank",
-        "title": "My Mind (Cary Crank Remix)",
-        "time": "2026-11-26 15:27:09"
-    },
-    {
-        "artist": "Vinyl On Demand",
-        "title": "Samm, Mosoo  - Burnin'",
-        "time": "2026-11-26 15:23:08"
     }
 ]
