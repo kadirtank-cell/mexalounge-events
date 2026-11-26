@@ -784,7 +784,7 @@ def generate_google_cloud_news_mp3(url_listesi):
 DISCORD_TTS_DIR = Path(r"C:\Users\kadir\Music\Sweepers\Sweeper")
 DISCORD_TTS_KEY_PATH = DISCORD_TTS_DIR / "mexalounge-radio-515518-4a68ad4b09ad.json"
 
-DISCORD_BOT_TOKEN = "MTU3NTU0MzgxODMyNDAxNzIyMg.GnS3R5.AKm4Gz1qDsUvN_dX1wM2c1NYr-Q66UqY6qvHZQ".strip()
+DISCORD_BOT_TOKEN = "**********************************************".strip()
 GUILD_ID = "1434464501054443542"
 COOLDOWN_SECONDS = int(os.getenv("REQUEST_COOLDOWN_SEC", "10"))
 DB_PATH = Path(os.getenv("REQUEST_DB_PATH", str(DISCORD_TTS_DIR / "requests.db")))
