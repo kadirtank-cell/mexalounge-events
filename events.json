@@ -14,6 +14,13 @@
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
+        "title": "Cohete: G Spot / Disco Bar",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
+    },
+    {
         "title": "NIX bcn",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -26,13 +33,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
-        "title": "Cohete: G Spot / Disco Bar",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
         "title": "Boris Club",
@@ -77,13 +77,6 @@
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-129/247925"
     },
     {
-        "title": "CDLC - Carpe Diem",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
-    },
-    {
         "title": "Hotel SLS Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -96,6 +89,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/boat-party-x-ku-x-cdlc-barcelona-xceed-square-948e.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/nye-boat-party-x-seaview-club-nautico/247255"
+    },
+    {
+        "title": "CDLC - Carpe Diem",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
     },
     {
         "title": "NegroRojo",
@@ -133,18 +133,18 @@
         "link": "https://xceed.me/en/barcelona/event/opium-white-party-1/247260"
     },
     {
-        "title": "VRABA TERRAZA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
-    },
-    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/ice-bar-x-ku-showcase-la-rvfleuze/247263"
+    },
+    {
+        "title": "VRABA TERRAZA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/sunset-rooftop-party-x-barcelona-xceed-square-0091.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
     },
     {
         "title": "Slow Club",
@@ -166,6 +166,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-77-barcelona-xceed-square-0da7.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-77/252446"
+    },
+    {
+        "title": "Borja de la Riva",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
     },
     {
         "title": "6TMA · Uroz · Stereofan",
@@ -217,13 +224,6 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-tambo-friends-disco-bar-los-dos-mil-bruno-not-bruno/251873"
     },
     {
-        "title": "Borja de la Riva",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
-    },
-    {
         "title": "Viernes ÍntimosSauvage Swinger ClubHits",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -266,11 +266,11 @@
         "link": "https://xceed.me/en/barcelona/event/friday-night-muuz-dj-toyo-bichisclub-bichigyalli/250205"
     },
     {
-        "title": "The Ghost · Evan Baggs · Punky & The Brain +2",
+        "title": "DIXELIA · Carlos Monne",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/checkpoint-les-enfants-goes-to-seaseaclub-with-the-ghost-evan-baggs-barcelona-xceed-square-fb17.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/checkpoint-les-enfants-goes-to-seaseaclub-with-the-ghost-evan-baggs/249470"
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/carlos-monne-dixelia/251883"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -399,18 +399,18 @@
         "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
-    },
-    {
         "title": "Tag Culture",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/serena-bongiovanni-in-foramalocchiu-roma-xceed-square-36f8.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
         "title": "MONK Roma",
@@ -469,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/salotto-elettronico/249458"
     },
     {
-        "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALEReggaeto",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
-    },
-    {
         "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
+    },
+    {
+        "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALEReggaeto",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
     },
     {
         "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
@@ -539,7 +539,7 @@
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
     },
     {
-        "title": "BEAT THE 90'SAlcazarHip-hopRap",
+        "title": "BEAT THE 90'SAlcazarRapHip-hop",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/beat-the-90s-13-roma-xceed-square-f5b8.png?w=149&h=149&q=90&fm=auto",
@@ -630,6 +630,13 @@
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
     },
     {
+        "title": "Hotel Trendy",
+        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
+    },
+    {
         "title": "Ratz Food Market",
         "date": "Ratz Food Market",
         "location": "BRUSSELS",
@@ -642,13 +649,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
-    },
-    {
-        "title": "Hotel Trendy",
-        "date": "PRIVATE FEELS •  HOTEL TRENDY •  26",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/private-feels-hotel-trendy-26-november-2026-brussels-xceed-square-4657.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
         "title": "Coco Brussels",
