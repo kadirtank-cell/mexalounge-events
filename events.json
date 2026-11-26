@@ -80,8 +80,8 @@
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
     },
     {
         "title": "Hotel SLS Barcelona",
@@ -89,6 +89,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sls-hotel-manteca-barcelona-xceed-square-d2f0.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/manteca-x-sls-hotel-bcn/250284"
+    },
+    {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
     },
     {
         "title": "ICE BAR Barcelona",
@@ -105,18 +112,18 @@
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
     },
     {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-cohete-x-cleo-disco-bar-los-dos-mil-bruno-not-bruno-barcelona-xceed-square-93ae.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-cohete-x-cleo-disco-bar-los-dos-mil-bruno-not-bruno/254111"
+    },
+    {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
         "title": "DiverBosc",
@@ -131,13 +138,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -168,6 +168,13 @@
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
     },
     {
+        "title": "TBA",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-70/249780"
+    },
+    {
         "title": "FROSTY · DRAKAR +4",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -194,13 +201,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-tambo-friends-disco-bar-los-dos-mil-bruno-not-bruno/251873"
-    },
-    {
-        "title": "TBA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-70/249780"
     },
     {
         "title": "Carla Nisha",
@@ -427,6 +427,13 @@
         "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
+        "title": "Lanificio",
+        "date": "Paradise Loft X Club 44 with SPILLE",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
+    },
+    {
         "title": "Hacienda",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -434,11 +441,11 @@
         "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
     },
     {
-        "title": "Traffic Club",
+        "title": "Lorenzo Bartolo",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago-roma-xceed-square-225e.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
+        "image": "https://images.xceed.me/events/banners/synrjee-advent-calendar-n1-roma-xceed-square-aaf9.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/synrjee-advent-calendar-n1/253699"
     },
     {
         "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
@@ -455,13 +462,6 @@
         "link": "https://xceed.me/en/roma/event/bailao-at-teatro-centrale-giovedi-26-novmebre/253542"
     },
     {
-        "title": "Lorenzo Bartolo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/synrjee-advent-calendar-n1-roma-xceed-square-aaf9.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/synrjee-advent-calendar-n1/253699"
-    },
-    {
         "title": "RAFA ERAL · Dj Consuelo +1",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -469,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
     },
     {
-        "title": "SALOTTO ELETTRONICOPalazzo - San Lorenzo",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/salotto-elettronico-roma-xceed-square-acbf.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/salotto-elettronico/249458"
-    },
-    {
         "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
+    },
+    {
+        "title": "SALOTTO ELETTRONICOPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/salotto-elettronico-roma-xceed-square-acbf.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/salotto-elettronico/249458"
     },
     {
         "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
@@ -523,13 +523,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/271126-hotline-692-secret-garden/253643"
-    },
-    {
-        "title": "spiller · Giovannino +2",
-        "date": "Paradise Loft X Club 44 with SPILLE",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
     },
     {
         "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
@@ -924,18 +917,18 @@
         "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
-        "title": "Edelfettwerk",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg-hamburg-xceed-square-f3a6.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
-    },
-    {
         "title": "MS Stubnitz",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-hamburg-xceed-88b7.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg/243734"
+    },
+    {
+        "title": "Edelfettwerk",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg-hamburg-xceed-square-f3a6.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
     },
     {
         "title": "Bar None",
@@ -952,14 +945,14 @@
         "link": "https://xceed.me/en/hamburg/event/2027-all-events-pass/247824"
     },
     {
-        "title": "Casino Royal | MSH x BSPGolden Cut",
+        "title": "LIVECasino Royal | MSH x BSPGolden Cut",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/casino-royal-msh-x-bsp-hamburg-xceed-square-0df3.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/casino-royal-msh-x-bsp/252262"
     },
     {
-        "title": "DISCO NATALEPellicano",
+        "title": "LIVEDISCO NATALEPellicano",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/disco-natale-hamburg-xceed-square-6867.png?w=99&h=99&q=90&fm=auto",
