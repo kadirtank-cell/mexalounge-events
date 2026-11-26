@@ -476,13 +476,6 @@
         "link": "https://xceed.me/en/roma/event/bonita-no-dejes-que-te-lo-cuenten-wednesday/253500"
     },
     {
-        "title": "LIVEQUINDIE FESTIVALAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/quindie-festival-11-roma-xceed-square-51ee.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/quindie-festival-11/250025"
-    },
-    {
         "title": "Bailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -518,18 +511,18 @@
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
     },
     {
-        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
-        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
-    },
-    {
         "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
+    },
+    {
+        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
+        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
     },
     {
         "title": "Shaky ShakyLanificioHitsR&B",
@@ -586,6 +579,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
+    },
+    {
+        "title": "BEAT THE 90'SAlcazarHip-hopRap",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/beat-the-90s-13-roma-xceed-square-f5b8.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/beat-the-90s-13/242527"
     },
     {
         "title": "BLOODY LOUIS",
