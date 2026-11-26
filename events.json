@@ -161,17 +161,10 @@
         "link": "https://xceed.me/en/barcelona/event/cohete-x-sala-sentimiento/251874"
     },
     {
-        "title": "Sauvage Swinger Club",
+        "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/fiesta-politica-hot-barcelona-xceed-square-c479.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/fiesta-politica-hot/251035"
-    },
-    {
-        "title": "Borja de la Riva",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=149&h=149&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
     },
     {
@@ -264,6 +257,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-muuz-dj-toyo-bichisclub-bichigyalli-barcelona-xceed-8145.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-muuz-dj-toyo-bichisclub-bichigyalli/250205"
+    },
+    {
+        "title": "Fiesta política HOTSauvage Swinger ClubHits",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/fiesta-politica-hot-barcelona-xceed-square-c479.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/fiesta-politica-hot/251035"
     },
     {
         "title": "Palazzo - San Lorenzo",
