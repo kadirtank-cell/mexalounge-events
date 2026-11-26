@@ -77,6 +77,13 @@
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-129/247925"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
+    },
+    {
         "title": "Hotel SLS Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -96,13 +103,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/french-night-x-cdlc-barcelona-xceed-square-b4bd.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/la-frenchie-x-cdlc-1/247262"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
     },
     {
         "title": "Bikini Club",
@@ -630,18 +630,18 @@
         "link": "https://xceed.me/en/brussels/event/private-feels-hotel-trendy-26-november-2026/249743"
     },
     {
-        "title": "Ratz Food Market",
-        "date": "Ratz Food Market",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/baile-baile-55-brussels-xceed-square-818d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/baile-baile-55/250974"
+    },
+    {
+        "title": "Ratz Food Market",
+        "date": "Ratz Food Market",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/the-take-brussels-vol-02-brussels-xceed-square-407e.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
         "title": "Coco Brussels",
@@ -938,11 +938,11 @@
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg/243734"
     },
     {
-        "title": "Bar None",
+        "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/oaziz-1-hamburg-xceed-square-fa8d.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/oaziz-1/249417"
+        "image": "https://images.xceed.me/events/banners/nye-warehouse-xxl-2027-hamburg-xceed-square-9940.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nye-warehouse-xxl-2027/242056"
     },
     {
         "title": "LIVE2027 All Events PassVER SEASON PASS",
@@ -985,6 +985,13 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/glubnacht-w-snoritz-krash-cora-hamburg-xceed-square-d311.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/glimmer-glubnacht-w-snoritz-krash-cora/252479"
+    },
+    {
+        "title": "OÄZIZBar NoneHouse",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/oaziz-1-hamburg-xceed-square-fa8d.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/oaziz-1/249417"
     },
     {
         "title": "EXIT THE FINAL CHAPTEROZMTechnoHardgroove",
