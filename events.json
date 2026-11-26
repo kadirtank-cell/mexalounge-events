@@ -168,34 +168,6 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-77/252446"
     },
     {
-        "title": "Men (L-Men-T) · Rorschach",
-        "date": "Electronica / Downtempo",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/men-l-men-t-25-barcelona-xceed-92df.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/men-l-men-t-25/250014"
-    },
-    {
-        "title": "LULU OBETKO (ARG)",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long-barcelona-xceed-square-a052.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/dj-lulu-obetko-arg-l-secret-room-l-reggaeton-cumbia-all-night-long/242784"
-    },
-    {
-        "title": "Paulix · PINK ID · YEISON M +4",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/vybe-l-city-hall-barcelona-l-bounce-all-night-long-main-room-barcelona-xceed-square-3254.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/vybe-l-city-hall-barcelona-l-bounce-all-night-long-main-room/251903"
-    },
-    {
-        "title": "Dj Stile",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/wednesday-night-dj-stile-38-barcelona-xceed-9cce.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/wednesday-night-dj-stile-38/250203"
-    },
-    {
         "title": "6TMA · Uroz · Stereofan",
         "date": "Electronica / Downtempo",
         "location": "BARCELONA",
@@ -292,6 +264,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-muuz-dj-toyo-bichisclub-bichigyalli-barcelona-xceed-8145.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/friday-night-muuz-dj-toyo-bichisclub-bichigyalli/250205"
+    },
+    {
+        "title": "The Ghost · Evan Baggs · Punky & The Brain +2",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/checkpoint-les-enfants-goes-to-seaseaclub-with-the-ghost-evan-baggs-barcelona-xceed-square-fb17.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/checkpoint-les-enfants-goes-to-seaseaclub-with-the-ghost-evan-baggs/249470"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -707,18 +686,18 @@
         "link": "https://xceed.me/en/brussels/event/new-years-eve-44/253514"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
         "title": "BIRDY",
