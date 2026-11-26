@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Seismal D, Amiley, Daniele Vantaggio, Emilia Del Monte",
+        "title": "Ricordia",
+        "time": "2026-11-26 16:15:42"
+    },
+    {
+        "artist": "ARTBAT, JOA",
+        "title": "The Spot",
+        "time": "2026-11-26 16:12:36"
+    },
+    {
+        "artist": "Peer Kusiv;  Rauschhaus",
+        "title": "Elevate",
+        "time": "2026-11-26 16:07:00"
+    },
+    {
+        "artist": "Stylo, Amethy, Moii",
+        "title": "Papi",
+        "time": "2026-11-26 16:02:59"
+    },
+    {
         "artist": "Mike Rish",
         "title": "Primah",
         "time": "2026-11-26 15:51:55"
@@ -28,25 +48,5 @@
         "artist": "Vinyl On Demand",
         "title": "Samm, Mosoo  - Burnin'",
         "time": "2026-11-26 15:23:08"
-    },
-    {
-        "artist": "Juan Buitrago",
-        "title": "Forever Mover",
-        "time": "2026-11-26 15:15:00"
-    },
-    {
-        "artist": "Fordal, Zuccasam",
-        "title": "Cyber Lights (Zuccasam Remix)",
-        "time": "2026-11-26 15:06:45"
-    },
-    {
-        "artist": "Durante, Emi Galván",
-        "title": "Durante & Emi Galvan - Lunar Circuit",
-        "time": "2026-11-26 15:02:30"
-    },
-    {
-        "artist": "Thω_Tσε75",
-        "title": "Luke Hunter, Frankie M - Dive On (Jerome Isma Ae Extended Remix)",
-        "time": "2026-11-26 14:54:31"
     }
 ]
