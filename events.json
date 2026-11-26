@@ -406,18 +406,18 @@
         "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
-        "title": "MONK Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
-    },
-    {
         "title": "Tag Culture",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/kyle-alessandro-the-aura-tour-roma-xceed-square-bea3.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
         "title": "Hacienda",
@@ -427,18 +427,18 @@
         "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
     },
     {
+        "title": "Cieloterra",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
+    },
+    {
         "title": "Traffic Club",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago-roma-xceed-square-225e.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
-    },
-    {
-        "title": "MONK Roma",
-        "date": "Wed 24 Mar, 9:30pm",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/santi-francesi-roma-xceed-square-a26c.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/santi-francesi/252483"
     },
     {
         "title": "Bailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRALE",
@@ -469,18 +469,18 @@
         "link": "https://xceed.me/en/roma/event/salotto-elettronico/249458"
     },
     {
-        "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
-    },
-    {
         "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALEReggaeto",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
+    },
+    {
+        "title": "RAFA ERAL · Dj Consuelo · Max Raponi",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
     },
     {
         "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
@@ -523,13 +523,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/301026-hotline-692-secret-garden-roma-xceed-5355.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/271126-hotline-692-secret-garden/253643"
-    },
-    {
-        "title": "ANXHELA · ANXHELA · Trixie",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
     },
     {
         "title": "spiller · Giovannino · Floww +1",
