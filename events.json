@@ -434,18 +434,18 @@
         "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
     },
     {
-        "title": "Bailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bailao-at-teatro-centrale-giovedi-26-novmebre-roma-xceed-square-80cc.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bailao-at-teatro-centrale-giovedi-26-novmebre/253542"
-    },
-    {
         "title": "Comemammam'hafatto - Alcazar Live TrastevereAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/comemammamhafatto-alcazar-live-trastevere-42-roma-xceed-square-73fd.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/comemammamhafatto-alcazar-live-trastevere-44/246430"
+    },
+    {
+        "title": "Bailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bailao-at-teatro-centrale-giovedi-26-novmebre-roma-xceed-square-80cc.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bailao-at-teatro-centrale-giovedi-26-novmebre/253542"
     },
     {
         "title": "Lorenzo Bartolo",
@@ -679,18 +679,18 @@
         "link": "https://xceed.me/en/brussels/event/new-years-eve-44/253514"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/dopebwoy-x-fresh-sunday-x-dutch-kiss-brussels-xceed-square-8bec.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/dopebwoy-x-fresh-sunday-x-dutch-kiss/253216"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "RONISIA (SHOWCASE) + RONINB PARTY",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/ronisia-showcase-roninb-party-brussels-xceed-square-218b.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/ronisia-showcase-roninb-party/251494"
     },
     {
         "title": "Latino’s bar",
