@@ -336,18 +336,18 @@
         "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-1-roma-xceed-square-f49c.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
-    },
-    {
         "title": "Alcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/toni-zeno-alcazar-live-roma-xceed-square-2644.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/toni-zeno-alcazar-live/239531"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/ritual-27th-anniversary-1-roma-xceed-square-f49c.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/ritual-27th-anniversary-1/251102"
     },
     {
         "title": "MONK Roma",
@@ -532,7 +532,7 @@
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
     },
     {
-        "title": "BEAT THE 90'SAlcazarHip-hopRap",
+        "title": "BEAT THE 90'SAlcazarRapHip-hop",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/beat-the-90s-13-roma-xceed-square-f5b8.png?w=149&h=149&q=90&fm=auto",
@@ -742,18 +742,18 @@
         "link": "https://xceed.me/en/brussels/event/drippy-hotel-trendy-03-december-2026/249744"
     },
     {
-        "title": "NONAME x FREAKY FRIDAYBIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/noname-x-freaky-friday-brussels-xceed-square-bf7b.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/noname-x-freaky-friday/254198"
-    },
-    {
         "title": "RUMA · Adrian Forsen  · Luigi",
         "date": "RUMA&FRIENDS (LAST OF 2026) 👠",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/rumafriends-last-of-2026-brussels-xceed-square-8bd5.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/rumafriends-last-of-2026/253669"
+    },
+    {
+        "title": "NONAME x FREAKY FRIDAYBIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/noname-x-freaky-friday-brussels-xceed-square-bf7b.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/noname-x-freaky-friday/254198"
     },
     {
         "title": "Kooki & PaintKookiAfrobeatsR&BHip-hop",

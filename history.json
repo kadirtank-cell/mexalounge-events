@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Juan Buitrago",
+        "title": "Forever Mover",
+        "time": "2026-11-26 15:15:00"
+    },
+    {
+        "artist": "Fordal, Zuccasam",
+        "title": "Cyber Lights (Zuccasam Remix)",
+        "time": "2026-11-26 15:06:45"
+    },
+    {
+        "artist": "Durante, Emi Galván",
+        "title": "Durante & Emi Galvan - Lunar Circuit",
+        "time": "2026-11-26 15:02:30"
+    },
+    {
         "artist": "Thω_Tσε75",
         "title": "Luke Hunter, Frankie M - Dive On (Jerome Isma Ae Extended Remix)",
         "time": "2026-11-26 14:54:31"
@@ -33,20 +48,5 @@
         "artist": "Dynoro; Gigi D'agostino",
         "title": "In My Mind",
         "time": "2026-11-26 14:19:08"
-    },
-    {
-        "artist": "Eclectic Underground By Indie Boy",
-        "title": "Khen - Homeboy (Dilby Remix)",
-        "time": "2026-11-26 14:12:40"
-    },
-    {
-        "artist": "Ilias Katelanos, Vakabular",
-        "title": "Funk Is Love (Extended Mix)",
-        "time": "2026-11-26 14:06:35"
-    },
-    {
-        "artist": "Jaydee (DE)",
-        "title": "Haunted (Extended Mix)",
-        "time": "2026-11-26 13:58:54"
     }
 ]
