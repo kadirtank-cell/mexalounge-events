@@ -28,18 +28,18 @@
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
-        "title": "Boris Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
+    },
+    {
+        "title": "Boris Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
     },
     {
         "title": "Hotel Nobu",
@@ -49,7 +49,7 @@
         "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
     },
     {
-        "title": "Club Natació Barcelona",
+        "title": "Club Nautico Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/nye-rooftop-party-barcelona-xceed-square-900d.png?w=249&h=249&q=90&fm=auto",
@@ -490,18 +490,18 @@
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
     },
     {
-        "title": "Cassimm · Overgivelse",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
-    },
-    {
         "title": "Shaky ShakyLanificioHitsR&B",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/shaky-shaky-19-roma-xceed-ab58.png?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/shaky-shaky-20/253657"
+    },
+    {
+        "title": "Cassimm · Overgivelse",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
     },
     {
         "title": "Oltrenotte release partyLa Galleria delle Arti",
