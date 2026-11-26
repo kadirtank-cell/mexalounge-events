@@ -1,0 +1,7 @@
+credentials.json
+token.pickle
+mexalounge-radio-*.json
+*.pickle
+__pycache__/
+*.pyc
+.env
