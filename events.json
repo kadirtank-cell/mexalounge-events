@@ -140,18 +140,18 @@
         "link": "https://xceed.me/en/barcelona/event/sunset-rooftop-party-x-carpediem/248848"
     },
     {
-        "title": "Slow Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/glamour-freaks-pres-beatlab-jayzo-juannce-llopart-shuntta-tacidelli-sala-candy-box-barcelona-xceed-square-be9f.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
-    },
-    {
         "title": "ICE BAR Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/ice-bar-x-pacha-ku-or-opium-barcelona-xceed-square-9ae0.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/ice-bar-x-ku-showcase-la-rvfleuze/247263"
+    },
+    {
+        "title": "Slow Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/glamour-freaks-pres-beatlab-jayzo-juannce-llopart-shuntta-tacidelli-sala-candy-box-barcelona-xceed-square-be9f.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -490,6 +490,13 @@
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
     },
     {
+        "title": "Cassimm · Overgivelse",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
+    },
+    {
         "title": "Shaky ShakyLanificioHitsR&B",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -509,13 +516,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/circolo-dei-cerchi-x-blaze-roma-xceed-square-7e14.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/circolo-dei-cerchi-x-blaze/252579"
-    },
-    {
-        "title": "Cassimm · Overgivelse",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
     },
     {
         "title": "27.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopAfrob",
