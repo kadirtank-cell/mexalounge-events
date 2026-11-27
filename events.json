@@ -21,18 +21,18 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
-        "title": "La Paloma",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
-    },
-    {
         "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
+    },
+    {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
     },
     {
         "title": "Hotel Nobu",
@@ -357,18 +357,18 @@
         "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
-    },
-    {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
+    },
+    {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/bebbo-friends-live-roma-xceed-square-c227.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/bebbo-friends-live/253662"
     },
     {
         "title": "Tag Culture",
@@ -378,18 +378,18 @@
         "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
     },
     {
-        "title": "Qube Disco Roma",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-fireworks-2027-roma-new-year-festival-roma-xceed-square-00bd.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-fireworks-2027-roma-new-year-festival-31-dicembre-01-gennaioi-02-gennaioi-03-gennaio/253964"
-    },
-    {
         "title": "TEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
+    },
+    {
+        "title": "Qube Disco Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/muccassassina-fireworks-2027-roma-new-year-festival-roma-xceed-square-00bd.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-fireworks-2027-roma-new-year-festival-31-dicembre-01-gennaioi-02-gennaioi-03-gennaio/253964"
     },
     {
         "title": "Qube Disco Roma",
@@ -973,6 +973,13 @@
         "link": "https://xceed.me/en/hamburg/event/exit-the-final-chapter-location-davidstrasse-15/250805"
     },
     {
+        "title": "Midas Field · CHAEF +10",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/blondyblack-with-midas-field-and-many-more-gizeh-hamburg-xceed-square-911d.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/blondyblack-with-midas-field-and-many-more-gizeh/249208"
+    },
+    {
         "title": "HANÀ · Two Girls one Mom +4",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -1034,13 +1041,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/das-ohr-zum-sonntag-dozsfest-2-2-hamburg-xceed-square-53b6.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/das-ohr-zum-sonntag-dozsfest-2-2-w-tim-reaper-mantra-roof-b2b-lang-jan-nassstya-b2b-nin-1/251966"
-    },
-    {
-        "title": "ENGTANZ BALLKaroline",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/engtanz-ball-5-hamburg-xceed-7cbd.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/engtanz-ball-6/248495"
     },
     {
         "title": "Sat 19 Sep, 5:00pm",
