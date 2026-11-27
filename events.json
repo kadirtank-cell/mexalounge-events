@@ -420,18 +420,18 @@
         "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
     },
     {
-        "title": "Hacienda",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/2manydjs-dj-set-hacienda-roma-15-gennaio-2027-roma-xceed-square-ae98.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
+    },
+    {
+        "title": "Hacienda",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/2manydjs-dj-set-hacienda-roma-15-gennaio-2027-roma-xceed-square-ae98.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
     },
     {
         "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALE",
@@ -490,18 +490,18 @@
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
     },
     {
-        "title": "BEAT THE 90'SAlcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/beat-the-90s-13-roma-xceed-square-f5b8.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/beat-the-90s-13/242527"
-    },
-    {
         "title": "Don't Tell Mama - Saturday 28 th Nov.TEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-28-th-nov-roma-xceed-2f6c.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-28-th-nov/253654"
+    },
+    {
+        "title": "BEAT THE 90'SAlcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/beat-the-90s-13-roma-xceed-square-f5b8.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/beat-the-90s-13/242527"
     },
     {
         "title": "28.11.26 MEGABELLO @ 692 Secret Garden692 Secret Garden",
@@ -651,18 +651,18 @@
         "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
     },
     {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
+    },
+    {
+        "title": "BIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "Latino’s bar",
@@ -861,18 +861,18 @@
         "link": "https://xceed.me/en/hamburg/event/moonbootica-5/248590"
     },
     {
-        "title": "MS Stubnitz",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
-    },
-    {
         "title": "Uebel & Gefährlich",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/discovaganza-w-nyra-bovski-dirrty-disco-divas-uvm-hamburg-xceed-square-24d5.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/discovaganza-w-nyra-bovski-dirty-disco-divas-uvm/247214"
+    },
+    {
+        "title": "MS Stubnitz",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-1-hamburg-xceed-f7c5.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg-1/243737"
     },
     {
         "title": "Fundbureau",
