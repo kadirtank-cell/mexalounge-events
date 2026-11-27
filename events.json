@@ -406,18 +406,18 @@
         "link": "https://xceed.me/en/roma/event/serena-bongiovanni-in-foramalocchiu/250371"
     },
     {
-        "title": "Lanificio",
-        "date": "Paradise Loft X Club 44 with SPILLE",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
+    },
+    {
+        "title": "Lanificio",
+        "date": "Paradise Loft X Club 44 with SPILLE",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
     },
     {
         "title": "MONK Roma",
@@ -427,17 +427,10 @@
         "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
-        "title": "Hacienda",
+        "title": "TEATRO CENTRALE",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/2manydjs-dj-set-hacienda-roma-15-gennaio-2027-roma-xceed-square-ae98.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/2manydjs-dj-set-hacienda-roma-15-gennaio-2027/249578"
-    },
-    {
-        "title": "Friday • Hustle x 18eSto! University NightTEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=99&h=99&q=90&fm=auto",
+        "image": "https://images.xceed.me/events/banners/friday-hustle-x-18esto-university-night-1-roma-xceed-898a.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
     },
     {
