@@ -84,13 +84,6 @@
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-129/247925"
     },
     {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/borja-de-la-riva-mosaic/251881"
-    },
-    {
         "title": "Quartier Pedralbes",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -168,11 +161,11 @@
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
     },
     {
-        "title": "bruno castillo · Angel Mellado +2",
+        "title": "NegroRojo",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/cohete-g-spot-disco-bar-barcelona-xceed-square-1f33.webp?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/cohete-g-spot-tambo-friends-disco-bar-los-dos-mil-bruno-not-bruno/251873"
+        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/carlos-monne-dixelia/251883"
     },
     {
         "title": "Viernes ÍntimosSauvage Swinger Club",
@@ -217,13 +210,6 @@
         "link": "https://xceed.me/en/barcelona/event/friday-night-muuz-dj-toyo-bichisclub-bichigyalli/250205"
     },
     {
-        "title": "DIXELIA · Carlos Monne",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/carlos-monne-dixelia/251883"
-    },
-    {
         "title": "Fiesta política HOTSauvage Swinger Club",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -264,6 +250,20 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/sabado-l-future-l-acid-techno-hardtrance-all-night-long-secret-room-barcelona-xceed-square-1d32.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/sabado-l-future-l-acid-techno-hardtrance-all-night-long-secret-room/249709"
+    },
+    {
+        "title": "Javi Gon · Rorschach",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/javi-gon-35-barcelona-xceed-bfe0.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/javi-gon-35/250017"
+    },
+    {
+        "title": "Dj Eley · Dj Kunta +2",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/saturday-night-dj-eley-dj-kunta-1-barcelona-xceed-ebba.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/saturday-night-dj-eley-dj-kunta-1/250206"
     },
     {
         "title": "Palazzo - San Lorenzo",
