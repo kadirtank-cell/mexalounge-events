@@ -413,18 +413,18 @@
         "link": "https://xceed.me/en/roma/event/kyle-alessandro-the-aura-tour/245935"
     },
     {
-        "title": "Lanificio",
-        "date": "Paradise Loft X Club 44 with SPILLE",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
+    },
+    {
+        "title": "Lanificio",
+        "date": "Paradise Loft X Club 44 with SPILLE",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
     },
     {
         "title": "Hacienda",
@@ -490,18 +490,18 @@
         "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy/248858"
     },
     {
-        "title": "Don't Tell Mama - Saturday 28 th Nov.TEATRO CENTRALE",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-28-th-nov-roma-xceed-2f6c.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-28-th-nov/253654"
-    },
-    {
         "title": "BEAT THE 90'SAlcazar",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/beat-the-90s-13-roma-xceed-square-f5b8.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/beat-the-90s-13/242527"
+    },
+    {
+        "title": "Don't Tell Mama - Saturday 28 th Nov.TEATRO CENTRALE",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/dont-tell-mama-saturday-28-th-nov-roma-xceed-2f6c.png?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/dont-tell-mama-saturday-28-th-nov/253654"
     },
     {
         "title": "28.11.26 MEGABELLO @ 692 Secret Garden692 Secret Garden",
@@ -714,11 +714,11 @@
         "link": "https://xceed.me/en/brussels/event/noname-x-freaky-friday/254198"
     },
     {
-        "title": "Be Here Brussels",
+        "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/reveillon-2027-the-brazilian-new-year-eve-brussels-xceed-square-cd81.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/reveillon-2027-the-brazilian-new-year-eve/250038"
+        "image": "https://images.xceed.me/events/banners/lagui-showcase-brussels-xceed-square-86db.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/lagui-showcase/254348"
     },
     {
         "title": "Roonx",

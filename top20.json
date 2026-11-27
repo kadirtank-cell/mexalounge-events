@@ -7,20 +7,20 @@
     },
     {
         "rank": 2,
+        "artist": "latest_shoutout",
+        "title": "Latest Shoutout",
+        "play_count": 31
+    },
+    {
+        "rank": 3,
         "artist": "Can Ates",
         "title": "Just A Beat",
         "play_count": 31
     },
     {
-        "rank": 3,
+        "rank": 4,
         "artist": "Simon Fava",
         "title": "Music Is The Answer (Extended Mix)",
-        "play_count": 30
-    },
-    {
-        "rank": 4,
-        "artist": "latest_shoutout",
-        "title": "Latest Shoutout",
         "play_count": 30
     },
     {
