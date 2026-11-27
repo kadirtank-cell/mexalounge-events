@@ -1,5 +1,25 @@
 [
     {
+        "artist": "Cenk Gursoy, Alp Mutlu",
+        "title": "Visal",
+        "time": "2026-11-27 06:15:31"
+    },
+    {
+        "artist": "Dream Machine, Farlight",
+        "title": "Moonstruck",
+        "time": "2026-11-27 06:13:21"
+    },
+    {
+        "artist": "FRAMEWORKS, Matthew Brewer",
+        "title": "COLD",
+        "time": "2026-11-27 06:09:31"
+    },
+    {
+        "artist": "Mahmut Orhan, Deeperise",
+        "title": "It's Time Tonight (Tosel & Hale Remix)",
+        "time": "2026-11-27 06:03:06"
+    },
+    {
         "artist": "latest_shoutout",
         "title": "Latest Shoutout",
         "time": "2026-11-27 06:01:43"
@@ -28,25 +48,5 @@
         "artist": "The Avener",
         "title": "The Avener - Fade Out Lines (Official Music Video)",
         "time": "2026-11-27 05:45:54"
-    },
-    {
-        "artist": "Hypnomusic, Alejandro Gabriel Seoane",
-        "title": "Shared Soul",
-        "time": "2026-11-27 05:43:51"
-    },
-    {
-        "artist": "Ten Walls",
-        "title": "Cadencia",
-        "time": "2026-11-27 05:37:43"
-    },
-    {
-        "artist": "Umut Ozsoy, Lulu Petite",
-        "title": "Back To Black",
-        "time": "2026-11-27 05:34:52"
-    },
-    {
-        "artist": "Nils Hoffmann",
-        "title": "Afterglow (Extended Mix)",
-        "time": "2026-11-27 05:29:41"
     }
 ]
