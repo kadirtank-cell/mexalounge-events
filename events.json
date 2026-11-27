@@ -392,13 +392,6 @@
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
     },
     {
-        "title": "Cieloterra",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -413,11 +406,11 @@
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
     },
     {
-        "title": "MONK Roma",
+        "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/spartiti-concerto-presto-presto-inizio-ore-1600-roma-xceed-square-2307.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
+        "image": "https://images.xceed.me/events/banners/anxhela-trixie-at-cieloterra-roma-xceed-square-3c34.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/anxhela-trixie-at-cieloterra/252155"
     },
     {
         "title": "Lanificio",
@@ -425,6 +418,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/paradise-loft-x-club-44-with-spiller-roma-xceed-square-59cd.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/paradise-loft-x-club-44-with-spiller/252029"
+    },
+    {
+        "title": "MONK Roma",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/spartiti-concerto-presto-presto-inizio-ore-1600-roma-xceed-square-2307.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
     },
     {
         "title": "MONK Roma",
@@ -560,18 +560,18 @@
         "link": "https://xceed.me/en/brussels/event/l2b-showcase-2/253361"
     },
     {
-        "title": "C12",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/franglish-live-mada-club-2nd-anniversary-brussels-xceed-square-87ea.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/franglish-live-mada-club-2nd-anniversary/248173"
+    },
+    {
+        "title": "C12",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/gasolina-latino-boiler-club-the-last-of-the-year-brussels-xceed-square-1197.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/gasolina-latino-boiler-club-last-of-the-year/253240"
     },
     {
         "title": "Bourse/Beurs Rooftop Brussels",
@@ -637,18 +637,18 @@
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/lagui-showcase-brussels-xceed-square-86db.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/lagui-showcase/254348"
+    },
+    {
         "title": "Coco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/nuit-blanche-old-school-vs-new-school-5-brussels-xceed-square-d214.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/nuit-blanche-old-school-vs-new-school-5/250126"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "Coco Brussels",
@@ -658,11 +658,11 @@
         "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
     },
     {
-        "title": "BLOODY LOUIS",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/lagui-showcase-brussels-xceed-square-86db.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/lagui-showcase/254348"
+        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "Latino’s bar",
@@ -910,18 +910,18 @@
         "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
-        "title": "PHOXXI Green Area",
-        "date": "Sat 1 May, 2:00pm",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
-    },
-    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg-hamburg-xceed-square-f3a6.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/hoom-invites-notmytype-saltysis-shilo-vatoz-locoz-wilderich-dec-4th-at-edelfettwerk-hamburg/251483"
+    },
+    {
+        "title": "PHOXXI Green Area",
+        "date": "Sat 1 May, 2:00pm",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/magdalena-hh-phoxxi-edition-hamburg-xceed-square-a0b2.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/magdalena-hh-phoxxi-edition/232477"
     },
     {
         "title": "MS Stubnitz",
