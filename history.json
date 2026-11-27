@@ -1,5 +1,10 @@
 [
     {
+        "artist": "Kyparis, Paul Anthonee, Contave",
+        "title": "Hit The Core",
+        "time": "2026-11-27 21:45:50"
+    },
+    {
         "artist": "Endica",
         "title": "Time",
         "time": "2026-11-27 21:40:41"
@@ -43,10 +48,5 @@
         "artist": "Tescao",
         "title": "The Voice Of The Earth",
         "time": "2026-11-27 20:55:45"
-    },
-    {
-        "artist": "Yellowheads",
-        "title": "Static Vision (Peak Mode Mix)",
-        "time": "2026-11-27 20:50:27"
     }
 ]
