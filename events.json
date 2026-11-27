@@ -126,6 +126,13 @@
         "link": "https://xceed.me/en/barcelona/event/glamour-freaks-pres-beatlab-juannce-llopart-shuntta-tacidelli-tibas-sala-candy-box/250894"
     },
     {
+        "title": "Bikini Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
+    },
+    {
         "title": "DiverBosc",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -138,13 +145,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-76-barcelona-xceed-square-59dd.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-76/251776"
-    },
-    {
-        "title": "Bikini Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/input-pres-hot-creations-barcelona-xceed-square-b045.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/input-pres-hot-creations/242148"
     },
     {
         "title": "Cohete: G Spot / Disco Bar",
@@ -378,18 +378,18 @@
         "link": "https://xceed.me/en/roma/event/friday-hustle-x-18esto-university-night-1/253653"
     },
     {
-        "title": "Tag Culture",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
-    },
-    {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/muccassassina-presents-cappuccetto-rosso-roma-xceed-square-85f4.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/muccassassina-presents-cappuccetto-rosso/253625"
+    },
+    {
+        "title": "Tag Culture",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/silencio-x-neverdie-1-roma-xceed-square-e0de.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/silencio-x-neverdie-1/253493"
     },
     {
         "title": "Qube Disco Roma",
@@ -434,6 +434,20 @@
         "link": "https://xceed.me/en/roma/event/spartiti-concerto-presto-presto-inizio-ore-1600/248504"
     },
     {
+        "title": "LIVESPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
+        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
+    },
+    {
+        "title": "LIVEOltrenotte release partyLa Galleria delle Arti",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/oltrenotte-release-party-roma-xceed-square-3a5c.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/oltrenotte-release-party/251744"
+    },
+    {
         "title": "Shaky ShakyLanificioHitsR&B",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -441,25 +455,11 @@
         "link": "https://xceed.me/en/roma/event/shaky-shaky-20/253657"
     },
     {
-        "title": "SPARAMINCHIATE – PREMIUM EDITION - STAND UP COMEDYAlcazar",
-        "date": "SPARAMINCHIATE – PREMIUM EDITION - ",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/sparaminchiate-premium-edition-stand-up-comedy-roma-xceed-square-ba95.png?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/sparaminchiate-premium-edition-stand-up-comedy-1/252250"
-    },
-    {
         "title": "Cassimm · Overgivelse",
         "date": "TBA (SOON)",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/cassimm-overgivelse-domenico-talesa-roma-xceed-square-f4ab.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/cassimm-overgivelse-domenico-talesa/253568"
-    },
-    {
-        "title": "Oltrenotte release partyLa Galleria delle Arti",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/oltrenotte-release-party-roma-xceed-square-3a5c.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/oltrenotte-release-party/251744"
     },
     {
         "title": "27.11.26 HOTLINE @ 692 Secret Garden692 Secret GardenHip-hopAfrob",
@@ -619,6 +619,13 @@
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/lagui-showcase-brussels-xceed-square-86db.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/lagui-showcase/254348"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
@@ -635,13 +642,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
-    },
-    {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/lagui-showcase-brussels-xceed-square-86db.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/lagui-showcase/254348"
     },
     {
         "title": "Coco Brussels",
@@ -903,6 +903,13 @@
         "link": "https://xceed.me/en/hamburg/event/mythical-rave-pull-w-ephy-pinkman-and-many-more-1/244994"
     },
     {
+        "title": "Nikki Tiger",
+        "date": "TBA (SOON)",
+        "location": "HAMBURG",
+        "image": "https://images.xceed.me/events/banners/nikki-tiger-fridays-presents-young-wild-free-9-hamburg-xceed-e637.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-fridays-presents-young-wild-free-9/251072"
+    },
+    {
         "title": "Edelfettwerk",
         "date": "TBA (SOON)",
         "location": "HAMBURG",
@@ -922,13 +929,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/kinky-galore-summer-edition-hamburg-hamburg-xceed-88b7.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/kinky-galore-summer-edition-hamburg/243734"
-    },
-    {
-        "title": "Nikki Tiger",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/nikki-tiger-fridays-presents-young-wild-free-9-hamburg-xceed-e637.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/nikki-tiger-fridays-presents-young-wild-free-9/251072"
     },
     {
         "title": "LIVE2027 All Events PassVER SEASON PASS",
