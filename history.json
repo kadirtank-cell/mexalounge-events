@@ -1,5 +1,10 @@
 [
     {
+        "artist": "Monolink",
+        "title": "Return To Oz (ARTBAT Remix)",
+        "time": "2026-11-27 17:17:39"
+    },
+    {
         "artist": "ernesto_vs_bastian-super_jupiter",
         "title": "Ernesto Vs Bastian-Super Jupiter",
         "time": "2026-11-27 17:15:00"
@@ -43,10 +48,5 @@
         "artist": "Charlotte De Witte, Dave Robertson",
         "title": "Overdrive",
         "time": "2026-11-27 16:45:05"
-    },
-    {
-        "artist": "Simulate",
-        "title": "Kiko & Olivier Giacomotto - Making G's [Official Visualizer]",
-        "time": "2026-11-27 16:40:20"
     }
 ]
