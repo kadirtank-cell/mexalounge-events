@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Trippy Music",
+        "title": "Diego Straube - Magnetic Induction (Original Mix)",
+        "time": "2026-11-27 00:40:33"
+    },
+    {
+        "artist": "T78",
+        "title": "El Sonido Del Destino",
+        "time": "2026-11-27 00:36:27"
+    },
+    {
+        "artist": "Grigore",
+        "title": "Signals",
+        "time": "2026-11-27 00:32:16"
+    },
+    {
         "artist": "Ruben De Ronde, Statement! Music",
         "title": "Ruben De Ronde & TRYAD - Doubts (NEW SINGLE!)",
         "time": "2026-11-27 00:27:48"
@@ -33,20 +48,5 @@
         "artist": "Aio",
         "title": "The Summit",
         "time": "2026-11-27 00:06:28"
-    },
-    {
-        "artist": "A.D.H.S.",
-        "title": "MORPHEUS",
-        "time": "2026-11-27 00:02:18"
-    },
-    {
-        "artist": "latest_shoutout",
-        "title": "Latest Shoutout",
-        "time": "2026-11-27 00:00:54"
-    },
-    {
-        "artist": "Alan Fullmer, Mark Yula, EYLA",
-        "title": "One (Extended Mix)",
-        "time": "2026-11-26 23:54:27"
     }
 ]
