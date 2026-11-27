@@ -5,3 +5,4 @@ mexalounge-radio-*.json
 __pycache__/
 *.pyc
 .env
+Mexalounge_All_in_One.py
