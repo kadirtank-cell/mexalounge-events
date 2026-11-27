@@ -14,6 +14,13 @@
         "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
+        "title": "La Paloma",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+    },
+    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -21,11 +28,11 @@
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
     },
     {
-        "title": "La Paloma",
+        "title": "Hotel Nobu",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/salsa-latin-vibes-75-barcelona-xceed-square-ac51.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/salsa-latin-vibes-75/251363"
+        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
     },
     {
         "title": "NIX bcn",
@@ -40,13 +47,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/funkey-tardeo-barcelona-xceed-square-8737.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/funkey-tardeo/250054"
-    },
-    {
-        "title": "Hotel Nobu",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/winter-vertigo-sessions-barcelona-xceed-square-6d67.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
     },
     {
         "title": "NegroRojo",
@@ -595,18 +595,18 @@
         "link": "https://xceed.me/en/brussels/event/prini-x-nueve-2/252523"
     },
     {
-        "title": "LIFT BRUSSELS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
-    },
-    {
         "title": "BLOODY LOUIS",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/elengi-x-121226-x-bloody-louis-brussels-xceed-square-3225.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/elengi-x-121226-x-bloody-louis/253718"
+    },
+    {
+        "title": "LIFT BRUSSELS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/bouss-showcase-2-brussels-xceed-square-1956.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/bouss-showcase-2/252860"
     },
     {
         "title": "BLOODY LOUIS",
