@@ -14,18 +14,18 @@
         "link": "https://xceed.me/en/barcelona/event/venus-birthday/250497"
     },
     {
-        "title": "MIRABLAU",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
-    },
-    {
         "title": "Cohete: G Spot / Disco Bar",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/casa-cucut-gspot-cohete-disco-bar-saloon-barcelona-xceed-square-1d0d.png?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/casa-cucut-nina-cucut-pau-roses-frederic-cohete-gspot-blackbox/250061"
+    },
+    {
+        "title": "MIRABLAU",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/bora-at-mirablau-club-barcelona-xceed-square-4a96.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/bora-at-mirablau-club/251913"
     },
     {
         "title": "La Paloma",
@@ -168,6 +168,13 @@
         "link": "https://xceed.me/en/barcelona/event/viernes-intimos-1/250901"
     },
     {
+        "title": "LIVESeven Seas Orchestra: Un viatge als anys 20Jamboree Jazz Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/seven-seas-orchestra-un-viatge-als-anys-20-barcelona-xceed-3376.jpg?w=149&h=149&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/seven-seas-orchestra-un-viatge-als-anys-20/250174"
+    },
+    {
         "title": "Navider",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -180,13 +187,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/bambi-15-barcelona-xceed-30c1.jpg?w=149&h=149&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/bambi-15/250016"
-    },
-    {
-        "title": "Seven Seas Orchestra: Un viatge als anys 20Jamboree Jazz Club",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/seven-seas-orchestra-un-viatge-als-anys-20-barcelona-xceed-3376.jpg?w=149&h=149&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/seven-seas-orchestra-un-viatge-als-anys-20/250174"
     },
     {
         "title": "LubianaJamboree Jazz Club",
@@ -322,6 +322,13 @@
         "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
+        "title": "Alcazar",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
+    },
+    {
         "title": "Cieloterra",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -334,13 +341,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/the-zen-circus-roma-xceed-square-1ea5.jpg?w=349&h=349&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027/248080"
-    },
-    {
-        "title": "Alcazar",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/toy-tonics-alcazar-live-1-roma-xceed-square-b8ef.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/toy-tonics-alcazar-live-1/250045"
     },
     {
         "title": "MONK Roma",
@@ -395,15 +395,15 @@
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-fireworks-2027-roma-new-year-festival-roma-xceed-square-00bd.jpg?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/muccassassina-fireworks-2027-roma-new-year-festival-31-dicembre-01-gennaioi-02-gennaioi-03-gennaio/253964"
+        "image": "https://images.xceed.me/events/banners/muccassassina-prncptl-roma-xceed-6a00.png?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/prncptl-x-muccassassina-pre-holiday/249535"
     },
     {
         "title": "Qube Disco Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/muccassassina-prncptl-roma-xceed-6a00.png?w=349&h=349&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/prncptl-x-muccassassina-pre-holiday/249535"
+        "image": "https://images.xceed.me/events/banners/muccassassina-fireworks-2027-roma-new-year-festival-roma-xceed-square-00bd.jpg?w=349&h=349&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/muccassassina-fireworks-2027-roma-new-year-festival-31-dicembre-01-gennaioi-02-gennaioi-03-gennaio/253964"
     },
     {
         "title": "Cieloterra",
