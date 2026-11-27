@@ -196,13 +196,6 @@
         "link": "https://xceed.me/en/barcelona/event/moog-history-6tma-uroz-1/250015"
     },
     {
-        "title": "TBA",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-barcelona-xceed-b903.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/free-guest-list-hope-at-noxe-26th-floor-w-barcelona-70/249780"
-    },
-    {
         "title": "Carla Nisha",
         "date": "Carla Nisha",
         "location": "BARCELONA",
@@ -264,6 +257,13 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/negro-rojo-jueves-barcelona-xceed-square-122a.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/carlos-monne-dixelia/251883"
+    },
+    {
+        "title": "Fiesta política HOTSauvage Swinger Club",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/fiesta-politica-hot-barcelona-xceed-square-c479.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/fiesta-politica-hot/251035"
     },
     {
         "title": "Palazzo - San Lorenzo",
@@ -455,6 +455,13 @@
         "link": "https://xceed.me/en/roma/event/synrjee-advent-calendar-n1/253699"
     },
     {
+        "title": "LIVECircolo dei Cerchi x BlazeTag Culture",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/circolo-dei-cerchi-x-blaze-roma-xceed-square-7e14.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/circolo-dei-cerchi-x-blaze/252579"
+    },
+    {
         "title": "RAFA ERAL · Dj Consuelo +1",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -502,13 +509,6 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/oltrenotte-release-party-roma-xceed-square-3a5c.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/oltrenotte-release-party/251744"
-    },
-    {
-        "title": "Circolo dei Cerchi x BlazeTag Culture",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/circolo-dei-cerchi-x-blaze-roma-xceed-square-7e14.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/circolo-dei-cerchi-x-blaze/252579"
     },
     {
         "title": "27.11.26 HOTLINE @ 692 Secret Garden692 Secret Garden",
@@ -665,18 +665,18 @@
         "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
     },
     {
-        "title": "BLOODY LOUIS",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
-    },
-    {
         "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
+    },
+    {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
     },
     {
         "title": "Latino’s bar",
@@ -957,13 +957,6 @@
         "location": "HAMBURG",
         "image": "https://images.xceed.me/events/banners/casino-royal-msh-x-bsp-hamburg-xceed-square-0df3.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/hamburg/event/casino-royal-msh-x-bsp/252262"
-    },
-    {
-        "title": "LIVEDISCO NATALEPellicano",
-        "date": "TBA (SOON)",
-        "location": "HAMBURG",
-        "image": "https://images.xceed.me/events/banners/disco-natale-hamburg-xceed-square-6867.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/hamburg/event/disco-natale/252631"
     },
     {
         "title": "WILDE HERZEN + PEINLO POP PARTYUebel & Gefährlich",
