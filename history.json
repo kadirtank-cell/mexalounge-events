@@ -1,5 +1,10 @@
 [
     {
+        "artist": "SAMOH, Thomas Gruppen",
+        "title": "Fight For Your Right",
+        "time": "2026-11-27 19:23:21"
+    },
+    {
         "artist": "CERES",
         "title": "Charlotte De Witte - Amor (Feat. CERES) [Lyric Video]",
         "time": "2026-11-27 19:16:45"
@@ -43,10 +48,5 @@
         "artist": "Imdat Beşikci",
         "title": "Fındık Zamanı",
         "time": "2026-11-27 18:45:10"
-    },
-    {
-        "artist": "ARTBAT",
-        "title": "Afterparty",
-        "time": "2026-11-27 18:40:15"
     }
 ]
