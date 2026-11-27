@@ -49,6 +49,13 @@
         "link": "https://xceed.me/en/barcelona/event/winter-vertigo-sessions/253552"
     },
     {
+        "title": "NegroRojo",
+        "date": "TBA (SOON)",
+        "location": "BARCELONA",
+        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
+    },
+    {
         "title": "Club Nautico Barcelona",
         "date": "TBA (SOON)",
         "location": "BARCELONA",
@@ -61,13 +68,6 @@
         "location": "BARCELONA",
         "image": "https://images.xceed.me/events/banners/friday-night-vives-98-barcelona-xceed-fab1.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/barcelona/event/mirablau-club-128/247924"
-    },
-    {
-        "title": "NegroRojo",
-        "date": "TBA (SOON)",
-        "location": "BARCELONA",
-        "image": "https://images.xceed.me/events/banners/negro-rojo-viernes-5-barcelona-xceed-square-1df4.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/barcelona/event/pablo-carol-jerry-v-1/251882"
     },
     {
         "title": "BUS HEXPERIENCE",
@@ -434,13 +434,6 @@
         "link": "https://xceed.me/en/roma/event/r4w-steel-roma-pitta-gasp-fiore-akamono-giovane-drago/251825"
     },
     {
-        "title": "LIVEBailão at Teatro Centrale - Giovedì 26 NovmebreTEATRO CENTRAL",
-        "date": "TBA (SOON)",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/bailao-at-teatro-centrale-giovedi-26-novmebre-roma-xceed-square-80cc.png?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/bailao-at-teatro-centrale-giovedi-26-novmebre/253542"
-    },
-    {
         "title": "LIVECircolo dei Cerchi x BlazeTag Culture",
         "date": "TBA (SOON)",
         "location": "ROMA",
@@ -558,6 +551,13 @@
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/tutti-satelliti-podcast-live-roma-xceed-square-4f2f.jpg?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/tutti-satelliti-vittorio-pettinato-seltsam-ndg-joao-e-podcast-live/253470"
+    },
+    {
+        "title": "ROMA DE JANEIROPalazzo - San Lorenzo",
+        "date": "TBA (SOON)",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/roma-de-janeiro-roma-xceed-square-18c8.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/roma-de-janeiro/253047"
     },
     {
         "title": "BLOODY LOUIS",
