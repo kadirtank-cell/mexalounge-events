@@ -1,5 +1,35 @@
 [
     {
+        "artist": "Home",
+        "title": "Resonance",
+        "time": "2026-11-27 01:26:50"
+    },
+    {
+        "artist": "Conte Prad",
+        "title": "Evening",
+        "time": "2026-11-27 01:24:39"
+    },
+    {
+        "artist": "Dj Luis Guerra, Manuel Santos",
+        "title": "Manduco (Afro House)",
+        "time": "2026-11-27 01:20:30"
+    },
+    {
+        "artist": "latest_shoutout",
+        "title": "Latest Shoutout",
+        "time": "2026-11-27 01:20:10"
+    },
+    {
+        "artist": "Tuğba Yurt, Tuğba Yurt, Ersay Üner, Ersay Üner",
+        "title": "Benim O (Remix)",
+        "time": "2026-11-27 01:17:09"
+    },
+    {
+        "artist": "Can Ates",
+        "title": "Just A Beat",
+        "time": "2026-11-27 01:13:41"
+    },
+    {
         "artist": "Ben Böhmer",
         "title": "Beyond Beliefs",
         "time": "2026-11-27 01:08:31"
@@ -18,35 +48,5 @@
         "artist": "Charlotte De Witte, XSALT, David Robertson, Adam Brown",
         "title": "No Division (Feat. XSALT)",
         "time": "2026-11-27 00:55:19"
-    },
-    {
-        "artist": "Gabim",
-        "title": "Feed My Fire (Original Mix)",
-        "time": "2026-11-27 00:46:48"
-    },
-    {
-        "artist": "Trippy Music",
-        "title": "Diego Straube - Magnetic Induction (Original Mix)",
-        "time": "2026-11-27 00:40:33"
-    },
-    {
-        "artist": "T78",
-        "title": "El Sonido Del Destino",
-        "time": "2026-11-27 00:36:27"
-    },
-    {
-        "artist": "Grigore",
-        "title": "Signals",
-        "time": "2026-11-27 00:32:16"
-    },
-    {
-        "artist": "Ruben De Ronde, Statement! Music",
-        "title": "Ruben De Ronde & TRYAD - Doubts (NEW SINGLE!)",
-        "time": "2026-11-27 00:27:48"
-    },
-    {
-        "artist": "By_Gayserili",
-        "title": "Dance (Remix 2007)",
-        "time": "2026-11-27 00:24:12"
     }
 ]
