@@ -308,18 +308,18 @@
         "link": "https://xceed.me/en/roma/event/the-zen-circus-fate-voi-tour-2027-1/248078"
     },
     {
-        "title": "Hacienda",
-        "date": "Nto - Live @ Hacienda | 18 Dicembre",
-        "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
-    },
-    {
         "title": "Cieloterra",
         "date": "27|11|2026 - Rebel Rebel with FUTUR",
         "location": "ROMA",
         "image": "https://images.xceed.me/events/banners/27-11-2026-rebel-rebel-with-future666-roma-xceed-square-4f72.jpg?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/roma/event/27-11-2026-rebel-rebel-with-future666/250312"
+    },
+    {
+        "title": "Hacienda",
+        "date": "Nto - Live @ Hacienda | 18 Dicembre",
+        "location": "ROMA",
+        "image": "https://images.xceed.me/events/banners/nto-live-hacienda-18-dicembre-2026-unica-data-italiana-roma-xceed-square-2239.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/nto-live-hacienda-18-dicembre-2026-unica-data-italiana/249551"
     },
     {
         "title": "MONK Roma",
@@ -353,15 +353,15 @@
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
+        "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
     },
     {
         "title": "MONK Roma",
         "date": "TBA (SOON)",
         "location": "ROMA",
-        "image": "https://images.xceed.me/events/banners/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200-roma-xceed-square-7bc0.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/roma/event/brit-supernova-party-roma-live-dj-set-27-novembre-monk-ore-2200/248562"
+        "image": "https://images.xceed.me/events/banners/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27-roma-xceed-square-e409.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/roma/event/management-del-dolore-post-operatorio-gli-anni-di-strapiombo-club-tour-26-27/248977"
     },
     {
         "title": "Alcazar",
@@ -623,6 +623,13 @@
         "link": "https://xceed.me/en/brussels/event/invasion-latina-sat-05-12-mirano-brussels/252863"
     },
     {
+        "title": "BLOODY LOUIS",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
+    },
+    {
         "title": "Ratz Food Market",
         "date": "Ratz Food Market",
         "location": "BRUSSELS",
@@ -630,11 +637,11 @@
         "link": "https://xceed.me/en/brussels/event/the-take-brussels-vol-02/249653"
     },
     {
-        "title": "BLOODY LOUIS",
+        "title": "BIRDY",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/r2-showcase-x-the-rolling-brussels-xceed-square-6038.jpg?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/r2-showcase-x-the-rolling/252044"
+        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "BLOODY LOUIS",
@@ -656,13 +663,6 @@
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/session-32-rb-party-in-brussels-ii-brussels-xceed-square-33ae.png?w=249&h=249&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/session-32-rb-party-in-brussels-ii/249547"
-    },
-    {
-        "title": "BIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/birdy-10-year-anniversary-brussels-xceed-square-57cf.png?w=249&h=249&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/birdy-10-year-anniversary/253217"
     },
     {
         "title": "Latino’s bar",
@@ -749,18 +749,18 @@
         "link": "https://xceed.me/en/brussels/event/kooki-paint-1/251370"
     },
     {
-        "title": "AURA X SISMO DESIGNBIRDY",
-        "date": "TBA (SOON)",
-        "location": "BRUSSELS",
-        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=99&h=99&q=90&fm=auto",
-        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
-    },
-    {
         "title": "COCO BRUSSELS - OLD SCHOOL PARTYCoco Brussels",
         "date": "TBA (SOON)",
         "location": "BRUSSELS",
         "image": "https://images.xceed.me/events/banners/coco-brussels-old-school-party-brussels-xceed-square-def4.png?w=99&h=99&q=90&fm=auto",
         "link": "https://xceed.me/en/brussels/event/coco-brussels-old-school-party/254000"
+    },
+    {
+        "title": "AURA X SISMO DESIGNBIRDY",
+        "date": "TBA (SOON)",
+        "location": "BRUSSELS",
+        "image": "https://images.xceed.me/events/banners/aura-x-sismo-design-brussels-xceed-ab5d.jpg?w=99&h=99&q=90&fm=auto",
+        "link": "https://xceed.me/en/brussels/event/aura-x-sismo-design/252194"
     },
     {
         "title": "LEGENDARYPurple rose",
