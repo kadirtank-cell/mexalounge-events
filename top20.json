@@ -7,14 +7,14 @@
     },
     {
         "rank": 2,
-        "artist": "Can Ates",
-        "title": "Just A Beat",
+        "artist": "Marika (IT), I Hate Milk",
+        "title": "Dust On My Shoes",
         "play_count": 31
     },
     {
         "rank": 3,
-        "artist": "Marika (IT), I Hate Milk",
-        "title": "Dust On My Shoes",
+        "artist": "Can Ates",
+        "title": "Just A Beat",
         "play_count": 31
     },
     {
@@ -37,20 +37,20 @@
     },
     {
         "rank": 7,
-        "artist": "Moblack Records",
-        "title": "Moblack, Salif Keita, Benja(NL) - Yamore (Official Music Video) Ft. Franc Fala , Cesária Evora",
-        "play_count": 28
-    },
-    {
-        "rank": 8,
         "artist": "SPACE MOTION",
         "title": "Space Motion, Divolly & Markward - Hablando",
         "play_count": 28
     },
     {
-        "rank": 9,
+        "rank": 8,
         "artist": "Batu (TR)",
         "title": "Safe Return (Original Mix)",
+        "play_count": 28
+    },
+    {
+        "rank": 9,
+        "artist": "Moblack Records",
+        "title": "Moblack, Salif Keita, Benja(NL) - Yamore (Official Music Video) Ft. Franc Fala , Cesária Evora",
         "play_count": 28
     },
     {
@@ -73,8 +73,8 @@
     },
     {
         "rank": 13,
-        "artist": "Kamafro",
-        "title": "Stayin Alive",
+        "artist": "Aaron Sevilla, Afrodise Music",
+        "title": "Afrohouse / @Aaronsevilla @Theolivergil - Desenchante",
         "play_count": 26
     },
     {
@@ -85,32 +85,32 @@
     },
     {
         "rank": 15,
-        "artist": "Aaron Sevilla, Afrodise Music",
-        "title": "Afrohouse / @Aaronsevilla @Theolivergil - Desenchante",
+        "artist": "Kamafro",
+        "title": "Stayin Alive",
         "play_count": 26
     },
     {
         "rank": 16,
-        "artist": "Juany Bravo, Faul & Wad",
-        "title": "Go Hot (Babylon) (Extended Mix)",
-        "play_count": 25
-    },
-    {
-        "rank": 17,
         "artist": "Vibey Deep House Music, El Chino Ramos",
         "title": "Shimza, AR:CO & Kasango - Fire Fire (Extended Mix) (Afro House)",
         "play_count": 25
     },
     {
-        "rank": 18,
+        "rank": 17,
         "artist": "Lorna, Ben Carter, SIRØB",
         "title": "Papi Chulo (Latin House Remix) (Extended Mix)",
         "play_count": 25
     },
     {
-        "rank": 19,
+        "rank": 18,
         "artist": "James Mac, Vall, Rosalie",
         "title": "The Boy Is Mine (Feat. Rosalie) (Club Mix)",
+        "play_count": 25
+    },
+    {
+        "rank": 19,
+        "artist": "Juany Bravo, Faul & Wad",
+        "title": "Go Hot (Babylon) (Extended Mix)",
         "play_count": 25
     },
     {
