@@ -103,20 +103,20 @@
     },
     {
         "rank": 18,
+        "artist": "Max Pavlov",
+        "title": "A Gira (Extended Mix)",
+        "play_count": 25
+    },
+    {
+        "rank": 19,
         "artist": "James Mac, Vall, Rosalie",
         "title": "The Boy Is Mine (Feat. Rosalie) (Club Mix)",
         "play_count": 25
     },
     {
-        "rank": 19,
+        "rank": 20,
         "artist": "Juany Bravo, Faul & Wad",
         "title": "Go Hot (Babylon) (Extended Mix)",
         "play_count": 25
-    },
-    {
-        "rank": 20,
-        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
-        "title": "ME QUEMO",
-        "play_count": 24
     }
 ]

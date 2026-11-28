@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Max Pavlov",
+        "title": "A Gira (Extended Mix)",
+        "time": "2026-11-28 11:02:37"
+    },
+    {
+        "artist": "MASKØFF",
+        "title": "CONTROLLER (Extended Mix)",
+        "time": "2026-11-28 10:57:16"
+    },
+    {
         "artist": "Bob Sinclar",
         "title": "World Hold On",
         "time": "2026-11-28 10:54:03"
@@ -38,15 +48,5 @@
         "artist": "Ajna (BE)",
         "title": "Forest",
         "time": "2026-11-28 10:21:09"
-    },
-    {
-        "artist": "Babes On The Run",
-        "title": "Power (Original Mix)",
-        "time": "2026-11-28 10:16:31"
-    },
-    {
-        "artist": "Addicted To Music",
-        "title": "Glauko - Calypso (Extended Mix)",
-        "time": "2026-11-28 10:11:17"
     }
 ]
