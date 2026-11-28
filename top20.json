@@ -61,20 +61,20 @@
     },
     {
         "rank": 11,
+        "artist": "Addicted To Music",
+        "title": "Glauko - Calypso (Extended Mix)",
+        "play_count": 26
+    },
+    {
+        "rank": 12,
         "artist": "Kamafro",
         "title": "Stayin Alive",
         "play_count": 26
     },
     {
-        "rank": 12,
+        "rank": 13,
         "artist": "Batu (TR)",
         "title": "Safe Return (Original Mix)",
-        "play_count": 26
-    },
-    {
-        "rank": 13,
-        "artist": "Addicted To Music",
-        "title": "Glauko - Calypso (Extended Mix)",
         "play_count": 26
     },
     {
@@ -91,32 +91,32 @@
     },
     {
         "rank": 16,
-        "artist": "Aaron Sevilla, Afrodise Music",
-        "title": "Afrohouse / @Aaronsevilla @Theolivergil - Desenchante",
-        "play_count": 25
-    },
-    {
-        "rank": 17,
         "artist": "Lorna, Ben Carter, SIRØB",
         "title": "Papi Chulo (Latin House Remix) (Extended Mix)",
         "play_count": 25
     },
     {
-        "rank": 18,
+        "rank": 17,
         "artist": "Vibey Deep House Music, El Chino Ramos",
         "title": "Shimza, AR:CO & Kasango - Fire Fire (Extended Mix) (Afro House)",
         "play_count": 25
     },
     {
+        "rank": 18,
+        "artist": "Aaron Sevilla, Afrodise Music",
+        "title": "Afrohouse / @Aaronsevilla @Theolivergil - Desenchante",
+        "play_count": 25
+    },
+    {
         "rank": 19,
-        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
-        "title": "ME QUEMO",
+        "artist": "Juany Bravo, Faul & Wad",
+        "title": "Go Hot (Babylon) (Extended Mix)",
         "play_count": 24
     },
     {
         "rank": 20,
-        "artist": "Juany Bravo, Faul & Wad",
-        "title": "Go Hot (Babylon) (Extended Mix)",
+        "artist": "Peppe Citarella, Barbossa (UY), Glez & Effe",
+        "title": "ME QUEMO",
         "play_count": 24
     }
 ]
