@@ -1,5 +1,20 @@
 [
     {
+        "artist": "Imdat Beşikci",
+        "title": "Fındık Zamanı",
+        "time": "2026-11-28 19:25:13"
+    },
+    {
+        "artist": "Argy, Goom Gum",
+        "title": "Pantheon",
+        "time": "2026-11-28 19:20:43"
+    },
+    {
+        "artist": "Anyma, Chris Avantgarde",
+        "title": "Consciousness (Eric Prydz Remix)",
+        "time": "2026-11-28 19:16:29"
+    },
+    {
         "artist": "Rafael Cerato, Wave Wave",
         "title": "Sound Vibrate",
         "time": "2026-11-28 19:12:23"
@@ -33,20 +48,5 @@
         "artist": "Aria One",
         "title": "Willow (DJ Tiёsto's Magikal Remake)",
         "time": "2026-11-28 18:39:25"
-    },
-    {
-        "artist": "Terminal M Records",
-        "title": "Monika Kruse - Latex (Mark Reeve Remix)",
-        "time": "2026-11-28 18:35:43"
-    },
-    {
-        "artist": "Tonic Walter",
-        "title": "The Ghost",
-        "time": "2026-11-28 18:29:24"
-    },
-    {
-        "artist": "Alex Micca, Norvis",
-        "title": "Black Rift",
-        "time": "2026-11-28 18:23:16"
     }
 ]
