@@ -1,5 +1,15 @@
 [
     {
+        "artist": "Trippy Music",
+        "title": "Diego Straube - Magnetic Induction (Original Mix)",
+        "time": "2026-11-28 17:37:02"
+    },
+    {
+        "artist": "Julian Jeweil",
+        "title": "Derbouka",
+        "time": "2026-11-28 17:31:16"
+    },
+    {
         "artist": "The Myth Of NYX",
         "title": "Linska - World & Back (Extended Mix) [Feat. Riko Dan]",
         "time": "2026-11-28 17:26:26"
@@ -38,15 +48,5 @@
         "artist": "Samm (BE), JUNO (DE)",
         "title": "Heart Spin",
         "time": "2026-11-28 16:47:51"
-    },
-    {
-        "artist": "Chriss Jay",
-        "title": "Situation Master",
-        "time": "2026-11-28 16:42:40"
-    },
-    {
-        "artist": "Thω_Tσε75",
-        "title": "Kaufmann (DE) - Space Sheriff (Original Mix)",
-        "time": "2026-11-28 16:36:44"
     }
 ]
